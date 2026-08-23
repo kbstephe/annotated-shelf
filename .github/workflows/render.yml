@@ -3,10 +3,9 @@ name: Render episodes
 # Your laptop can be off: push a .md from anywhere (Claude Code on your
 # phone, the GitHub web editor) and this renders the audio + updates the feed.
 
+# DISABLED: the repo runs in Matter mode (see build.yml). Left here as the
+# manual fallback if we ever want MP3s again — run it from the Actions tab.
 on:
-  push:
-    paths:
-      - "episodes/*.md"
   workflow_dispatch: {}
 
 permissions:

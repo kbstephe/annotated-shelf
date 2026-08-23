@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>The Annotated Shelf</title>
+<link>https://kbstephe.github.io/annotated-shelf/site/index.html</link>
+<description>Audio essays on organizations, power, and systems — from the Gervais Principle to the Unaccountability Machine.</description>
+<language>en-us</language>
+<atom:link href="https://kbstephe.github.io/annotated-shelf/site/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Episode Zero: Testing the Machine</title>
+<link>https://kbstephe.github.io/annotated-shelf/site/000-hello-shelf.html</link>
+<guid isPermaLink="true">https://kbstephe.github.io/annotated-shelf/site/000-hello-shelf.html</guid>
+<description>A sixty-second smoke test of the Annotated Shelf pipeline.</description>
+<pubDate>Sun, 23 Aug 2026 16:15:05 -0500</pubDate>
+<content:encoded><![CDATA[<p>Hello, and welcome to the Annotated Shelf. If you are hearing this in a podcast app, then the entire pipeline works: a text file was pushed to a repository, a machine in a data center somewhere rendered this narration, updated a feed, and your app collected it — all without any laptop being awake.</p>
+<p>Which is, come to think of it, a fitting first test for a series about large systems doing things no individual person quite did. Somewhere between the commit and your ears, there was nobody to blame, and for once that&#x27;s good news.</p>
+<p>Episode one, on Robert Jackall&#x27;s Moral Mazes, is next. Thanks for listening.</p>]]></content:encoded>
+</item>
+</channel>
+</rss>

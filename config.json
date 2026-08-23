@@ -3,8 +3,5 @@
   "description": "Audio essays on organizations, power, and systems — from the Gervais Principle to the Unaccountability Machine.",
   "author": "Kevin Stephenson",
   "base_url": "https://kbstephe.github.io/annotated-shelf",
-  "tts_engine": "edge",
-  "voice": "en-US-AndrewMultilingualNeural",
-  "edge_rate": "-4%",
   "review_before_render": false
 }
