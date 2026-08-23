@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Annotated Shelf</title>
+    <link>https://kbstephe.github.io/annotated-shelf</link>
+    <description>Audio essays on organizations, power, and systems — from the Gervais Principle to the Unaccountability Machine.</description>
+    <language>en-us</language>
+    <itunes:author>Kevin Stephenson</itunes:author>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Episode Zero: Testing the Machine</title>
+      <description>A sixty-second smoke test of the Annotated Shelf pipeline.</description>
+      <enclosure url="https://kbstephe.github.io/annotated-shelf/episodes/000-hello-shelf.mp3" length="323181" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodes/000-hello-shelf.mp3</guid>
+      <pubDate>Sun, 23 Aug 2026 21:16:57 -0000</pubDate>
+      <itunes:duration>00:00:40</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+[
+  {
+    "file": "episodes/000-hello-shelf.mp3",
+    "title": "Episode Zero: Testing the Machine",
+    "description": "A sixty-second smoke test of the Annotated Shelf pipeline.",
+    "bytes": 323181,
+    "duration_secs": 40,
+    "pub_ts": 1787519817.3506515
+  }
+]
