@@ -56,8 +56,9 @@ def chunk(text: str):
 def tts_edge(text: str, out: Path, cfg: dict):
     voice = cfg.get("voice", "en-US-AndrewMultilingualNeural")
     rate = cfg.get("edge_rate", "-4%")  # slightly slower reads better for essays
+    # --rate=-4% must be one token: argparse rejects a separate "-4%" value as a flag
     subprocess.run([sys.executable, "-m", "edge_tts", "--voice", voice,
-                    "--rate", rate, "--text", text,
+                    f"--rate={rate}", "--text", text,
                     "--write-media", str(out)], check=True, capture_output=True)
 
 def tts_piper(text: str, out: Path, cfg: dict):
