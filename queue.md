@@ -4,7 +4,7 @@
 - [x] 000 Pipeline test
 
 ## Cynical core
-- [ ] Moral Mazes (Robert Jackall)
+- [x] 001 Moral Mazes (Robert Jackall)
 - [ ] Parkinson's Law (C. Northcote Parkinson)
 - [ ] The Peter Principle (Peter & Hull)
 - [ ] The Utopia of Rules (David Graeber)
