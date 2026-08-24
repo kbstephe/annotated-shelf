@@ -41,3 +41,40 @@ retention evidence favors explicit signposting, essayist craft bans it; the
 charter splits it as "signal shape, not significance." Part 005's sign-off
 promises The Organization Man next — under the continuity rules that promise
 is binding on whoever writes episode 006.
+
+## [2026-08-24 evening] — Organization Man two-parter (006–007)
+
+**Decisions:** Kevin confirmed the queue's recommended pairing: The Organization
+Man (Whyte) + The Managerial Revolution (Burnham) as one two-part series. 006 is
+Whyte (Social Ethic, Park Forest, personality tests, cheat appendix); 007 is
+Burnham steelmanned, Orwell's "Second Thoughts" as the case against, then the
+synthesis: Burnham tracked command migrating out of the owners' hands but
+misread the destination — it dissolved into procedure (Davies's machine), the
+managers became components, Rao's Sociopaths are squatters on an empty throne.
+007's sign-off promises Parkinson's Law.
+
+**Traps & dead ends:** WebFetch egress is blocked for nearly all domains
+(ribbonfarm.com, wikipedia, orwellfoundation, orwell.ru, terebess.hu);
+WebSearch snippets still work and were enough to verify all load-bearing
+quotes: Whyte's opening line + Social Ethic three propositions, Mills's NYT
+review "Crawling to the Top" (9 Dec 1956, "organizational crawl", "Boy Scout"),
+Orwell's "predicting a continuation of the thing that is happening" and "power
+worship blurs political judgement", groupthink coined by Whyte in Fortune
+March 1952, Rao's Ribbonfarm Whyte series (Nov 2008, planned ~8 parts, stalled
+after 3 posts: Introduction / Ideology / Training). Berle–Means "200 largest ≈
+half of corporate wealth" and the WPB mobilization material are from training
+knowledge, stated at rounded precision.
+
+**Resolved:** the AFK open question — the overnight pipeline EXISTS: Routine
+"Annotated Shelf: weekday 1AM episode" (cron 0 6 * * 1-5 UTC), fires into a
+fresh session, reads the last sign-off, pushes to main. Noted in STATE.md.
+
+**Artifacts:** episodes/006-organization-man-part-one.md (2,919 w),
+episodes/007-organization-man-part-two.md (2,829 w), queue.md (006–007 done,
+Parkinson's Law next), STATE.md (snapshot + AFK resolution).
+
+**Context:** Written in an interactive session on branch
+claude/episode-status-plan-om1bg7, not by the 1AM pipeline — if this branch is
+not merged to main before the next weekday 06:00 UTC firing, the pipeline will
+re-write The Organization Man itself (it reads origin/main), so merge or pause
+the trigger first.

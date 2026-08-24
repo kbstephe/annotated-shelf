@@ -1,12 +1,13 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (24 Aug 2026)
+## Snapshot (24 Aug 2026, evening)
 
-Six episodes live: 000 test, 001 Moral Mazes, 002 Davies survey (opener fixed),
-003–005 The Unaccountability Machine deep series (first multi-part, written
-under the new craft charter). Feed builds via GitHub Actions; Matter narrates.
-Episode 005's sign-off promises the next work: **The Organization Man (Whyte)**
-— that is the single next step.
+Eight episodes written: 000 test, 001 Moral Mazes, 002 Davies survey (opener
+fixed), 003–005 The Unaccountability Machine deep series, 006–007 The
+Organization Man two-parter (Whyte part one, Burnham's Managerial Revolution as
+the political twin in part two — the queue's recommended pairing, confirmed by
+Kevin). Feed builds via GitHub Actions; Matter narrates. Episode 007's sign-off
+promises **Parkinson's Law** next.
 
 ## Decisions of record
 
@@ -28,10 +29,10 @@ Episode 005's sign-off promises the next work: **The Organization Man (Whyte)**
 
 ## Open questions
 
-- (AFK) Is any overnight/unattended pipeline actually scheduled to write the
-  next episode, or are episodes written on request only? The continuity rules
-  assume the sign-off promise drives an automated run; no cron is known to
-  exist.
+- ~~(AFK) Is any overnight pipeline scheduled?~~ RESOLVED 24 Aug 26: yes — a
+  claude.ai Routine "Annotated Shelf: weekday 1AM episode" (trig_01SmpAX32wENK
+  WUqhmWtVVzU, cron 0 6 * * 1-5 UTC, enabled) writes the next episode each
+  weekday night by reading the last sign-off / queue.md, and pushes to main.
 - (HITL) Scott Alexander best-of series: canon selection is Kevin's call
   before any episode is written (parked in queue.md).
 

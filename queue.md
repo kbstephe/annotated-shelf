@@ -4,10 +4,14 @@
 - [x] 000 Pipeline test
 - [x] 002 Dan Davies body of work (re-shipped from the original run)
 - [x] 003–005 The Unaccountability Machine deep series (3 parts, 24 Aug 26)
+- [x] 006–007 The Organization Man two-parter (Whyte + Burnham's The Managerial
+  Revolution as the political twin, 24 Aug 26)
 
 ## Cynical core
 - [x] 001 Moral Mazes (Robert Jackall)
-- [ ] The Organization Man (William H. Whyte, 1956) — the founding diagnosis; Rao blogged it chapter-by-chapter before the Gervais Principle. Consider pairing with Burnham's The Managerial Revolution as the political twin.
+- [x] The Organization Man (William H. Whyte, 1956) — done as 006–007, paired
+  with Burnham's The Managerial Revolution per the note here. 007's sign-off
+  promises Parkinson's Law next.
 - [ ] Parkinson's Law (C. Northcote Parkinson)
 - [ ] The Peter Principle (Peter & Hull)
 - [ ] The Utopia of Rules (David Graeber)
