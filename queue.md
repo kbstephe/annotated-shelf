@@ -30,5 +30,18 @@
 ## Coda
 - [ ] Venkatesh Rao's later work (Breaking Smart, premium mediocre, Be Slightly Evil)
 
-## Candidates (blocked on material)
-- Roman Zamishka — healthcare-systems blogger (zamishka.com, now offline; e.g. "On Taylorism, Healthcare, and The Goal", 2019). Episode or reference use needs recovered material first (Wayback, X archive) — grounding rule applies.
+## Bloggers & essayists
+- [ ] Roman Zamishka — healthcare-systems essayist, 22 posts 2016–2020, UNBLOCKED:
+  live mirror at https://zamishkadotcom.wordpress.com/ (old zamishka.com is dead;
+  direct fetch 403s but the WordPress API works:
+  `https://public-api.wordpress.com/rest/v1.1/sites/zamishkadotcom.wordpress.com/posts/`).
+  Body-of-work episode like the Davies one. Anchors: "A Case Against Free Markets
+  in Medicine" (Jul 2018, argues himself toward single payer via Arrow 1963),
+  "On Taylorism, Healthcare, and The Goal" (Feb 2019), "On Three Doctors" (Jan
+  2020). Do not copy his posts into this public repo — fetch at writing time.
+
+## Scott Alexander best-of (a second series)
+- [ ] Scope the canon first (candidates: Meditations on Moloch · I Can Tolerate
+  Anything Except the Outgroup · Kolmogorov Complicity · The Categories Were Made
+  for Man · Considerations on Cost Disease · his book reviews). Selection episode
+  or per-essay episodes TBD with Kevin before writing.
