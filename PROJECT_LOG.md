@@ -100,3 +100,25 @@ cross-citation claimed.
 
 **Artifacts:** episodes/008-organization-man-part-three.md (2,839 w), edits to
 006/007, queue.md, STATE.md.
+
+## [2026-08-24 late] — 009 Parkinson + 010–011 Machiavellians, on demand
+
+**Decisions:** Kevin: don't wait for the 1AM Routine — produce and push now;
+The Machiavellians promoted from Coda to next series. Shipped 009 (Parkinson's
+Law, single episode: Admiralty/Colonial Office curves, the two engines,
+injelititis, bikeshed + cabinet life-cycle read through Ashby, reception-as-
+case-study verdict) and 010–011 (The Machiavellians: formal vs real meaning,
+Machiavelli/Mosca/Pareto/Sorel in part one; Michels's iron law, freedom as
+contested power, Orwell + the school's fascist-adjacent biographies as the
+case against, in part two). 011 promises The Peter Principle.
+
+**Verification:** Admiralty 78%-up/ships 67%-down and Colonial Office 372→1661
+(~5–6%/yr) verified; "work expands..." opening and triviality-law sentence
+verified; bikeshed figures (£10M/2.5min, £350/45min, £21/75min) verified;
+Michels 1911 SPD case verified; Pareto "graveyard of aristocracies" verified.
+Coefficient-of-inefficiency (~20) and injelititis from training knowledge,
+stated with hedged precision; "who says organization says oligarchy" used as
+paraphrase, not quoted.
+
+**Artifacts:** episodes/009 (2,898 w), 010 (2,813 w), 011 (2,778 w); queue.md
+(009–011 done, Machiavellians entry moved out of Coda); STATE.md snapshot.

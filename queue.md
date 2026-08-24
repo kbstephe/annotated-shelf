@@ -14,7 +14,10 @@
   with Burnham's The Managerial Revolution per the note here; 008 covers the
   wives / training-pipeline material plus Whyte's urbanist exit. 008's sign-off
   promises Parkinson's Law next.
-- [ ] Parkinson's Law (C. Northcote Parkinson)
+- [x] Parkinson's Law (C. Northcote Parkinson) — done as 009, 24 Aug 26
+- [x] The Machiavellians (James Burnham, 1943) — done as 010–011 two-parter,
+  24 Aug 26 (moved up from the Coda at Kevin's request). 011's sign-off
+  promises The Peter Principle next.
 - [ ] The Peter Principle (Peter & Hull)
 - [ ] The Utopia of Rules (David Graeber)
 - [ ] Bullshit Jobs (David Graeber)
@@ -35,9 +38,6 @@
 - [ ] High Output Management (Andy Grove)
 
 ## Coda
-- [ ] The Machiavellians (James Burnham, 1943) — his best book per episode 007;
-  elite theory (Mosca, Michels's iron law of oligarchy, Pareto) as the sober
-  version of the Managerial Revolution. Pairs naturally with the Antidotes.
 - [ ] Venkatesh Rao's later work (Breaking Smart, premium mediocre, Be Slightly Evil)
 
 ## Bloggers & essayists

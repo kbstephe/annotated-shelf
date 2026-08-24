@@ -2,16 +2,14 @@
 
 ## Snapshot (24 Aug 2026, evening)
 
-Nine episodes written: 000 test, 001 Moral Mazes, 002 Davies survey (opener
-fixed), 003–005 The Unaccountability Machine deep series, 006–008 The
-Organization Man deep series (Whyte in parts one and three, Burnham's
-Managerial Revolution as the political twin in part two — pairing confirmed by
-Kevin; part three added same day at Kevin's request, covering the wives /
-training-pipeline material and Whyte's urbanist exit). 006/007 descriptions and
-007's sign-off were edited post-publication to make the series three parts —
-Kevin explicitly OK'd editing published episodes, softening the earlier "old
-episodes stand" decision. Feed builds via GitHub Actions; Matter narrates.
-Episode 008's sign-off promises **Parkinson's Law** next.
+Twelve episodes written: 000 test, 001 Moral Mazes, 002 Davies survey, 003–005
+The Unaccountability Machine deep series, 006–008 The Organization Man deep
+series (Whyte + Burnham's Managerial Revolution + the wives/pipeline/exit part),
+009 Parkinson's Law, 010–011 The Machiavellians two-parter (moved up from the
+Coda at Kevin's request; Kevin also directed episodes be produced on demand
+rather than waiting for the 1AM Routine). Feed builds via GitHub Actions;
+Matter narrates. Episode 011's sign-off promises **The Peter Principle** next —
+the weekday 1AM Routine will pick it up unless Kevin asks for it sooner.
 
 ## Decisions of record
 
