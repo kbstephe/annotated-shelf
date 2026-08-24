@@ -139,6 +139,15 @@ on Monday (application, not recall); "Next time, X"; "Thanks for listening."
   the evidence supports, what the narrator concludes.
 - **Steelman before critique.** Reconstruct the strongest version of a position
   — fair enough that the book's admirer would sign off — then test that version.
+- **Reception pass for well-covered works.** During research, search the major
+  published reviews and the smartest long-form blog treatments of the book: what
+  named, serious critics found valuable and where they pushed back. Use it
+  attributed — "the LRB's objection was X" — never as vague gestures ("one of
+  the strongest critiques argues…") and never laundered into the narrator's own
+  voice. Reception feeds the case-against and the verdict; it does not replace
+  the essay's own argument, and the narrator disagreeing with the critics is a
+  feature. For obscure works with no real reception, say so — that too is
+  information.
 - Cynical frameworks get the dosage treatment: diagnostic doses medicine,
   identity doses poison.
 - An intuition pump or thought experiment is welcome, and the trick is named:

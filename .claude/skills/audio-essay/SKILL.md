@@ -29,8 +29,10 @@ If run outside the repo, ask for the repo path. If the repo doesn't exist yet, r
 
 ## Workflow for "make an episode on X"
 
-### 1. Research (only if needed)
-For works you know well, skip. For recent works, living authors' current output, or anything post-cutoff, do a quick web search to verify facts. Never fabricate quotes; constructed illustrative dialogue must be labeled as constructed inside the script.
+### 1. Research
+Two parts, both before writing:
+- **Facts**: for recent works, living authors' current output, or anything post-cutoff, web-search to verify. Never fabricate quotes; constructed illustrative dialogue must be labeled as constructed inside the script. If the work can't be reconstructed from solid knowledge plus verification, don't write the episode.
+- **Reception**: for well-covered works, search the major published reviews and best long-form blog treatments — what named critics valued and objected to. Used attributed, per the Grounding section of SCRIPT_STYLE.md; feeds the case-against and verdict chapters.
 
 ### 2. Write the script
 Read `SCRIPT_STYLE.md` in this skill folder **every time** before writing. Target 2,800–3,600 words (≈ 20–26 min spoken). Save as `episodes/NNN-slug.md` (NNN = next number after the highest in `episodes/`, zero-padded), with `title:` and `description:` frontmatter.
