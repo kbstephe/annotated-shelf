@@ -45,3 +45,28 @@ Games People Play (Berne) · Impro (Johnstone).
 Antidotes: Exit, Voice, and Loyalty (Hirschman) · Governing the Commons
 (Ostrom) · High Output Management (Grove, as the practitioner's rebuttal).
 Coda: Rao's later work — Breaking Smart, "premium mediocre", Be Slightly Evil.
+
+## Continuity rules (critical for unattended runs)
+- Before writing, read the one or two most recent scripts in `episodes/` in full.
+  The synthesis chapter must engage with what those episodes actually said, not
+  with a guess at what they might have said.
+- The Rao (Gervais Principle) and Davies episodes predate this feed: they exist
+  as style ancestry only. Use their ideas freely as series touchstones (the
+  pyramid, accountability sinks), but never call them "last episode" or cite an
+  episode number for them — the listener's feed starts at Episode Zero.
+- End the final chapter, just before "Thanks for listening," by naming the next
+  work: "Next time, X." Pick the first unchecked item in queue.md. The overnight
+  pipeline reads this sign-off to choose the next episode, so it is a promise —
+  keep it.
+
+## Pre-flight checklist (run before every commit)
+1. Word count 2,800–3,600 (`wc -w`). If short, deepen chapters with worked
+   examples and steelmanning — never pad with restatement.
+2. `python scripts/build_site.py` must run clean (catches frontmatter and
+   parse errors). Then discard the local site output — `git checkout site/`
+   plus delete any untracked site/*.html — because CI rebuilds it; never
+   commit site/ changes yourself.
+3. Re-read the draft once against the Register and Structure sections above;
+   fix anything that cannot be heard (bullets, digits, orphaned headings).
+4. Frontmatter has both `title:` and `description:`; the description is one
+   sentence, written for the feed listing.
