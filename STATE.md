@@ -2,12 +2,16 @@
 
 ## Snapshot (24 Aug 2026, evening)
 
-Eight episodes written: 000 test, 001 Moral Mazes, 002 Davies survey (opener
-fixed), 003–005 The Unaccountability Machine deep series, 006–007 The
-Organization Man two-parter (Whyte part one, Burnham's Managerial Revolution as
-the political twin in part two — the queue's recommended pairing, confirmed by
-Kevin). Feed builds via GitHub Actions; Matter narrates. Episode 007's sign-off
-promises **Parkinson's Law** next.
+Nine episodes written: 000 test, 001 Moral Mazes, 002 Davies survey (opener
+fixed), 003–005 The Unaccountability Machine deep series, 006–008 The
+Organization Man deep series (Whyte in parts one and three, Burnham's
+Managerial Revolution as the political twin in part two — pairing confirmed by
+Kevin; part three added same day at Kevin's request, covering the wives /
+training-pipeline material and Whyte's urbanist exit). 006/007 descriptions and
+007's sign-off were edited post-publication to make the series three parts —
+Kevin explicitly OK'd editing published episodes, softening the earlier "old
+episodes stand" decision. Feed builds via GitHub Actions; Matter narrates.
+Episode 008's sign-off promises **Parkinson's Law** next.
 
 ## Decisions of record
 
