@@ -3,6 +3,7 @@
 ## Done
 - [x] 000 Pipeline test
 - [x] 002 Dan Davies body of work (re-shipped from the original run)
+- [x] 003–005 The Unaccountability Machine deep series (3 parts, 24 Aug 26)
 
 ## Cynical core
 - [x] 001 Moral Mazes (Robert Jackall)
