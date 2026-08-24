@@ -78,3 +78,25 @@ claude/episode-status-plan-om1bg7, not by the 1AM pipeline — if this branch is
 not merged to main before the next weekday 06:00 UTC firing, the pipeline will
 re-write The Organization Man itself (it reads origin/main), so merge or pause
 the trigger first.
+
+## [2026-08-24 night] — Part Three added; "old episodes stand" softened
+
+**Decisions:** Kevin asked for the remaining valuable Whyte/Burnham material to
+be published and explicitly OK'd editing published episodes (the "old episodes
+stand" decision is therefore softened — edits allowed, URLs/GUIDs stay stable).
+Shipped 008 (Part Three: the corporation wife via Whyte's Oct–Nov 1951 Fortune
+series, the training pipeline of Part II of the book, Friedan as the closing of
+Whyte's case file, and the Street Life Project exit as the verdict on the
+appendix). Edited 006/007 descriptions to "of three" and rewrote 007's sign-off
+to hand off to Part Three (008 now carries the Parkinson's Law promise).
+Burnham's The Machiavellians added to queue (Coda) rather than crammed in.
+
+**Verification:** wife-screening (~half of companies in Fortune's study) and
+the Oct/Nov 1951 Fortune wives series confirmed via search; Part II chapter
+titles confirmed; Whyte plaza quote "what attracts people most, it would
+appear, is other people" verified, plus 1969 Street Life Project start, plaza
+zoning and Bryant Park lineage. Friedan connection drawn analytically, no
+cross-citation claimed.
+
+**Artifacts:** episodes/008-organization-man-part-three.md (2,839 w), edits to
+006/007, queue.md, STATE.md.

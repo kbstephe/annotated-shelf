@@ -4,13 +4,15 @@
 - [x] 000 Pipeline test
 - [x] 002 Dan Davies body of work (re-shipped from the original run)
 - [x] 003–005 The Unaccountability Machine deep series (3 parts, 24 Aug 26)
-- [x] 006–007 The Organization Man two-parter (Whyte + Burnham's The Managerial
-  Revolution as the political twin, 24 Aug 26)
+- [x] 006–008 The Organization Man deep series (Whyte parts one and three,
+  Burnham's The Managerial Revolution as the political twin in part two;
+  24 Aug 26)
 
 ## Cynical core
 - [x] 001 Moral Mazes (Robert Jackall)
-- [x] The Organization Man (William H. Whyte, 1956) — done as 006–007, paired
-  with Burnham's The Managerial Revolution per the note here. 007's sign-off
+- [x] The Organization Man (William H. Whyte, 1956) — done as 006–008, paired
+  with Burnham's The Managerial Revolution per the note here; 008 covers the
+  wives / training-pipeline material plus Whyte's urbanist exit. 008's sign-off
   promises Parkinson's Law next.
 - [ ] Parkinson's Law (C. Northcote Parkinson)
 - [ ] The Peter Principle (Peter & Hull)
@@ -33,6 +35,9 @@
 - [ ] High Output Management (Andy Grove)
 
 ## Coda
+- [ ] The Machiavellians (James Burnham, 1943) — his best book per episode 007;
+  elite theory (Mosca, Michels's iron law of oligarchy, Pareto) as the sober
+  version of the Managerial Revolution. Pairs naturally with the Antidotes.
 - [ ] Venkatesh Rao's later work (Breaking Smart, premium mediocre, Be Slightly Evil)
 
 ## Bloggers & essayists

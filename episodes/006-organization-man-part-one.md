@@ -1,6 +1,6 @@
 ---
 title: "The Organization Man, Part One: The Man Who Believed"
-description: "Part one of two on William Whyte's postwar classic: the Social Ethic, the Park Forest fieldwork, the personality-test machinery, and the Fortune editor who taught America's middle managers to cheat."
+description: "Part one of three on William Whyte's postwar classic: the Social Ethic, the Park Forest fieldwork, the personality-test machinery, and the Fortune editor who taught America's middle managers to cheat."
 ---
 
 ## Chapter One: The Appendix That Teaches You to Lie
