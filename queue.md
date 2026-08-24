@@ -2,6 +2,7 @@
 
 ## Done
 - [x] 000 Pipeline test
+- [x] 002 Dan Davies body of work (re-shipped from the original run)
 
 ## Cynical core
 - [x] 001 Moral Mazes (Robert Jackall)
