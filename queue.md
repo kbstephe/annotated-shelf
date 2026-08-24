@@ -6,6 +6,7 @@
 
 ## Cynical core
 - [x] 001 Moral Mazes (Robert Jackall)
+- [ ] The Organization Man (William H. Whyte, 1956) — the founding diagnosis; Rao blogged it chapter-by-chapter before the Gervais Principle. Consider pairing with Burnham's The Managerial Revolution as the political twin.
 - [ ] Parkinson's Law (C. Northcote Parkinson)
 - [ ] The Peter Principle (Peter & Hull)
 - [ ] The Utopia of Rules (David Graeber)
@@ -28,3 +29,6 @@
 
 ## Coda
 - [ ] Venkatesh Rao's later work (Breaking Smart, premium mediocre, Be Slightly Evil)
+
+## Candidates (blocked on material)
+- Roman Zamishka — healthcare-systems blogger (zamishka.com, now offline; e.g. "On Taylorism, Healthcare, and The Goal", 2019). Episode or reference use needs recovered material first (Wayback, X archive) — grounding rule applies.
