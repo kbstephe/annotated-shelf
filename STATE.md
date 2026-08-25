@@ -50,10 +50,17 @@ the weekday 1AM Routine will pick it up unless Kevin asks for it sooner.
 
 ## Open questions
 
-- ~~(AFK) Is any overnight pipeline scheduled?~~ RESOLVED 24 Aug 26: yes — a
-  claude.ai Routine "Annotated Shelf: weekday 1AM episode" (trig_01SmpAX32wENK
-  WUqhmWtVVzU, cron 0 6 * * 1-5 UTC, enabled) writes the next episode each
-  weekday night by reading the last sign-off / queue.md, and pushes to main.
+- ~~(AFK) Is any overnight pipeline scheduled?~~ RESOLVED 24 Aug 26, REBUILT
+  25 Aug 26: the Routine "Annotated Shelf: weekday 1AM episode" is now
+  trig_011Ujm6DT1BGVGf98A8gfBK3 (cron 0 6 * * 1-5 UTC, enabled, same
+  environment). The original (trig_01SmpAX32wENKWUqhmWtVVzU) fired 25 Aug
+  06:30 UTC but published nothing — silent failure, cause not visible from a
+  later session. Rebuilt with: push notification to Kevin's phone on
+  completion; a pre-flight stage (git fetch + push --dry-run + one WebSearch)
+  that aborts BEFORE any writing so failures are cheap; skip-if-CAVEAT so it
+  never attempts a work whose sources are egress-blocked (Zamishka); a
+  duplicate-episode check; push retry with backoff; and a final message that
+  must begin "PUBLISHED:" or "PIPELINE FAILED (stage):".
 - (BLOCKER, 25 Aug 26) **Egress policy blocks primary sources in remote
   sessions.** In this Claude Code web session the proxy returned 403 for
   jofreeman.com, marxists.org, wikipedia.org and public-api.wordpress.com;
