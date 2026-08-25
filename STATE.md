@@ -52,22 +52,17 @@ the weekday 1AM Routine will pick it up unless Kevin asks for it sooner.
 
 - ~~(AFK) Is any overnight pipeline scheduled?~~ RESOLVED 24 Aug 26, REBUILT
   25 Aug 26: the Routine "Annotated Shelf: weekday 1AM episode" is now
-  trig_01EokbHgaGs8e2MyScLJuwaL (cron 0 6 * * 1-5 UTC, enabled, same
-  environment). The original (trig_01SmpAX32wENKWUqhmWtVVzU) fired 25 Aug
-  06:30 UTC but published nothing — silent failure, cause not visible from a
-  later session. Rebuilt with: an email notification on
-  completion (Kevin declined push — no phone buzz at 1AM); a pre-flight stage (git fetch + push --dry-run + one WebSearch)
-  that aborts BEFORE any writing so failures are cheap; skip-if-CAVEAT so it
-  never attempts a work whose sources are egress-blocked (Zamishka); a
-  duplicate-episode check; push retry with backoff; and a final message that
-  must begin "PUBLISHED:" or "PIPELINE FAILED (stage):".
-- (BLOCKER, 25 Aug 26) **Egress policy blocks primary sources in remote
-  sessions.** In this Claude Code web session the proxy returned 403 for
-  jofreeman.com, marxists.org, wikipedia.org and public-api.wordpress.com;
-  012 was grounded on training knowledge verified through web search instead of
-  a fetched text. The queued Zamishka episode cannot be written under this
-  policy at all, and the 1AM Routine will fail on it. Needs either an allowed
-  host list or the posts supplied by hand.
+  trig_017rhfD6LEfWxb4R7pgTuVTz (cron 0 6 * * 1-5 UTC, enabled, same
+  environment). The original fired 25 Aug 06:30 UTC and failed silently,
+  publishing nothing. Current design, per Kevin (keep it simple, no
+  notifications, don't burn tokens): pre-flight (git fetch + push dry-run)
+  aborts BEFORE any research or writing; a run that fails at any stage appends
+  one line to pipeline.log at the repo root ("<UTC ts> FAILED (<stage>):
+  <reason>") and pushes it to main — that file is the failure record, check it
+  if an expected episode is missing. No notifications of any kind.
+- ~~(BLOCKER, 25 Aug 26) egress policy blocked research hosts~~ RESOLVED
+  25 Aug 26: Kevin set the environment's network access to Full. Zamishka's
+  WordPress API and primary-text sites are reachable from new sessions.
 - (HITL) Which classic essays get greenlit, and whether the shelf runs a whole
   essays turn or takes them as interludes between books — the slate is scoped
   in queue.md, selection is Kevin's.

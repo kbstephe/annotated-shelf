@@ -99,10 +99,6 @@ whole career is the case against and running them apart wastes the collision.
   live mirror at https://zamishkadotcom.wordpress.com/ (old zamishka.com is dead;
   direct fetch 403s but the WordPress API works:
   `https://public-api.wordpress.com/rest/v1.1/sites/zamishkadotcom.wordpress.com/posts/`).
-  CAVEAT (25 Aug 26): in a Claude Code web/remote session the egress proxy
-  returns 403 for public-api.wordpress.com, so this episode cannot be written
-  there — it needs a session whose network policy allows that host, or the
-  posts supplied by hand. The 1AM Routine will fail on it as things stand.
   Body-of-work episode like the Davies one. Anchors: "A Case Against Free Markets
   in Medicine" (Jul 2018, argues himself toward single payer via Arrow 1963),
   "On Taylorism, Healthcare, and The Goal" (Feb 2019), "On Three Doctors" (Jan
