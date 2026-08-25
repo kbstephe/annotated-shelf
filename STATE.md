@@ -36,6 +36,8 @@ the weekday 1AM Routine will pick it up unless Kevin asks for it sooner.
 - **Reception pass** for well-covered works: named critics, attributed, feeding
   case-against and verdict.
 - **En dashes, never em dashes**, in episode text.
+- **Length serves the analysis** (Kevin, 25 Aug 26): 2,800–3,600 words is the
+  target, not a ceiling; a longer episode is fine when the work needs it.
 - **Essays are a different format from books** (25 Aug 26): the essay supplies
   the mechanism, the narrator supplies the worked case. Three shapes — single
   deep read, the duel (two texts answering one question incompatibly), the

@@ -35,7 +35,7 @@ Two parts, both before writing:
 - **Reception**: for well-covered works, search the major published reviews and best long-form blog treatments — what named critics valued and objected to. Used attributed, per the Grounding section of SCRIPT_STYLE.md; feeds the case-against and verdict chapters.
 
 ### 2. Write the script
-Read `SCRIPT_STYLE.md` in this skill folder **every time** before writing. Target 2,800–3,600 words (≈ 20–26 min spoken). Save as `episodes/NNN-slug.md` (NNN = next number after the highest in `episodes/`, zero-padded), with `title:` and `description:` frontmatter.
+Read `SCRIPT_STYLE.md` in this skill folder **every time** before writing. Target 2,800–3,600 words (≈ 20–26 min spoken); go longer when the analysis needs it, never pad to reach the floor (Kevin, 25 Aug 26). Save as `episodes/NNN-slug.md` (NNN = next number after the highest in `episodes/`, zero-padded), with `title:` and `description:` frontmatter.
 
 The script is plain prose — no markdown emphasis, no bullets, nothing that reads badly aloud. **Matter's TTS reads the page text**, so write chapter headings as plain words that make sense spoken ("Chapter Two: The Ladder"), not as decorative markers. A `## ` heading is fine and becomes an `<h2>`; keep the wording self-contained since the listener hears it as a sentence.
 
