@@ -12,3 +12,4 @@ Where things live:
 - Research behind the charter: `.claude/skills/audio-essay/references/craft-research-aug2026.md`
 - Reading list / TODO role: `queue.md`
 - Session history: `PROJECT_LOG.md`
+- End of session or Routine run: `.claude/skills/done/SKILL.md` (log entry + STATE snapshot)

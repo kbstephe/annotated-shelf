@@ -1,16 +1,13 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (25 Aug 2026)
+## Snapshot (25 Aug 2026, evening)
 
-Thirteen episodes. 012 opens a **classic-essays turn**: shorter objects than the
-books, scoped and analysed in queue.md's new "Classic essays" section (eight
-picks plus a second tier). 012 is Jo Freeman's The Tyranny of Structurelessness
-— Michels from inside a movement that had abolished elections. 011's sign-off
-was re-pointed to hand off to it; 012 promises **The Peter Principle**, so the
-weekday 1AM Routine picks that up next.
-
-Written on branch `claude/classic-essays-workflow-0rl9li`, not by the pipeline —
-the same merge-before-06:00-UTC caveat as the 006–007 run applies.
+Fourteen episodes (000 test + 001–013). 013 The Peter Principle was the first
+written unattended by the weekday 1AM Routine, which now works end to end and
+logs its own runs via `.claude/skills/done/`. 013's sign-off promises **The
+Utopia of Rules (Graeber)**; the Routine attempts it 26 Aug 06:05 UTC. Repo
+cleaned 25 Aug (MP3 path gone, feed ordering fixed). Next human step: listen
+to 013 and judge unattended quality; decide whether episode 000 stays.
 
 ## Previous snapshot (24 Aug 2026, evening)
 

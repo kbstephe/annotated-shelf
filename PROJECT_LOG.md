@@ -282,3 +282,35 @@ Done entry for 006–008 removed.
 **Flagged, not changed:** 012 is 3,891 words (band is 2,800–3,600); 002 keeps
 13 em dashes under the "old episodes stand" decision; episode 000 (pipeline
 smoke test) is still first in the public feed and index, pending Kevin.
+
+## [2026-08-25 afternoon, 3] — Session close: pipeline fixed, repo cleaned, /done added
+
+**Decisions:** Length band 2,800–3,600 is a target, not a ceiling (Kevin).
+Routine now runs a 7th step: session capture via the repo-local
+`.claude/skills/done/SKILL.md` (log entry + STATE snapshot + push), so
+unattended runs leave the same record a human session does. MP3 path deleted
+rather than kept as a fallback. build.yml triggers on main only.
+
+**Traps & dead ends:** two false diagnoses of the overnight failure preceded
+the real one (see the two earlier 25 Aug entries): "stall / needs permission
+allowlist" was wrong; the Routine simply had no repo source attached.
+`get_run_log` on the run session is the tool that settles it. The auto-mode
+classifier blocks `git push --delete` and some Edit calls from Claude Code
+sessions; Kevin ran those by explicit permission.
+
+**Open questions:**
+- (HITL) Episode 000, the 126-word smoke test, still opens the public feed
+  and index. Delete or keep.
+- (HITL) Has Kevin listened to 013, the first unattended episode? Quality of
+  unattended Sonnet output is unreviewed.
+- (HITL, carried) Classic-essays selection; Scott Alexander canon.
+
+**Artifacts:** Created `.claude/skills/done/SKILL.md`; modified `CLAUDE.md`
+(pointer), Routine prompt (step 7, length rule, read STATE first). Earlier
+today: build.yml, build_site.py, SKILL.md, STATE.md, queue.md, .gitignore;
+deleted render.yml, scripts/{render,auto_publish,publish}.py, root feed.xml,
+episodes.json, 000 MP3.
+
+**Context:** The Routine is now the primary writer; interactive sessions are
+for on-demand episodes and craft changes. Every fact about pipeline health is
+in STATE.md's "Overnight pipeline" section and pipeline.log on main.
