@@ -239,3 +239,22 @@ etc. fetchable (that's how 012's Trashing fix happened). SKILL.md's
 show-the-outline step deserves an "unless unattended" carve-out if stalls
 recur. Next scheduled firing: 26 Aug 06:05 UTC, expected to attempt 013 The
 Peter Principle.
+
+## [2026-08-25 afternoon] — Pipeline root cause: no repo source on the Routine
+
+**Finding:** the run log of the 10:43 UTC test (get_run_log on
+cse_01Nn4e1uPQpUopAMxf2kWTRw) shows "No sources configured", a manual clone,
+then `git push --dry-run` rejected 403 by the git proxy because the repo was
+not in the session's authorized set. The midday "stall" diagnosis was wrong:
+the session ended its turn correctly because it could not push anything,
+including pipeline.log. Permission gates were never hit.
+
+**Fixed:** Routine trig_017rhfD6LEfWxb4R7pgTuVTz now has
+`sources: [github.com/kbstephe/annotated-shelf]`; prompt says the repo is
+pre-cloned and forbids push notifications. build.yml now triggers only on
+main (side-branch builds were producing bot commits that needed merge
+commits). SKILL.md step 2 has an unattended-session carve-out.
+
+**Pending:** delete the three stale remote `claude/*` branches (classifier
+blocked the delete here; content is all on main, leftovers are bot builds).
+Live test = the 26 Aug 06:05 UTC firing.

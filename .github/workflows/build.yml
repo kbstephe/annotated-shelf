@@ -5,7 +5,9 @@ name: Build site
 
 on:
   push:
+    branches: [main]   # side branches used to trigger builds too, leaving bot commits that needed merging
     paths:
+      - ".github/workflows/build.yml"
       - "episodes/*.md"
       - "config.json"
       - "scripts/build_site.py"
