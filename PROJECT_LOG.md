@@ -122,3 +122,53 @@ paraphrase, not quoted.
 
 **Artifacts:** episodes/009 (2,898 w), 010 (2,813 w), 011 (2,778 w); queue.md
 (009–011 done, Machiavellians entry moved out of Coda); STATE.md snapshot.
+
+## [2026-08-25] — 012 Freeman, and a classic-essays slate
+
+**Decisions:** Kevin asked for classic essays that could be ported into the
+Matter workflow, with analysis. Scoped eight candidates plus a second tier into
+a new queue.md section, with the format analysis behind them: an essay is too
+short to carry an episode the way a book does, so the essay supplies the
+mechanism and the narrator supplies the worked case — three usable shapes
+(single deep read, the duel, the constellation). Shipped the top pick as 012:
+Jo Freeman's The Tyranny of Structurelessness, read as the field report the iron
+law never had. Chapters: the decision nobody made; the organizer who had seen a
+real organization (SCLC, then the Westside Group in her own apartment); there is
+no such thing as a structureless group; the denominator problem (the clinician's
+chapter — an informal elite is unaccountable because it is unmeasurable); the
+star system and Trashing; the case against; verdict. Delayed thesis: structure
+does not stop power concentrating, it gives the concentration an address, and an
+address is the difference between an elite you can fight and one you cannot name.
+Re-pointed 011's sign-off to hand off to Freeman (007 precedent); 012 promises
+The Peter Principle, keeping the 1AM Routine on the queue's first unchecked item.
+
+**Verification:** publication history verified (Beulah, Mississippi talk May
+1970; declined by Notes from the Third Year 1971; The Second Wave 1972; Berkeley
+Journal of Sociology vol 17 1972-73 pp 151-165; Ms. July 1973; Joreen on the
+movement printings). Biography verified (Berkeley BA 1965, SCLC in the South,
+free school course June 1967, Westside Group in her apartment, Chicago PhD 1972
+on the movement itself). Core arguments verified: structurelessness impossible,
+"smokescreen for the strong or the lucky", elite as friendship network and not
+conspiracy, the star system, and all seven principles of democratic structuring.
+Trashing verified (Ms. April 1976, the Ramparts letter incident, drew more mail
+than any prior Ms. article; the "psychologically mangled" phrase used once,
+under fifteen words). Case against verified: Cathy Levine, The Tyranny of
+Tyranny, Black Rose no. 1, Autumn 1974; Jason McQuinn's "organizationalist
+repudiation of anarchism" review. The Occupy read is marked as the narrator's
+conclusion rather than borrowed from a named critic, since only summaries were
+reachable.
+
+**Blocker found:** the remote session's egress proxy returned 403 for
+jofreeman.com, marxists.org, crassh.cam.ac.uk, en.wikipedia.org and
+public-api.wordpress.com. The essay could not be fetched; grounding fell back to
+training knowledge verified through web search, which was adequate here and
+would not be for an obscure work. The queued Zamishka episode depends on the
+WordPress API and cannot be written at all under this policy — noted in queue.md
+and STATE.md, since the 1AM Routine will hit it.
+
+**Artifacts:** episodes/012-tyranny-of-structurelessness.md (3,710 w), edit to
+011's sign-off, queue.md (Classic essays section, Zamishka caveat), STATE.md.
+
+**Context:** Written in an interactive session on branch
+claude/classic-essays-workflow-0rl9li. Pages serves main, so nothing reaches
+Matter until this is merged.

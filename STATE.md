@@ -1,6 +1,18 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (24 Aug 2026, evening)
+## Snapshot (25 Aug 2026)
+
+Thirteen episodes. 012 opens a **classic-essays turn**: shorter objects than the
+books, scoped and analysed in queue.md's new "Classic essays" section (eight
+picks plus a second tier). 012 is Jo Freeman's The Tyranny of Structurelessness
+— Michels from inside a movement that had abolished elections. 011's sign-off
+was re-pointed to hand off to it; 012 promises **The Peter Principle**, so the
+weekday 1AM Routine picks that up next.
+
+Written on branch `claude/classic-essays-workflow-0rl9li`, not by the pipeline —
+the same merge-before-06:00-UTC caveat as the 006–007 run applies.
+
+## Previous snapshot (24 Aug 2026, evening)
 
 Twelve episodes written: 000 test, 001 Moral Mazes, 002 Davies survey, 003–005
 The Unaccountability Machine deep series, 006–008 The Organization Man deep
@@ -24,6 +36,13 @@ the weekday 1AM Routine will pick it up unless Kevin asks for it sooner.
 - **Reception pass** for well-covered works: named critics, attributed, feeding
   case-against and verdict.
 - **En dashes, never em dashes**, in episode text.
+- **Essays are a different format from books** (25 Aug 26): the essay supplies
+  the mechanism, the narrator supplies the worked case. Three shapes — single
+  deep read, the duel (two texts answering one question incompatibly), the
+  constellation (short papers staged as rediscovery). Grounding gets cheaper
+  (the whole text is short); the reception pass is where the work goes.
+- **Sign-offs may be re-pointed** when the queue order changes, per the 007
+  precedent: 011's was re-pointed to Freeman on 25 Aug 26. URLs/GUIDs stable.
 - **Old episodes stand**: 002's leaked chat opener fixed 24 Aug 26; the
   remaining old-style tics in 001/002 deliberately left.
 - **Zamishka posts are NOT copied into this public repo** (his copyright);
@@ -35,6 +54,16 @@ the weekday 1AM Routine will pick it up unless Kevin asks for it sooner.
   claude.ai Routine "Annotated Shelf: weekday 1AM episode" (trig_01SmpAX32wENK
   WUqhmWtVVzU, cron 0 6 * * 1-5 UTC, enabled) writes the next episode each
   weekday night by reading the last sign-off / queue.md, and pushes to main.
+- (BLOCKER, 25 Aug 26) **Egress policy blocks primary sources in remote
+  sessions.** In this Claude Code web session the proxy returned 403 for
+  jofreeman.com, marxists.org, wikipedia.org and public-api.wordpress.com;
+  012 was grounded on training knowledge verified through web search instead of
+  a fetched text. The queued Zamishka episode cannot be written under this
+  policy at all, and the 1AM Routine will fail on it. Needs either an allowed
+  host list or the posts supplied by hand.
+- (HITL) Which classic essays get greenlit, and whether the shelf runs a whole
+  essays turn or takes them as interludes between books — the slate is scoped
+  in queue.md, selection is Kevin's.
 - (HITL) Scott Alexander best-of series: canon selection is Kevin's call
   before any episode is written (parked in queue.md).
 
