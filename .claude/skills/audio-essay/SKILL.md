@@ -25,7 +25,7 @@ annotated-shelf/
 └── .claude/skills/audio-essay/   # this skill
 ```
 
-If run outside the repo, ask for the repo path. If the repo doesn't exist yet, run first-time setup (below).
+If run outside the repo, ask for the repo path.
 
 ## Workflow for "make an episode on X"
 
@@ -62,13 +62,8 @@ python scripts/build_site.py
 Then tell the user the episode is live and give the article URL
 (`base_url/site/NNN-slug.html`). Never hand-edit anything in `site/`.
 
-### 5. Update the queue
+### 4. Update the queue
 Mark the work done in queue.md and note the next one up.
-
-## First-time setup (only if repo/config missing)
-1. `git init`, create config.json (ask for: feed title, author name, GitHub username → base_url `https://USER.github.io/REPO`), `.gitignore` with `.env`, and queue.md seeded from the canon list in SCRIPT_STYLE.md.
-2. Ask the user to create a **public** GitHub repo and enable Pages (main branch, root). No API key, no local tooling needed.
-3. After the first build, give them the feed URL (`base_url/site/feed.xml`) to add in Matter. The repo must stay public for Pages unless they have Pro; the feed URL is obscure but not secret, so nothing sensitive goes in an episode.
 
 ## Guardrails
 - Publishing is free: GitHub Actions + Pages on a public repo, and Matter does the narration.

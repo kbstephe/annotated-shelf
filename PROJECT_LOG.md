@@ -263,3 +263,22 @@ Live test = the 26 Aug 06:05 UTC firing.
 Episode 013 The Peter Principle pushed 13:38 UTC (3,049 w), site built, feed
 updated, no pipeline.log. Stale claude/* branches deleted. Quality of the
 unattended draft not yet reviewed by Kevin.
+
+## [2026-08-25 afternoon, 2] — Repo cleanup
+
+**Removed:** the dead MP3 pipeline (render.yml, render.py, auto_publish.py,
+publish.py, root feed.xml + episodes.json, the 000 test MP3). All recoverable
+from git history. `.gitignore` trimmed to `__pycache__/`.
+
+**Fixed in build_site.py:** episodes committed together (multi-part series)
+sorted arbitrarily in the index and feed (009 above 010/011, 006 above 007);
+ties now break by slug, newest first. pubDates normalised to UTC (local
+commits produced -0500, bot commits +0000).
+
+**Docs:** STATE.md pipeline section condensed; SKILL.md first-time-setup
+section dropped, step numbering fixed (4 was missing); queue.md duplicate
+Done entry for 006–008 removed.
+
+**Flagged, not changed:** 012 is 3,891 words (band is 2,800–3,600); 002 keeps
+13 em dashes under the "old episodes stand" decision; episode 000 (pipeline
+smoke test) is still first in the public feed and index, pending Kevin.

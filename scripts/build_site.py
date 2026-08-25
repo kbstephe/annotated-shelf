@@ -79,7 +79,7 @@ def first_commit_date(path: Path) -> datetime:
             cwd=ROOT, capture_output=True, text=True, check=True,
         ).stdout.strip().splitlines()
         if out:
-            return datetime.fromisoformat(out[-1])
+            return datetime.fromisoformat(out[-1]).astimezone(timezone.utc)
     except Exception:
         pass
     return datetime.fromtimestamp(path.stat().st_mtime, tz=timezone.utc)
@@ -138,7 +138,8 @@ def main() -> None:
                          "url": f"{base}/{slug}.html"})
         print(f"built site/{slug}.html  ({len(article)} chars)")
 
-    episodes.sort(key=lambda e: e["pub"], reverse=True)
+    # Multi-part series land in one commit, so break date ties by slug (newest number first).
+    episodes.sort(key=lambda e: (e["pub"], e["slug"]), reverse=True)
 
     items = "\n".join(
         "<item>\n"

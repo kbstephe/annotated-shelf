@@ -4,9 +4,6 @@
 - [x] 000 Pipeline test
 - [x] 002 Dan Davies body of work (re-shipped from the original run)
 - [x] 003–005 The Unaccountability Machine deep series (3 parts, 24 Aug 26)
-- [x] 006–008 The Organization Man deep series (Whyte parts one and three,
-  Burnham's The Managerial Revolution as the political twin in part two;
-  24 Aug 26)
 
 ## Cynical core
 - [x] 001 Moral Mazes (Robert Jackall)

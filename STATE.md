@@ -48,29 +48,18 @@ the weekday 1AM Routine will pick it up unless Kevin asks for it sooner.
 - **Zamishka posts are NOT copied into this public repo** (his copyright);
   fetch at writing time via the WordPress API (see queue.md).
 
+## Overnight pipeline (working since 25 Aug 26)
+
+Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz,
+cron `0 6 * * 1-5` UTC, env Github (network Full), repo attached as a source.
+Reads the last sign-off, writes the next episode, pushes to main; the Build
+site Action does the rest. No notifications. If an expected episode is
+missing, read `pipeline.log` on main (one line per failed run). Live test
+passed 25 Aug 13:38 UTC (episode 013). History of the two false diagnoses is
+in PROJECT_LOG 25 Aug entries.
+
 ## Open questions
 
-- ~~(HITL, 25 Aug 26) Overnight pipeline stalls, half-fixed~~ RE-DIAGNOSED
-  25 Aug 26 afternoon: the Routine had NO repo source configured, so the cloud
-  git proxy refused every push (403 "not in this session's authorized
-  repository set"); the run log shows the session behaved correctly and could
-  not even push pipeline.log. Fixed by adding the repo as a session source on
-  trig_017rhfD6LEfWxb4R7pgTuVTz. No settings.json allowlist is needed. Live test
-  PASSED 25 Aug 13:38 UTC: episode 013 published unattended.
-
-- ~~(AFK) Is any overnight pipeline scheduled?~~ RESOLVED 24 Aug 26, REBUILT
-  25 Aug 26: the Routine "Annotated Shelf: weekday 1AM episode" is now
-  trig_017rhfD6LEfWxb4R7pgTuVTz (cron 0 6 * * 1-5 UTC, enabled, same
-  environment). The original fired 25 Aug 06:30 UTC and failed silently,
-  publishing nothing. Current design, per Kevin (keep it simple, no
-  notifications, don't burn tokens): pre-flight (git fetch + push dry-run)
-  aborts BEFORE any research or writing; a run that fails at any stage appends
-  one line to pipeline.log at the repo root ("<UTC ts> FAILED (<stage>):
-  <reason>") and pushes it to main — that file is the failure record, check it
-  if an expected episode is missing. No notifications of any kind.
-- ~~(BLOCKER, 25 Aug 26) egress policy blocked research hosts~~ RESOLVED
-  25 Aug 26: Kevin set the environment's network access to Full. Zamishka's
-  WordPress API and primary-text sites are reachable from new sessions.
 - (HITL) Which classic essays get greenlit, and whether the shelf runs a whole
   essays turn or takes them as interludes between books — the slate is scoped
   in queue.md, selection is Kevin's.
@@ -79,5 +68,6 @@ the weekday 1AM Routine will pick it up unless Kevin asks for it sooner.
 
 ## Out of scope
 
-- Local audio rendering (edge-tts path is manual-dispatch only; Matter narrates).
+- Audio rendering. The edge-tts/MP3 path was deleted 25 Aug 26 (in git history
+  before commit "Repo cleanup" if ever wanted); Matter narrates.
 - Rewriting published episodes beyond the 002 opener fix.
