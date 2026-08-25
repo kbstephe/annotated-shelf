@@ -199,3 +199,43 @@ four's no-address structure. 3,851 words after the edit. GUID/URL unchanged.
 UTC (session cse_01Nn4e1uPQpUopAMxf2kWTRw), expected to publish 013 Peter
 Principle; monitor running. Routine now has no notifications — failures append
 a line to pipeline.log on main instead.
+
+## [2026-08-25 midday] — Pipeline stall diagnosed; fixes half-landed, two approvals pending
+
+**Finding:** the overnight Routine's failure mode is a STALL, not a crash. Live
+test fired 10:43 UTC (session cse_01Nn4e1uPQpUopAMxf2kWTRw): it went idle at
+10:44:49 — 80 seconds in, ~4k output tokens, ~$0.38 — in "needs input" state,
+with nothing pushed. Because the session never *thinks* it failed, the FAILURE
+step (pipeline.log) never runs; the run just waits forever for a reply that
+cannot come. Same signature as the 25 Aug 06:30 UTC silent failure. A 40-min
+git monitor confirmed: no episode, no pipeline.log, ever.
+
+**Two suspected causes, one confirmed class:** (1) turn-ending to "show the
+user" — SKILL.md's "show the chapter outline and first ~150 words" invites a
+headless session to end its turn, which is fatal; (2) auto-mode permission
+gates — confirmed real this session when the classifier blocked this very
+session twice (writing .claude/settings.json; re-firing the trigger). A
+headless session hitting such a gate stalls identically.
+
+**Fixed already:** the Routine's prompt (trig_017rhfD6LEfWxb4R7pgTuVTz) now
+opens with an UNATTENDED SESSION block: nobody will ever reply; never end the
+turn until the episode is published-and-verified or the FAILURE step has
+pushed pipeline.log; skip the outline-showing step. Routine design otherwise:
+no notifications (Kevin's call), pre-flight git fetch + push --dry-run aborts
+before any writing, failures append one line to pipeline.log on main.
+
+**Pending, needs Kevin:** (1) approve committing .claude/settings.json with a
+permissions.allow list (git add/commit/push/fetch/pull/checkout/log/show/
+status/diff, python3 scripts/build_site.py, WebSearch, WebFetch) so headless
+runs never hit a prompt — classifier rightly refused to let the session
+self-grant; (2) re-run the test (say "fire it" or use Run now on the Routine
+at claude.ai). If a re-test still stalls at the push step, the allowlist is
+the missing half. The stalled test session is inspectable in Kevin's session
+list ("⚡ Annotated Shelf: weekday 1AM episode") — opening it would show
+exactly what it was waiting on.
+
+**Also useful for future sessions:** network access is now Full — jofreeman.com
+etc. fetchable (that's how 012's Trashing fix happened). SKILL.md's
+show-the-outline step deserves an "unless unattended" carve-out if stalls
+recur. Next scheduled firing: 26 Aug 06:05 UTC, expected to attempt 013 The
+Peter Principle.

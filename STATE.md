@@ -50,6 +50,15 @@ the weekday 1AM Routine will pick it up unless Kevin asks for it sooner.
 
 ## Open questions
 
+- (HITL, 25 Aug 26) **Overnight pipeline stalls, half-fixed.** Diagnosis: fired
+  sessions go idle within ~90s in "needs input" — they end their turn (or hit
+  an auto-mode permission gate) and wait forever; pipeline.log never gets
+  written because the session doesn't know it failed. Prompt fix is live on
+  trig_017rhfD6LEfWxb4R7pgTuVTz (UNATTENDED SESSION block). Awaiting Kevin:
+  (a) approval to commit .claude/settings.json permission allowlist for the
+  pipeline's git/build/search commands; (b) a re-test (fire the Routine).
+  Details in PROJECT_LOG 2026-08-25 midday entry.
+
 - ~~(AFK) Is any overnight pipeline scheduled?~~ RESOLVED 24 Aug 26, REBUILT
   25 Aug 26: the Routine "Annotated Shelf: weekday 1AM episode" is now
   trig_017rhfD6LEfWxb4R7pgTuVTz (cron 0 6 * * 1-5 UTC, enabled, same
