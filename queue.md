@@ -19,8 +19,12 @@
   24 Aug 26 (moved up from the Coda at Kevin's request). 011's sign-off was
   re-pointed on 25 Aug 26 to hand off to Freeman (012); 012 now carries the
   Peter Principle promise.
-- [ ] The Peter Principle (Peter & Hull) — promised by 012's sign-off
-- [ ] The Utopia of Rules (David Graeber)
+- [x] The Peter Principle (Peter & Hull) — done as 013, 25 Aug 26. Final
+  placement, hierarchiology's glossary read against the season's sink/apparatus
+  frames, and the Benson–Li–Shue sales-floor data plus the Pluchino et al.
+  computational study as the reception pass. 013's sign-off promises The
+  Utopia of Rules.
+- [ ] The Utopia of Rules (David Graeber) — promised by 013's sign-off
 - [ ] Bullshit Jobs (David Graeber)
 
 ## Systems turn
