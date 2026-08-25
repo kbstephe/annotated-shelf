@@ -258,3 +258,8 @@ commits). SKILL.md step 2 has an unattended-session carve-out.
 **Pending:** delete the three stale remote `claude/*` branches (classifier
 blocked the delete here; content is all on main, leftovers are bot builds).
 Live test = the 26 Aug 06:05 UTC firing.
+
+**Live test PASSED** (25 Aug 13:33 UTC fire, session cse_01G1jgLYyP1xwE4cncELbf2s):
+Episode 013 The Peter Principle pushed 13:38 UTC (3,049 w), site built, feed
+updated, no pipeline.log. Stale claude/* branches deleted. Quality of the
+unattended draft not yet reviewed by Kevin.

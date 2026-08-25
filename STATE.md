@@ -55,9 +55,8 @@ the weekday 1AM Routine will pick it up unless Kevin asks for it sooner.
   git proxy refused every push (403 "not in this session's authorized
   repository set"); the run log shows the session behaved correctly and could
   not even push pipeline.log. Fixed by adding the repo as a session source on
-  trig_017rhfD6LEfWxb4R7pgTuVTz. No settings.json allowlist is needed. Next
-  firing 26 Aug 06:05 UTC is the live test; check for episode 013 or
-  pipeline.log.
+  trig_017rhfD6LEfWxb4R7pgTuVTz. No settings.json allowlist is needed. Live test
+  PASSED 25 Aug 13:38 UTC: episode 013 published unattended.
 
 - ~~(AFK) Is any overnight pipeline scheduled?~~ RESOLVED 24 Aug 26, REBUILT
   25 Aug 26: the Routine "Annotated Shelf: weekday 1AM episode" is now
