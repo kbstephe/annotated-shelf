@@ -172,3 +172,30 @@ and STATE.md, since the 1AM Routine will hit it.
 **Context:** Written in an interactive session on branch
 claude/classic-essays-workflow-0rl9li. Pages serves main, so nothing reaches
 Matter until this is merged.
+
+## [2026-08-25 later] — 012 verified against the primary text; one fix
+
+**Context:** Kevin set the environment's network access to Full, so the
+primary sources became fetchable. Pulled jofreeman.com's texts of The Tyranny
+of Structurelessness and Trashing and re-verified 012 against them.
+
+**Confirmed:** "no such thing as a structureless group"; "smokescreen for the
+strong or the lucky"; elites as friendship networks, "not conspiracies";
+the star system (press-appointed, movement "cannot remove them"); all seven
+principles of democratic structuring; publication history exactly as the
+site's headnote gives it; Trashing's April 1976 date, record letter response,
+end-of-1969 dropout, "numb despair", "psychologically mangled" phrasing.
+
+**Fixed:** chapter five had attributed the Ramparts-letter incident to the
+Ms. article — it is not in it (the word never appears); it comes from
+Freeman's later accounts of the Westside Group. Re-attributed, cut an
+unverifiable invented detail ("roughly two hundred words long"), and rebuilt
+the passage on what Trashing actually documents: the thousand-cuts ostracism
+(quoted, under fifteen words), the mailing list, the changed meeting dates,
+the dissolved fund-raising plan, the denial-of-pattern — tied back to chapter
+four's no-address structure. 3,851 words after the edit. GUID/URL unchanged.
+
+**Also this session:** live test of the rebuilt 1AM Routine fired at ~10:43
+UTC (session cse_01Nn4e1uPQpUopAMxf2kWTRw), expected to publish 013 Peter
+Principle; monitor running. Routine now has no notifications — failures append
+a line to pipeline.log on main instead.
