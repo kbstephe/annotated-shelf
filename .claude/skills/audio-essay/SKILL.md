@@ -39,7 +39,7 @@ Read `SCRIPT_STYLE.md` in this skill folder **every time** before writing. Targe
 
 The script is plain prose — no markdown emphasis, no bullets, nothing that reads badly aloud. **Matter's TTS reads the page text**, so write chapter headings as plain words that make sense spoken ("Chapter Two: The Ladder"), not as decorative markers. A `## ` heading is fine and becomes an `<h2>`; keep the wording self-contained since the listener hears it as a sentence.
 
-Show the user the chapter outline and the first ~150 words, then continue without waiting unless they've asked to review scripts first (check config.json `review_before_render`).
+Show the user the chapter outline and the first ~150 words, then continue without waiting unless they've asked to review scripts first (check config.json `review_before_render`). In an unattended session (the 1AM Routine, or any run where nobody can reply) skip this step entirely: ending the turn to show something is a failed run.
 
 ### 3. Publish — commit the .md, the workflow does the rest
 
