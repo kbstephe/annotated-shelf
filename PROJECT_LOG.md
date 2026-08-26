@@ -431,3 +431,36 @@ mangling bit twice while building the lint file; it was rewritten whole via
 the Write tool.
 
 **Artifacts:** scripts/lint_script.py (rewritten), episodes/012–015.
+
+## [2026-08-26] — 016 Bullshit Jobs, 017 Seeing Like a State Part One; length recalibrated; Orwell series queued
+
+**Decisions:** Kevin: episodes are coming out 11–12 min, "kinda short". At
+~3,100 words that means Matter reads ≈270 wpm, not the 150 the charter
+assumed. Target now 5,000–6,500 words (charter + SKILL updated). 016 written
+at 5,300 words: the denominator as the spine; five types mapped onto
+Parkinson/Peter/Whyte/Davies; managerial feudalism steelmanned then answered
+with the empty-throne finding from 007; Soffia et al. (EWCS: 4.8%, falling,
+refuse workers highest, graduates half the rate) vs Walo (AWCS: 19%, sales
+OR 2.61, finance 2.20, managers 1.85) resolved as a frame problem (feeling of
+useful work vs the job's social usefulness); case against from Robbins,
+Anthony, Heller, Duncan. 017 written at ~5,200 words as part one of two:
+forestry (second rotation, Waldsterben), legibility (surnames incl.
+Philippines 1849, metric, cadastre), a new grid chapter (Bruges/Chicago,
+Manhattan 1811, Dutch registers), high modernism and the four conditions,
+Haussmann, Plan Voisin, Jacobs, Brasília via Holston; ends on the question
+part two answers. Queue: Orwell's great essays series added with nine
+candidates; selection Kevin's.
+
+**Verification:** Graeber quotes: "a scar across our collective soul" (Strike!
+2013, via libcom mirror); definition paraphrased. Soffia et al. and Walo
+numbers from the journal pages. Robbins (Nation) fetched. Duncan/Anthony/
+Heller via the Wikipedia reception section, attributed. The German-military
+computer testimony is from memory of the book (Kurt), told without a quote
+and flagged as one of the testimonies. Scott: forestry, legibility,
+four conditions, Brasília/Holston/brasilite from solid knowledge plus the
+SSC review and Cato Unbound page; the Dutch-registers case is in the book
+but told from memory; the 1811 plan figures (12 avenues, 155 streets) from
+general knowledge. Strike! site itself 403'd.
+
+**Artifacts:** episodes/016, 017; SCRIPT_STYLE.md, SKILL.md (length);
+queue.md (016 done, 017 part one, Orwell series); STATE.md; this entry.

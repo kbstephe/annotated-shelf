@@ -168,7 +168,11 @@ on Monday (application, not recall); "Next time, X"; "Thanks for listening."
 
 ## Episode length and multi-part books
 
-- Default episode: 2,800–4,000 words (≈20–28 min narrated).
+- Default episode: 5,000–6,500 words. Matter's TTS reads at roughly 270
+  words a minute (measured 26 Aug 26: 3,100 words came out at 11–12 min), so
+  this is ≈19–24 min narrated. Kevin found 11–12 min too short. Earn the
+  length with more worked examples run to their ends and a fuller reception
+  pass, never by restatement.
 - **Big books get parts, not one long file.** A book with an hour of real
   material (Davies-class) becomes Part One / Part Two (/ Three), each a
   self-contained arc at default length, each ending on the question the next
@@ -211,8 +215,9 @@ The canon will range wider (philosophy, science); the home lens travels with it.
 
 ## Pre-flight checklist (run before every commit)
 
-1. Word count 2,800–4,000 per episode/part (`wc -w`). Short: deepen the worked
-   examples and the steelman. Long: cut coverage, not depth — or split parts.
+1. Word count 5,000–6,500 per episode/part (`wc -w`; ≈270 wpm in Matter).
+   Short: deepen the worked examples and the steelman. Long: cut coverage,
+   not depth — or split parts.
 2. **Lint.** `python scripts/lint_script.py episodes/NNN-slug.md` must print
    `0 repeats, 0 tics`. It catches phrase echoes within forty words and the
    banned narrator moves (importance announcements, "load-bearing", "the point

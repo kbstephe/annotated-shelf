@@ -1,6 +1,18 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (26 Aug 2026, evening)
+## Snapshot (26 Aug 2026, night)
+
+Eighteen episodes (000 test + 001–017). 016 Bullshit Jobs (5,300 words) and
+017 Seeing Like a State Part One (~5,200 words) written on-demand 26 Aug.
+**Length target recalibrated**: Matter reads ≈270 wpm, so 3,100-word
+episodes ran 11–12 min and Kevin found that short; charter now says
+5,000–6,500 words. `scripts/lint_script.py` (echoes within 40 words + the
+Claude-ism list) is a mandatory pre-flight step. 017's sign-off promises
+**Seeing Like a State Part Two** (collectivisation, ujamaa, mētis, the case
+against: DeLong/Hayek, Scott Alexander, Laitin, Boudreaux) – next for the
+Routine. Queue gained an **Orwell's great essays** series (Kevin, 26 Aug).
+
+## Previous snapshot (26 Aug 2026, evening)
 
 Sixteen episodes (000 test + 001–015). 015 Second Thoughts on James Burnham
 (Orwell, 3,186 words) written on-demand 26 Aug as an essays-turn interlude;

@@ -28,10 +28,25 @@
   play-vs-games title essay, and the Batman appendix's constituent-power
   argument as the delayed thesis. Zantvoort and NPR's Hachard as the case
   against. 014's sign-off promises Bullshit Jobs.
-- [ ] Bullshit Jobs (David Graeber) — promised by 014's sign-off
+- [x] Bullshit Jobs (David Graeber) — done as 016, 26 Aug 26. Five types,
+  managerial feudalism read against Whyte/Davies, the harm chapter as the
+  steelman, Soffia et al. 2022 (EWCS, 4.8% and falling, refuse workers
+  highest) vs Walo 2023 (AWCS, 19%, sales OR 2.6 / finance 2.2 / managers
+  1.9) as a frame problem; Robbins (Nation), Anthony, Heller, Duncan as the
+  case against.
 
 ## Systems turn
-- [ ] Seeing Like a State (James C. Scott)
+- [ ] Seeing Like a State (James C. Scott) — TWO PARTS. Part One done as
+  017, 26 Aug 26 (forestry, legibility: surnames/metric/cadastre/grid + the
+  Dutch registers, high modernism + the four conditions, Haussmann, Plan
+  Voisin, Jacobs, Brasília/Holston). **Part Two promised by 017's sign-off**:
+  Soviet collectivisation, Tanzanian ujamaa villagisation (1973–76), mētis,
+  and the case against — DeLong 1999 (Scott as unwitting Hayekian), Scott
+  Alexander's SSC review (dice stacked against high modernism; Green
+  Revolution; when is mētis just resistance to change), Laitin (selective
+  evidence), the 2010 Cato Unbound exchange (Boudreaux, Lee, DeLong; Scott:
+  large market actors see like a state too). Verdict must carry Scott's own
+  qualifier: *certain* schemes.
 - [ ] Normal Accidents (Charles Perrow)
 - [ ] The Challenger Launch Decision (Diane Vaughan)
 
@@ -106,6 +121,41 @@ too thin alone, constellation material with Parkinson · Illich's "Disabling
 Professions" · Hardin's "Tragedy of the Commons" (1968) — fold into the queued
 Ostrom episode as its antagonist rather than give it a slot, since Ostrom's
 whole career is the case against and running them apart wastes the collision.
+
+## Orwell's great essays (a series, added 26 Aug 26 at Kevin's request)
+
+Second Thoughts on James Burnham (015) is the pilot; the format is the essay
+one: the essay supplies the mechanism, the narrator supplies the worked case,
+the reception pass is where the work goes. Length per the recalibrated target
+(5,000–6,500 words), which for a short essay means the worked case and the
+reception have to be substantial, not the summary. Candidates, roughly in
+the order they earn a slot; selection open to Kevin:
+
+- [ ] Shooting an Elephant (1936) — the crowd decides for the man with the
+  gun; the shelf's power-without-an-address frame from below. Pair with A
+  Hanging (1931).
+- [ ] Politics and the English Language (1946) — already scoped above: the
+  case against is Pullum (unoriginal rules, Orwell's own passives); thesis
+  to delay: the mechanism is true though the essay is bad.
+- [ ] Notes on Nationalism (1945) — nationalism as a habit of mind
+  (classifying humanity like insects, indifference to reality, transferred
+  nationalism); the identity-dose warning in Orwell's own words.
+- [ ] The Prevention of Literature (1946) + Inside the Whale (1940) — the
+  writer inside an orthodoxy; the organization man of letters.
+- [ ] Such, Such Were the Joys (written ~1947, pub. 1952) — the prep school
+  as the first total institution; Goffman before Goffman. Reception: the
+  Connolly / Anthony Powell dispute over whether it is fair to St Cyprian's.
+- [ ] Lear, Tolstoy and the Fool (1947) — Tolstoy's attack on Shakespeare as
+  a case study in the moralist who cannot bear what he cannot use.
+- [ ] Reflections on Gandhi (1949) — "saints should always be judged guilty
+  until proved innocent"; the shelf's dosage rule applied to sainthood.
+- [ ] Why I Write (1946) — short; possibly the coda rather than an episode.
+- [ ] Charles Dickens (1940) — the long one; critics' consensus pick for his
+  best; Dickens as the moralist without a programme.
+
+Second tier: Looking Back on the Spanish War · Boys' Weeklies · The Lion and
+the Unicorn (long; the socialist-patriot programme) · Decline of the English
+Murder · Some Thoughts on the Common Toad · Benefit of Clergy (Dalí).
 
 ## Bloggers & essayists
 - [ ] Roman Zamishka — healthcare-systems essayist, 22 posts 2016–2020, UNBLOCKED:
