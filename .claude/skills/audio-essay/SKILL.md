@@ -41,6 +41,10 @@ The script is plain prose — no markdown emphasis, no bullets, nothing that rea
 
 Show the user the chapter outline and the first ~150 words, then continue without waiting unless they've asked to review scripts first (check config.json `review_before_render`). In an unattended session (the 1AM Routine, or any run where nobody can reply) skip this step entirely: ending the turn to show something is a failed run.
 
+### 2b. Lint (mandatory, unattended runs included)
+`python scripts/lint_script.py episodes/NNN-slug.md` must print `0 repeats, 0 tics`
+before commit. Fix by rewriting, never by deleting the check.
+
 ### 3. Publish — commit the .md, the workflow does the rest
 
 Commit and push just the script:

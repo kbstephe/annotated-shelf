@@ -43,10 +43,22 @@ What carries importance instead — the tools the greats actually use:
 5. **Callback.** A term or image planted fifteen minutes earlier, re-invoked at
    the payoff. The listener's own act of recognition is the announcement.
 
-Exception, used sparingly: technical/scientific material may take one or two
-moments of direct signposting per episode ("this is the load-bearing claim"),
-because a technical argument's crux sometimes cannot be conveyed by tone alone.
-Philosophy and literary material never gets this license.
+No exceptions: "load-bearing", "the point is", "that is where the difference
+lies" and their cousins are narrator-grading moves and are banned in every
+domain (Kevin, 26 Aug 26: these "Claude-isms" are what makes the audio
+off-putting). The full list lives in `scripts/lint_script.py`; a technical
+crux is carried by dwell time and placement like everything else.
+
+## No echoes (audio rule, 26 Aug 26)
+
+Never repeat a phrase of three or more content words within about forty
+words. On the page an echo reads as rhetoric ("a brilliant criticism of X,
+and he is right, but a brilliant criticism of Y…"; "Read in 1946… Read in
+1956… Read in 1968…"); narrated once with no rewind it sounds like the
+reader stuttered. The same goes for the two-sentence contrast built on a
+repeated frame ("It is not a machine for A. It is a machine for B.") and for
+anaphora runs. Say it once, then move; if the second occurrence is needed,
+change the words. `scripts/lint_script.py` flags these mechanically.
 
 ## Structure: an essay that uses the book, not a book report
 
@@ -91,7 +103,8 @@ on Monday (application, not recall); "Next time, X"; "Thanks for listening."
   breath — not as a front-loaded primer.
 - **Recap by restatement-with-variation** when a long argument needs one: the
   same claim in a new, more concrete form (often via the opening example doing
-  double duty), never verbatim repetition. Optional tool, not a quota.
+  double duty), never verbatim repetition, and never within the same forty
+  words (see No echoes). Optional tool, not a quota.
 - **Arguments for the ear run on causation, not enumeration.** "Because X, Y —
   and if Y, then the thing the author really wants is in trouble" holds in
   working memory; "first… second… third…" does not, because the listener cannot
@@ -200,11 +213,14 @@ The canon will range wider (philosophy, science); the home lens travels with it.
 
 1. Word count 2,800–4,000 per episode/part (`wc -w`). Short: deepen the worked
    examples and the steelman. Long: cut coverage, not depth — or split parts.
-2. **Tic scan.** Search the draft for the banned moves: importance
-   announcements ("key insight", "the payoff", "most important", "sharpest",
-   "striking", "crucial", "Notice"), insight countdowns, quote ushers, stock
-   praise, self-graded superlatives. Each hit gets replaced by dwell time,
-   placement, or a callback — not by a synonym.
+2. **Lint.** `python scripts/lint_script.py episodes/NNN-slug.md` must print
+   `0 repeats, 0 tics`. It catches phrase echoes within forty words and the
+   banned narrator moves (importance announcements, "load-bearing", "the point
+   is", "which is to say", "sit with that", "quietly", "precisely", em dashes…).
+   Each hit gets rewritten, not synonym-swapped; a repeat is fixed by changing
+   the second occurrence's words or cutting it. Then a manual pass for the
+   moves a regex cannot see: insight countdowns, quote ushers, stock praise,
+   self-graded superlatives, "it is not X, it is Y" contrasts.
 3. **Read-aloud pass** against Register: kill anything that cannot be heard
    (bullets, digits, orphaned headings) and any sentence that sounds like a
    press release.

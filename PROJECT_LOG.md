@@ -403,3 +403,16 @@ not load (ECONNREFUSED); not cited.
 
 **Artifacts:** episodes/015-second-thoughts-on-burnham.md, queue.md,
 STATE.md, this entry.
+
+## [2026-08-26] — Audio echoes and Claude-isms (Kevin feedback)
+
+**Decisions:** Kevin hears phrases repeated back-to-back in the narration and
+narrator tics ("the point is", "load-bearing", "that is where the difference
+really lies"). Cause is the writing, not the build: the charter allowed
+restatement-with-variation and rhetorical echoes, and licensed "load-bearing"
+for technical cruxes. Charter now bans echoes within ~40 words and all such
+tics; new `scripts/lint_script.py` flags both and is a mandatory pre-flight
+step (SKILL.md 2b). 015 re-edited surgically (14 + 9 replacements, 3,138
+words, lint clean) — the one exception to "old episodes stand", because it
+was minutes old. Earlier episodes left as published; lint shows 001–014 all
+carry echoes (004, 012, 013 worst), fixable on request.
