@@ -314,3 +314,61 @@ episodes.json, 000 MP3.
 **Context:** The Routine is now the primary writer; interactive sessions are
 for on-demand episodes and craft changes. Every fact about pipeline health is
 in STATE.md's "Overnight pipeline" section and pipeline.log on main.
+
+## [2026-08-26] — 014 The Utopia of Rules, unattended Routine run
+
+**Decisions:** Wrote The Utopia of Rules (Graeber, 2015) as a single episode
+rather than a multi-part series — queue.md had not flagged it for parts, and
+the four essays compress into one question chain without padding. Spine:
+constituted power (rules backed by force) versus constituent power (the
+capacity to make new rules), with the Batman appendix's argument as the
+delayed thesis rather than a detour. Chapters: the mother's-paperwork cold
+open plus author bio (LSE anthropologist, Debt: The First 5,000 Years, Occupy
+organizer); the iron law of liberalism against this season's audit-society
+and Organization Man material; structural violence, structural stupidity,
+and interpretive labor from "Dead Zones of the Imagination," read against
+013's creative incompetence to show why this asymmetry has no individual
+escape hatch; "Of Flying Cars and the Declining Rate of Profit" read as what
+Burnham's managers (007) actually did with the power they inherited; the
+title essay's play-versus-games distinction and bureaucracy as relief, not
+just cage; the Batman/"Super Position" appendix on constituent power, tied
+back to Graeber's own Occupy involvement. 014's sign-off promises Bullshit
+Jobs, the next unchecked queue item.
+
+**Verification:** Book's four-part structure confirmed (intro "The Iron Law
+of Liberalism and the Era of Total Bureaucratization"; essays "Dead Zones of
+the Imagination," "Of Flying Cars and the Declining Rate of Profit," "The
+Utopia of Rules, or Why We Really Love Bureaucracy After All"; appendix "On
+Batman and the Problem of Constituent Power," originally "Super Position,"
+The New Inquiry, 8 Oct 2012). Mother's-stroke anecdote and its close ("running
+around feeling like an idiot all day?") verified via the book text; the iron
+law of liberalism's wording verified across multiple sources; "impersonal
+rules... backed up by the threat of force" and the structural-stupidity
+definition verified; poetic-vs-bureaucratic-technologies and the 1970s pivot
+verified; play-vs-games/Calvinball distinction and "fear of play" verified;
+the Batman appendix's constituent/constituted-power argument and its closing
+line ("shriveled into incoherence," 14 words, quoted) verified against the
+original New Inquiry essay text. Graeber's "99 percent" credit stated with
+his own qualification (collaborative, not sole authorship) per his own
+account. Reception: Bart Zantvoort (Marx and Philosophy Review of Books) and
+Tomas Hachard (NPR) both verified by fetch, used as the case against.
+
+**Traps & dead ends:** The Batman appendix's full text wasn't fetchable from
+theanarchistlibrary.org (too long for the fetch tool) or revoltlib.com (503);
+verified instead via the original shorter New Inquiry piece and secondary
+summaries, which was sufficient since the appendix is the book chapter
+reprinted from it.
+
+**Open questions:** carried from STATE.md — episode 000's fate, Kevin's
+listen-through of the unattended episodes, classic-essays/Scott-Alexander
+selection.
+
+**Artifacts:** episodes/014-utopia-of-rules.md (3,170 words), queue.md (014
+done, Bullshit Jobs promised), STATE.md snapshot.
+
+**Context:** Written by the unattended weekday Routine. Pre-flight found
+local `main` on a detached HEAD with the `main` branch ref six commits stale
+(from a prior session's checkout); fixed by fast-forwarding the ref rather
+than deleting anything, since it was a clean ancestor of origin/main. Build
+Action commit landed and the feed carried the new title within about a
+minute of the push.

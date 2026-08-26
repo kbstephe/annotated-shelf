@@ -1,24 +1,21 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (25 Aug 2026, evening)
+## Snapshot (26 Aug 2026)
+
+Fifteen episodes (000 test + 001–014). 014 The Utopia of Rules (Graeber),
+3,170 words, is the second episode written unattended by the weekday 1AM
+Routine — pipeline still works end to end, feed updated within about a
+minute of the push. 014's sign-off promises **Bullshit Jobs (Graeber)**;
+that's next up, on-demand or at the next weekday firing. Repo cleaned 25 Aug
+(MP3 path gone, feed ordering fixed). Next human step: listen to 013 and 014
+and judge unattended quality; decide whether episode 000 stays.
+
+## Previous snapshot (25 Aug 2026, evening)
 
 Fourteen episodes (000 test + 001–013). 013 The Peter Principle was the first
-written unattended by the weekday 1AM Routine, which now works end to end and
-logs its own runs via `.claude/skills/done/`. 013's sign-off promises **The
-Utopia of Rules (Graeber)**; the Routine attempts it 26 Aug 06:05 UTC. Repo
-cleaned 25 Aug (MP3 path gone, feed ordering fixed). Next human step: listen
-to 013 and judge unattended quality; decide whether episode 000 stays.
-
-## Previous snapshot (24 Aug 2026, evening)
-
-Twelve episodes written: 000 test, 001 Moral Mazes, 002 Davies survey, 003–005
-The Unaccountability Machine deep series, 006–008 The Organization Man deep
-series (Whyte + Burnham's Managerial Revolution + the wives/pipeline/exit part),
-009 Parkinson's Law, 010–011 The Machiavellians two-parter (moved up from the
-Coda at Kevin's request; Kevin also directed episodes be produced on demand
-rather than waiting for the 1AM Routine). Feed builds via GitHub Actions;
-Matter narrates. Episode 011's sign-off promises **The Peter Principle** next —
-the weekday 1AM Routine will pick it up unless Kevin asks for it sooner.
+episode written unattended by the weekday 1AM Routine. 013's sign-off promised
+The Utopia of Rules (Graeber); the Routine attempted it 26 Aug 06:05 UTC and
+that became 014. Repo cleaned 25 Aug (MP3 path gone, feed ordering fixed).
 
 ## Decisions of record
 
@@ -53,9 +50,13 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz,
 cron `0 6 * * 1-5` UTC, env Github (network Full), repo attached as a source.
 Reads the last sign-off, writes the next episode, pushes to main; the Build
 site Action does the rest. No notifications. If an expected episode is
-missing, read `pipeline.log` on main (one line per failed run). Live test
-passed 25 Aug 13:38 UTC (episode 013). History of the two false diagnoses is
-in PROJECT_LOG 25 Aug entries.
+missing, read `pipeline.log` on main (one line per failed run). Two live runs
+passed: 25 Aug 13:38 UTC (episode 013) and 26 Aug (episode 014, this session).
+History of the two false diagnoses from the first run is in PROJECT_LOG 25 Aug
+entries. 26 Aug's run found local `main` on a detached HEAD with the branch
+ref stale by six commits at session start (leftover from how the environment
+had checked the repo out, not a pipeline bug); fast-forwarding the ref fixed
+it before the pre-flight check.
 
 ## Open questions
 
