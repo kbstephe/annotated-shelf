@@ -1,6 +1,13 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (26 Aug 2026)
+## Snapshot (26 Aug 2026, evening)
+
+Sixteen episodes (000 test + 001–015). 015 Second Thoughts on James Burnham
+(Orwell, 3,186 words) written on-demand 26 Aug as an essays-turn interlude;
+its sign-off re-promises **Bullshit Jobs (Graeber)**, still next up for the
+Routine. Otherwise unchanged from the morning snapshot below.
+
+## Previous snapshot (26 Aug 2026, morning)
 
 Fifteen episodes (000 test + 001–014). 014 The Utopia of Rules (Graeber),
 3,170 words, is the second episode written unattended by the weekday 1AM

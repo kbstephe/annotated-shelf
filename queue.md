@@ -86,6 +86,12 @@ the constellation (three short papers staged as rediscovery).
 - [ ] Goffman, "On Cooling the Mark Out" (Psychiatry 15(4):451–463, 1952). How
   institutions manage the people they have just failed. On-ramp to the Goffman
   already in Micro-mechanics; the medical applications are direct.
+- [x] Orwell, "Second Thoughts on James Burnham" (Polemic, 1946) — done as 015,
+  26 Aug 26, on Kevin's request (interlude; 014's Bullshit Jobs promise
+  carried forward by 015's sign-off). Single read: the track-record audit as
+  instrument, the Lenin's Heir banquet passage as the tell, Orwell's own
+  "democratise or perish" forecast scored by his own method (45-year horizon),
+  Milanovic (2024) vs Lyons/Francis revival as the reception pass.
 - [ ] Orwell, "Politics and the English Language" (1946) — only worth doing for
   the case against: Geoffrey Pullum on its unoriginality, its unfollowable
   rules, and Orwell's own roughly twenty-six percent passive transitives against

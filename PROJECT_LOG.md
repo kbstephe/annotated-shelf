@@ -372,3 +372,34 @@ local `main` on a detached HEAD with the `main` branch ref six commits stale
 than deleting anything, since it was a clean ancestor of origin/main. Build
 Action commit landed and the feed carried the new title within about a
 minute of the push.
+
+## [2026-08-26] — 015 Second Thoughts on James Burnham (on-demand interlude)
+
+**Decisions:** Kevin asked for the Orwell essay the shelf had cited three
+times (007, 010, 011) as its own episode. Single deep read, essay format.
+Spine: the track-record audit (score the forecaster's lean before arguing the
+model), a clinician's instrument. Chapters: the ledger of Burnham's 1940/42/44
+forecasts; power worship read off the Lenin's Heir banquet passage; Orwell's
+own concessions as the steelman; the turn — Orwell's closing "democratise or
+perish" forecast scored by his own method, open and losing for 45 years, saved
+only by having a mechanism where Burnham had momentum; case against (reading
+motive off prose is psychology on a text; the Francis/Lyons managerial
+revival) answered with Milanovic's 80-years-on verdict. Sign-off re-promises
+Bullshit Jobs so the Routine's next target is unchanged; 014's sign-off left
+as is.
+
+**Verification:** Essay text fetched (Orwell Foundation + orwell.ru):
+"whoever is winning at the moment will always seem to be invincible" (the one
+quote used, 11 words); "fascinated admiration", "major mental disease...
+cowardice", "never stops to ask why people want power", "democratize itself,
+or it will perish", the 1940/1942/1944 forecast sequence, and the concession
+that the drift toward oligarchy was real all verified; banquet passage
+paraphrased. Shelden's "brilliant criticism" via Wikipedia summary,
+attributed. Milanovic (Global Policy / Substack, Mar 2024) and Lyons (China
+Convergence, 2023, with its "front of one's nose" epigraph) fetched and
+attributed. Orwell's 1944 Tribune review and 1947 New Leader essay mentioned
+from search results only, no quotes. Kelly's Cornell biography chapter did
+not load (ECONNREFUSED); not cited.
+
+**Artifacts:** episodes/015-second-thoughts-on-burnham.md, queue.md,
+STATE.md, this entry.
