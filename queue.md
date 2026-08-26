@@ -21,8 +21,14 @@
   frames, and the Benson–Li–Shue sales-floor data plus the Pluchino et al.
   computational study as the reception pass. 013's sign-off promises The
   Utopia of Rules.
-- [ ] The Utopia of Rules (David Graeber) — promised by 013's sign-off
-- [ ] Bullshit Jobs (David Graeber)
+- [x] The Utopia of Rules (David Graeber) — done as 014, 26 Aug 26. Single
+  episode: the iron law of liberalism, structural violence and interpretive
+  labor from "Dead Zones of the Imagination," the poetic-vs-bureaucratic
+  technologies essay read against Burnham's managerial revolution (007), the
+  play-vs-games title essay, and the Batman appendix's constituent-power
+  argument as the delayed thesis. Zantvoort and NPR's Hachard as the case
+  against. 014's sign-off promises Bullshit Jobs.
+- [ ] Bullshit Jobs (David Graeber) — promised by 014's sign-off
 
 ## Systems turn
 - [ ] Seeing Like a State (James C. Scott)
