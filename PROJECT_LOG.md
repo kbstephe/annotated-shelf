@@ -416,3 +416,18 @@ step (SKILL.md 2b). 015 re-edited surgically (14 + 9 replacements, 3,138
 words, lint clean) — the one exception to "old episodes stand", because it
 was minutes old. Earlier episodes left as published; lint shows 001–014 all
 carry echoes (004, 012, 013 worst), fixable on request.
+
+## [2026-08-26] — Lint extended from online Claude-ism catalogues; 012–014 cleaned
+
+**Decisions:** Kevin: "it is worth sitting with this" is a classic; find the
+documented Claude-isms online. Lint list now also carries Velitchkov's 22
+Claude cliches (Link & Think), claudisms.ai / Will Francis patterns:
+"genuinely", "the honest version", "has a name", "not a X but a Y", "which is
+exactly", "turns out to be", "it matters because", "falls out of", etc.
+Episodes 001–011 stay as published (Kevin has listened through
+Machiavellians); 012, 013, 014 re-edited surgically (18 + 22 + 16
+replacements) and 015 once more; all four lint clean. Heredoc backslash
+mangling bit twice while building the lint file; it was rewritten whole via
+the Write tool.
+
+**Artifacts:** scripts/lint_script.py (rewritten), episodes/012–015.
