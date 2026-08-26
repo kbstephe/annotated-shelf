@@ -92,6 +92,14 @@ it before the pre-flight check.
   in queue.md, selection is Kevin's.
 - (HITL) Scott Alexander best-of series: canon selection is Kevin's call
   before any episode is written (parked in queue.md).
+- (HITL) Orwell series order: 019's sign-off commits to Shooting an Elephant;
+  the rest of the nine-candidate order in queue.md is a proposal.
+- (HITL) Judge 016–019 in Matter: do the longer episodes (16–20 min) land
+  right, or push toward the 6,500 ceiling?
+- (AFK) 017–019 sit a little under the 5,000-word floor; the Routine should
+  aim higher on Shooting an Elephant.
+- (AFK) Lint is regex-only; sentence-shape tics ("It is not A. It is B.",
+  anaphora runs) still need the manual pass.
 
 ## Out of scope
 

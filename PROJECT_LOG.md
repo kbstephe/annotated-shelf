@@ -497,3 +497,20 @@ to him. Tauger's review page 403'd; his argument taken from the H-Net search
 summary and his title. Campbell/Gigant details from memory of the book.
 
 **Artifacts:** episodes/018, 019; queue.md; STATE.md; this entry.
+
+## [2026-08-26] — Session close (five episodes, lint, length recalibration)
+
+**Decisions:** Recorded in the five entries above (015–019, echo/tic lint,
+270-wpm length target, build.yml rebase-before-push, Orwell series queued).
+**Traps & dead ends:** Bash-tool heredocs strip backslashes; every regex
+edit attempted inline broke the lint file until it was rewritten whole via
+the Write tool. WebFetch 403s on strike.coop, H-Net, LessWrong; DeLong's
+typepad is dead (use Crooked Timber / Cato Unbound). Two push races with the
+site-build bot; fixed in build.yml. Lint flags legitimate noun/verb uses of
+"notice" and the six rules quoted verbatim; reworded rather than exempted.
+**Open questions:** in STATE.md (Orwell order HITL; Matter listen-through
+HITL; word floor and sentence-shape tics AFK).
+**Artifacts:** episodes/015–019, scripts/lint_script.py, SCRIPT_STYLE.md,
+SKILL.md, build.yml, queue.md, STATE.md.
+**Context:** Episodes 001–011 deliberately left with their echoes and tics
+(Kevin has listened through Machiavellians); 012–019 are lint clean.
