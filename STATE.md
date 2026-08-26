@@ -1,6 +1,14 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (26 Aug 2026, night)
+## Snapshot (26 Aug 2026, late)
+
+Twenty episodes (000 test + 001–019). 018 Seeing Like a State Part Two
+(~4,400 words) and 019 Politics and the English Language (~4,700 words)
+written on-demand 26 Aug; both lint clean. 019's sign-off promises
+**Shooting an Elephant** (Orwell series, item 1) – next for the Routine.
+Still slightly under the 5,000-word floor; the Routine should aim higher.
+
+## Previous snapshot (26 Aug 2026, night)
 
 Eighteen episodes (000 test + 001–017). 016 Bullshit Jobs (5,300 words) and
 017 Seeing Like a State Part One (~5,200 words) written on-demand 26 Aug.

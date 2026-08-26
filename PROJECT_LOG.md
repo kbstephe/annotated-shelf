@@ -464,3 +464,36 @@ general knowledge. Strike! site itself 403'd.
 
 **Artifacts:** episodes/016, 017; SCRIPT_STYLE.md, SKILL.md (length);
 queue.md (016 done, 017 part one, Orwell series); STATE.md; this entry.
+
+## [2026-08-26] — 018 Seeing Like a State Part Two, 019 Politics and the English Language
+
+**Decisions:** 018: collectivisation opened via Campbell's Montana farm and
+Lenin's Taylorism (from knowledge of the book), legibility-for-appropriation
+as the driver, private plots as the illegible remainder; ujamaa via Scott's
+own figure (at least five million moved, 1973–76, verified by search) with
+the colonial precedent; mētis (harbour pilot, oak leaf/squirrel's ear); the
+four rules read as prescribing rules and as the reverse of the four
+conditions; case against from Tauger (H-Net 1999, harvests omitted), Scott
+Alexander (dice stacked; Green Revolution; mētis vs resistance), DeLong vs
+Farrell on Hayek (Crooked Timber fetched), Laitin; a closing "lean" chapter
+applying 015's Orwell audit to Scott himself. 019: rules conceded in full
+(Pullum's 26% vs ~17% passives, Zwicky/Strunk provenance, Elimination of
+the Fittest; Poole "most wildly overrated"; Ed Smith's misleading
+simplicity), mechanism defended: the sentence that cannot be checked; the
+euphemism list removes the image, not the information; the blank-discs hack
+as the organization man at sentence level. Two worked cases: a constructed
+clinical note and a constructed grant paragraph, both flagged as
+constructed. Chapter on the shelf's own lint as an Orwellian instrument.
+Sign-off → Shooting an Elephant.
+
+**Verification:** Orwell quotes verified against the Foundation text (soft
+snow; lies truthful/murder respectable; the self-admission; the
+pacification list; Ecclesiastes parody). Pullum count from Language Log
+(p=2922: "more than 20 percent"; the 26%/17% figures from the search
+summary of his passive_loathing paper). Poole and Smith quotes via search
+summaries, attributed. Wikipedia's ujamaa figure (11 million) conflicts
+with Scott's "at least five million"; the episode uses Scott's, attributed
+to him. Tauger's review page 403'd; his argument taken from the H-Net search
+summary and his title. Campbell/Gigant details from memory of the book.
+
+**Artifacts:** episodes/018, 019; queue.md; STATE.md; this entry.

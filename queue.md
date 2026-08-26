@@ -39,7 +39,7 @@
 - [ ] Seeing Like a State (James C. Scott) — TWO PARTS. Part One done as
   017, 26 Aug 26 (forestry, legibility: surnames/metric/cadastre/grid + the
   Dutch registers, high modernism + the four conditions, Haussmann, Plan
-  Voisin, Jacobs, Brasília/Holston). **Part Two promised by 017's sign-off**:
+  Voisin, Jacobs, Brasília/Holston). Part Two done as 018, 26 Aug 26:
   Soviet collectivisation, Tanzanian ujamaa villagisation (1973–76), mētis,
   and the case against — DeLong 1999 (Scott as unwitting Hayekian), Scott
   Alexander's SSC review (dice stacked against high modernism; Green
@@ -107,7 +107,8 @@ the constellation (three short papers staged as rediscovery).
   instrument, the Lenin's Heir banquet passage as the tell, Orwell's own
   "democratise or perish" forecast scored by his own method (45-year horizon),
   Milanovic (2024) vs Lyons/Francis revival as the reception pass.
-- [ ] Orwell, "Politics and the English Language" (1946) — only worth doing for
+- [x] Orwell, "Politics and the English Language" (1946) — done as 019; see the
+  Orwell series below. Original scoping note: only worth doing for
   the case against: Geoffrey Pullum on its unoriginality, its unfollowable
   rules, and Orwell's own roughly twenty-six percent passive transitives against
   a typical seventeen. Thesis to delay: the mechanism is true though the essay
@@ -131,12 +132,16 @@ the reception pass is where the work goes. Length per the recalibrated target
 reception have to be substantial, not the summary. Candidates, roughly in
 the order they earn a slot; selection open to Kevin:
 
-- [ ] Shooting an Elephant (1936) — the crowd decides for the man with the
-  gun; the shelf's power-without-an-address frame from below. Pair with A
-  Hanging (1931).
-- [ ] Politics and the English Language (1946) — already scoped above: the
-  case against is Pullum (unoriginal rules, Orwell's own passives); thesis
-  to delay: the mechanism is true though the essay is bad.
+- [ ] Shooting an Elephant (1936) — PROMISED by 019's sign-off. The crowd
+  decides for the man with the gun; the shelf's power-without-an-address
+  frame from below. Pair with A Hanging (1931). Reception: the did-it-happen
+  dispute (Crick, Shelden; the 1926 Moulmein elephant record).
+- [x] Politics and the English Language (1946) — done as 019, 26 Aug 26.
+  Rules conceded to Pullum (26% vs 17% passives; Zwicky/Strunk 1918;
+  Elimination of the Fittest), Poole, Ed Smith; mechanism (the sentence that
+  cannot be checked; euphemism removes the image not the information)
+  defended; clinical-note and constructed grant-paragraph as worked cases.
+  019's sign-off promises Shooting an Elephant.
 - [ ] Notes on Nationalism (1945) — nationalism as a habit of mind
   (classifying humanity like insects, indifference to reality, transferred
   nationalism); the identity-dose warning in Orwell's own words.
