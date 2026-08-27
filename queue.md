@@ -132,10 +132,16 @@ the reception pass is where the work goes. Length per the recalibrated target
 reception have to be substantial, not the summary. Candidates, roughly in
 the order they earn a slot; selection open to Kevin:
 
-- [ ] Shooting an Elephant (1936) — PROMISED by 019's sign-off. The crowd
-  decides for the man with the gun; the shelf's power-without-an-address
-  frame from below. Pair with A Hanging (1931). Reception: the did-it-happen
-  dispute (Crick, Shelden; the 1926 Moulmein elephant record).
+- [x] Shooting an Elephant (1936) — done as 020, 27 Aug 26. Paired with A
+  Hanging (1931, the same trap with the audience removed and a schedule in
+  its place: the puddle-step, the dog, the "Ram! Ram!" cry silenced by the
+  lever rather than by anyone's decision). Steelman via Hitchens (Why Orwell
+  Matters) and the Whyte/Jackall/Burnham callbacks (obedience surviving
+  disbelief, the reversed chain of command). Case against: the did-it-happen
+  dispute (Crick's missing record; Davison's George Stuart interview and the
+  Rangoon Gazette's Major E. C. Kenny item) and Malreddy's postcolonial
+  reading (imperialist shame vs. indigenous guilt; the crowd as undifferentiated
+  "yellow faces"). Sign-off promises Notes on Nationalism.
 - [x] Politics and the English Language (1946) — done as 019, 26 Aug 26.
   Rules conceded to Pullum (26% vs 17% passives; Zwicky/Strunk 1918;
   Elimination of the Fittest), Poole, Ed Smith; mechanism (the sentence that
