@@ -44,7 +44,7 @@ What carries importance instead — the tools the greats actually use:
    the payoff. The listener's own act of recognition is the announcement.
 
 No exceptions: "load-bearing", "the point is", "that is where the difference
-lies" and their cousins are narrator-grading moves and are banned in every
+lies", "this is where the pause carries weight" (27 Aug 26) and their cousins are narrator-grading moves and are banned in every
 domain (Kevin, 26 Aug 26: these "Claude-isms" are what makes the audio
 off-putting). The full list lives in `scripts/lint_script.py`; a technical
 crux is carried by dwell time and placement like everything else.
@@ -85,8 +85,9 @@ they earn attention; the two or three central ideas each carried by a worked
 example; the steelman before the case against; the case against stated hard;
 connection to the series' running frames (Rao's pyramid, Jackall's blame
 hydraulics, Davies's sinks — as they genuinely apply); a verdict with reading
-prescription and dose; one generative question the listener can carry into work
-on Monday (application, not recall); "Next time, X"; "Thanks for listening."
+prescription and dose; one generative question the listener can carry into the
+next working week (application, not recall) — never labelled "the question for
+Monday" or any fixed formula; Kevin, 27 Aug 26: the recurring phrase grates; "Next time, X"; "Thanks for listening."
 
 ## Writing for retention (single listen, no rewind)
 

@@ -1,6 +1,19 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (27 Aug 2026)
+## Snapshot (27 Aug 2026, day)
+
+Twenty-four episodes (000 test + 001–023). The Routine shipped 020 Shooting
+an Elephant at 06:17 UTC; the same morning Kevin found the feed "too cynical
+and dark", so 021–023 open a four-episode **antidote season** on being a
+good manager: 021 Exit, Voice, and Loyalty (~4,600 words), 022 Governing
+the Commons (~4,700), 023 High Output Management (~4,550); all lint clean.
+023's sign-off promises **Christensen, How Will You Measure Your Life?**
+(024, fourth antidote; brief in queue.md) – next for the Routine. Notes on
+Nationalism is deferred, not dropped. Two new charter rules today: the
+closing question is never labelled "for Monday", and narrator-staging
+phrases ("this is where the pause carries weight") joined the lint list.
+
+## Previous snapshot (27 Aug 2026, Routine)
 
 Twenty-one episodes (000 test + 001–020). 020 Shooting an Elephant
 (5,059 words, lint clean) written unattended by the weekday Routine 27 Aug,

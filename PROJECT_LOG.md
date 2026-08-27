@@ -574,3 +574,28 @@ the template so future runs do not have to resolve the conflict themselves.
 **Artifacts:** episodes/020-shooting-an-elephant.md (5,059 words, lint
 clean); queue.md (020 ticked with case-against detail); this entry;
 STATE.md snapshot.
+
+## [2026-08-27] — Antidote season: 021 Hirschman, 022 Ostrom, 023 Grove
+
+**Decisions:** Kevin: feed too cynical/dark → four antidote episodes on good
+management (Hirschman, Ostrom, Grove, then Christensen at his suggestion).
+Notes on Nationalism deferred (021 says so in-episode; 020 not edited).
+"Question for Monday" formula dropped from the charter and linted. New lint
+tics for narrator staging ("carries weight", "the pause", "this is where",
+"heavy lifting", "the tell", etc.). 023's sign-off points to Christensen;
+024 should point to the measurement constellation, not Orwell.
+**Traps & dead ends:** Drafted as 020–022 before noticing the Routine had
+already pushed 020 that morning; push rejected, rebase conflicted, reset to
+origin/main and renumbered. Check `git fetch` + `ls episodes` BEFORE
+numbering on any day the Routine runs. Inline heredoc Python with quotes
+broke again; edit scripts go through the Write tool to the scratchpad.
+Chapter headings count toward the 40-word echo window.
+**Open questions:** Christensen 024 not yet written (AFK, Routine). Episodes
+still 4,500–4,700 words vs the 5,000 floor (AFK). Kevin listen-through of
+021–023 (HITL).
+**Artifacts:** Created episodes/021–023; Modified scripts/lint_script.py,
+SCRIPT_STYLE.md, queue.md, STATE.md.
+**Context:** Reception verified by web search: Barry 1974 / Dowding 2000;
+Agrawal 2001, Cox–Arnold–Villamayor-Tomás 2010, Araral 2014; Grove's
+Hersey–Blanchard debt. Le Grand / Cooper NHS material, Ostrom lab and Lam
+1998, and the Grove memory-exit / Pentium stories are from training knowledge.

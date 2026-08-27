@@ -56,9 +56,10 @@
 - [ ] Impro (Keith Johnstone)
 
 ## Antidotes
-- [ ] Exit, Voice, and Loyalty (Albert Hirschman)
-- [ ] Governing the Commons (Elinor Ostrom)
-- [ ] High Output Management (Andy Grove)
+- [x] Exit, Voice, and Loyalty (Albert Hirschman) — done as 021, 27 Aug 26 (first of the four-episode antidote season, Kevin: feed too cynical/dark; Nigerian railway, connoisseurs, lazy monopoly, loyalty as brake, Le Grand's NHS choice reform, Barry 1974 / Dowding 2000, the 1993 East Germany self-correction).
+- [x] Governing the Commons (Elinor Ostrom) — done as 022, 27 Aug 26 (Hardin, Törbel, Valencia tribunal, Alanya vs Bodrum, Ostrom–Gardner–Walker lab, Lam 1998 Nepal canals, eight principles; Agrawal / Cox 2010 / Araral 2014).
+- [x] High Output Management (Andy Grove) — done as 023, 27 Aug 26 (breakfast factory, leverage, one-on-one, TRM as the Peter answer, paired indicators, 1985 memory exit + Pentium bug; Hersey–Blanchard, no-authority-in-hospitals, post-Grove Intel). 023's sign-off promises Christensen.
+- [ ] How Will You Measure Your Life? (Clayton Christensen, 2012; HBR 2010) — PROMISED by 023's sign-off; fourth antidote, Kevin's request 27 Aug 26. Management as a noble profession; deliberate vs emergent strategy; resource allocation as the real strategy; the 100%-vs-98% marginal-cost rule; Herzberg; the Grove/Celeron story. Reception: Lepore 2014 on disruption; preachiness. Sign-off should promise the measurement constellation (Ridgway/Goodhart/Campbell), NOT Notes on Nationalism, to keep the tone up.
 
 ## Coda
 - [ ] Venkatesh Rao's later work (Breaking Smart, premium mediocre, Be Slightly Evil)
@@ -148,7 +149,7 @@ the order they earn a slot; selection open to Kevin:
   cannot be checked; euphemism removes the image not the information)
   defended; clinical-note and constructed grant-paragraph as worked cases.
   019's sign-off promises Shooting an Elephant.
-- [ ] Notes on Nationalism (1945) — nationalism as a habit of mind
+- [ ] Notes on Nationalism (1945) — was promised by 020's sign-off; 021 deferred it explicitly (antidote season first). — nationalism as a habit of mind
   (classifying humanity like insects, indifference to reality, transferred
   nationalism); the identity-dose warning in Orwell's own words.
 - [ ] The Prevention of Literature (1946) + Inside the Whale (1940) — the

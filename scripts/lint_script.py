@@ -50,6 +50,15 @@ TICS = [
     r"\bthe honest (answer|take|version)\b", r"\bhonest take\b", r"\bstated fairly\b",
     r"\bthat's the unlock\b", r"\bsmoking gun\b", r"\bbelt and suspenders\b",
     r"\bdelve\b", r"\bunderscore\b", r"\btapestry\b", r"\bnuanced\b", r"\bpivotal\b",
+    # narrator staging his own drama (Kevin, 27 Aug 26: "this is where the pause carries weight")
+    r"carr(y|ies|ied) (the |its |real |a lot of )?weight", r"the pause", r"pause (here|there|on)",
+    r"(this|here) is where", r"heavy lifting", r"does a lot of",
+    r"hard to overstate", r"cannot be overstated", r"the tell", r"the trick is",
+    r"the move (here|is)", r"what makes this", r"read that again", r"say it again",
+    r"the quiet (part|truth|fact)", r"at bottom", r"in the end,", r"the (deep|deeper) (story|truth)",
+    r"worth.{0,12}(pausing|dwelling|lingering|noticing)", r"dwell on (this|that)",
+    r"the weight of (that|this|the)", r"land(s|ed)? (hard|differently)",
+    r"(for|on|into|by) Monday", r"Monday",
     r"—",
 ]
 
