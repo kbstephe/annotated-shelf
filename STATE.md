@@ -1,6 +1,17 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (26 Aug 2026, late)
+## Snapshot (27 Aug 2026)
+
+Twenty-one episodes (000 test + 001–020). 020 Shooting an Elephant
+(5,059 words, lint clean) written unattended by the weekday Routine 27 Aug,
+paired with A Hanging as the same trap with the audience swapped for a
+schedule; case against covers the did-it-happen dispute (Crick, Davison)
+and Malreddy's postcolonial reading. 020's sign-off promises **Notes on
+Nationalism** (Orwell series, item 3) – next for the Routine. Local `main`'s
+branch ref was stale at session start for the second time running (see
+Decisions below); worth a permanent fix if it recurs a third time.
+
+## Previous snapshot (26 Aug 2026, late)
 
 Twenty episodes (000 test + 001–019). 018 Seeing Like a State Part Two
 (~4,400 words) and 019 Politics and the English Language (~4,700 words)
@@ -57,8 +68,12 @@ that became 014. Repo cleaned 25 Aug (MP3 path gone, feed ordering fixed).
 - **Reception pass** for well-covered works: named critics, attributed, feeding
   case-against and verdict.
 - **En dashes, never em dashes**, in episode text.
-- **Length serves the analysis** (Kevin, 25 Aug 26): 2,800–3,600 words is the
-  target, not a ceiling; a longer episode is fine when the work needs it.
+- **Length serves the analysis** (Kevin, 25 Aug 26): word count is not a
+  ceiling; a longer episode is fine when the work needs it. Recalibrated
+  26 Aug 26: Matter reads ≈270 wpm, not the 150 first assumed, so the
+  working target is 5,000–6,500 words (SCRIPT_STYLE.md, SKILL.md), not the
+  2,800–3,600 figure from the original 25 Aug note — that figure is stale
+  and still appears in the Routine's own task template as of 27 Aug 26.
 - **Essays are a different format from books** (25 Aug 26): the essay supplies
   the mechanism, the narrator supplies the worked case. Three shapes — single
   deep read, the duel (two texts answering one question incompatibly), the
@@ -78,12 +93,14 @@ cron `0 6 * * 1-5` UTC, env Github (network Full), repo attached as a source.
 Reads the last sign-off, writes the next episode, pushes to main; the Build
 site Action does the rest. No notifications. If an expected episode is
 missing, read `pipeline.log` on main (one line per failed run). Two live runs
-passed: 25 Aug 13:38 UTC (episode 013) and 26 Aug (episode 014, this session).
-History of the two false diagnoses from the first run is in PROJECT_LOG 25 Aug
-entries. 26 Aug's run found local `main` on a detached HEAD with the branch
-ref stale by six commits at session start (leftover from how the environment
-had checked the repo out, not a pipeline bug); fast-forwarding the ref fixed
-it before the pre-flight check.
+passed: 25 Aug 13:38 UTC (episode 013), 26 Aug (episode 014), and 27 Aug
+(episode 020, this session). History of the two false diagnoses from the
+first run is in PROJECT_LOG 25 Aug entries. Both 26 Aug and 27 Aug found
+local `main`'s branch ref stale at session start (six commits, then twenty),
+a leftover from how the environment checks the repo out, not a pipeline
+bug; `git update-ref refs/heads/main <current-commit>` before the pre-flight
+dry-run push has fixed it cleanly both times. If it recurs a third time,
+worth a standing fix rather than a per-session workaround.
 
 ## Open questions
 
@@ -92,14 +109,16 @@ it before the pre-flight check.
   in queue.md, selection is Kevin's.
 - (HITL) Scott Alexander best-of series: canon selection is Kevin's call
   before any episode is written (parked in queue.md).
-- (HITL) Orwell series order: 019's sign-off commits to Shooting an Elephant;
-  the rest of the nine-candidate order in queue.md is a proposal.
-- (HITL) Judge 016–019 in Matter: do the longer episodes (16–20 min) land
+- (HITL) Orwell series order: 020's sign-off commits to Notes on Nationalism;
+  the rest of the candidate order in queue.md is a proposal.
+- (HITL) Judge 016–020 in Matter: do the longer episodes (16–20 min) land
   right, or push toward the 6,500 ceiling?
-- (AFK) 017–019 sit a little under the 5,000-word floor; the Routine should
-  aim higher on Shooting an Elephant.
 - (AFK) Lint is regex-only; sentence-shape tics ("It is not A. It is B.",
   anaphora runs) still need the manual pass.
+- (AFK) The Routine's own outer task template still states a 2,800–3,600
+  word target that contradicts this file's 26 Aug recalibration; worth
+  updating the template directly so future runs do not have to resolve the
+  conflict themselves each time.
 
 ## Out of scope
 

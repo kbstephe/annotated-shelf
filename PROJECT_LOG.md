@@ -514,3 +514,63 @@ HITL; word floor and sentence-shape tics AFK).
 SKILL.md, build.yml, queue.md, STATE.md.
 **Context:** Episodes 001–011 deliberately left with their echoes and tics
 (Kevin has listened through Machiavellians); 012–019 are lint clean.
+
+## [2026-08-27] — 020 Shooting an Elephant (unattended weekday Routine)
+
+**Decisions:** Local `main` branch ref was found stale by twenty commits at
+session start (HEAD was detached and current, but the `main` branch pointer
+itself lagged) — the same class of issue as 26 Aug's six-commit lag, now
+twenty; fixed with `git update-ref` before the pre-flight dry-run push, same
+fix as last time. 020 written at 5,059 words (the STATE/SCRIPT_STYLE
+5,000–6,500 target, not the leaner 2,800–3,600 figure that ships in the
+Routine's own task template — the repo's dated recalibration from Kevin's
+actual listening feedback took precedence over the template's stale number).
+Structure: cold open a constructed defensive-medicine vignette (flagged),
+then Blair's five Burma years, the elephant essay's plot beat by beat (the
+"must" state, the two-thousand-strong crowd, the mask/hollow-dummy lines),
+paired with the earlier A Hanging as the same trap with the audience swapped
+for a schedule (the puddle-step, the dog, the "Ram!" cry silenced by the
+lever rather than by anyone's decision). Steelman via Hitchens's "sadist or
+automaton" worry and obedience-that-survives-disbelief, set against Whyte's
+believing organization man; Jackall's look-up-and-look-around and Burnham's
+power worship read in reverse geometry (officer reading the crowd, not the
+crowd reading the officer). Case against in two parts: the did-it-happen
+dispute (Crick's missing record, Davison's George Stuart/Katha-transfer
+interview and the Rangoon Gazette's Major E. C. Kenny item) and Pavan Kumar
+Malreddy's postcolonial reading (imperialist shame vs. indigenous guilt; the
+crowd as undifferentiated "yellow faces"; Orwell's own "invariably the case
+in the East" line as evidence against himself). Sign-off promises Notes on
+Nationalism, the next unchecked Orwell candidate in queue.md.
+
+**Verification:** All quotes from Shooting an Elephant and A Hanging fetched
+and checked against orwell.ru and orwellfoundation.com full texts this
+session (the mask/hollow-dummy/absurd-puppet lines, the death sequence, the
+"glad the coolie had been killed" and "solely to avoid looking a fool"
+closers; the puddle-step, the dog, the "Ram! Ram!" cry, the final "hundred
+yards away"). Crick's skepticism, Davison's Stuart interview and Rangoon
+Gazette find, and Shelden's Moulmein dates confirmed via Wikipedia's sourced
+account. Hitchens's "sadist or automaton" reading and the "hated it more
+bitterly" line confirmed via search summaries of Why Orwell Matters, both
+attributed rather than block-quoted at length. Malreddy's authorship of
+"Imperialist shame and indigenous guilt" (European Journal of English
+Studies, 2019) confirmed via Semantic Scholar after the publisher page
+403'd. Emma Larkin's "unintended trilogy" framing and the Burmese Days
+libel/name-change detail are from solid general knowledge, not
+re-verified by search this session, and are flagged here as such.
+
+**Traps & dead ends:** Local `main` was on a stale branch ref again (see
+Decisions); STATE.md's "overnight pipeline" note from 26 Aug already
+diagnoses this as an artifact of how the environment checks the repo out,
+not a pipeline bug, and the same `git update-ref` fix applied cleanly.
+tandfonline.com 403'd on the Malreddy paper; Semantic Scholar had the
+author name instead.
+
+**Open questions:** (HITL) Orwell series order beyond Notes on Nationalism
+is still a proposal in queue.md, Kevin's to confirm or reorder. (AFK) The
+Routine's own outer task template still states a 2,800–3,600 word target
+that contradicts STATE.md's dated 5,000–6,500 recalibration; worth updating
+the template so future runs do not have to resolve the conflict themselves.
+
+**Artifacts:** episodes/020-shooting-an-elephant.md (5,059 words, lint
+clean); queue.md (020 ticked with case-against detail); this entry;
+STATE.md snapshot.
