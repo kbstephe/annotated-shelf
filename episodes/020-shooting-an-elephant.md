@@ -1,5 +1,5 @@
 ---
-title: "Shooting an Elephant: The Man in the Mask"
+title: "Orwell, Shooting an Elephant: a man captured by his audience"
 description: "Orwell's 1936 Burma essay read as the cleanest specimen ever written of an actor captured by his own audience, paired with the earlier 'A Hanging' and set against the dispute over whether either one really happened."
 ---
 

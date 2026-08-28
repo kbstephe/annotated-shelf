@@ -1,5 +1,5 @@
 ---
-title: "How Will You Measure Your Life: The Last Class"
+title: "How Will You Measure Your Life (Christensen): strategy, allocation, and the 98 percent rule"
 description: "Clayton Christensen's 2012 book as the fourth and final antidote – the ten minutes Andy Grove wouldn't give him, resource allocation as a life's real strategy, Herzberg's noble profession, the Sunday basketball game and the ninety-eight percent rule, jobs-to-be-done applied to a marriage, and the case against: Jill Lepore's assault on the parent theory and a book that never turns its own tools on itself."
 ---
 

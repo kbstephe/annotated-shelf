@@ -1,5 +1,5 @@
 ---
-title: "The Machiavellians, Part One: What Political Talk Is For"
+title: "The Machiavellians (Burnham) 1 of 2: Machiavelli, Mosca, Pareto, Sorel"
 description: "Part one of two on James Burnham's 1943 rehabilitation of the elite theorists – Dante's pamphlet in disguise, Machiavelli's scandalous honesty, Mosca's ruling class, Pareto's reasons that come second, and Sorel's myth."
 ---
 

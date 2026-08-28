@@ -1,5 +1,5 @@
 ---
-title: "The Organization Man, Part One: The Man Who Believed"
+title: "The Organization Man (Whyte) 1 of 3: the Social Ethic and personality tests"
 description: "Part one of three on William Whyte's postwar classic: the Social Ethic, the Park Forest fieldwork, the personality-test machinery, and the Fortune editor who taught America's middle managers to cheat."
 ---
 

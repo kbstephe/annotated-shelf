@@ -1,5 +1,5 @@
 ---
-title: "Second Thoughts on James Burnham: Orwell Audits a Forecaster"
+title: "Orwell, Second Thoughts on Burnham: how to tell a forecaster from a fan"
 description: "Orwell's 1946 essay read as a method for telling a forecaster from a fan, with the twist that Orwell's own prediction at the end of it took forty-five years to come in."
 ---
 

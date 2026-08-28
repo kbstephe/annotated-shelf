@@ -1,5 +1,5 @@
 ---
-title: "Bullshit Jobs: The Work Nobody Would Miss"
+title: "Bullshit Jobs (Graeber): five types, and the two surveys that disagree"
 description: "David Graeber's 2018 book on paid work that even the worker cannot justify – the five types, managerial feudalism, the polls that launched it, and the two surveys that later disagreed about whether any of it is real."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Seeing Like a State, Part Two: The Farm, the Village, and the Knowledge That Would Not Write Down"
+title: "Seeing Like a State (Scott) 2 of 2: collectivisation, ujamaa, metis, and the critics"
 description: "Part two of two on James C. Scott's book – Soviet collectivisation and Tanzanian villagisation as the four conditions met in full, mētis as the name for what they destroyed, the four rules Scott offers instead, and the critics who think he stacked the deck."
 ---
 

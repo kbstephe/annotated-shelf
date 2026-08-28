@@ -1,5 +1,5 @@
 ---
-title: "Politics and the English Language: The Essay Everyone Quotes"
+title: "Orwell, Politics and the English Language: the six rules and the linguists against them"
 description: "Orwell's 1946 essay read against the linguists who think it is nonsense – the six rules and their failures, the passive-voice count that embarrasses him, and the case that the mechanism is true even though the essay is bad."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Parkinson's Law: The Growth That Needs No Work"
+title: "Parkinson's Law: why administration grows regardless of the work"
 description: "C. Northcote Parkinson's deadpan discovery that administration grows by its own laws – the Admiralty numbers, the two engines of multiplication, the bicycle shed, and why everyone laughed and no one acted."
 ---
 

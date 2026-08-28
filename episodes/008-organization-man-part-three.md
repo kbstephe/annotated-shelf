@@ -1,5 +1,5 @@
 ---
-title: "The Organization Man, Part Three: The Wife, the Curriculum, and the Exit"
+title: "The Organization Man (Whyte) 3 of 3: the corporate wife, the college, and Whyte's exit"
 description: "A third part on Whyte, for the material the first two compressed: the corporation's claim on the marriage, the retooling of the American college, what Friedan found at the same addresses, and how Whyte himself got out."
 ---
 

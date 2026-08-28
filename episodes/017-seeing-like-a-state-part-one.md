@@ -1,5 +1,5 @@
 ---
-title: "Seeing Like a State, Part One: The Forest, the Surname, and the City From the Air"
+title: "Seeing Like a State (Scott) 1 of 2: legibility, high modernism, planned cities"
 description: "Part one of two on James C. Scott's 1998 book – how a state makes the world readable to itself, why the reading is always a simplification, and what happened when the simplifications were built in timber, in tax rolls, and in concrete on a Brazilian plateau."
 ---
 

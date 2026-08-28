@@ -1,5 +1,5 @@
 ---
-title: "High Output Management: What a Manager Actually Makes"
+title: "High Output Management (Grove): leverage, one-on-ones, and what a manager produces"
 description: "Andy Grove's 1983 manual as the third antidote – the breakfast factory, the limiting step, leverage, the one-on-one, task-relevant maturity as the answer to the Peter Principle, paired indicators, and why the book reads like a factory floor because it came from one."
 ---
 

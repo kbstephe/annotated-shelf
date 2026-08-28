@@ -1,5 +1,5 @@
 ---
-title: "Governing the Commons: The Woman Who Went and Looked"
+title: "Governing the Commons (Ostrom): how communities run shared resources without the state"
 description: "Elinor Ostrom's 1990 book as the second antidote – Hardin's tragedy, the Swiss village that has grazed one alp since 1483, the Valencia water court, the fisheries that failed, the eight design principles, and what a hospital's shared things have in common with a pasture."
 ---
 

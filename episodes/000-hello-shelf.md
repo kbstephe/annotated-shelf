@@ -1,5 +1,5 @@
 ---
-title: "Episode Zero: Testing the Machine"
+title: "Episode 0: pipeline test (skip)"
 description: "A sixty-second smoke test of the Annotated Shelf pipeline."
 ---
 

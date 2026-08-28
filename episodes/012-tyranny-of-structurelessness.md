@@ -1,5 +1,5 @@
 ---
-title: "The Tyranny of Structurelessness: Power Without an Address"
+title: "The Tyranny of Structurelessness (Freeman): where power goes in leaderless groups"
 description: "Jo Freeman's nineteen seventy essay on where power goes when a group abolishes its offices – the friendship elite, the star system, the trashing that came for her afterward, and why the iron law arrives faster without a ballot."
 ---
 

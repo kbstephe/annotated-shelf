@@ -1,5 +1,5 @@
 ---
-title: "The Organization Man, Part Two: The Managerial Revolution"
+title: "The Organization Man (Whyte) 2 of 3: Burnham's Managerial Revolution and Orwell's rebuttal"
 description: "Part two of three: James Burnham's wartime claim that managers were becoming the world's ruling class, Orwell's demolition of it, and the verdict on the pair of diagnoses the whole shelf descends from."
 ---
 

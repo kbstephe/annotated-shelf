@@ -1,5 +1,5 @@
 ---
-title: "The Utopia of Rules"
+title: "The Utopia of Rules (Graeber): why deregulation makes more paperwork"
 description: "David Graeber's 2015 essay collection on bureaucracy, structural violence, and the death of the future – why deregulation always produces more paperwork, why rules feel like a relief to the people who don't have to interpret anyone, and what a Batman movie has to do with any of it."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Exit, Voice, and Loyalty: What to Do When a Place You Belong to Gets Worse"
+title: "Exit, Voice, and Loyalty (Hirschman): what to do when your institution declines"
 description: "Albert Hirschman's 1970 book as the first of four antidotes to the shelf's cynical season – the Nigerian railway, the lazy monopoly, loyalty as a brake, the East German test that broke his own theory, and what a ward loses when its best nurses leave without a word."
 ---
 

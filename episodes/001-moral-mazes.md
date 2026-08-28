@@ -1,5 +1,5 @@
 ---
-title: "Episode One: Moral Mazes, or the Bureaucratic Ethic"
+title: "Moral Mazes (Jackall): the rules managers actually live by"
 description: "Robert Jackall went into two American corporations the way an anthropologist goes up a river, and came back with the rules managers actually live by. The founding text of the cynical core."
 ---
 

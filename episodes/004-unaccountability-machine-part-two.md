@@ -1,5 +1,5 @@
 ---
-title: "The Unaccountability Machine, Part Two: The Machine That Decides"
+title: "The Unaccountability Machine (Davies) 2 of 3: Stafford Beer's cybernetics and why economists get blamed"
 description: "Part two of three on Dan Davies's book: Stafford Beer's cybernetics rebuilt for the ear – variety, POSIWID, the five systems a viable organization needs, and why the economists get the blame."
 ---
 

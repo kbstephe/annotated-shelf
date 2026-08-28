@@ -1,5 +1,5 @@
 ---
-title: "The Unaccountability Machine, Part Three: Repairing the Feedback"
+title: "The Unaccountability Machine (Davies) 3 of 3: repair, critics, and verdict"
 description: "The final part on Dan Davies's book: what repair would actually take, the critics given their full say, the synthesis with Rao and Jackall extended, and a verdict with a dose."
 ---
 

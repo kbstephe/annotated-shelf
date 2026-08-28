@@ -1,5 +1,5 @@
 ---
-title: "The Unaccountability Machine, Part One: The Sink"
+title: "The Unaccountability Machine (Davies) 1 of 3: the accountability sink"
 description: "The first of three parts on Dan Davies's book: the accountability sink walked slowly – squirrels at Schiphol, a conference desk, the Post Office, and the question of who is holding the override."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "The Unaccountability Companion: Dan Davies, from Lying for Money to the Accountability Sink"
+title: "Dan Davies primer: Lying for Money, accountability sinks, and the Gervais Principle"
 description: "An analysis of Dan Davies's body of work — Lying for Money, The Unaccountability Machine, and the Back of Mind newsletter — synthesized with Rao's Gervais Principle: sinks as industrialized HIWTYL, the clueless middle as the sink's human interface, and Powertalk as the unattenuated channel."
 ---
 

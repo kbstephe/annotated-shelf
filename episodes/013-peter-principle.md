@@ -1,5 +1,5 @@
 ---
-title: "The Peter Principle: Where Competence Runs Out"
+title: "The Peter Principle: promotion to incompetence, and the data that proved it"
 description: "Laurence Peter and Raymond Hull's 1969 satire on the last promotion everyone eventually gets – hierarchiology's mock science, the sales-floor data that later proved the joke true, and the one individual-level antidote the book actually offers."
 ---
 

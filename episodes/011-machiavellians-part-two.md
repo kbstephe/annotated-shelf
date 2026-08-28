@@ -1,5 +1,5 @@
 ---
-title: "The Machiavellians, Part Two: The Iron Law and the Defense of Freedom"
+title: "The Machiavellians (Burnham) 2 of 2: Michels' iron law of oligarchy, and the verdict"
 description: "Part two of two on Burnham's elite theorists: Michels's iron law of oligarchy proven inside his own party, Burnham's case that liberty comes from fighting minorities, the school's compromised afterlife, and the verdict."
 ---
 
