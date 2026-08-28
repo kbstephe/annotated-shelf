@@ -728,3 +728,14 @@ a Write-tool script.
 aside density is right is his call. (AFK) The Routine template's word
 target still conflicts with the charter (fourth run). Next for the Routine:
 Normal Accidents.
+
+**Decisions (of record, this session):** (1) Episode titles are plain
+"Book (Author): what you'll hear"; no more creative titles. (2) BLOOM is
+the applied frame where advice lands, one aside max, never a standing
+segment (SCRIPT_STYLE). (3) Big topics get split rather than compressed:
+the constellation went to two parts on Kevin's "seems like a lot"; the
+feed's purpose is insight he can use at work, so the practical half (what
+to do) is never the part that gets cut. (4) Under-floor word counts (027,
+028 at ~4.1k) are acceptable when the chain ends; deepen with a new
+worked chapter, never pad.
+
