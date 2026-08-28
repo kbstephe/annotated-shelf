@@ -1,6 +1,23 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (28 Aug 2026, Routine)
+## Snapshot (28 Aug 2026, day)
+
+Twenty-nine episodes (000 test + 001–028). Kevin's session today: (1) all
+25 titles renamed to a plain "Book (Author): what you'll hear" form, since
+the creative titles didn't let him pick; (2) SCRIPT_STYLE gained the
+**BLOOM applied-frame rule** (land a book's advice on the distance-run
+counselling programme when it lands anywhere, one aside at most, never a
+standing segment, PHI-free); (3) two more Grove episodes at his request —
+025 Only the Paranoid Survive (5,049 words) and 026 Grove on medicine
+(4,948) — and the measurement constellation **split into two parts** at his
+prompting: 027 the law found three times (4,185) and 028 targets, gaming
+and how to keep a number honest (4,075), the latter with a full worked
+chapter on a programme run on forms. All four lint clean. 024's sign-off
+was re-pointed to 025 (slug unchanged, GUID stable). 028's sign-off
+promises **Normal Accidents (Perrow)** – next for the Routine. Kevin's
+stated goal for the feed: insight he can use to be better at his job.
+
+## Previous snapshot (28 Aug 2026, Routine)
 
 Twenty-five episodes (000 test + 001–024). 024 How Will You Measure Your
 Life (Christensen, 5,191 words, lint clean) written unattended by the

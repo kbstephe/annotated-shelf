@@ -684,3 +684,47 @@ conflict in the same direction rather than the template being corrected.
 **Artifacts:** episodes/024-how-will-you-measure-your-life.md (5,191 words,
 lint clean); queue.md (024 ticked, antidote season closed); this entry;
 STATE.md snapshot.
+
+## 28 Aug 2026 (day) — titles, BLOOM frame, Grove ×2, constellation ×2
+
+**Done:** Renamed all 25 episode titles to "Book (Author): what you'll
+hear" (Kevin: the creative titles didn't tell him what he'd hear; the
+title's job is to let him identify and choose). Added the BLOOM
+applied-frame rule to SCRIPT_STYLE (Kevin: BLOOM, not the hospital, is his
+hardest management situation; but "not lots of BLOOM every episode",
+advice goes there where relevant). Wrote 025 Only the Paranoid Survive, 026
+Grove on medicine, 027 + 028 the measurement constellation as a two-parter.
+Re-pointed 024's sign-off to 025. Pushed.
+
+**Verification:** Grove facts checked this session against the Fortune
+1996 cover story (PSA 5 → 6.0/6.1, 15+ physicians, HDR implant + 28
+external doses in Seattle, the fact-checker's arithmetic catch), JAMA 2005
+abstract page (Moore's-law vs war-on-cancer framing, 15–20% EHR figure,
+≈10% NIH / $2.8B biomarker ask, translational hospitals, Medicare data
+standard), Forbes Jan 2008 (Parkinson's numbers, At Home Box, Bankiewicz,
+Amgen GDNF), VentureBeat Nov 2007 (Hamilton/Vioxx), Science.org index of
+Lowe's "Rich, Famous, Smart and Wrong" and "A Note to Andy Grove" (bodies
+403'd; content from secondary summaries), Kirkus on Swimming Across,
+Commoncog on Paranoid, Fortune Oct 2025 Intel-culture reporting, CNN/
+TechTarget on Otellini–iPhone and Gelsinger. Constellation: Bevan & Hood
+2006 PDF read directly (8-minute spike, 23%→5.3%, 139/158 vs 69%, NAO 2001
+nine trusts/6,000 records, Nove 1958 "105 not 125", four motivations,
+random-audit remedy); Goodhart 1975 wording and Strathern 1997 attribution
+via Wikipedia/Chrystal-Mizen summaries; Campbell law statement and 1976/
+1979 venues via Wikipedia + ERIC; Ridgway's single/multiple/composite
+structure via the Policy & Society review. **Not verified this session,
+from training knowledge:** Ridgway's exact case list beyond Blau and
+Berliner; Seidman & Couzens as the DC source; CAST dates; QOF exception-
+reporting audit findings; Propper et al. results; HITECH ≈$25B and >90%
+adoption. All stated at the level of confidence they deserve.
+
+**Traps:** Lint first passes: 025 16 repeats/10 tics, 026 13/6, 027 8/2,
+028 15/5 — all reworded, none deleted. 027 came in at 3,510 words; added a
+"law in a white coat" chapter (CAST, QOF, citation metrics) rather than
+pad. Bash heredoc rule respected: every multi-replacement edit went through
+a Write-tool script.
+
+**Open:** (HITL) Kevin has not yet listened to 025–028; whether the BLOOM
+aside density is right is his call. (AFK) The Routine template's word
+target still conflicts with the charter (fourth run). Next for the Routine:
+Normal Accidents.

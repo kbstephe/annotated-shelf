@@ -61,6 +61,30 @@
 - [x] High Output Management (Andy Grove) — done as 023, 27 Aug 26 (breakfast factory, leverage, one-on-one, TRM as the Peter answer, paired indicators, 1985 memory exit + Pentium bug; Hersey–Blanchard, no-authority-in-hospitals, post-Grove Intel). 023's sign-off promises Christensen.
 - [x] How Will You Measure Your Life? (Clayton Christensen, 2012; HBR 2010) — done as 024, 28 Aug 26 (fourth and last antidote). The Grove/Celeron cold open verified against the original HBR article's own text; Christensen's 2007–2020 health timeline (heart attack, lymphoma, the 2010 stroke that produced the article, kidney cancer, the leukaemia that killed him) as the mortality frame; Herzberg's noble-profession vision; the Oxford purpose-hour bridging into resource allocation as a life's real (vs. deliberate) strategy, with a constructed clinician example; the tools-of-cooperation/culture model and the resources-processes-priorities outsourcing warning for children; the Sunday basketball story run to its end for the ninety-eight-percent rule, read against Jackall's managers from 001; jobs-to-be-done (the milkshake study) applied to marriage. Case against: Lepore's 2014 New Yorker critique of the parent disruption theory's evidentiary basis, Christensen's own defensive reaction to it, and reader reviews (Russell Fox, Dorthe) on the book's unexamined privilege. Sign-off promises the measurement constellation next, not Notes on Nationalism.
 
+- [x] Only the Paranoid Survive (Andy Grove, 1996) — done as 025, 28 Aug 26
+  (Kevin asked for two more Grove episodes after 023). Pentium/Nicely cold
+  open, Porter's five forces + complementors, the ten-X catalogue (containers,
+  Chaplin, Wal-Mart, patent expiry, Next, vertical-to-horizontal), memory
+  exit run to its end incl. the wafer-allocation rule that had already made
+  the decision, Cassandras, signal-vs-noise (X-ray litho, RISC), chaos/order
+  + valley of death, internet chapter. Case against: survivorship; Otellini
+  and the 2007 iPhone refusal, 2024 Gelsinger removal, 2025 US-government
+  stake + ~40k layoffs, Fortune Oct 2025 culture reporting; paranoia as a
+  doctrine with a cost. One BLOOM-shaped aside (forms that tick rather than
+  happen as the programme's inflection point). Sign-off promises Grove on
+  medicine.
+- [x] Grove on medicine (Fortune 1996 prostate cancer cover; JAMA 2005
+  "Efficiency in the Health Care Industries"; Science 2011 e-trials; SfN
+  2007 speech; Swimming Across 2001) — done as 026, 28 Aug 26. Cross-plot
+  vs confounding by indication; knowledge turns, three JAMA recommendations
+  (biomarkers ≈10% NIH, translational hospitals, Medicare-mandated data
+  standard); Parkinson's funding per Forbes Jan 2008 ($22M + $40M bequest,
+  UCSF stem cells, At Home Box, Bankiewicz/GDNF, Amgen); Derek Lowe's
+  "Andy Grove fallacy" + David Hamilton (VentureBeat, Vioxx). Scored 21
+  years on: right on records (HITECH), half-right on biomarkers, wrong on
+  the fab model, right on data-sharing/failure analysis. Sign-off promises
+  the constellation, now two parts.
+
 ## Coda
 - [ ] Venkatesh Rao's later work (Breaking Smart, premium mediocre, Be Slightly Evil)
 
@@ -75,11 +99,28 @@ the constellation (three short papers staged as rediscovery).
   25 Aug 26. Single read. Michels from inside a movement that had abolished
   elections; paired with her Trashing (Ms., Apr 1976) as the case report and
   Cathy Levine's The Tyranny of Tyranny (Black Rose 1, 1974) as the case against.
-- [ ] The measurement constellation: Ridgway, "Dysfunctional Consequences of
-  Performance Measurements" (ASQ 1(2):240–247, 1956) + Goodhart (1975) +
-  Campbell (1979). Constellation. One law discovered three times, named after
-  the last two; Ridgway had the field cases. Ashby/Davies callback; the
-  clinician material (P4P, league tables, surrogate endpoints) is native here.
+- [x] The measurement constellation — done as 027 + 028, 28 Aug 26, split in
+  two at Kevin's prompting ("seems like a lot for one episode"; goal is to
+  get better at his job). 027 = the law found three times: Blau's employment
+  office via Ridgway 1956 (single/multiple/composite), Berliner's Soviet
+  managers + the nail cartoon (flagged as folklore, not Ridgway), Goodhart
+  1975 RBA aside vs Strathern's 1997 wording (kept distinct), Campbell
+  1976/1979 (Nixon/DC $49 larcenies via Seidman & Couzens, Orlando Wilson,
+  body counts, achievement tests; trapped vs experimental administrator),
+  Kerr 1975 as the fourth, Merton as ancestor; the law in a white coat
+  (CAST 1989, QOF exception reporting, citation metrics); thesis = the
+  consequence, not the measurement, is the mechanism. 028 = Bevan & Hood
+  2006 (ratchet/threshold/output distortion, 8-minute spike, 23%→5.3%,
+  NAO 2001 nine trusts/~6,000 records, 139/158 vs 69% survey, saints /
+  honest triers / reactive gamers / rational maniacs), the two-sided ledger
+  (Propper et al.: England's waits DID fall vs the devolved nations),
+  remedies (random audit, unpredictability, second channels) + Grove's
+  pairing + Campbell's stakes/distance rules, then a full worked chapter on
+  a distance-run counselling programme on forms (paired indicator, all-
+  enrolled denominators + never-starters as their own line, histograms not
+  thresholds, random post-hoc client checks, learning vs judgement
+  numbers). Manheim & Garrabrant 2018 variants as the case against.
+  Sign-off promises Normal Accidents (Perrow).
 - [ ] Feynman's Appendix F to the Rogers Commission report (1986) vs. Vaughan's
   The Challenger Launch Decision. The duel — resolves the queued Vaughan book
   instead of adding to the list. Appendix F is US government work, public
