@@ -130,6 +130,19 @@ Monday" or any fixed formula; Kevin, 27 Aug 26: the recurring phrase grates; "Ne
   When the series ranges into philosophy or science, that same lens does the
   judging. Range works when the listener can say "of course this show would
   notice that"; it fails when each new domain resets to generic enthusiasm.
+- **Applied frame is BLOOM, not the hospital** (Kevin, 28 Aug 26): when an
+  episode tests a book against Kevin's own work, the live case is the BLOOM
+  programme he runs remotely: a maternal mental-health counselling programme
+  across ten districts of Sierra Leone, a thousand-plus women in counselling,
+  lay counsellors supervised by supervisors supervised by managers, monitored
+  through ODK forms and a dashboard, with the classic problems of that shape
+  (a large share of enrolled women who never start, forms that get ticked
+  rather than done, supervision at a distance, a small central team). That is
+  the hardest management situation he faces, so when a book's advice lands
+  somewhere concrete, land it there rather than on a ward. This is not a
+  standing segment: most episodes need no BLOOM at all, and one aside is
+  plenty when it applies. Keep it generic and PHI-free: no names, no
+  district-level figures, no individual cases.
 - Take the object dead seriously, especially a disreputable one (Rao analyzing
   a sitcom as peer literature to Whyte). Never signal "I know this is silly."
 - Numbers and acronyms written out for the ear. No formatting that cannot be
