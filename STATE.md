@@ -1,6 +1,18 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (27 Aug 2026, day)
+## Snapshot (28 Aug 2026, Routine)
+
+Twenty-five episodes (000 test + 001–024). 024 How Will You Measure Your
+Life (Christensen, 5,191 words, lint clean) written unattended by the
+weekday Routine 28 Aug, closing out the four-episode antidote season
+(021–024). 024's sign-off promises the **measurement constellation**
+(Ridgway/Goodhart/Campbell) next – next for the Routine, not Notes on
+Nationalism (still deferred, not dropped, in queue.md's Orwell series).
+Local `main`'s branch ref was stale at session start for the third session
+running (26, 27, 28 Aug); worth the standing fix STATE has flagged twice
+now rather than a fourth session-local workaround.
+
+## Previous snapshot (27 Aug 2026, day)
 
 Twenty-four episodes (000 test + 001–023). The Routine shipped 020 Shooting
 an Elephant at 06:17 UTC; the same morning Kevin found the feed "too cynical
@@ -126,12 +138,20 @@ worth a standing fix rather than a per-session workaround.
   the rest of the candidate order in queue.md is a proposal.
 - (HITL) Judge 016–020 in Matter: do the longer episodes (16–20 min) land
   right, or push toward the 6,500 ceiling?
+- (HITL) Whether the antidote season (021–024) actually lightened the feed's
+  tone for Kevin is unjudged; a listen-through would settle it, and settles
+  what the shelf turns to after the measurement constellation.
 - (AFK) Lint is regex-only; sentence-shape tics ("It is not A. It is B.",
   anaphora runs) still need the manual pass.
 - (AFK) The Routine's own outer task template still states a 2,800–3,600
-  word target that contradicts this file's 26 Aug recalibration; worth
-  updating the template directly so future runs do not have to resolve the
-  conflict themselves each time.
+  word target that contradicts this file's 26 Aug recalibration; three
+  sessions running (26–28 Aug) have now resolved the conflict the same way
+  at write time. Worth updating the template directly rather than a fourth.
+- (AFK) Local `main`'s branch ref has been stale at session start three
+  sessions running (26, 27, 28 Aug), diagnosed each time as an artifact of
+  how the environment checks the repo out rather than a pipeline bug and
+  fixed session-locally (`git update-ref` or `git checkout -B main
+  origin/main`). Worth a standing fix now rather than a fourth workaround.
 
 ## Out of scope
 

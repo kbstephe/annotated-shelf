@@ -599,3 +599,88 @@ SCRIPT_STYLE.md, queue.md, STATE.md.
 Agrawal 2001, Cox–Arnold–Villamayor-Tomás 2010, Araral 2014; Grove's
 Hersey–Blanchard debt. Le Grand / Cooper NHS material, Ostrom lab and Lam
 1998, and the Grove memory-exit / Pentium stories are from training knowledge.
+
+## [2026-08-28] — 024 How Will You Measure Your Life (unattended weekday Routine)
+
+**Decisions:** Local `main`'s branch ref was stale again at session start (HEAD
+detached and current at origin/main, but the `main` branch pointer itself
+twenty-five commits behind) — the third occurrence of this exact pattern
+(26 Aug six commits, 27 Aug twenty, 28 Aug twenty-five); fixed this time with
+`git checkout -B main origin/main` rather than `git update-ref`, since the
+working tree was clean and the local branch was a strict ancestor of origin.
+STATE.md's own open question flagged this as worth a standing fix after a
+third occurrence — noting it here rather than attempting a pipeline change
+unattended. 024 written at 5,191 words (the SCRIPT_STYLE/STATE 5,000–6,500
+target, not the 2,800–3,600 figure in the Routine's own outer task template
+this run) as the fourth and last of the antidote season, closing it out per
+023's sign-off and queue.md's brief. Structure: the Grove/Celeron cold open
+run to its actual end from the original 2010 HBR article's own text, then
+Christensen's health as an unstated frame (heart attack 2007, lymphoma late
+2009, the stroke in spring 2010 that produced the article itself, kidney
+cancer, the leukaemia that killed him in 2020) rather than a plot point the
+book itself foregrounds; the three-question class structure with the
+Patrick Chun sidebar quote for period texture; Herzberg's noble-profession
+vision; the Oxford purpose-hour bridging into resource allocation as a
+life's emergent (not deliberate) strategy, with a constructed junior-doctor
+example; the tools-of-cooperation/culture model and the
+resources-processes-priorities outsourcing warning for children; the Sunday
+basketball story run to its end for the ninety-eight-percent rule, read
+against Jackall's managers from episode 001 (marginal-cost ethics as the
+same "just this once" trade from the inside); jobs-to-be-done (the milkshake
+study) applied to marriage. Case against in two parts: Lepore's 2014 New
+Yorker critique of the parent disruption theory's evidentiary basis plus
+Christensen's own defensive reaction to it (a Businessweek quote), and
+named reader reviews (Russell Fox, Dorthe) on the book's unexamined
+privilege and traditionalism, read through the clinician's "ask for the
+denominator" lens against the book's n-of-one evidentiary problem. Sign-off
+promises the measurement constellation (Ridgway/Goodhart/Campbell), not
+Notes on Nationalism, per queue.md's instruction to keep the tone up.
+
+**Verification:** The full text of Christensen's original July–August 2010
+Harvard Business Review article was fetched as a PDF and read directly this
+session, confirming the Grove/Celeron dialogue, the Herzberg
+manager-driving-home vision, the resource-allocation and 1979-classmates
+passages, the Sunday basketball story and the ninety-eight-percent line, the
+humility-class material (not used in the episode), and the closing
+cancer/yardstick paragraph verbatim. Christensen's health timeline (2007
+heart attack, late-2009 lymphoma, 2010 stroke with expressive aphasia,
+later kidney cancer, death from treatment-related leukaemia in January 2020
+at 67) confirmed via Deseret News and Wikipedia. Jill Lepore's 2014 New
+Yorker essay and its "profound anxiety about financial collapse... and
+shaky evidence" line confirmed via search summaries of the piece and
+secondary coverage (Salon, Slate, H-Net); Christensen's own "criminal act of
+dishonesty ... at Harvard of all places" response confirmed via a
+Digital Clarity Group piece quoting his Businessweek interview (the direct
+Bloomberg source 403'd). The milkshake/jobs-to-be-done marriage quote and
+the resources-processes-priorities parenting framework are corroborated by
+multiple independent summaries (Shortform, Medium, and others) rather than
+one primary source read in full this session, and are flagged here as such.
+Russell Fox's and Dorthe's reviews were read via a Goodreads fetch this
+session, quoted directly and attributed by name.
+
+**Traps & dead ends:** First lint pass came back with 8 repeats and 14 tics
+— mostly parallel "How can I be sure..." question structure copied too
+close to the source article's own repetition, a repeated "two thousand and"
+date sequence in the health paragraph, and several banned tics ("most
+important" used three times, "load-bearing," "sharpest," "notice" as a
+verb, "which is exactly," em-dash-adjacent contrastive framing). Fixed by
+rewording each instance rather than deleting the check; used the extra
+editing pass to also deepen four chapters (Oxford purpose-hour, the
+resources-processes-priorities framework, Christensen's own reaction to
+Lepore) and bring the draft from 4,644 words up to the 5,000-word floor
+without padding by restatement.
+
+**Open questions:** (HITL) Whether the antidote season landed for Kevin
+(021–024) is still unjudged; a listen-through would settle it. (AFK) The
+stale-local-`main` issue has now recurred three sessions running (26, 27,
+28 Aug); STATE.md already flagged a standing fix as worth doing after a
+third occurrence, and this is that occurrence — worth investigating why the
+environment's checkout leaves the branch pointer behind HEAD, rather than
+re-applying the same session-local fix a fourth time. (AFK) The Routine's
+outer task template still states a 2,800–3,600 word target against
+STATE/SCRIPT_STYLE's 5,000–6,500; this is now the third run to resolve the
+conflict in the same direction rather than the template being corrected.
+
+**Artifacts:** episodes/024-how-will-you-measure-your-life.md (5,191 words,
+lint clean); queue.md (024 ticked, antidote season closed); this entry;
+STATE.md snapshot.
