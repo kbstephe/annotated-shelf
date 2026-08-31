@@ -36,7 +36,7 @@
   case against.
 
 ## Systems turn
-- [ ] Seeing Like a State (James C. Scott) — TWO PARTS. Part One done as
+- [x] Seeing Like a State (James C. Scott) — TWO PARTS. Part One done as
   017, 26 Aug 26 (forestry, legibility: surnames/metric/cadastre/grid + the
   Dutch registers, high modernism + the four conditions, Haussmann, Plan
   Voisin, Jacobs, Brasília/Holston). Part Two done as 018, 26 Aug 26:
@@ -47,8 +47,30 @@
   evidence), the 2010 Cato Unbound exchange (Boudreaux, Lee, DeLong; Scott:
   large market actors see like a state too). Verdict must carry Scott's own
   qualifier: *certain* schemes.
-- [ ] Normal Accidents (Charles Perrow)
-- [ ] The Challenger Launch Decision (Diane Vaughan)
+- [x] Normal Accidents (Charles Perrow, 1984) — done as 029, 31 Aug 26. The
+  Kemeny Commission paper as origin (Perrow prepared organizational-dimension
+  analysis for it, not a member); Three Mile Island's stuck PORV plus the
+  indicator wired to the close signal rather than the valve, and the
+  pressurizer level reading that told operators the opposite of the truth;
+  the interactive-complexity/tight-coupling matrix; the Cuyahoga/Santa Cruz II
+  non-collision-course collision run to its end (eleven dead), Lake Peigneur
+  as an ecosystem accident, Teton Dam; Perrow's own refusal to classify
+  Challenger as a normal accident (component failure plus organizational
+  decision) bridging to Vaughan's normalization of deviance. Case against:
+  the Berkeley high-reliability school (LaPorte, Rochlin, Roberts, Weick and
+  Sutcliffe's five hallmarks) and its field sites (USS Carl Vinson, ATC,
+  Diablo Canyon); Sagan's Limits of Safety as a qualified vindication;
+  Hopkins's direct challenge to the TMI classification itself; Silvast and
+  Kelman on unfalsifiability. Perrow's own 2011 Fukushima essay scoring his
+  theory against the evidence (regulatory capture, private vs. state
+  ownership) plus The Next Catastrophe's shift to reducing concentration.
+  One BLOOM-shaped aside (tight coupling as a design choice in a
+  distributed programme's own workflow, not just physics). Sign-off promises
+  the Feynman/Vaughan Challenger duel next, resolving the Vaughan queue item
+  below in that format rather than as a standalone book episode.
+- [ ] The Challenger Launch Decision (Diane Vaughan) — to be resolved as the
+  Feynman Appendix F duel described under Classic essays below, not as a
+  standalone episode. 029's sign-off commits to this next.
 
 ## Micro-mechanics
 - [ ] The Presentation of Self in Everyday Life (Erving Goffman)
