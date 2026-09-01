@@ -844,3 +844,119 @@ queue.md (Normal Accidents ticked, Seeing Like a State retroactively ticked
 since it was already done but unchecked, Vaughan item annotated as the
 Feynman duel); this entry; STATE.md snapshot.
 
+
+## [2026-09-01] — Episode 030: Feynman's Appendix F vs. Vaughan's Challenger Launch Decision
+
+**Decisions:** Wrote the duel exactly as scoped in queue.md and promised by
+029's sign-off: Feynman's Appendix F (public domain, US government work)
+against Diane Vaughan's The Challenger Launch Decision, resolving the
+queued standalone Vaughan item rather than adding a second Challenger
+episode. Structure: the Jan 27 teleconference and reversal as cold open
+with both authors' names withheld until Chapter Two, per the delay-the-
+thesis rule; Feynman's investigation (reluctant Rogers Commission seat,
+the Kutyna carburetor tip, the televised ice-water/C-clamp demonstration,
+the fight to publish Appendix F as a standalone appendix) built to a
+self-deception diagnosis; a dedicated "culture of production" chapter
+(the 1986 fifteen-flight manifest, the floated two-dozen-a-year target)
+inserted before normalization of deviance so the mechanism has a cause,
+not just a description; the O-ring erosion history's own redundancy
+argument shown surviving its best counter-evidence (the STS-51-C blow-by
+that should have retired it); the same 24 hours re-run through Vaughan's
+lens to show two sincere, incompatible readings colliding rather than one
+side lying; Roger Boisjoly as the figure both theories have to reckon
+with, worked as a genuine complication for each rather than a clean fit
+for either. One callback to Jackall (001, the first episode) on managerial
+rationality without villainy. Columbia (2003) as the closing callback:
+foam strikes on 65 of 79 missions, CAIB's "History as Cause" chapter
+citing Vaughan by name, and the "organizational culture . . . as much to
+do with this accident as the foam" line, closing on the fact that a
+vindicated theory did not stop the same pattern recurring seventeen years
+later. Verdict chapter treats the two books as complementary tools rather
+than declaring a winner, per the house rule against a false synthesis.
+Sign-off promises The Presentation of Self in Everyday Life (Goffman),
+the first unchecked item in queue.md's Micro-mechanics section, in strict
+top-to-bottom order since 029's sign-off had already resolved the
+Systems-turn item this episode closes out.
+
+**Verification:** Feynman's Appendix F quotes (the 1-in-100 vs
+1-in-100,000 estimate, the Russian-roulette line, the O-ring-erosion-as-
+clue line, and the closing "reality must take precedence over public
+relations" line) were fetched and confirmed verbatim directly from the
+primary text at nasa.gov/history/rogersrep/v2appf.htm this session, not
+taken from a summary. The Jan 27 teleconference dialogue (Hardy's "I am
+appalled," Mulloy's "when do you want me to launch, next April," and
+Mason's "take off your engineering hat") was cross-checked against
+multiple independent secondary sources (onlineethics.org's case study,
+Wikibooks' professionalism case, and general search corroboration) that
+converge on the same wording; treated at the same confidence tier the
+shelf has used before for widely-reported dialogue without a primary
+transcript in hand, and the Mason quote was trimmed to its most-quoted
+core clause rather than the fuller sentence some sources render, to stay
+under the 15-word direct-quote ceiling with less exposure to wording
+variance. The O-ring erosion history (STS-2 November 1981 origin, STS-41-B
+1984, STS-51-C January 1985 blow-by on both boosters) and Vaughan's
+normalization-of-deviance and structural-secrecy concepts were
+corroborated via MIT ESD.83 course notes, Wikibooks, and a Columbia
+Magazine profile of Vaughan; the "roughly a dozen" pre-51-L erosion
+incidents figure is a secondary-source tally (a cited NASA internal memo
+via search aggregation) rather than a page-checked count from Vaughan's
+own book, and is presented in the episode with that hedge ("something on
+the order of"). The CAIB "as much to do with this accident as the foam"
+quote and the "History as Cause" chapter title are corroborated across
+multiple independent secondary sources (space.com, Columbia Magazine,
+academic citations of CAIB Chapter 8) but a primary CAIB PDF fetch failed
+twice on file size and a 403; flagged at that confidence level rather than
+presented as a session-verified primary read. Boisjoly's biography (the
+July 1985 memo, the temperature/blow-by chart, the ostracism, the 1988
+AAAS award, his 2012 death) is corroborated via Wikipedia and a Scientist
+magazine profile; the "put my kids on your doorstep" line was paraphrased
+rather than quoted verbatim since it reached this session via a single
+secondary source. The 1986 flight manifest figures (nine flights in 1985,
+fifteen scheduled for 1986, a floated target near two dozen a year) and
+the Columbia foam-strike figure (65 of 79 missions with imagery) are
+stated from well-corroborated general Challenger/Columbia historiography;
+the H-Net review and the aerospace-reliability reanalysis of Feynman's
+numbers are both attributed by venue rather than by a specific named
+author, since the underlying documents were paywalled or too large to
+fetch directly this session.
+
+**Traps & dead ends:** A research pass (delegated to a subagent) flagged
+several claims as too thin to use: no substantive named critique of
+Feynman as a "showman" or oversimplifier turned up despite targeted
+searches, so that angle was dropped rather than asserted; the Kutyna
+"hoisted by his own petard" phrasing is folklore-level sourcing and was
+left out of the script entirely in favor of a paraphrased account of the
+carburetor scene; a claim that Feynman had "seven months" left after the
+report conflicted with his actual Feb 1988 death date (about twenty
+months later) and was dropped rather than corrected into the script. A
+first lint pass on the initial ~4,260-word draft came back clean on
+repeats mostly but well under the word floor; rather than pad the
+existing chapters, added a full new chapter (Chapter Seven, "The
+Manifest," on schedule pressure and the culture-of-production concept)
+and substantive paragraphs to five others (the redundancy-argument detail,
+Boisjoly's temperature chart, the ice-water demonstration's actual
+evidentiary limits, the Jackall callback, and a paragraph contrasting what
+each book cost its author to publish), bringing the draft to 5,052 words
+without restatement. Second lint pass caught one self-inflicted repeat
+("had never actually... had never actually") introduced by an edit meant
+to fix an earlier flagged repeat; fixed by varying the second clause's
+verb structure.
+
+**Open questions:** (HITL) Whether the Micro-mechanics turn (Goffman,
+Berne, Impro) should run as a connected mini-series the way Orwell's
+essays or the antidote season did, or as three independent episodes, is
+Kevin's call and not scoped here. (AFK) The exact figure for how many of
+the pre-51-L missions showed O-ring erosion or blow-by is sourced this
+session only via a secondary aggregation of a NASA internal memo, not
+Vaughan's own book directly; worth a page-level check against a copy of
+The Challenger Launch Decision if one becomes available, before the shelf
+ever cites a more precise number than "roughly a dozen." (AFK) The CAIB
+report's exact verbatim sentence(s) citing Vaughan by name in its
+"History as Cause" chapter were never confirmed against the primary PDF
+(403 and file-size failures both); the section title and the "as much to
+do with this accident as the foam" line are corroborated only at the
+multiple-independent-secondary-source tier used in this episode.
+
+**Artifacts:** episodes/030-feynman-vaughan-challenger.md (5,052 words,
+lint clean); queue.md (Vaughan item and the Feynman/Vaughan Classic-essays
+item both ticked with episode summaries); this entry; STATE.md snapshot.
