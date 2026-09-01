@@ -68,9 +68,9 @@
   distributed programme's own workflow, not just physics). Sign-off promises
   the Feynman/Vaughan Challenger duel next, resolving the Vaughan queue item
   below in that format rather than as a standalone book episode.
-- [ ] The Challenger Launch Decision (Diane Vaughan) — to be resolved as the
-  Feynman Appendix F duel described under Classic essays below, not as a
-  standalone episode. 029's sign-off commits to this next.
+- [x] The Challenger Launch Decision (Diane Vaughan) — resolved as 030, the
+  Feynman Appendix F duel, per queue.md's own scoping note. See Classic
+  essays below for the episode summary.
 
 ## Micro-mechanics
 - [ ] The Presentation of Self in Everyday Life (Erving Goffman)
@@ -143,11 +143,31 @@ the constellation (three short papers staged as rediscovery).
   thresholds, random post-hoc client checks, learning vs judgement
   numbers). Manheim & Garrabrant 2018 variants as the case against.
   Sign-off promises Normal Accidents (Perrow).
-- [ ] Feynman's Appendix F to the Rogers Commission report (1986) vs. Vaughan's
-  The Challenger Launch Decision. The duel — resolves the queued Vaughan book
-  instead of adding to the list. Appendix F is US government work, public
-  domain, quotable at length. Steelman problem: making Feynman's
-  self-deception-at-the-top read fairly against the shelf's prior for Vaughan.
+- [x] Feynman's Appendix F to the Rogers Commission report (1986) vs. Vaughan's
+  The Challenger Launch Decision — done as 030, 1 Sep 26. The Jan 27 teleconference
+  and the "take off your engineering hat" reversal as cold open; Feynman's
+  reluctant Rogers Commission seat, the Kutyna carburetor tip, the televised
+  ice-water/C-clamp demonstration, and the fight to publish Appendix F as a
+  standalone appendix (the 1-in-100 vs 1-in-100,000 reliability gap, the
+  Russian-roulette line, the closing "reality must take precedence over
+  public relations" line) as his self-deception diagnosis. Vaughan's
+  normalization-of-deviance mechanism built from the O-ring erosion history
+  (STS-2 1981 onward, the dozen pre-51-L incidents, the redundancy argument
+  surviving its own best counter-evidence), her culture-of-production
+  concept (the 1986 15-flight manifest, the towards-24-a-year target), and
+  structural secrecy, then the same 24 hours re-run through her lens to show
+  two sincere, incompatible readings of the same accepted history rather
+  than a single lie. Roger Boisjoly as the case both theories have to
+  reckon with (the July 1985 memo, the temperature/blow-by chart, the
+  ostracism after). Case against/reception: an H-Net academic review's
+  "tortured prose" charge and a later aerospace-engineering reanalysis
+  defending Feynman's rejected number. Columbia (2003) as the callback:
+  foam strikes on 65 of 79 missions, the CAIB's own "History as Cause"
+  chapter naming normalization of deviance and citing Vaughan directly,
+  "the NASA organizational culture had as much to do with this accident as
+  the foam." One callback to Jackall (001). Sign-off promises The
+  Presentation of Self in Everyday Life (Goffman) next, the first unchecked
+  item under Micro-mechanics.
 - [ ] Merton, "Bureaucratic Structure and Personality" (1940). Trained
   incapacity and goal displacement — Parkinson's findings with the joke removed
   and the citations attached, published four years before the Admiralty curves
