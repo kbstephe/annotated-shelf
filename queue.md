@@ -73,7 +73,31 @@
   essays below for the episode summary.
 
 ## Micro-mechanics
-- [ ] The Presentation of Self in Everyday Life (Erving Goffman)
+- [x] The Presentation of Self in Everyday Life (Erving Goffman) — done as 031,
+  2 Sep 26 (5,674 words, lint clean). The Shetland Isle kitchen-door cold
+  open (Goffman's own dissertation fieldwork on Unst) as the seed observation;
+  front/setting/appearance/manner, sign vehicles (expression given vs. given
+  off), dramatic realization; front/back region via the waiter case; teams,
+  dramaturgical loyalty, and the four backstage-talk habits; downward
+  idealization via Komarovsky's 1946 study of college women concealing
+  intelligence from dates, with her own finding of psychological strain as
+  the complicating cost; discrepant roles (informer, shill, go-between,
+  non-person) and the dark/strategic/inside secrets typology; the
+  confidence man as the diagnostic limiting case for the sincere-cynical
+  spectrum, plus the army-recruit case for sincerity as performance run
+  long enough to become real; the "dramatic effect arising diffusely from a
+  scene" line as the delayed thesis. Case against: Alvin Gouldner's Coming
+  Crisis of Western Sociology chapter (the "merchants of morality" quote,
+  the new-middle-class-ideology and corrosive-detachment charges), plus a
+  narrator-voiced methodological critique (thin, uncontrolled evidence base;
+  an unfalsifiable vocabulary, paralleling 029's Perrow discussion without
+  repeating its wording). Callback to Jackall's Moral Mazes (001) read
+  through the dramaturgical vocabulary. One BLOOM aside (a supervisor's
+  field visit as a staged front-region performance; M&E data itself as a
+  front, not a raw back-region fact). Closing biographical beat: Goffman's
+  own undelivered 1982 ASA presidential address, "The Interaction Order,"
+  read into the record after his death from stomach cancer that November.
+  Sign-off promises Games People Play (Berne) next.
 - [ ] Games People Play (Eric Berne)
 - [ ] Impro (Keith Johnstone)
 
