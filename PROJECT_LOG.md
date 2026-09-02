@@ -960,3 +960,104 @@ multiple-independent-secondary-source tier used in this episode.
 **Artifacts:** episodes/030-feynman-vaughan-challenger.md (5,052 words,
 lint clean); queue.md (Vaughan item and the Feynman/Vaughan Classic-essays
 item both ticked with episode summaries); this entry; STATE.md snapshot.
+
+## [2026-09-02] — The Presentation of Self in Everyday Life (Goffman)
+
+**Decisions:** Wrote 031 to the first unchecked item in queue.md's
+Micro-mechanics section, per 030's sign-off and the pipeline's own
+top-to-bottom rule. Opened on Goffman's own dissertation fieldwork (a
+hotel on Unst, Shetland) rather than the book's American service-industry
+vignettes, since a single vivid, verifiable scene works better as a cold
+open than a survey of examples. Built the chapter order to delay the
+book's most radical claim, "the self is a dramatic effect arising
+diffusely from a scene," past the midpoint (Chapter Eight of fourteen),
+per the charter's delay-the-thesis rule. Added a standalone methodological
+case-against chapter (Ten, "A Collage, Not a Sample") alongside Gouldner's
+political one, since the two are genuinely separate objections
+(unrepresentative evidence vs. corrosive ideology) and merging them would
+have muddied both; the unfalsifiability point is phrased fresh rather than
+reusing 029's Silvast/Kelman wording, though it names Perrow's matrix
+directly as the shelf's earlier instance of the same worry. Used Jackall's
+Moral Mazes (001) as the running-frame callback rather than Davies or
+Vaughan, since a manager staging a front for a boss is the closest fit to
+dramaturgy of anything already in the show. One BLOOM aside (a supervised
+field visit as staged front-region performance, and M&E data itself as a
+front rather than a raw back-region fact), generic and PHI-free per the
+house rule.
+
+**Verification:** Goffman's Shetland fieldwork (the island of Unst, close
+to a year, feeding his 1953 Chicago dissertation "Communication Conduct in
+an Island Community") and his 1954–57 post at the National Institute of
+Mental Health, posing as an athletics-programme assistant at Saint
+Elizabeths psychiatric hospital in Washington, were both corroborated this
+session via multiple independent secondary sources (a historical-
+anthropology profile, academic biographical articles). Publication facts
+(1956 Edinburgh monograph, 1959 Doubleday Anchor US edition) and his
+biography (born 1922 in Mannville, Alberta — corrected this session from
+an initial "Manville" after a second search surfaced the correct
+double-n spelling in multiple sources including Wikipedia's own Mannville,
+Alberta page; father Max Goffman's dry-goods store; died of stomach cancer
+19 November 1982 in Philadelphia at sixty) are corroborated via the ASA's
+own biographical page and independent academic sources. The 1982 ASA
+presidential address "The Interaction Order," undelivered due to his
+terminal illness and read into the record in absentia, published in the
+February 1983 American Sociological Review, is corroborated via multiple
+academic sources discussing the address directly. Mirra Komarovsky's 1946
+study (153 female students at an American women's college, the playing-
+dumb finding and its accompanying psychological-strain result) and
+Goffman's own use of it as "a profound psychic discipline" are
+corroborated via secondary academic sources quoting the book directly; the
+under-15-word quote used in the script ("a profound psychic discipline")
+is short enough to stay inside copyright bounds regardless. The book's
+own core vocabulary (front/back region, sign vehicles and expression
+given/given off, dramatic realization, teams and dramaturgical loyalty,
+the four backstage-talk categories, discrepant roles including the
+non-person, the dark/strategic/inside secrets typology, the sincere-
+cynical performer spectrum and the confidence-man and army-recruit cases)
+was corroborated via a Wikipedia summary and a second detailed academic-
+course-page summary of the book that converged closely; the "dramatic
+effect arising diffusely from a scene that is presented" line is quoted
+via a secondary citation (Trevino's Goffman's Legacy, p. 55, citing the
+book's own p. 252) rather than a page-checked primary read, and is
+presented in the script at that confidence tier. Alvin Gouldner's
+critique in The Coming Crisis of Western Sociology (the "merchants of
+morality" quote attributed to Goffman by Gouldner, the new-middle-class
+and corrosive-detachment charges) was corroborated via a dedicated
+secondary summary of that chapter; the exact page number of the "merchants
+of morality" line inside Goffman's own book was not independently
+page-checked this session.
+
+**Traps & dead ends:** An early PDF fetch of the book's own text (an SJSU
+course-page scan) failed to extract cleanly (JBIG2-compressed image PDF),
+so specific worked examples (the con-man passage's exact wording, the
+waiter/kitchen scene) were reconstructed from converging secondary
+summaries rather than a primary read; the script hedges accordingly by
+attributing concepts to Goffman without claiming verbatim quotation beyond
+the two short quotes actually sourced. The first draft came in at 4,948
+words, under the floor, with nine phrase repeats and seventeen banned tics
+flagged by lint, mostly repeated framing structures ("a front region is
+wherever... a back region is wherever...", "an audience receives... an
+audience receives...") that the charter's own no-echoes rule would have
+flagged manually regardless of the linter. Fixed by rewriting each
+repeated frame with asymmetric phrasing rather than synonym-swapping, and
+brought the word count up by adding real content (the dramatic-realization
+concept, the four backstage-talk categories, the dark/strategic/inside
+secrets typology, and the new methodological-critique chapter) rather than
+padding, landing at 5,674 words on a clean second lint pass.
+
+**Open questions:** (HITL) Whether Micro-mechanics should run connected
+(as Orwell's essays and the antidote season did) is still open; 031 was
+written as a standalone entry point rather than assuming a throughline
+with Berne and Johnstone. (AFK) The exact page citation for Goffman's
+"merchants of morality" line and the "dramatic effect arising diffusely"
+line were both sourced via secondary citation this session, not a
+page-checked primary read of the book itself; worth a primary check if a
+copy becomes fetchable before the shelf ever cites either passage more
+precisely. (AFK) Local `main` was in sync with origin/main at this
+session's start for the first time in six sessions (the stale-ref issue
+flagged 26 Aug–1 Sep did not recur 2 Sep); worth noting as a data point
+against treating the fix as still-needed standing infrastructure work.
+
+**Artifacts:** episodes/031-goffman-presentation-of-self.md (5,674 words,
+lint clean); queue.md (Goffman item ticked with episode summary); this
+entry; STATE.md snapshot.

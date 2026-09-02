@@ -1,6 +1,25 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (1 Sep 2026, Routine)
+## Snapshot (2 Sep 2026, Routine)
+
+Thirty-two episodes (000 test + 001–031). 031 The Presentation of Self in
+Everyday Life (Goffman, 5,674 words, lint clean) written unattended 2 Sep,
+first entry in queue.md's Micro-mechanics section: Goffman's own Shetland
+Isle dissertation fieldwork (a hotel kitchen door on Unst) as cold open,
+front/back region, sign vehicles, teams and backstage-talk habits,
+downward idealization via Komarovsky's 1946 study, discrepant roles and
+the secrets typology, the confidence-man/army-recruit sincere-cynical
+spectrum, and the delayed thesis that the self is "a dramatic effect
+arising diffusely from a scene." Case against: Gouldner's Coming Crisis of
+Western Sociology chapter (cynicism, new-middle-class ideology) plus a
+narrator-voiced methodological critique (thin evidence, unfalsifiability).
+Callback to Jackall's Moral Mazes (001); one BLOOM aside on staged
+supervision visits. 031's sign-off promises Games People Play (Berne)
+next, second item in Micro-mechanics. Local `main` was in sync with
+origin/main at this session's start, the first time in six sessions the
+stale-ref issue (flagged 26 Aug–1 Sep) did not recur.
+
+## Previous snapshot (1 Sep 2026, Routine)
 
 Thirty-one episodes (000 test + 001–030). 030 Feynman's Appendix F vs.
 Vaughan's Challenger Launch Decision (5,052 words, lint clean) written
