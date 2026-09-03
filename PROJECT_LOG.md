@@ -1061,3 +1061,105 @@ against treating the fix as still-needed standing infrastructure work.
 **Artifacts:** episodes/031-goffman-presentation-of-self.md (5,674 words,
 lint clean); queue.md (Goffman item ticked with episode summary); this
 entry; STATE.md snapshot.
+
+## [2026-09-03] — Games People Play (Eric Berne)
+
+**Decisions:** Wrote 032 to Games People Play, per 031's sign-off and the
+first unchecked item in queue.md's Micro-mechanics section. Opened on
+Berne's own published clinical case, If It Weren't For You (a wife whose
+husband's control turns out to be covering her own dance-floor phobia),
+since it is a complete, real, verified case that resolves in one paragraph
+rather than a constructed illustration. Delayed the book's most
+counterintuitive claim, that a game's bad-feeling payoff is the product
+rather than an incidental cost, to Chapter Eight of fifteen, past the
+midpoint, per the charter's delay-the-thesis rule. Added a standalone
+chapter on rackets and life scripts (Chapter Nine, drawing on the
+posthumous What Do You Say After You Say Hello) beyond what research alone
+would have required, both because it is genuine additional content, not
+restatement, and because the first full draft came in at 4,951 words,
+under the floor; the fix was substance (a real theoretical extension) not
+padding. Used Karpman's 1968 Drama Triangle as the widen-the-frame chapter,
+with one BLOOM aside (a supervisor's Rescuer-to-Persecutor flip over an
+unacknowledged caseload), generic and PHI-free per the house rule.
+Callback to Goffman (031) rather than re-using Jackall's Moral Mazes,
+since Berne directly follows Goffman in the feed and the two theories
+(ulterior transactions vs. sign vehicles, both published five years apart
+with no shared vocabulary) make a sharper comparison fresh off the prior
+episode than a third invocation of Jackall would have. Deliberately
+avoided quoting Berne's own book directly anywhere in the script
+(paraphrased throughout instead), keeping the "under fifteen words, one
+quote per source" copyright rule trivially satisfied and sidestepping the
+research finding that the book's most quotable lines came to me only via
+secondary aggregation.
+
+**Verification:** Berne's biography (born Eric Lennard Bernstein, Montreal
+1910; McGill M.D. 1935; Yale psychiatric residency; training analyses
+under Paul Federn and, later, Erik Erikson; the 1970 death, a second heart
+attack three weeks after a first, while correcting galleys for What Do You
+Say After You Say Hello) is corroborated via multiple convergent
+biographical sources (Wikipedia, ericberne.com, contemporary NYT
+obituary). The 1956 San Francisco Psychoanalytic Institute episode was
+sourced this session at a hedged precision the script itself carries
+forward: the committee's own record reads as a deferral (reapply after
+three or four more years of analysis) rather than a flat rejection, a
+nuance research found in a primary letter (dated November 1, 1956, in
+Berne's archived papers) whose full text could not be extracted this
+session; the script states the deferral/rejection distinction explicitly
+rather than flattening it. The core theoretical vocabulary (ego states,
+transactions, strokes and stimulus-hunger via Spitz, the six modes of time
+structuring, the con/gimmick/switch/payoff game mechanism, the four life
+positions, rackets and scripts) and the named games used as worked
+examples (If It Weren't For You, Why Don't You Yes But, Now I've Got You
+You Son Of A Bitch, Kick Me, Alcoholic's five-role cast) are corroborated
+via convergent secondary academic and clinical sources. Berne's own
+"Formula G" letter-notation (con + gimmick = response, switch, crossup,
+payoff) was flagged by research as likely a post-1964 systemization rather
+than the book's own verbatim language, so the script describes the
+mechanism in prose without claiming that acronym as Berne's. Karpman's
+1968 Drama Triangle (Persecutor/Rescuer/Victim, from "Fairy Tales and
+Script Drama Analysis," Transactional Analysis Bulletin) is independently
+confirmed. Reception facts (five million copies, two-plus years on the
+NYT bestseller list; Vonnegut's 1965 Life review; Thomas Harris's I'm
+Okay, You're Okay outselling Berne's own book at seven million copies) are
+corroborated, with the two books' similar sales figures kept explicitly
+distinct per the source's own flag. Robert Coles's 1967 NYT review quote
+("racy, vulgar, slangy") and Ben Glancy's "parlor psychiatry and
+party-time psychoanalysis" line both came to this session only via
+secondary aggregation rather than the primary NYT archive or the original
+journal piece; both are used as short (under-fifteen-word), correctly
+attributed fragments rather than extended quotation, and Roger Hite's
+evidence-base criticism is paraphrased rather than quoted for the same
+reason. Research found no solid documented link between transactional
+analysis and Werner Erhard's est specifically; the script places TA in the
+same human-potential-movement wave as Esalen-style growth centers without
+asserting a direct lineage to est.
+
+**Traps & dead ends:** An early instinct to frame Why Don't You Yes But as
+a precursor to Now I've Got You You Son Of A Bitch did not hold up against
+research; Berne treats it as its own foundational game (the first he
+says he identified), and the script was written to match that rather than
+an invented lineage. The first full draft came in at 4,951 words, under
+the floor, with twelve phrase-echo hits and fifteen banned tics, the
+heaviest concentration in a paragraph stating the four life positions in
+parallel "I'm okay, you're okay" / "I'm not okay, you're not okay" form,
+which is exactly the anaphora-run the charter's no-echoes rule bans; fixed
+by rewriting each position functionally instead of by formula, and by
+removing "quietly," "exactly the," "the payoff" (used as a fixed banned
+phrase despite being Berne's own working term throughout the book), and
+"earns its keep" throughout. Word count was closed by adding the life-
+scripts chapter (real content) rather than by restatement.
+
+**Open questions:** (HITL) None new this session. (AFK) The exact wording
+of Berne's 1956 San Francisco Institute letter, and Coles's and Glancy's
+reviews, are sourced this session only via secondary aggregation, not a
+primary-text read; worth a primary check if the shelf ever wants to quote
+any of the three directly rather than paraphrase or short-fragment them.
+(AFK) Local `main` needed the same `git checkout -B main origin/main` fix
+at this session's start that has recurred intermittently since 26 Aug;
+this is now the seventh session out of eight to need some form of it (only
+2 Sep synced cleanly), which weakens the working theory from 2 Sep's log
+that the issue might no longer be standing infrastructure work.
+
+**Artifacts:** episodes/032-games-people-play.md (5,378 words, lint
+clean); queue.md (Berne item ticked with episode summary); this entry;
+STATE.md snapshot.
