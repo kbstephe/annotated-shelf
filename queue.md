@@ -98,7 +98,29 @@
   own undelivered 1982 ASA presidential address, "The Interaction Order,"
   read into the record after his death from stomach cancer that November.
   Sign-off promises Games People Play (Berne) next.
-- [ ] Games People Play (Eric Berne)
+- [x] Games People Play (Eric Berne) — done as 032, 3 Sep 26 (5,378 words,
+  lint clean). The If It Weren't For You case (a controlled husband whose
+  restriction turns out to be covering his wife's own dance-floor phobia) as
+  cold open; Berne's own break from orthodox psychoanalysis (the 1956 San
+  Francisco Institute deferral he read as a rejection, catalyzing
+  transactional analysis within two years) as the origin story; the three
+  ego states against Freud's structural model, strokes and stimulus-hunger,
+  the six ways of structuring time; the formal game mechanism (con,
+  exploited gimmick, switch, payoff) via Why Don't You Yes But; Now I've Got
+  You You Son Of A Bitch paired with Kick Me as persecutor/victim
+  symmetry; the delayed thesis that a game's bad-feeling payoff is the
+  product, not the cost, confirming a life position set in childhood;
+  rackets and life scripts via the posthumous What Do You Say After You Say
+  Hello; the five-role Alcoholic game and Karpman's 1968 Drama Triangle as
+  its more portable, more famous descendant, with one BLOOM aside (a
+  supervisor's Rescuer-to-Persecutor flip). Callback to Goffman (031):
+  ulterior transactions vs. sign vehicles, and why two people can run an
+  argument for years without naming it. Case against: Robert Coles' 1967 NYT
+  review, Ben Glancy's "parlor psychiatry" charge, Roger Hite on the
+  evidence base, TA's absorption into and marginalization since the
+  human-potential-movement wave, and Thomas Harris's I'm Okay, You're Okay
+  outselling and overshadowing Berne's own book. Sign-off promises Impro
+  (Johnstone) next.
 - [ ] Impro (Keith Johnstone)
 
 ## Antidotes
