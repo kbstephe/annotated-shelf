@@ -1163,3 +1163,103 @@ that the issue might no longer be standing infrastructure work.
 **Artifacts:** episodes/032-games-people-play.md (5,378 words, lint
 clean); queue.md (Berne item ticked with episode summary); this entry;
 STATE.md snapshot.
+
+## [2026-09-04] — Impro (Keith Johnstone)
+
+**Decisions:** Wrote 033 to Impro, per 032's sign-off and the last unchecked
+item in queue.md's Micro-mechanics section, closing that trio. Opened on
+the Betty-in-the-garden anecdote (a teenager's unified perception of a
+garden corrected by an adult into sorted species) rather than a status or
+Theatresports scene, since it stages the book's real argument, that
+sorting displaces a real perceptual capacity, before any framework
+vocabulary gets introduced, and delays Johnstone's own entrance a
+paragraph longer than a more mechanical cold open would have. Explicitly
+corrected two popular misattributions research surfaced: "yes, and" is
+Del Close/Viola Spolin-lineage vocabulary, not Johnstone's own (his terms
+are blocking and accepting offers), and Theatresports is not the parent
+format of Second City or the Upright Citizens Brigade, which descend from
+Spolin/Close on a separate, parallel line. Added a credit-complicating
+aside on David Shepherd's earlier 1972 New York competitive improv and
+the 1976 Toronto Improvisational Olympics, hedged explicitly as
+single-sourced, in the same spirit as 030's Feynman/Vaughan treatment of
+a clean origin story turning out messier under scrutiny. Used the
+doctor/leg-pain exchange as a labeled constructed example (flagged
+in-script as constructed) to make the blocking/accepting-offers mechanism
+audible, since no verified verbatim exchange from the book surfaced in
+research. Placed the masks-and-trance chapter's "the block was never
+about a missing idea" reading as the delayed thesis, directly fulfilling
+032's own sign-off language. One BLOOM aside (status silencing a
+frontline field observation on a programme review call), generic and
+PHI-free. Callback to both Goffman (031) and Berne (032) in the same
+chapter to close the Micro-mechanics arc explicitly, rather than picking
+one.
+
+**Verification:** Biography corroborated across convergent sources
+(Wikipedia, American Theatre magazine, Chortle and Globe and Mail
+obituaries): birth 21 Feb 1933 Brixham Devon, Battersea teaching post,
+the 1956 Royal Court commission from George Devine and Tony Richardson,
+running the Writers' Group and Studio, eventual move to the University of
+Calgary, Loose Moose founded with Mel Tonken in the late 1970s, death 11
+March 2023 age 90 in a Calgary hospital. Several date conflicts in the
+source material (Loose Moose 1977 vs. 1978, Calgary arrival 1972 vs.
+1975, a disputed Queen's University interlude, Theatre Machine's founding
+year) were deliberately not resolved to a specific year in the script;
+the text uses hedged phrasing ("in the early nineteen seventies," "before
+the decade was out") throughout rather than committing to a disputed
+date. The "obedient child is a dead child" line is quoted (seven words,
+under the fifteen-word/one-quote rule) on the strength of consistent
+wording across multiple independent quote-aggregator sources, though
+research could not check it against a primary-text scan. The
+"imaginative children are disliked by their teachers" research claim
+Johnstone makes is stated in the script as untraceable, both by
+Johnstone's own book and by anyone writing about it since, per this
+session's own research finding no source for it either. The
+Betty-in-the-garden anecdote is paraphrased, not quoted, and attributed
+generally to Johnstone's own teaching life rather than given invented
+dialogue. Theatresports mechanics (wrestling framing, scorecards,
+whipped-cream pies for losing teams, the No Blocking game) and the
+Shepherd/Toronto prior-art claim came from a single detailed improv-history
+site and are presented in the script with explicit hedges ("by one
+detailed history"). Malcolm Gladwell's use of the status material in
+Blink (2005) and the Mark McKinney/Bruce McCulloch Kids in the Hall
+lineage are both corroborated across multiple sources. Sean Goedecke's
+"cult" critique of the masks-and-trance chapters is paraphrased rather
+than quoted, since the Johnstone line it cites ran well over the
+fifteen-word single-quote limit. Theresa Robbins Dudeck's 2013 biography
+being written by Johnstone's friend and eventual literary executor is
+noted in the script as a limit on how independent the fullest available
+account actually is.
+
+**Traps & dead ends:** An initial instinct to open on the master-servant
+exercise or the Theatresports origin scene was dropped in favor of the
+garden anecdote, since the garden scene stages the perceptual thesis
+directly rather than needing status or competition vocabulary explained
+first. Research could not verify a specific art-teacher/child's-drawing
+anecdote that seemed likely to exist in the book; rather than risk
+inventing a scene, the episode uses the better-attested garden anecdote
+instead and never claims the unverified one. The first full draft's lint
+pass flagged six phrase echoes (a repeated "horror of watching," "every
+one of," "teams of improvisers," "hide the performer," "the higher
+status," and a heading/body collision on "half second") and eleven tics
+("turns out to be," three separate "exactly the" hits, "quietly,"
+"notice," two "genuinely" hits, and a "not because X but because Y"
+contrast); all fixed by rewriting the second occurrence or removing the
+banned word, none by cutting content. Final lint: 0 repeats, 0 tics.
+
+**Open questions:** (HITL) None new this session. (AFK) The Loose Moose
+founding year (1977 vs. 1978), Johnstone's exact Calgary arrival year
+(1972 vs. 1975, with a disputed Queen's University stint in between), and
+Theatre Machine's founding year (1967 vs. 1968) remain unresolved across
+secondary sources; the script deliberately avoids committing to any of
+them. Worth a primary-source check (Dudeck's biography, or a
+keithjohnstone.com archived bio) if the shelf ever revisits Johnstone or
+needs a precise date. (AFK) The David Shepherd prior-art claim on
+competitive improv's origins is sourced this session to a single
+specialized improv-history site and was not independently corroborated;
+worth a second source before treating it as more than a hedged aside.
+Local `main` needed the same `git checkout -B main origin/main` fix at
+this session's start that has now recurred in eight of the last nine
+sessions (26, 27, 28, 31 Aug, 1, 3, 4 Sep; not 2 Sep).
+
+**Artifacts:** episodes/033-impro.md (5,445 words, lint clean); queue.md
+(Impro item ticked with episode summary); this entry; STATE.md snapshot.

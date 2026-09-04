@@ -1,6 +1,39 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (3 Sep 2026, Routine)
+## Snapshot (4 Sep 2026, Routine)
+
+Thirty-four episodes (000 test + 001–033). 033 Impro (Keith Johnstone,
+5,445 words, lint clean) written unattended 4 Sep, closing out
+queue.md's Micro-mechanics section per 032's sign-off: the Betty-in-the-
+garden anecdote (paraphrased, not quoted) as cold open; Johnstone's
+Battersea "ineducable" classroom, the 1956 Royal Court commission from
+George Devine, running the Writers' Group and Studio, the move to the
+University of Calgary and Loose Moose (with Mel Tonken) in the late
+1970s, death March 2023; the spontaneity chapter ("the obedient child is
+a dead child," verified via convergent quote sources; the "imaginative
+children are disliked by their teachers" claim explicitly flagged
+on-air as untraceable); status theory (the seesaw, tragedy as a
+status-fall mechanism, the master-servant exercise); blocking vs.
+accepting offers with an explicit correction that "yes, and" is Del
+Close/Spolin vocabulary, not Johnstone's; the Theatresports origin
+(wrestling framing, scorecards, pie-throwing) plus a hedged, single-
+sourced aside on David Shepherd's earlier competitive-improv work
+complicating the invention story, and a correction that Second City/UCB
+descend from Spolin/Close rather than Theatresports; narrative skills
+(platform, tilt, reincorporation); masks and trance as the delayed
+thesis ("the block was never about a missing idea"); one BLOOM aside
+(status silencing a field observation on a review call); a joint
+callback to Goffman (031) and Berne (032) closing the Micro-mechanics
+trio. Case against: Sean Goedecke's "cult" critique of the masks/trance
+chapters (paraphrased), the book's own rigid-habits-in-service-of-
+spontaneity contradiction, and the note that the only detailed outside
+biography (Dudeck, 2013) was written by Johnstone's friend and literary
+executor. 033's sign-off promises Venkatesh Rao's later work (Coda)
+next, the first unchecked item top-to-bottom in queue.md. Local `main`
+needed the `git checkout -B main origin/main` fix again at session
+start, the eighth time in nine sessions.
+
+## Previous snapshot (3 Sep 2026, Routine)
 
 Thirty-three episodes (000 test + 001–032). 032 Games People Play (Eric
 Berne, 5,378 words, lint clean) written unattended 3 Sep, second item in
@@ -251,12 +284,12 @@ worth a standing fix rather than a per-session workaround.
   word target that contradicts this file's 26 Aug recalibration; three
   sessions running (26–28 Aug) have now resolved the conflict the same way
   at write time. Worth updating the template directly rather than a fourth.
-- (AFK) Local `main`'s branch ref has been stale at session start seven of
-  the last eight sessions (26, 27, 28, 31 Aug, 1, 3 Sep; not 2 Sep),
+- (AFK) Local `main`'s branch ref has been stale at session start eight of
+  the last nine sessions (26, 27, 28, 31 Aug, 1, 3, 4 Sep; not 2 Sep),
   diagnosed each time as an artifact of how the environment checks the
   repo out rather than a pipeline bug. `git checkout -B main origin/main`
-  has worked cleanly every time it's been tried since 28 Aug (28 Aug, 1
-  Sep, 3 Sep), with only the one 31 Aug exception where the environment's
+  has worked cleanly every time it's been tried since 28 Aug (28 Aug, 1,
+  3, 4 Sep), with only the one 31 Aug exception where the environment's
   auto-mode classifier blocked it and `git branch -f main HEAD && git
   checkout main` was used instead. 2 Sep's clean sync looks like the
   outlier, not evidence the issue is resolving on its own. Still worth a
