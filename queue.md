@@ -121,7 +121,40 @@
   human-potential-movement wave, and Thomas Harris's I'm Okay, You're Okay
   outselling and overshadowing Berne's own book. Sign-off promises Impro
   (Johnstone) next.
-- [ ] Impro (Keith Johnstone)
+- [x] Impro (Keith Johnstone) — done as 033, 4 Sep 26 (5,445 words, lint
+  clean), closing Micro-mechanics. The Betty-in-the-garden anecdote
+  (a teenager's unified perception of a garden corrected into sorted
+  species) as cold open, paraphrased and flagged as Johnstone's own
+  retold example rather than quoted; his Battersea classroom teaching
+  children the system called ineducable, the 1956 Royal Court commission
+  from George Devine, running the Writers' Group and Studio for roughly a
+  decade, the move to the University of Calgary and Loose Moose (founded
+  with Mel Tonken) in the late 1970s, death March 2023 at 90. Spontaneity
+  (the "obedient child is a dead child" quote, seven words, verified via
+  convergent quote-aggregator sources; the unsourced "imaginative children
+  are disliked by their teachers" research claim flagged in the narrator's
+  own voice as untraceable); status theory (the seesaw, tragedy as a
+  status-fall mechanism, physical markers, the master-servant exercise);
+  blocking vs. accepting offers, with an explicit correction that "yes,
+  and" is Del Close/Spolin-lineage vocabulary, not Johnstone's own (a
+  constructed doctor/leg-pain example, flagged as constructed); the
+  Theatresports origin (wrestling framing, judged scorecards, pie-throwing
+  losers, the No Blocking game) and a credit-complicating aside on David
+  Shepherd's earlier 1972 NYC competitive improv and the 1976 Toronto
+  Improvisational Olympics (hedged, single-sourced); an explicit correction
+  that Second City/UCB descend from Spolin/Close, not from Theatresports;
+  narrative skills (platform, tilt, reincorporation); masks and trance as
+  the delayed thesis (the block was never about a missing idea); one BLOOM
+  aside (status silencing a frontline observation on a programme review
+  call); callback to Goffman (031) and Berne (032) closing the
+  Micro-mechanics trio. Case against: Sean Goedecke's "cult" critique of
+  the masks/trance chapters (paraphrased, not quoted), the book's internal
+  contradiction (teaching rigid habits in the name of spontaneity), the
+  psychology literature's narrower support for the status claims, and the
+  note that the only detailed outside biography (Dudeck, 2013) was written
+  by Johnstone's friend and literary executor. Sign-off promises
+  Venkatesh Rao's later work (Coda) next, the first unchecked item
+  top-to-bottom in queue.md once Impro is checked off.
 
 ## Antidotes
 - [x] Exit, Voice, and Loyalty (Albert Hirschman) — done as 021, 27 Aug 26 (first of the four-episode antidote season, Kevin: feed too cynical/dark; Nigerian railway, connoisseurs, lazy monopoly, loyalty as brake, Le Grand's NHS choice reform, Barry 1974 / Dowding 2000, the 1993 East Germany self-correction).
