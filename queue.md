@@ -187,7 +187,30 @@
   the constellation, now two parts.
 
 ## Coda
-- [ ] Venkatesh Rao's later work (Breaking Smart, premium mediocre, Be Slightly Evil)
+- [x] Venkatesh Rao's later work (Breaking Smart, premium mediocre, Be Slightly Evil) —
+  done as 034, 7 Sep 26 (5,194 words, lint clean). Closes the loop 033's sign-off
+  opened: the pre-feed Gervais Principle (2009, sociopaths/clueless/losers, the
+  Hugh MacLeod cartoon admission) as the show's actual origin; Tempo (2011, the
+  OODA loop, narrative time vs. speed) and the Be Slightly Evil newsletter
+  (2010–13, 2,200+ subscribers, tragedian vs. idealist, the shadow self,
+  predictability as power) as the personal playbook that followed the
+  diagnosis; the 2014 Andreessen Horowitz consulting engagement and Breaking
+  Smart (2015–19, Season One, the Borders/Amazon case, "Entrepreneurs Are The
+  New Labour" read against Graeber's Bullshit Jobs) read against Rao's own
+  Gervais Principle as the diagnostician taking the sponsor's money; Premium
+  Mediocre (Aug 2017: Maya/Molly/Max, the hackerspace/code-editor example
+  verified against the primary text, the N=127 Twitter poll flagged as thin
+  evidence) read through Goffman's front-region vocabulary (031); the shared-
+  office company's 2023 bankruptcy and the AI-eats-software wrinkle (a16z's
+  own Sinofsky grading the decade-old thesis) as the two scored-later beats;
+  Zvi Mowshowitz and Priscilla De Pace as the case against, Taylor Pearson's
+  density complaint as the craft critique; Mediocratopia (2019) as Rao's own
+  reversal, with one BLOOM aside (good-enough forms and reporting cycles);
+  Ribbonfarm's 2024 retirement on Rao's 50th birthday as the closing beat.
+  Callbacks to Jackall (001), Whyte/Burnham's empty throne (007), Graeber
+  (016), Goffman (031), Grove (026/029 self-scoring pattern). Sign-off
+  promises Merton's "Bureaucratic Structure and Personality" (1940) next,
+  the first unchecked item in queue.md.
 
 ## Classic essays (short-form turn, scoped 25 Aug 26)
 
