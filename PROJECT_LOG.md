@@ -1263,3 +1263,103 @@ sessions (26, 27, 28, 31 Aug, 1, 3, 4 Sep; not 2 Sep).
 
 **Artifacts:** episodes/033-impro.md (5,445 words, lint clean); queue.md
 (Impro item ticked with episode summary); this entry; STATE.md snapshot.
+
+## [2026-09-07] — 034 Venkatesh Rao's later work (unattended weekday Routine)
+
+**Decisions:** Local `main` matched origin/main cleanly at session start, no
+stale-ref fix needed this time. Wrote the Coda item per 033's sign-off: a
+body-of-work episode tracing Rao from the pre-feed Gervais Principle (2009,
+which this feed has never numbered but has quoted more than any other single
+source) through four later postures. Structure: a hackerspace/code-editor
+cold open (verified against the Premium Mediocre primary text, not the
+WeWork detail a search-summary had wrongly attributed to it, see Traps);
+the Gervais Principle's sociopath/clueless/loser pyramid and its admitted
+debt to a Hugh MacLeod cartoon; Tempo (2011, the OODA loop, narrative time
+vs. speed) and the Be Slightly Evil newsletter (2010-13, 2,200+ subscribers,
+tragedian vs. idealist, the shadow self, predictability as power) as the
+personal playbook that followed the diagnosis; the 2014 Andreessen Horowitz
+consulting engagement and Breaking Smart (2015-19, Season One, the
+Borders/Amazon case from Andreessen's own 2011 essay, "Entrepreneurs Are
+The New Labour" read against Graeber's Bullshit Jobs, 016) read through
+Rao's own five-years-earlier framework as the diagnostician taking the
+sponsor's money, with a Whyte/Burnham empty-throne callback (007); Premium
+Mediocre (Aug 2017: Maya/Molly/Max, the N=127 Twitter poll flagged as thin
+evidence) read through Goffman's front-region vocabulary (031); two scored-
+later beats, the shared-office company's November 2023 bankruptcy and the
+AI-eats-software wrinkle with a16z's own Sinofsky grading the decade-old
+thesis (paralleling Grove's self-scoring pattern from 026/029); Zvi
+Mowshowitz and Priscilla De Pace as the case against, Taylor Pearson's
+density complaint as a craft critique; Mediocratopia (2019) as Rao's own
+reversal, with one BLOOM aside (good-enough forms and reporting cycles
+traded for sustainability over polish); Ribbonfarm's October 2024 retirement
+announcement, effective on Rao's 50th birthday, as the closing beat. Sign-off
+promises Merton's "Bureaucratic Structure and Personality" (1940), the first
+unchecked item in queue.md, framed per queue.md's own existing note (Merton's
+findings pre-dating Parkinson's Admiralty curves by four years) rather than
+a newly invented date claim.
+
+**Verification:** Premium Mediocre (ribbonfarm.com, Aug 17 2017) fetched
+directly and re-checked twice this session: the hackerspace/code-editor
+passage ("hanging out at a hackerspace with a code editor open, looking the
+part"), the Blue Bicoastal designation, Molly ("sincerely aestheticized
+precarity") and Max ("geo-financial judo") as paraphrased archetypes, the
+closing "necessary fiction" argument and its "extra on the set" phrase, and
+the N=127/58%-self-identify poll detail all confirmed against the primary
+text. Breaking Smart's 2014 a16z origin, Season One's twenty essays/Grace
+Witherell illustrations/Andreessen introduction, and the "Entrepreneurs Are
+The New Labour" essay title confirmed via search; that essay's own content
+could not be fetched (edgecase.net 503'd) and is stated only at the
+confidence its title and general thrust support. Andreessen's 2011 WSJ
+essay and the Borders/Amazon example confirmed via search summary of the
+original op-ed. Gervais Principle mechanism and the Hugh MacLeod cartoon
+admission confirmed via multiple secondary summaries (Nat Eliason, a
+Steemit repost of the original structure), not a primary re-read of the
+2009-13 Ribbonfarm posts this session. Be Slightly Evil's subscriber count,
+"Inside the Tempo" capstone essay, and its core quote ("If you don't know
+who the sucker is, it's you") confirmed via Amazon/description-page search
+results, not a primary read of the ebook itself. Tempo's OODA-loop framing
+confirmed via multiple book-description sources. Zvi Mowshowitz's two
+thezvi.wordpress.com posts and Priscilla De Pace's Substack response both
+fetched directly this session; Taylor Pearson's review fetched directly.
+WeWork's November 2023 bankruptcy (99.91% down from a ~$47B peak) confirmed
+via search. The AI-eats-software framing and the Sinofsky quote reached this
+session via a Yahoo Finance aggregation of Morgan Stanley/a16z commentary,
+not a primary a16z or Sinofsky source, and are flagged here at that
+confidence level. Ribbonfarm's October 2024 retirement post fetched
+directly, confirming the November 13 birthday date, the 2008-financial-
+crisis-to-2024-election framing, and the "service entrance for AI
+scraper-bots" line verbatim. Mediocratopia's "courage to be ordinary" phrase
+and its optimization-resistance thesis confirmed via a direct fetch of the
+2019 Ribbonfarm post.
+
+**Traps & dead ends:** An early web-search summary claimed the Premium
+Mediocre essay used WeWork, with a Twitter-hoodie/code-editor detail, as a
+worked example; a direct fetch of the primary text found no mention of
+WeWork anywhere and traced the actual passage to a hackerspace instead. Used
+the primary-verified hackerspace version and discarded the WeWork detail
+rather than risk an unverified quote. An early draft also conflated this
+feed's actual first numbered episode (001, Moral Mazes) with the separate,
+unnumbered pre-feed Rao episode STATE.md's continuity rule refers to, and
+asserted a fabricated "four years before that episode existed" interval;
+caught on a coherence re-read and corrected to state the two as distinct,
+with the real seventeen-year gap (2009 to 2026) used instead. First lint
+pass came back with six repeats and fourteen tics (parallel-contrast
+repeats on "well-drawn caricature," "correct forecast," and "self-awareness
+as," plus "quietly," "precisely" four times, "genuinely" three times,
+"load-bearing," "sharpest," "it turns out," "worth sitting with," and
+"exactly the"); fixed by rewording each instance, and used the same pass to
+add the Tempo chapter and several verification details, bringing the draft
+from 4,732 words to 5,194 without restatement.
+
+**Open questions:** (AFK) "Entrepreneurs Are The New Labour" and the
+Gervais Principle's own original text remain unread in primary form by any
+session; worth a direct fetch if either is ever quoted more precisely than
+this episode does. (AFK) The Sinofsky/AI-eats-software framing is sourced
+via one financial-media aggregation of a16z commentary; worth a primary
+a16z source if the shelf ever revisits Breaking Smart's Andreessen-era
+thesis. (HITL, carried) Whether the antidote season and the systems turn
+landed for Kevin remain unjudged by a listen-through.
+
+**Artifacts:** episodes/034-venkatesh-rao-later-work.md (5,194 words, lint
+clean); queue.md (Coda ticked, Merton promised); this entry; STATE.md
+snapshot.
