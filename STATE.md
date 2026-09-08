@@ -2,14 +2,18 @@
 
 ## Snapshot (8 Sep 2026, day, Kevin)
 
-Kevin greenlit **Scott Alexander for three episodes** after 036 Weber
-(037 Moloch, 038 Cost Disease, 039 the research-epistemics pair; scoped in
-queue.md), and asked for a **new series** after that: "we've done a lot
-on orgs". His two ideas: the Collison shelf (Patrick, via Stripe Press and
-interviews, not the stale bookshelf page) and nutrition-science history,
-physiology and controversies. Three more proposals are in queue.md under
-"Candidate next series"; selection is his. Routine template step 1
-updated (branch fix). Local repo fast-forwarded (was 21 behind).
+Kevin laid out the next ~45 episodes with Claude. Order of record (queue.md
+top): 036 Weber (already promised) -> Scott Alexander x3 (037-039) -> the
+Collison shelf x8 (040-047, Stripe Press canon) -> nutrition science x9
+(048-056; attach PubMed to the Routine first) -> science as an institution
+x10 (057-066, Kuhn in three parts) -> how evidence was invented x8
+(067-074) -> doers x11 (075-085). All five series are scoped section by
+section in queue.md; nutrition and evidence were approved "as a start" so
+re-ordering within them is allowed. Proximity rule: episodes touching
+Kevin's own work (nutrition 5 and 8, doers 8 and 11) use the published
+record only unless he steers them. Routine template step 1 updated (branch
+fix; word target was already right). Local repo fast-forwarded (was 21
+behind).
 
 ## Previous snapshot (8 Sep 2026, Routine)
 
