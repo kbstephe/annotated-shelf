@@ -1,6 +1,17 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (8 Sep 2026, Routine)
+## Snapshot (8 Sep 2026, day, Kevin)
+
+Kevin greenlit **Scott Alexander for three episodes** after 036 Weber
+(037 Moloch, 038 Cost Disease, 039 the research-epistemics pair; scoped in
+queue.md), and asked for a **new series** after that: "we've done a lot
+on orgs". His two ideas: the Collison shelf (Patrick, via Stripe Press and
+interviews, not the stale bookshelf page) and nutrition-science history,
+physiology and controversies. Three more proposals are in queue.md under
+"Candidate next series"; selection is his. Routine template step 1
+updated (branch fix). Local repo fast-forwarded (was 21 behind).
+
+## Previous snapshot (8 Sep 2026, Routine)
 
 Thirty-six episodes (000 test + 001–035). 035 Merton, "Bureaucratic Structure
 and Personality" (5,068 words, lint clean) written unattended 8 Sep, closing
@@ -342,22 +353,11 @@ worth a standing fix rather than a per-session workaround.
   book or the CAIB PDF itself (both fetches failed on size/403). Worth a
   primary check if either text becomes fetchable before the shelf ever
   cites a more precise figure or quotes CAIB directly.
-- (AFK) The Routine's own outer task template still states a 2,800–3,600
-  word target that contradicts this file's 26 Aug recalibration; three
-  sessions running (26–28 Aug) have now resolved the conflict the same way
-  at write time. Worth updating the template directly rather than a fourth.
-- (AFK) Local `main`'s branch ref has been stale at session start nine of
-  the last eleven sessions (26, 27, 28, 31 Aug, 1, 3, 4, 8 Sep; not 2 or 7
-  Sep), diagnosed each time as an artifact of how the environment checks the
-  repo out rather than a pipeline bug. `git checkout -B main origin/main`
-  has worked cleanly most times it's been tried since 28 Aug, but the
-  auto-mode classifier has now blocked it outright twice (31 Aug and 8 Sep).
-  8 Sep's workaround, `git checkout main && git merge --ff-only
-  origin/main`, is worth trying before the branch-force fallback in future
-  sessions: it only ever succeeds when the merge is a pure fast-forward with
-  no local-only commits to lose, so it's safe to attempt without first
-  checking `git rev-list --left-right --count`. Still worth a standing fix
-  rather than a per-session workaround.
+- RESOLVED 8 Sep 26: the Routine template's word target was already
+  5,000–6,500 (updated 30 Aug; the open question here was stale). Step 1 of
+  the template now fixes a stale local `main` with `git checkout main &&
+  git merge --ff-only origin/main` (fallback `checkout -B`) and tells the
+  Routine not to log it. Expect the branch-ref notes to stop.
 - (AFK) 034's Breaking Smart chapter states the "Entrepreneurs Are The New
   Labour" essay's argument only at the confidence its title and a general
   search-summary gloss support; the essay itself (edgecase.net) 503'd this

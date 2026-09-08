@@ -1,5 +1,15 @@
 # The Annotated Shelf — queue
 
+## Order of record (Kevin, 8 Sep 26)
+
+1. 036 Weber, "Science as a Vocation" (already promised by 035's sign-off).
+2. Scott Alexander, three episodes (037–039), scoped below. 036's sign-off
+   points to Meditations on Moloch.
+3. A NEW SERIES after that. Kevin: "we've done a lot on orgs etc and I am
+   interested in a new series." Candidates are in "Candidate next series"
+   below; the choice is his. If no series has been chosen when 039 ships,
+   fall through to the first unchecked item in Classic essays.
+
 ## Done
 - [x] 000 Pipeline test
 - [x] 002 Dan Davies body of work (re-shipped from the original run)
@@ -394,8 +404,105 @@ Murder · Some Thoughts on the Common Toad · Benefit of Clergy (Dalí).
   "On Taylorism, Healthcare, and The Goal" (Feb 2019), "On Three Doctors" (Jan
   2020). Do not copy his posts into this public repo — fetch at writing time.
 
-## Scott Alexander best-of (a second series)
-- [ ] Scope the canon first (candidates: Meditations on Moloch · I Can Tolerate
-  Anything Except the Outgroup · Kolmogorov Complicity · The Categories Were Made
-  for Man · Considerations on Cost Disease · his book reviews). Selection episode
-  or per-essay episodes TBD with Kevin before writing.
+## Scott Alexander best-of (greenlit by Kevin 8 Sep 26, three episodes)
+
+All three are free online at slatestarcodex.com; fetch and quote from the
+originals at writing time. Selection rationale: the feed's purpose is insight
+Kevin can use at work, so the picks are the three with the most practical
+purchase for someone running trials and programmes, not the three most famous.
+Same essay format as the Orwell series: the essay supplies the mechanism, the
+narrator supplies the worked case, the reception pass is where the work goes.
+
+- [ ] Meditations on Moloch (2014). The coordination-failure engine under
+  everything the shelf has covered since Davies: multipolar traps, races to
+  the bottom, why nobody in a bad equilibrium is the villain. Worked cases
+  from the shelf's own back catalogue (the Ridgway/Goodhart material, the
+  Grove and Perrow material). Reception: the "it's just externalities and
+  game theory with a demon on top" reading (economists), Yudkowsky's
+  Inadequate Equilibria (2017) as the constructive sequel, and the Zvi
+  Mowshowitz "Moloch's Toolbox" responses. BLOOM aside if it lands: the
+  incentive structure a counselling programme puts on its own counselors.
+- [ ] Considerations on Cost Disease (2017). Why healthcare, education and
+  construction cost several times what they did in 1970 with no visible
+  improvement; Alexander's honest "I don't know". Reception: Baumol's own
+  formulation (1966; The Cost Disease, 2012) and whether Alexander misreads
+  it; Tabarrok and Helland, Why Are the Prices So Damn High? (Mercatus
+  2019); the "it's administrators" and "it's Baumol, full stop" camps.
+  Kevin's world (an academic medical centre) is the worked case.
+- [ ] The research-epistemics pair: Beware the Man of One Study (2014) and
+  The Control Group Is Out of Control (2014), as a duel-shaped single
+  episode. The first is about how a literature gets weaponised one paper at
+  a time; the second uses parapsychology as the control group for science
+  itself (Bem 2011, the Ganzfeld meta-analyses). Reception: Ioannidis 2005,
+  the replication-crisis literature, Gelman's garden of forking paths, and
+  the objection that Alexander's own reading of the psi meta-analyses is
+  selective. Most job-relevant of the three: a trialist's own defences
+  against being the man of one study.
+
+Alternates if one of the above fails grounding: I Can Tolerate Anything
+Except the Outgroup (2014); The Categories Were Made for Man, Not Man for
+the Categories (2014); Kolmogorov Complicity and the Parable of Lightning
+(2017). His Seeing Like a State review is already folded into 017/018.
+
+## Candidate next series (8 Sep 26, for Kevin to choose)
+
+Kevin's brief: a new series, not more organisations. Two ideas are his; the
+rest are proposals. None is scheduled until he picks.
+
+- [ ] **The Collison shelf** (Kevin's idea). Patrick Collison, not John:
+  the reader of the two, who recommends widely and well. Source discipline
+  matters here. His public bookshelf (patrickcollison.com/bookshelf, 778
+  titles, unranked, and by his own note "not updated in around 10 years")
+  is too broad to be a canon. Better handles, in order: (1) Stripe Press,
+  which he curates, so every title is an explicit editorial bet (The Dream
+  Machine, Waldrop; The Art of Doing Science and Engineering, Hamming;
+  Scientific Freedom, Braben; Working in Public, Eghbal; Where Is My Flying
+  Car?, Storrs Hall; The Making of Prince of Persia; Poor Charlie's
+  Almanack); (2) recommendations he makes in interviews (Conversations with
+  Tyler 2019 and 2021, Dwarkesh Patel 2024, Noah Smith), fetched and quoted
+  at writing time; (3) his own short pages (patrickcollison.com/fast,
+  /questions, /advice) as the through-line. Suggested series shape: 6–8
+  episodes, one book each, with Hamming's "You and Your Research" (1986) as
+  the pilot because it is short, free, and the single thing he recommends
+  most often. Verify every "Collison recommends X" claim against a fetched
+  source; if it can't be sourced, the book can still run but the attribution
+  can't.
+- [ ] **Nutrition science: history, physiology, controversies** (Kevin's
+  idea). Fits the feed's purpose better than anything else on this list,
+  and the bar is higher because it is his field: primary sources, exact
+  numbers, and named critics are non-negotiable, and the PubMed connector
+  should be attached to the Routine for this series. Candidate episodes:
+  scurvy and the two-century loss of Lind's cure (Bown, Scurvy 2003;
+  Carpenter, The History of Scurvy and Vitamin C 1986); Goldberger's
+  pellagra "filth parties" and the fight against the germ-theory consensus
+  (Kraut, Goldberger's War 2003); beriberi, Eijkman and Takaki, the first
+  deficiency disease proved by trial; Keys and the Minnesota Starvation
+  Experiment (Tucker 2006) and what it still says about refeeding; the
+  diet-heart controversy as a duel (Keys vs Yudkin, then Taubes vs the
+  Minnesota Coronary Experiment reanalysis, Ramsden BMJ 2016; Kearns JAMA
+  Intern Med 2016 on the sugar industry); the "great protein fiasco"
+  (McLaren, Lancet 1974) and how the kwashiorkor-as-protein-deficiency
+  dogma bent global policy for twenty years; Barker and fetal origins
+  (Barker 1989 onward, and the case against); the Ioannidis critique of
+  nutritional epidemiology (JAMA 2018) as a closing duel. Kevin's own
+  field's history (RUTF, Briend and Manary) is a possible finale but
+  should be his call given proximity.
+- [ ] **Science as an institution** (proposal; 036 Weber is the natural
+  pilot and Collison overlaps heavily). Vannevar Bush, Science, The Endless
+  Frontier (1945); Hamming 1986; Braben, Scientific Freedom; Azoulay et al.
+  "Does Science Advance One Funeral at a Time?" (AER 2019); Collison and
+  Nielsen, "Science Is Getting Less Bang for Its Buck" (Atlantic 2018) and
+  the Bloom et al. "Are Ideas Getting Harder to Find?" (AER 2020) debate;
+  Bhattacharya and Packalen on incentives; the NIH study-section literature
+  (Pier et al. PNAS 2018 on reviewer agreement). Directly relevant to a
+  researcher writing an R01.
+- [ ] **How evidence was invented** (proposal; adjacent to nutrition and
+  his job). The 1948 MRC streptomycin trial and Bradford Hill; Cochrane,
+  Effectiveness and Efficiency (1972); Fisher vs Neyman on randomisation;
+  ISIS-2 and the astrological-sign subgroup; the Women's Health Initiative
+  reversal; Ioannidis 2005 (could be shared with the Alexander pair).
+- [ ] **Doers: biographies of people who built things** (proposal;
+  lighter, and much of it is on Collison's shelf). The Power Broker (Caro);
+  Rickover; Skunk Works (Rich); The Idea Factory (Gertner); Dealers of
+  Lightning (Hiltzik); Lee Kuan Yew, From Third World to First. Big books
+  get multi-part episodes per the charter.
