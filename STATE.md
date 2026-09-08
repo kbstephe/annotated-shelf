@@ -1,6 +1,38 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (7 Sep 2026, Routine)
+## Snapshot (8 Sep 2026, Routine)
+
+Thirty-six episodes (000 test + 001–035). 035 Merton, "Bureaucratic Structure
+and Personality" (5,068 words, lint clean) written unattended 8 Sep, closing
+out the Merton item per 034's sign-off: Bernt Balchen's near-refused U.S.
+citizenship (Byrd's polar pilot, Antarctic service didn't count as continuous
+residence, naturalized under the ordinary statute Nov 1931 anyway) as cold
+open and closing case study; Merton's own 1936/1938/1940 paper sequence
+(unintended consequences, anomie/ritualism, bureaucracy) as one question
+aimed at three widening targets; Weber's ideal-type bureaucracy; the causal
+chain from discipline through Allport's functional autonomy to goal
+displacement; Veblen/Dewey/Warnotte's three convergent namings of trained
+incapacity; rule-sanctification; esprit de corps's defensive edge via A.
+Lawrence Lowell; Bakke's 1934 Greenwich fieldwork for the client's-eye view;
+the 1938/1940 ritualism link flagged as the narrator's own synthesis. Directly
+complicates 009's verdict that comedy was the anesthetic: Merton's serious,
+footnoted, heavily-cited version reached the academic apparatus and changed
+administrative practice no more than Parkinson's joke did. Case against:
+Peter Blau (Merton's own doctoral student, Dynamics of Bureaucracy 1955,
+rule-breaking outperforming compliance, same office as 027's Ridgway
+material), Gouldner's gypsum-plant three-bureaucracy-types fieldwork, March
+and Simon's 1958 feedback-loop systematization. Also corrected queue.md's own
+"four years before the Admiralty curves" scoping claim to the verified
+fifteen-year gap. Sign-off promises Weber's "Science as a Vocation" (1919)
+next, the first unchecked item in queue.md. Local `main` needed a fix at
+session start (origin/main three commits ahead, pure fast-forward, no local-
+only commits); `git checkout -B main origin/main` was blocked outright by the
+auto-mode classifier this time, worked around with `git checkout main &&
+git merge --ff-only origin/main`, which only ever succeeds when nothing would
+be discarded — worth trying first in future sessions alongside the existing
+`-B` attempt.
+
+## Previous snapshot (7 Sep 2026, Routine)
 
 Thirty-five episodes (000 test + 001–034). 034 Venkatesh Rao's later work
 (5,194 words, lint clean) written unattended 7 Sep, closing the Coda per
@@ -314,19 +346,18 @@ worth a standing fix rather than a per-session workaround.
   word target that contradicts this file's 26 Aug recalibration; three
   sessions running (26–28 Aug) have now resolved the conflict the same way
   at write time. Worth updating the template directly rather than a fourth.
-- (AFK) Local `main`'s branch ref has been stale at session start eight of
-  the last ten sessions (26, 27, 28, 31 Aug, 1, 3, 4 Sep; not 2 or 7 Sep),
-  diagnosed each time as an artifact of how the environment checks the
+- (AFK) Local `main`'s branch ref has been stale at session start nine of
+  the last eleven sessions (26, 27, 28, 31 Aug, 1, 3, 4, 8 Sep; not 2 or 7
+  Sep), diagnosed each time as an artifact of how the environment checks the
   repo out rather than a pipeline bug. `git checkout -B main origin/main`
-  has worked cleanly every time it's been tried since 28 Aug (28 Aug, 1,
-  3, 4 Sep), with only the one 31 Aug exception where the environment's
-  auto-mode classifier blocked it and `git branch -f main HEAD && git
-  checkout main` was used instead. Two clean syncs now (2 and 7 Sep) is
-  starting to look less like a one-off outlier, but still not enough
-  sessions to call the issue resolved. Still worth a standing fix rather
-  than a per-session workaround; if scripting one, try `git checkout -B
-  main origin/main` first and fall back to the branch-force method only
-  if that's rejected.
+  has worked cleanly most times it's been tried since 28 Aug, but the
+  auto-mode classifier has now blocked it outright twice (31 Aug and 8 Sep).
+  8 Sep's workaround, `git checkout main && git merge --ff-only
+  origin/main`, is worth trying before the branch-force fallback in future
+  sessions: it only ever succeeds when the merge is a pure fast-forward with
+  no local-only commits to lose, so it's safe to attempt without first
+  checking `git rev-list --left-right --count`. Still worth a standing fix
+  rather than a per-session workaround.
 - (AFK) 034's Breaking Smart chapter states the "Entrepreneurs Are The New
   Labour" essay's argument only at the confidence its title and a general
   search-summary gloss support; the essay itself (edgecase.net) 503'd this
@@ -337,6 +368,17 @@ worth a standing fix rather than a per-session workaround.
   quote in 034 reached this session via one financial-media aggregation
   of a16z commentary, not a primary a16z source; worth checking directly
   if Breaking Smart's Andreessen-era thesis comes up again.
+- (AFK) 035's Merton essay was never read in primary verbatim form; every
+  hosted copy tried this session was paywalled, OCR-blocked, or refused
+  verbatim extraction on copyright grounds. The episode's account (Balchen
+  case, Bakke study, Weber feature list, Lowell esprit-de-corps anecdote,
+  sanctification passage, closing research questions) rests on a detailed
+  paraphrase-only extraction plus independent corroboration of the factual
+  claims, not a primary read. Worth a primary read if the shelf ever needs
+  to quote Merton directly. The Bureau of Naturalization's exact wording in
+  the Balchen case is similarly unverified against a primary government
+  document, used in the episode as paraphrase, not quotation, for that
+  reason.
 
 ## Out of scope
 

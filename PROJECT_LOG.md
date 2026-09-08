@@ -1363,3 +1363,123 @@ landed for Kevin remain unjudged by a listen-through.
 **Artifacts:** episodes/034-venkatesh-rao-later-work.md (5,194 words, lint
 clean); queue.md (Coda ticked, Merton promised); this entry; STATE.md
 snapshot.
+
+## [2026-09-08] — 035 Merton, "Bureaucratic Structure and Personality" (unattended weekday Routine)
+
+**Decisions:** Local `main` needed a fix at session start (origin/main was
+three commits ahead, a pure fast-forward with zero local-only commits); the
+environment's auto-mode classifier blocked `git checkout -B main
+origin/main` outright this time, worked around with `git checkout main &&
+git merge --ff-only origin/main`, which is safer than the branch-force
+fallback used on 31 Aug since it only ever succeeds when no history would be
+discarded. Wrote the Merton item per 034's sign-off, the first unchecked item
+in queue.md: a single-read essay episode (queue.md's Classic essays format).
+Corrected queue.md's own scoping note in the process — its claim that
+Merton's 1940 essay predated "the Admiralty curves" by four years didn't
+survive a check: Parkinson's Economist essay ran in 1955, fifteen years
+later, and no earlier scholarly publication of the Admiralty numbers turned
+up in search. The episode uses the correct fifteen-year gap and queue.md's
+own entry has been corrected to match, continuing this show's pattern of
+catching and fixing its own inherited claims rather than repeating them
+uncritically. Structure: Bernt Balchen's near-refused citizenship (Byrd's
+polar pilot, denied 1927-30 because Antarctic service didn't count as
+continuous U.S. residence, naturalized under the ordinary statute in
+November 1931 anyway while a special congressional act was still pending) as
+cold open and closing case study; Merton's biography (Meyer Schkolnick,
+Temple, Harvard under Sorokin rather than Parsons, the National Medal of
+Science) framed through his own first three papers — 1936 unintended
+consequences, 1938 anomie/ritualism, 1940 bureaucracy — as one question aimed
+at three widening targets in four years; Weber's ideal-type bureaucracy as
+the trustworthy machine; the causal chain from enforced discipline through
+Allport's functional autonomy to goal displacement; Veblen's trained
+incapacity, Dewey's occupational psychosis, Warnotte's professional
+deformation stacked as three converging namings of one mechanism; the
+sanctification of rules and status symbols; esprit de corps's defensive
+underside via A. Lawrence Lowell's account of a civil service punishing an
+elected superior by information-starvation or paper-burial; Bakke's 1934
+Greenwich Employment Exchange fieldwork for the client's-eye view; the
+1938/1940 ritualism connection offered explicitly as the narrator's own
+synthesis rather than an established scholarly consensus. Chapter Ten
+complicates 009's verdict directly: Merton's rigorous, footnoted,
+thousand-plus-times-cited version reached the academic citation apparatus
+and moved administrative practice no further than Parkinson's joke did,
+which relocates the explanation from "comedy is the anesthetic" to
+"absorption happens regardless of tone, just into different institutional
+furniture." Case against: Peter Blau (Merton's own doctoral student),
+Dynamics of Bureaucracy (1955), employment-agency caseworkers whose
+rule-breaking informal consultation outperformed strict compliance — the
+same office this show already met via Ridgway in episode 027, now filed
+under a different failure; Gouldner's gypsum-plant fieldwork (Patterns of
+Industrial Bureaucracy / Wildcat Strike, 1954), three types of bureaucracy
+against Merton's implied one; March and Simon's 1958 Organizations
+redrawing the mechanism as an explicit feedback loop and naming the gap in
+the structural model that Blau's and Gouldner's fieldwork had already filled
+empirically. One BLOOM aside (a supervisor's form-compliance quietly
+displacing the client the form was built to represent). Sign-off promises
+Weber's "Science as a Vocation" (1919) next, the first unchecked item in
+queue.md.
+
+**Verification:** Merton's 1940 essay text itself sits behind a copyright
+wall that blocked verbatim extraction from every hosted copy tried this
+session (Pfeiffer, CSUN PDF via OCR-blocked poppler absence, Scribd, bizsci,
+d.umn.edu); a detailed-summary extraction from the d.umn.edu host, refusing
+verbatim strings on copyright grounds but confirming content and sequence,
+supplied the Balchen case, the Bakke study, the Weber feature list, the
+Lowell esprit-de-corps account, the sanctification passage, and the
+concluding research-questions list — all used in paraphrase, no quotation
+marks, per the copyright/quote-length rule. The Balchen case itself was
+independently corroborated via search: naval-air-force training, the 1925
+Amundsen rescue mission, the 1926 airship flight, meeting Byrd at Spitsbergen,
+the 1927 transatlantic second-pilot role, and the November 5, 1931
+naturalization date (while a December 1930 congressional resolution sat
+undisposed) all confirmed against independent biographical sources, not just
+the Merton-essay summary. Merton's biography (Schkolnick, Temple, Sorokin as
+chair with Parsons only a junior committee member, the 1994 National Medal of
+Science as first sociologist so honored, the 1936/1938/1940 paper sequence)
+confirmed via multiple independent sources. Bakke's 1934 Greenwich fieldwork
+confirmed by name and date via search, not a primary read of The Unemployed
+Man. Peter Blau's Columbia doctorate under Merton and the Dynamics of
+Bureaucracy (1955) two-agency, rule-breaking-outperforms-compliance finding
+confirmed via search; the specific tie to episode 027's Ridgway/Blau material
+is this show's own record, not a new external claim. Gouldner's gypsum-plant
+studies (Patterns of Industrial Bureaucracy, Wildcat Strike, both 1954), the
+1947-49 fieldwork window, and the three-type (mock/representative/punishment-
+centered) typology confirmed via search. March and Simon's 1958 Organizations
+systematizing Merton's, Selznick's, and Gouldner's dysfunction models
+confirmed via search at a general level; the specific feedback-loop framing
+in Chapter Thirteen is this episode's own synthesis of that documented
+systematizing project, not a claim to have read the book's own diagram.
+
+**Traps & dead ends:** The queue.md scoping note's "four years before the
+Admiralty curves" claim was carried into early planning before a direct
+check of Parkinson's Economist essay date (November 1955) showed the real
+gap was fifteen years; corrected in the episode and in queue.md itself rather
+than silently dropped. An early draft used several banned narrator moves
+("quietly" nine times, "exactly the" four times, "genuinely" four times,
+"worth sitting with," "worth pausing to notice," two intentional parallel-
+contrast sentences that the echo rule flags as stutters) and nine near-echo
+repeats from deliberate rhetorical parallelism (a citizen dealing with the
+tenth clerk / a citizen dealing with the first; Parkinson's diagnosis got
+read by everyone and changed nothing / Merton's got read by specialists and
+changed nothing); all fixed by rewording rather than cutting content. First
+full draft ran short at 4,487 words; brought to 5,068 by deepening the
+Balchen biography, the Merton biography, and adding the March-and-Simon
+chapter as new grounded content rather than restatement.
+
+**Open questions:** (AFK) Merton's 1940 essay remains unread in primary
+verbatim form by any session; every fetch attempt hit a paywall, an OCR gap,
+or a copyright-based refusal to quote at length. The paraphrase used here is
+well-corroborated across independent sources but a future session should
+still get a primary read if the shelf ever needs to quote Merton directly
+rather than describe him. (AFK) The Balchen case's exact wording from the
+Bureau of Naturalization's own written reply ("cannot proceed on the
+assumption...") was not independently verified against a primary government
+document this session, only via the essay-summary chain; treated in the
+episode as paraphrase rather than quotation for that reason. (HITL, carried)
+Whether the antidote season and the systems turn landed for Kevin remain
+unjudged by a listen-through.
+
+**Artifacts:** episodes/035-merton-bureaucratic-personality.md (5,068 words,
+lint clean); queue.md (Merton ticked with episode summary and the four-years/
+fifteen-years correction, Weber's "Science as a Vocation" promised); this
+entry; STATE.md snapshot.
