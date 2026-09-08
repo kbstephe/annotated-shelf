@@ -5,10 +5,14 @@
 1. 036 Weber, "Science as a Vocation" (already promised by 035's sign-off).
 2. Scott Alexander, three episodes (037–039), scoped below. 036's sign-off
    points to Meditations on Moloch.
-3. A NEW SERIES after that. Kevin: "we've done a lot on orgs etc and I am
-   interested in a new series." Candidates are in "Candidate next series"
-   below; the choice is his. If no series has been chosen when 039 ships,
-   fall through to the first unchecked item in Classic essays.
+3. **The Collison shelf**, eight episodes (040–047), scoped in its own
+   section below. Chosen by Kevin 8 Sep 26 ("This seems good"). 039's
+   sign-off points to episode 1 of the series (Collison's own pages).
+4. Then nutrition science, science as an institution, how evidence was
+   invented, doers, in that order; each to be scoped with Kevin before its
+   first episode is written. If the next series is not yet scoped when the
+   current one ends, fall through to the first unchecked item in Classic
+   essays.
 
 ## Done
 - [x] 000 Pipeline test
@@ -444,29 +448,72 @@ Except the Outgroup (2014); The Categories Were Made for Man, Not Man for
 the Categories (2014); Kolmogorov Complicity and the Parable of Lightning
 (2017). His Seeing Like a State review is already folded into 017/018.
 
-## Candidate next series (8 Sep 26, for Kevin to choose)
+## The Collison shelf (series of record, chosen by Kevin 8 Sep 26)
+
+Patrick Collison, not John: the reader of the two. Source discipline: the
+canon is **Stripe Press** (press.stripe.com, 20 titles as of 8 Sep 26), which
+he curates, so every title is an explicit editorial bet, plus his own pages
+(patrickcollison.com/fast, /questions, /advice). His public bookshelf page
+(778 titles, unranked, by his own note not updated in about ten years) is NOT
+a source. Any "Collison recommends X" or "says X" claim must be quoted from
+a fetched page or interview transcript (Conversations with Tyler 2019/2021,
+Dwarkesh Patel 2024, Noah Smith) at writing time; if it can't be sourced the
+book still runs but the attribution is dropped. Book format for the books,
+essay format for the pilot and for Hamming's lecture. Big books get two
+parts. Practical half first (what to do), per the feed's purpose.
+
+- [ ] 1. Collison's own pages: Fast, Questions, Advice. The map of the mind
+  before the books. Anchors: the Fast list and his question "Why do there
+  seem to be more examples of rapidly-completed major projects in the past
+  than the present?"; his question "How do you ensure an adequate
+  replacement rate in systems that have no natural way to die?", which
+  links Kaufman, Are Government Organizations Immortal? (1976), the bow on
+  the org series. All fetchable. What you'll use: what "fast" needs
+  institutionally. Note the Questions page links Slate Star Codex on cost
+  disease, the bridge from 038.
+- [ ] 2. Hamming, The Art of Doing Science and Engineering (Stripe Press
+  edition) with the 1986 Bell Labs lecture "You and Your Research" as the
+  spine. Important problems, the open door, compound effort, courage. Case
+  against: survivorship; Bell Labs conditions nobody has now; the "closed
+  door people get more done this year" half of his own argument. Payoff:
+  choosing what an R01 is for.
+- [ ] 3. Vannevar Bush, Pieces of the Action (Stripe Press). OSRD in wartime:
+  radar, penicillin, the proximity fuze, and the administrative moves that
+  made them fast (contracts to universities, not conscription of scientists).
+  The person who built the funding world Kevin lives in. Series 3 takes
+  Science, The Endless Frontier, so do not cover it here beyond a pointer.
+- [ ] 4. Braben, Scientific Freedom (Stripe Press). BP Venture Research
+  (1980–1990) and the "Planck Club": fund people, no peer review, no
+  milestones. Case against: tiny n, hindsight selection of the Planck Club,
+  what it would cost NIH to run this way; the ARPA/FRO counter-examples.
+- [ ] 5. Waldrop, The Dream Machine (Stripe Press), part one. Licklider as
+  the model programme officer: ARPA IPTO, choosing people over projects,
+  "Man-Computer Symbiosis" (1960). Practical half: how to fund and mentor,
+  which is the fellowship-director job.
+- [ ] 6. The Dream Machine, part two. Xerox PARC, the Alto, and how the
+  vision leaked out of the institution that paid for it (Dealers of
+  Lightning as the companion source). Case against: great-man framing;
+  Taylor vs Licklider credit; what the money actually bought per dollar.
+- [ ] 7. Gurri, The Revolt of the Public (Stripe Press, updated edition).
+  Authority collapsed when information stopped being scarce. Public-health
+  read: vaccine trust, WHO, district health officers. Case against: explains
+  too much; the "nihilist public" framing; critics who read the same events
+  as elite failure rather than public revolt.
+- [ ] 8. Poor Charlie's Almanack (Stripe Press), one talk: "The Psychology of
+  Human Misjudgment", Munger's 25 tendencies as a working checklist. Case
+  against: hindsight, the bias-list critique (Gigerenzer), Munger's own
+  record. Closes the series on tools rather than history.
+
+Alternates if one fails grounding or Kevin swaps: Where Is My Flying Car?
+(Storrs Hall); Stubborn Attachments (Cowen); Scaling People (Hughes Johnson,
+but that is organisations again); Kaufman 1976 as its own short episode.
+
+## Candidate next series (8 Sep 26, order fixed 8 Sep 26; scope each with Kevin before writing)
 
 Kevin's brief: a new series, not more organisations. Two ideas are his; the
 rest are proposals. None is scheduled until he picks.
 
-- [ ] **The Collison shelf** (Kevin's idea). Patrick Collison, not John:
-  the reader of the two, who recommends widely and well. Source discipline
-  matters here. His public bookshelf (patrickcollison.com/bookshelf, 778
-  titles, unranked, and by his own note "not updated in around 10 years")
-  is too broad to be a canon. Better handles, in order: (1) Stripe Press,
-  which he curates, so every title is an explicit editorial bet (The Dream
-  Machine, Waldrop; The Art of Doing Science and Engineering, Hamming;
-  Scientific Freedom, Braben; Working in Public, Eghbal; Where Is My Flying
-  Car?, Storrs Hall; The Making of Prince of Persia; Poor Charlie's
-  Almanack); (2) recommendations he makes in interviews (Conversations with
-  Tyler 2019 and 2021, Dwarkesh Patel 2024, Noah Smith), fetched and quoted
-  at writing time; (3) his own short pages (patrickcollison.com/fast,
-  /questions, /advice) as the through-line. Suggested series shape: 6–8
-  episodes, one book each, with Hamming's "You and Your Research" (1986) as
-  the pilot because it is short, free, and the single thing he recommends
-  most often. Verify every "Collison recommends X" claim against a fetched
-  source; if it can't be sourced, the book can still run but the attribution
-  can't.
+- [x] **The Collison shelf** — chosen 8 Sep 26; scoped as its own section above.
 - [ ] **Nutrition science: history, physiology, controversies** (Kevin's
   idea). Fits the feed's purpose better than anything else on this list,
   and the bar is higher because it is his field: primary sources, exact
