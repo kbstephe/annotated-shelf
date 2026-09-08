@@ -688,8 +688,58 @@ rest are proposals. None is scheduled until he picks.
 - [x] **Nutrition science** — scoped 8 Sep 26 as its own section above ("looks good as a start").
 - [x] **Science as an institution** — scoped 8 Sep 26 as its own section above.
 - [x] **How evidence was invented** — scoped 8 Sep 26 as its own section above ("sounds good for a start").
-- [ ] **Doers: biographies of people who built things** (proposal;
-  lighter, and much of it is on Collison's shelf). The Power Broker (Caro);
-  Rickover; Skunk Works (Rich); The Idea Factory (Gertner); Dealers of
-  Lightning (Hiltzik); Lee Kuan Yew, From Third World to First. Big books
-  get multi-part episodes per the charter.
+- [x] **Doers** — scoped 8 Sep 26 as its own section below.
+
+## Doers: people who built things (series of record, scoped 8 Sep 26)
+
+Eight subjects, eleven episodes (075–085) once the two-parters are counted.
+Leans toward people who built institutions in hard places rather than
+founders, because that is closer to Kevin's job. Big books get two parts
+per the charter. Sierra Leone reads are one aside each, never a theme.
+
+- [ ] 1–2. Caro, The Power Broker (1974), two parts. How Moses accumulated
+  power nobody voted for: authorities, bond covenants, knowing the rules
+  better than anyone. Part two: the cost, and Jane Jacobs as the
+  counterweight (The Death and Life of Great American Cities, 1961).
+  Practical half: what the person who controls the paperwork can do. On
+  Collison's shelf; also the model of how Caro works.
+- [ ] 3. Rich and Janos, Skunk Works (1994). Kelly Johnson's 14 rules, the
+  U-2 and the SR-71, why a small insulated team outran the parent company.
+  Case against: it needed Lockheed's money and a Cold War customer. Ties to
+  Grove (025) and the Fast list (Collison ep. 1).
+- [ ] 4. Gertner, The Idea Factory (2012). Bell Labs under Kelly: the
+  transistor, Shannon, the "institute of creative technology", and why it
+  cannot be rebuilt (monopoly rents). Pairs with the Dream Machine episodes.
+- [ ] 5–6. Lee Kuan Yew, From Third World to First (2000), two parts.
+  State-building in a hostile neighbourhood: CPF, housing, the corruption
+  enforcement, and the price paid in liberty. Linked from Collison's
+  Questions page. Case against: a port with a harbour and no hinterland, so
+  the recipe may not travel; the authoritarian ledger. Sierra Leone as one
+  aside.
+- [ ] 7. Rickover. Anchor: Polmar and Allen, Rickover (1982), or Rockwell,
+  The Rickover Effect (1992). The nuclear navy: interviewing every officer
+  personally, responsibility with names attached, the reactor safety
+  record. Case against: insufferable to work for, and the model did not
+  outlive him. Extends Perrow (029).
+- [ ] 8. Borlaug. Anchor: Vietmeyer, Our Daily Bread (2011), or Hesser, The
+  Man Who Fed the World (2006). Shuttle breeding, dwarf wheat, Mexico to
+  India and Pakistan 1965–70. Case against: the Green Revolution's critics
+  (water, inputs, inequality; Shiva; the Africa question). Closest to
+  Kevin's field, same proximity rule as nutrition.
+- [ ] 9. Groves and the Manhattan Project. Anchor: Rhodes, The Making of the
+  Atomic Bomb (1986), the Groves chapters, and Groves's own Now It Can Be
+  Told (1962). The engineer who built Oak Ridge and Hanford on schedule
+  while managing Oppenheimer. Case against: secrecy as management, and
+  what the model cost after the war. Pairs with Pieces of the Action.
+- [ ] 10. Doriot and the invention of venture capital. Anchor: Ante,
+  Creative Capital (2008; on Collison's shelf). ARD, the DEC investment,
+  Harvard Business School, and the idea that funding people is a job. Case
+  against: ARD's own returns were mediocre outside DEC.
+- [ ] 11. Closer: Paul Farmer, via Kidder, Mountains Beyond Mountains
+  (2003). Partners In Health, MDR-TB in Peru, Rwanda. Case against: the
+  sustainability critique of the model, and the cult of the individual.
+  Kevin's own field; same proximity rule as nutrition 5 and 8.
+
+Alternates: Isaacson, Steve Jobs (on Collison's shelf, but done to death);
+Shackleton (Lansing, Endurance); Cowperthwaite and Hong Kong (Monnery, The
+Architect of Prosperity, linked from Collison's Questions page).
