@@ -630,6 +630,55 @@ Alternates: Ziman, Real Science (2000); the Alvey and Fifth Generation
 programmes as a cautionary funding tale; Sarewitz, "Saving Science" (New
 Atlantis 2016); Nielsen, Reinventing Discovery (2011).
 
+## How evidence was invented (series of record, scoped 8 Sep 26, "as a start")
+
+Eight episodes (067–074). Cochrane closes the science series, so this one
+starts a step earlier and ends with the machinery Kevin uses every week.
+Same grounding bar as nutrition: the primary papers are all short and
+fetchable, so read them. Practical half first: what a trialist's SAP
+actually commits to.
+
+- [ ] 1. Before the trial: Semmelweis and Snow. Handwashing in Vienna
+  (1847) and the Broad Street pump (1854): observational evidence that was
+  right, and why one was believed and the other was not. Anchors: Nuland,
+  The Doctors' Plague (2003); Johnson, The Ghost Map (2006); Snow's own On
+  the Mode of Communication of Cholera (1855).
+- [ ] 2. Fisher: randomisation and the lady tasting tea. The Design of
+  Experiments (1935), Rothamsted, and why randomisation was a mathematical
+  idea before it was a medical one. Case against: Fisher's tobacco denial
+  (1958–59) as the worked case of a great methodologist going wrong.
+- [ ] 3. Fisher versus Neyman, a duel. Significance testing against
+  hypothesis testing, the hybrid nobody chose (Gigerenzer's "null ritual"),
+  and the p-value fights that followed (ASA statement 2016). Practical half:
+  what a SAP commits to when it writes 0.05.
+- [ ] 4. The 1948 streptomycin trial. Bradford Hill, sealed envelopes, and
+  why scarcity made randomisation ethical (BMJ 1948, the paper itself).
+  Pair with Hill's "The Environment and Disease: Association or Causation?"
+  (1965) and his own reminiscences (Hill 1990).
+- [ ] 5. ISIS-2 and the astrological subgroup. Peto, Collins, the large
+  simple trial (Lancet 1988), and the Gemini/Libra subgroup as the
+  permanent warning against subgroup fishing. Extends the Scott Alexander
+  epistemics pair (039), pointer only.
+- [ ] 6. The Women's Health Initiative reversal. Nurses' Health Study
+  hormone-therapy estimates versus the 2002 trial (JAMA 2002): the case
+  study of healthy-user confounding, and what it did to trust in
+  epidemiology. Case against the simple story: Hernán et al. 2008 showing
+  the observational data could be reconciled with proper timing.
+- [ ] 7. Evidence-based medicine as a movement. Guyatt et al. (JAMA 1992),
+  Sackett, the hierarchy of evidence, and the critics from both sides:
+  Greenhalgh, "Evidence based medicine: a movement in crisis?" (BMJ 2014),
+  and the industry-capture argument.
+- [ ] 8. Closer: the replication crisis comes for medicine. Ioannidis,
+  "Why Most Published Research Findings Are False" (PLoS Med 2005); Prasad
+  and Cifu, Ending Medical Reversal (2015); the fixes (CONSORT, trial
+  registration, SPIRIT, pre-registered SAPs); and what a trialist in Sierra
+  Leone can actually do about it. BLOOM/MEND aside if it lands.
+
+Alternates: Tuskegee and the Belmont Report (1979) as the ethics turn; the
+meta-analysis story (Glass 1976, Chalmers, the Cochrane Collaboration 1993);
+the Bayesian counter-tradition (Lindley, Spiegelhalter); CAST (1989) as the
+"physiological reasoning kills" case.
+
 ## Candidate next series (8 Sep 26, order fixed 8 Sep 26; scope each with Kevin before writing)
 
 Kevin's brief: a new series, not more organisations. Two ideas are his; the
@@ -638,11 +687,7 @@ rest are proposals. None is scheduled until he picks.
 - [x] **The Collison shelf** — chosen 8 Sep 26; scoped as its own section above.
 - [x] **Nutrition science** — scoped 8 Sep 26 as its own section above ("looks good as a start").
 - [x] **Science as an institution** — scoped 8 Sep 26 as its own section above.
-- [ ] **How evidence was invented** (proposal; adjacent to nutrition and
-  his job). The 1948 MRC streptomycin trial and Bradford Hill; Cochrane,
-  Effectiveness and Efficiency (1972); Fisher vs Neyman on randomisation;
-  ISIS-2 and the astrological-sign subgroup; the Women's Health Initiative
-  reversal; Ioannidis 2005 (could be shared with the Alexander pair).
+- [x] **How evidence was invented** — scoped 8 Sep 26 as its own section above ("sounds good for a start").
 - [ ] **Doers: biographies of people who built things** (proposal;
   lighter, and much of it is on Collison's shelf). The Power Broker (Caro);
   Rickover; Skunk Works (Rich); The Idea Factory (Gertner); Dealers of
