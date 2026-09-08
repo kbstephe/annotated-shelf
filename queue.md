@@ -564,6 +564,72 @@ Alternates: iodine and salt iodisation as the cheapest win in public
 health; the Intersalt salt controversy; vitamin D's long shadow; RUTF and
 the Briend/Manary story as a finale, Kevin's call given proximity.
 
+## Science as an institution (series of record, scoped 8 Sep 26)
+
+Ten episodes (057–066). 036 Weber is the accidental pilot; Pieces of the
+Action, Hamming and Braben belong to the Collison shelf and are not repeated
+here beyond pointers. Kuhn gets three parts at Kevin's instruction ("split
+Kuhn into a few episodes at least"). Practical half first: the payoff for a
+researcher writing grants and sitting on panels.
+
+- [ ] 1. Bush, Science, The Endless Frontier (1945). The report that built
+  the NSF/NIH model: basic research as the "pacemaker of technological
+  progress", the linear model, and what the report said versus what it is
+  cited for. Case against: Kealey (The Economic Laws of Scientific Research,
+  1996) on crowding out; historians (Godin 2006) who argue the linear model
+  was never Bush's. Pieces of the Action (Collison shelf ep. 3) is the
+  companion, pointer only.
+- [ ] 2. Kuhn, The Structure of Scientific Revolutions (1962), part one:
+  normal science. Paradigms, puzzle-solving, why textbooks rewrite history,
+  and the "essential tension" between tradition and innovation (Kuhn 1959).
+  Practical half: what normal science means for a study section that only
+  funds the paradigm.
+- [ ] 3. Kuhn, part two: anomaly, crisis, revolution. Discovery of oxygen
+  and X-rays as worked cases, Gestalt switch, incommensurability, and why
+  Kuhn said scientists do not convert but die off (Planck's remark, the
+  bridge to ep. 6). Worked case from medicine: Helicobacter and ulcers
+  (Marshall and Warren), or the diet-heart material from the nutrition
+  series, pointer only.
+- [ ] 4. Kuhn, part three: the reception. Popper's "myth of the framework",
+  Lakatos's research programmes as the compromise, Feyerabend, the 1969
+  Postscript, the 1965 London colloquium (Criticism and the Growth of
+  Knowledge, 1970), and Kuhn's later disowning of the relativist reading
+  ("I am not a Kuhnian"). Verdict: what survives for a working scientist.
+- [ ] 5. Polanyi, "The Republic of Science: Its Political and Economic
+  Theory" (Minerva 1962). Science as a spontaneous order coordinated by
+  mutual adjustment; the case against central planning of research (the
+  Bernal debate). Case against Polanyi: it assumes the community polices
+  itself, which the replication literature disputes. Short text; the worked
+  case is where the episode lives.
+- [ ] 6. Merton's other papers: "Priorities in Scientific Discovery" (1957)
+  and "The Matthew Effect in Science" (Science 1968). Credit accumulates to
+  the credited; extends 035. Case against: Stephen Cole's tests, and the
+  modern bibliometric work on cumulative advantage (Azoulay, Stuart and
+  Wang 2014 on the Howard Hughes "Matthew effect" natural experiment).
+- [ ] 7. "Does Science Advance One Funeral at a Time?" (Azoulay, Fons-Rosen
+  and Graff Zivin, AER 2019). Star deaths and what happens to the field
+  after; pair with Planck's original remark and Collison's replacement-rate
+  question (Collison shelf ep. 1, pointer). Short primary text.
+- [ ] 8. Duel: are ideas getting harder to find? Bloom, Jones, Van Reenen
+  and Webb (AER 2020) versus Collison and Nielsen, "Science Is Getting Less
+  Bang for Its Buck" (Atlantic 2018) and Park, Leahey and Funk on declining
+  disruptiveness (Nature 2023), with the replies that the metrics measure
+  publishing, not discovery (Macher, Rutzer and Weder; Holst et al. 2024).
+- [ ] 9. The study section. Pier et al. on reviewer agreement (PNAS 2018),
+  Fang and Casadevall's lottery proposal (mBio 2016), Bhattacharya and
+  Packalen, "Stagnation and Scientific Incentives" (2020), and the
+  DARPA/ARPA-H programme-manager model as the alternative. Case against:
+  lotteries have their own losers; the Swiss and New Zealand lottery pilots
+  as evidence. Most directly useful episode for an R01 writer.
+- [ ] 10. Closer: Cochrane, Effectiveness and Efficiency (1972). The person
+  who asked whether medicine's interventions had ever been tested, and what
+  happened when the answer was mostly no. Bridges into "How evidence was
+  invented".
+
+Alternates: Ziman, Real Science (2000); the Alvey and Fifth Generation
+programmes as a cautionary funding tale; Sarewitz, "Saving Science" (New
+Atlantis 2016); Nielsen, Reinventing Discovery (2011).
+
 ## Candidate next series (8 Sep 26, order fixed 8 Sep 26; scope each with Kevin before writing)
 
 Kevin's brief: a new series, not more organisations. Two ideas are his; the
@@ -571,15 +637,7 @@ rest are proposals. None is scheduled until he picks.
 
 - [x] **The Collison shelf** — chosen 8 Sep 26; scoped as its own section above.
 - [x] **Nutrition science** — scoped 8 Sep 26 as its own section above ("looks good as a start").
-- [ ] **Science as an institution** (proposal; 036 Weber is the natural
-  pilot and Collison overlaps heavily). Vannevar Bush, Science, The Endless
-  Frontier (1945); Hamming 1986; Braben, Scientific Freedom; Azoulay et al.
-  "Does Science Advance One Funeral at a Time?" (AER 2019); Collison and
-  Nielsen, "Science Is Getting Less Bang for Its Buck" (Atlantic 2018) and
-  the Bloom et al. "Are Ideas Getting Harder to Find?" (AER 2020) debate;
-  Bhattacharya and Packalen on incentives; the NIH study-section literature
-  (Pier et al. PNAS 2018 on reviewer agreement). Directly relevant to a
-  researcher writing an R01.
+- [x] **Science as an institution** — scoped 8 Sep 26 as its own section above.
 - [ ] **How evidence was invented** (proposal; adjacent to nutrition and
   his job). The 1948 MRC streptomycin trial and Bradford Hill; Cochrane,
   Effectiveness and Efficiency (1972); Fisher vs Neyman on randomisation;
