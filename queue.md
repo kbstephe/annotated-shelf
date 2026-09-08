@@ -508,32 +508,69 @@ Alternates if one fails grounding or Kevin swaps: Where Is My Flying Car?
 (Storrs Hall); Stubborn Attachments (Cowen); Scaling People (Hughes Johnson,
 but that is organisations again); Kaufman 1976 as its own short episode.
 
+## Nutrition science: history, physiology, controversies (series of record, scoped 8 Sep 26, "as a start")
+
+Kevin's field, so the bar is higher than anywhere else on the shelf: primary
+papers, exact numbers with their sources, named critics. Attach the PubMed
+connector to the Routine before episode 1 is written. Kevin may steer
+episodes 5 and 8 personally (closest to his own work); if he has not by the
+time they come up, write them from the published record only and make no
+reference to his studies. Nine episodes (048–056); the order is a draft he
+approved as a start, not a ruling, so re-ordering is allowed if a later
+episode's grounding is ready first.
+
+- [ ] 1. Scurvy: the cure found, lost and found again. Lind's 1747 Salisbury
+  trial, the forty-year gap before Admiralty lemon juice (1795), the
+  lime-juice regression and the Scott expedition. Anchors: Carpenter, The
+  History of Scurvy and Vitamin C (1986); Bown, Scurvy (2003). Theme: a
+  proven intervention and the institutional reasons it does not get adopted.
+- [ ] 2. Beriberi: Takaki, Eijkman and the first deficiency disease proved
+  by trial. Japanese Navy diet trials (1880s), Eijkman's polyneuritis in
+  chickens (1890s), Grijns, Funk's "vitamine" (1912). Anchor: Carpenter,
+  Beriberi, White Rice, and Vitamin B (2000).
+- [ ] 3. Pellagra: Goldberger against the germ-theory consensus. Orphanage
+  and asylum diet trials, the Rankin prison-farm experiment (1915), the
+  filth parties (1916), and the twenty years the fix waited on Southern
+  politics and the Depression. Anchor: Kraut, Goldberger's War (2003).
+- [ ] 4. The Minnesota Starvation Experiment. Keys 1944–45, thirty-six
+  conscientious objectors, semi-starvation and the refeeding phase.
+  Anchors: Tucker, The Great Starvation Experiment (2006); Keys et al., The
+  Biology of Human Starvation (1950). Read-across: SAM refeeding and the
+  psychology of hunger (BLOOM aside if it lands).
+- [ ] 5. The great protein fiasco. Kwashiorkor as protein deficiency, the
+  1950s–60s "protein gap", McLaren, "The great protein fiasco" (Lancet
+  1974), Waterlow and Payne's reply (Nature 1975), and how the dogma bent
+  FAO/WHO policy and requirement figures. Closest to Kevin's work; see note
+  above.
+- [ ] 6. Diet-heart, a duel: Keys versus Yudkin. Seven Countries Study,
+  Pure, White and Deadly (1972), the recovered Minnesota Coronary
+  Experiment data (Ramsden et al., BMJ 2016), the Sugar Research Foundation
+  papers (Kearns et al., JAMA Intern Med 2016). Case against runs both
+  ways: against Keys and against Taubes.
+- [ ] 7. Barker and fetal origins. Hertfordshire cohorts (Barker, Lancet
+  1989), the thrifty phenotype (Hales and Barker 1992), DOHaD as a field,
+  and the critics who report effect sizes shrinking as study quality rose.
+  Read-across: COGENT.
+- [ ] 8. Growth standards: who is the reference child? Gomez (1956), the
+  NCHS 1977 reference, the WHO Multicentre Growth Reference Study (2006),
+  and the argument over whether one standard fits every population. Kevin's
+  own z-score perspective piece is the natural aside; see note above.
+- [ ] 9. Closer, a duel: can nutritional epidemiology be trusted? Ioannidis,
+  "The Challenge of Reforming Nutritional Epidemiologic Research" (JAMA
+  2018) against the Hu/Willett replies; what randomised feeding trials can
+  and cannot fix.
+
+Alternates: iodine and salt iodisation as the cheapest win in public
+health; the Intersalt salt controversy; vitamin D's long shadow; RUTF and
+the Briend/Manary story as a finale, Kevin's call given proximity.
+
 ## Candidate next series (8 Sep 26, order fixed 8 Sep 26; scope each with Kevin before writing)
 
 Kevin's brief: a new series, not more organisations. Two ideas are his; the
 rest are proposals. None is scheduled until he picks.
 
 - [x] **The Collison shelf** — chosen 8 Sep 26; scoped as its own section above.
-- [ ] **Nutrition science: history, physiology, controversies** (Kevin's
-  idea). Fits the feed's purpose better than anything else on this list,
-  and the bar is higher because it is his field: primary sources, exact
-  numbers, and named critics are non-negotiable, and the PubMed connector
-  should be attached to the Routine for this series. Candidate episodes:
-  scurvy and the two-century loss of Lind's cure (Bown, Scurvy 2003;
-  Carpenter, The History of Scurvy and Vitamin C 1986); Goldberger's
-  pellagra "filth parties" and the fight against the germ-theory consensus
-  (Kraut, Goldberger's War 2003); beriberi, Eijkman and Takaki, the first
-  deficiency disease proved by trial; Keys and the Minnesota Starvation
-  Experiment (Tucker 2006) and what it still says about refeeding; the
-  diet-heart controversy as a duel (Keys vs Yudkin, then Taubes vs the
-  Minnesota Coronary Experiment reanalysis, Ramsden BMJ 2016; Kearns JAMA
-  Intern Med 2016 on the sugar industry); the "great protein fiasco"
-  (McLaren, Lancet 1974) and how the kwashiorkor-as-protein-deficiency
-  dogma bent global policy for twenty years; Barker and fetal origins
-  (Barker 1989 onward, and the case against); the Ioannidis critique of
-  nutritional epidemiology (JAMA 2018) as a closing duel. Kevin's own
-  field's history (RUTF, Briend and Manary) is a possible finale but
-  should be his call given proximity.
+- [x] **Nutrition science** — scoped 8 Sep 26 as its own section above ("looks good as a start").
 - [ ] **Science as an institution** (proposal; 036 Weber is the natural
   pilot and Collison overlaps heavily). Vannevar Bush, Science, The Endless
   Frontier (1945); Hamming 1986; Braben, Scientific Freedom; Azoulay et al.
