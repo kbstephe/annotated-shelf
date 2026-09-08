@@ -270,10 +270,40 @@ the constellation (three short papers staged as rediscovery).
   the foam." One callback to Jackall (001). Sign-off promises The
   Presentation of Self in Everyday Life (Goffman) next, the first unchecked
   item under Micro-mechanics.
-- [ ] Merton, "Bureaucratic Structure and Personality" (1940). Trained
-  incapacity and goal displacement — Parkinson's findings with the joke removed
-  and the citations attached, published four years before the Admiralty curves
-  and equally ignored. Complicates 009's verdict that comedy was the anesthetic.
+- [x] Merton, "Bureaucratic Structure and Personality" (1940) — done as 035,
+  8 Sep 26 (5,068 words, lint clean). Note on the original scoping above: the
+  "four years before the Admiralty curves" claim didn't hold up against
+  research (Parkinson's essay ran fifteen years later, in 1955, with no
+  earlier scholarly publication of the Admiralty numbers found); the episode
+  uses the correct fifteen-year gap instead. Cold open: Bernt Balchen, Byrd's
+  polar pilot, nearly refused U.S. citizenship because his Antarctic service
+  didn't count as continuous residence (denied 1927-30, naturalized under the
+  ordinary statute Nov 1931 anyway, while a special congressional act was
+  still pending). Merton's biography (Meyer Schkolnick, Temple, Harvard under
+  Sorokin not Parsons, the 1936 unintended-consequences paper, the 1938
+  anomie/ritualism paper) framed as one question applied across three papers
+  in four years. Weber's ideal-type bureaucracy as the machine built to be
+  trusted; the causal chain from discipline through Allport's functional
+  autonomy to goal displacement; Veblen's trained incapacity, Dewey's
+  occupational psychosis, Warnotte's professional deformation; the
+  sanctification of rules and status; esprit de corps's defensive edge via
+  A. Lawrence Lowell; Bakke's 1934 Greenwich Employment Exchange fieldwork for
+  the client's-eye view; the Balchen case run back through the mechanism; the
+  1938/1940 ritualism connection as the narrator's own synthesis. Complicates
+  009's verdict directly: Merton's rigorous, footnoted, thousand-plus-times-
+  cited version reached the academic citation apparatus and changed
+  administrative practice no more than Parkinson's joke did — absorption, not
+  tone, was the variable. Case against: Peter Blau (Merton's own doctoral
+  student), Dynamics of Bureaucracy 1955, employment-agency caseworkers whose
+  rule-breaking informal consultation outperformed strict compliance (same
+  office already met via Ridgway in 027); Gouldner's gypsum-plant fieldwork
+  (Patterns of Industrial Bureaucracy / Wildcat Strike, 1954), three types of
+  bureaucracy against Merton's one; March and Simon's 1958 Organizations
+  redrawing the mechanism as an explicit feedback loop and exposing what the
+  structural model alone can't explain. One BLOOM aside (a supervisor's form-
+  compliance displacing the client it was meant to represent). Sign-off
+  promises Weber's "Science as a Vocation" (1919) next, the first unchecked
+  item in queue.md.
 - [ ] Weber, "Science as a Vocation" (1919). Public domain. The series'
   instruments turned on the listener's own house: the academic career as a
   gamble, specialization as the price of contribution, disenchantment as what
