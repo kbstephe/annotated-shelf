@@ -2,9 +2,9 @@
 
 ## Order of record (Kevin, 8 Sep 26)
 
-1. 036 Weber, "Science as a Vocation" (already promised by 035's sign-off).
+1. 036 Weber, "Science as a Vocation" — done, 9 Sep 26 (see Classic essays below).
 2. Scott Alexander, three episodes (037–039), scoped below. 036's sign-off
-   points to Meditations on Moloch.
+   points to Meditations on Moloch, up next.
 3. **The Collison shelf**, eight episodes (040–047), scoped in its own
    section below. Chosen by Kevin 8 Sep 26 ("This seems good"). 039's
    sign-off points to episode 1 of the series (Collison's own pages).
@@ -318,11 +318,37 @@ the constellation (three short papers staged as rediscovery).
   compliance displacing the client it was meant to represent). Sign-off
   promises Weber's "Science as a Vocation" (1919) next, the first unchecked
   item in queue.md.
-- [ ] Weber, "Science as a Vocation" (1919). Public domain. The series'
-  instruments turned on the listener's own house: the academic career as a
-  gamble, specialization as the price of contribution, disenchantment as what
-  the enterprise does to the world it explains. Translation choice is itself a
-  craft problem worth naming in the script.
+- [x] Weber, "Science as a Vocation" (1917/1919) — done as 036, 9 Sep 26
+  (5,169 words, lint clean). Cold open and biographical spine: Weber delivered
+  the lecture in a Munich bookshop in November 1917 nineteen years into his
+  own withdrawal from regular teaching after his 1898 breakdown, returned to
+  a real chair only in 1919 (drafting the Weimar constitution and running,
+  unsuccessfully, for parliament in the same months), taught three semesters,
+  and died of influenza-turned-pneumonia in June 1920 at fifty-six. The
+  Privatdozent/habilitation system and the chair-competition lottery (with
+  Weber's own unusually fast rise as the counter-case); the American mirror
+  (universities as "state-capitalist enterprise," the assistant's
+  "quasi-proletarian existence," predicted to spread to Germany) read against
+  Whyte/Jackall; specialization and personality as self-erasure into the
+  work; being superseded as science's goal, not its fate; disenchantment
+  defined precisely (mastery by calculation in principle, not more actual
+  knowledge); the Tolstoy exchange and the Abraham/satisfied-death passage;
+  the "many old gods" polytheism-of-values passage; the sacrifice-of-the-
+  intellect passage (honest religious return ranked above dishonest private
+  mysticism); what science can still do (clarify a chosen value's costs,
+  intellectual honesty as the one enforceable ethic) and the teacher/demagogue
+  line. Translation-as-craft-problem chapter: Beruf as vocation-vs-profession,
+  Wissenschaft's wider German scope, Gerth/Mills 1946 vs. later translations.
+  Reception: Chad Wellmon's "aged well" reading of the state-capitalist-
+  enterprise line against today's corporatized university; Leo Strauss's
+  relativism/nihilism charge and the newer "performative self-contradiction"
+  version (Rust and Smallpage), against a measured value-freedom-as-method
+  defense (Hammersley). Direct callback to 035's Weber-derived ideal-type
+  bureaucracy as one continuous rationalization mechanism. One BLOOM aside
+  (a study-section scoresheet as the modern Privatdozent lottery; a
+  monitoring dashboard's implicit promise of full calculability). Sign-off
+  promises Scott Alexander's Meditations on Moloch next, per the order of
+  record above.
 - [ ] Weinberg, "Science and Trans-Science" (Minerva 10:209–222, 1972).
   Questions askable of science but unanswerable by it — his own example is
   low-dose radiation, where the honest sample size runs to billions of mice.
