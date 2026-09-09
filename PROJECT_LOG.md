@@ -50,3 +50,74 @@ etc and I am interested in a new series", with Patrick Collison's
 recommendations and nutrition-science history as his two ideas. The layout
 covers roughly ten weeks of weekday runs. Local main was 21 commits behind
 at session start; fast-forwarded with `git merge --ff-only`.
+
+## [2026-09-09] — Routine: Episode 036, Weber's "Science as a Vocation"
+
+**Decisions:** Wrote 035's promised next episode, the first item in the
+8 Sep order-of-record queue. Single-read essay format: Weber's 1917 Munich
+lecture, biography threaded through as the spine (his 1898 breakdown and
+fourteen-year withdrawal from teaching, the 1917 lecture delivered nineteen
+years into that withdrawal, the 1919 return to a Munich chair concurrent
+with drafting the Weimar constitution and a failed parliamentary run, death
+by influenza-turned-pneumonia June 1920 after three semesters back in the
+classroom). Content chapters: the Privatdozent/habilitation lottery (Weber's
+own fast rise as counter-case); the American "state-capitalist enterprise"
+mirror read against Whyte/Jackall; specialization and personality as
+self-erasure; being superseded as science's goal; disenchantment defined
+precisely (calculability in principle, not more actual knowledge); the
+Tolstoy exchange and the Abraham/satisfied-death passage; the "many old
+gods" polytheism passage; the sacrifice-of-the-intellect passage (honest
+religious return ranked above dishonest private mysticism) as an added
+steelman beat; what science can still do and the teacher/demagogue line; a
+translation-as-craft-problem chapter (Beruf, Wissenschaft, Gerth/Mills 1946
+vs. later editions) per the queue's own scoping note. Direct callback to
+035's Weber-derived Merton bureaucracy as one continuous rationalization
+mechanism.
+
+**Verification:** All quoted fragments (the "mad hazard" line, "scarcely to
+be borne," the millennia line, "state-capitalist enterprise" and
+"quasi-proletarian existence," the Tolstoy question, the "many old gods"
+passage, the sacrifice-of-the-intellect passage, the teacher/demagogue line)
+were checked this session against multiple independent web sources quoting
+the Gerth/Mills or Livingstone translations, since no single clean full-text
+mirror was fetchable (American University's html mirror is dead, several
+PDFs 403/503'd or returned unreadable binary). Biographical facts (1897
+father quarrel and death, 1898 breakdown, 1903 return to writing only, 1918
+Vienna trial semester, 1919 Munich chair succeeding Lujo Brentano, Weimar
+constitution drafting and Article 48, Versailles delegation, failed DDP
+candidacy, three semesters taught, June 1920 death at 56, the 1894 Freiburg
+chair at 30) each checked against at least one independent source. The
+lecture series name ("Geistige Arbeit als Beruf"), venue (Steinicke's
+bookshop), organizer (Immanuel Birnbaum), and Nov 7 1917 date corroborated
+across sources. Reception figures (Leo Strauss's relativism charge, Rust
+and Smallpage's "performative self-contradiction" reading, Chad Wellmon's
+Aeon essay on the lecture's contemporary relevance) each drawn from a
+distinct secondary source this session, not from training-knowledge recall
+alone.
+
+**Traps & dead ends:** No primary full-text mirror of the lecture proved
+fetchable this session (American University html mirror, Penn/Weizmann/UMN/
+Harvard PDFs, panarchy.org, Pfeiffer.edu, and web.archive.org were all
+unreachable, blocked, or returned unusable binary). Grounding rested instead
+on convergent quotation across several independent secondary fetches per
+passage, all consistent with each other and with standard editions; flagged
+here rather than in STATE since the episode's own quotes are still each
+independently sourced, unlike 034/035's flagged single-source items.
+
+**Open questions:** (AFK) Because no primary full text was read end to end,
+a handful of quoted fragments rest on secondary aggregation rather than a
+page-checked primary read, the same caveat 035 carried for Merton's essay.
+Worth a primary read of the Gerth/Mills or Owen/Strong/Livingstone edition
+if the shelf ever needs to quote this lecture more extensively or precisely.
+
+**Artifacts:** episodes/036-weber-science-as-a-vocation.md (5,169 words,
+lint clean); queue.md (Weber item checked off with full episode summary;
+order-of-record line 1 updated to done, line 2 now current).
+
+**Context:** Unattended Routine run, 9 Sep 26. Pre-flight: local `main` was
+one fast-forward behind `origin/main` at session start (the routine,
+expected checkout artifact per the template's own step 1 note); fixed
+cleanly with `git checkout main && git merge --ff-only origin/main`, no
+issue to log per the template's instruction. Build verified live: the
+Build site Action's commit appeared within about three minutes of the push,
+and `site/feed.xml` on origin/main carries 036's title and full text.

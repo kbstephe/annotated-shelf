@@ -1,6 +1,16 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (8 Sep 2026, day, Kevin)
+## Snapshot (9 Sep 2026, Routine)
+
+Thirty-seven episodes (000 test + 001–036). 036 Weber, "Science as a
+Vocation" (5,169 words, lint clean) written unattended 9 Sep, the first item
+in the 8 Sep order-of-record queue; sign-off promises Scott Alexander's
+Meditations on Moloch (037) next, the first of the three-episode Scott
+Alexander run. No primary full text of the lecture was fetchable this
+session (see PROJECT_LOG); its quotes rest on convergent independent
+secondary sourcing instead, flagged as an open question below.
+
+## Previous snapshot (8 Sep 2026, day, Kevin)
 
 Kevin laid out the next ~45 episodes with Claude. Order of record (queue.md
 top): 036 Weber (already promised) -> Scott Alexander x3 (037-039) -> the
@@ -99,6 +109,13 @@ worth a standing fix rather than a per-session workaround.
 
 ## Open questions
 
+- (AFK) 036's Weber lecture was never read in primary full-text form; every
+  mirror tried this session (American University html, several university
+  PDFs, panarchy.org, web.archive.org) was dead, blocked, or unreadable. Its
+  quotes rest on convergent independent secondary sourcing rather than a
+  page-checked primary read. Worth a primary read of the Gerth/Mills or
+  Owen/Strong/Livingstone edition if the shelf ever needs to quote it more
+  precisely, the same caveat already on record for 035's Merton essay.
 - (HITL) Which classic essays get greenlit, and whether the shelf runs a whole
   essays turn or takes them as interludes between books — the slate is scoped
   in queue.md, selection is Kevin's.
