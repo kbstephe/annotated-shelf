@@ -153,6 +153,16 @@ Monday" or any fixed formula; Kevin, 27 Aug 26: the recurring phrase grates; "Ne
   standing segment: most episodes need no BLOOM at all, and one aside is
   plenty when it applies. Keep it generic and PHI-free: no names, no
   district-level figures, no individual cases.
+  **Never shoehorn it** (Kevin, 10 Sep 26). The default is no BLOOM. An
+  aside earns its place only when the book's mechanism maps onto the
+  programme without any stretching, and the test is whether a stranger who
+  knew both would have made the same connection unprompted. "I recognise the
+  pattern from a programme..." bolted onto a chapter that was finished
+  without it is the failure mode; episodes 031–037 each carried one, and
+  they were the weakest paragraphs in those scripts. If in doubt, leave it
+  out. The listener's job is described in `listener.md` at the repo root
+  (if present) so that when an application is genuine it can land on the
+  right part of his work, not always on BLOOM.
 - Take the object dead seriously, especially a disreputable one (Rao analyzing
   a sitcom as peer literature to Whyte). Never signal "I know this is silly."
 - Numbers and acronyms written out for the ear. No formatting that cannot be
