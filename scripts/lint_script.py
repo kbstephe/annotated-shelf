@@ -64,7 +64,7 @@ TICS = [
     # because of the weight of the argument"). "worth <verb>ing" had mutated
     # past the four forms above and closed nearly every episode 031-040.
     r"\bworth \w+ing\b", r"\bworth (a|an|the) (moment|look|second|closer|pause|detour|hearing)\b",
-    r"\bdwell", r"\bweight of\b", r"\bdeserves?\b", r"\brepays?\b",
+    r"\bdwell(s|ed|ing)? (on|in|inside|with|here|there|upon)\b", r"\bweight of\b", r"\bdeserves?\b", r"\brepays?\b",
     r"\bread(s)? (it |that |this )?twice\b", r"\bbears? (repeating|saying|restating|stating)\b",
     r"\bpay(s)? (slower|closer|more|particular) attention\b",
     r"\bmost (familiar|durable|useful|vivid|honest|important) \w+ (in|of|on) (his|her|the|this|that)\b",
