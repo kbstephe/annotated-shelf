@@ -3,8 +3,9 @@
 ## Order of record (Kevin, 8 Sep 26)
 
 1. 036 Weber, "Science as a Vocation" — done, 9 Sep 26 (see Classic essays below).
-2. Scott Alexander, three episodes (037–039), scoped below. 036's sign-off
-   points to Meditations on Moloch, up next.
+2. Scott Alexander, three episodes (037–039), scoped below. 037 Meditations
+   on Moloch done, 10 Sep 26; its sign-off points to Considerations on Cost
+   Disease (038), up next.
 3. **The Collison shelf**, eight episodes (040–047), scoped in its own
    section below. Chosen by Kevin 8 Sep 26 ("This seems good"). 039's
    sign-off points to episode 1 of the series (Collison's own pages).
@@ -443,15 +444,31 @@ purchase for someone running trials and programmes, not the three most famous.
 Same essay format as the Orwell series: the essay supplies the mechanism, the
 narrator supplies the worked case, the reception pass is where the work goes.
 
-- [ ] Meditations on Moloch (2014). The coordination-failure engine under
-  everything the shelf has covered since Davies: multipolar traps, races to
-  the bottom, why nobody in a bad equilibrium is the villain. Worked cases
-  from the shelf's own back catalogue (the Ridgway/Goodhart material, the
-  Grove and Perrow material). Reception: the "it's just externalities and
-  game theory with a demon on top" reading (economists), Yudkowsky's
-  Inadequate Equilibria (2017) as the constructive sequel, and the Zvi
-  Mowshowitz "Moloch's Toolbox" responses. BLOOM aside if it lands: the
-  incentive structure a counselling programme puts on its own counselors.
+- [x] Meditations on Moloch (2014) — done as 037, 10 Sep 26 (5,390 words,
+  lint clean). Cold open: the sixty-three-year gap between farmers dosing
+  livestock with antibiotics for growth (1950s) and the FDA's 2017
+  growth-promotion ban, as a multipolar trap with real numbers (80 percent
+  of US antibiotic sales to livestock by 2014). Ginsberg's 1954 peyote
+  vision of the Sir Francis Drake Hotel as the essay's own origin story for
+  the god's name; Scott Alexander/Siskind bio and the 2020 NYT doxxing;
+  callback to 018's own unattributed use of his Seeing Like a State review.
+  The trap defined via Shubik's dollar auction, then run through fish
+  farming, the two-income trap (Elizabeth Warren), agriculture vs.
+  hunter-gathering (Diamond), and the nuclear arms race. Elua as the
+  counterweight, tied to 036's Weber "many old gods" close. Widened into
+  the shelf's own back catalogue: Jackall's blame games, Bevan/Hood's NHS
+  targets (028) as a literal multipolar trap, Grove's Intel memory-business
+  exit (023) as a rare successful exit. Reception: Zvi Mowshowitz's "Moloch
+  Hasn't Won" and Ostrom's commons governance (022) as the empirical
+  pushback; Yudkowsky's Inadequate Equilibria / "Moloch's Toolbox" (both
+  his own, not Mowshowitz's — corrected from this item's own scoping note)
+  as the constructive toolkit. Case against: Mike Travers's "Meditations on
+  Meditations on Moloch" (denial-of-agency charge, and the Ginsberg
+  "Moloch whose name is the Mind" inversion). Alexander's own proposed
+  superintelligence "gardener" solution flagged explicitly as a speculative
+  leap the diagnosis's own evidentiary standard doesn't meet. BLOOM aside:
+  a counselling programme's enrollment-count ratchet. Sign-off promises
+  Considerations on Cost Disease next.
 - [ ] Considerations on Cost Disease (2017). Why healthcare, education and
   construction cost several times what they did in 1970 with no visible
   improvement; Alexander's honest "I don't know". Reception: Baumol's own
