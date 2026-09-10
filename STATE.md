@@ -1,6 +1,21 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (10 Sep 2026, Routine)
+## Snapshot (10 Sep 2026, day, Kevin)
+
+Forty-one episodes (000 test + 001–040). Kevin asked for "the next 3
+episodes right now" and 038 Cost Disease (5,069 words), 039 Man of One
+Study + Control Group (5,027) and 040 Collison's own pages (5,017) were
+written attended in one session, all lint clean, all primary sources
+fetched directly (SSC essays via raw curl, not summariser; Collison's
+three pages verbatim). Scott Alexander run complete; Collison shelf
+opened. 040's sign-off promises Hamming (041), which the Routine should
+pick up 11 Sep. Nothing in the queue's scoping needed correcting this
+time. Open (HITL): 038's chapter on the academic medical centre and 039's
+trialist chapter speak in Kevin's first person about his own work more
+directly than earlier episodes; Kevin should confirm that register is
+wanted (proximity rule: published record only unless he steers).
+
+## Previous snapshot (10 Sep 2026, Routine)
 
 Thirty-eight episodes (000 test + 001–037). 037 Scott Alexander,
 "Meditations on Moloch" (5,390 words, lint clean) written unattended

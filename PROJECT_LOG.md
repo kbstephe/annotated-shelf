@@ -122,6 +122,76 @@ issue to log per the template's instruction. Build verified live: the
 Build site Action's commit appeared within about three minutes of the push,
 and `site/feed.xml` on origin/main carries 036's title and full text.
 
+## [2026-09-10] — Kevin's day session: Episodes 038, 039, 040 in one sitting
+
+**Decisions:** Kevin asked for the next three episodes at once (also as a
+Fable usage test). Followed the order of record: 038 Cost Disease, 039 the
+research-epistemics pair, 040 Collison's own pages, each with its sign-off
+pointing to the next. Titles keep 037's "Author, Work: what you'll hear"
+pattern. 038 opens and closes on Keynes 1930 rather than inside the essay;
+its worked case is the academic medical centre ratchet ("every safeguard
+has a birthday"), with the Shorr 2012 bed-alarm RCT as the safeguard that
+failed its test and survived. 039 treats the two essays as one argument
+with Bem as cold open, credits the control-group frame to Allan Crossman
+as the essay itself does, and turns Alexander's man-of-one-study lens back
+on his own choice of psi meta-analysis (ganzfeld walked past). 040 holds
+to the Stripe Press + own-pages source discipline; Kaufman 1976 is framed
+as the empirical floor under the whole org series; the vetocracy is read
+as an antibody (Moses, Pruitt-Igoe, thalidomide) so the question becomes
+dose, not abolition. Each episode carries exactly one BLOOM aside.
+
+**Verification:** All three SSC essays fetched as raw HTML and read in
+body text (the summariser fetch fabricated a "Science became trapped in an
+epistemological ouroboros" quote that is NOT in the essay; the essay's
+actual ending is the "Ouroboros of Scientific Evidence" image plus the
+"Science! YOU WERE THE CHOSEN ONE" joke — the fake quote was not used).
+Exact quotes used, all under fifteen words and checked against the raw
+text: "increase by ten times without a single cent of the gains going to
+teachers, doctors, or nurses" (038); "What's happening? I don't know and I
+find it really scary" (038); "I find their case pretty convincing"
+(Alexander 2019 review, via readscottalexander mirror); "causes even half
+the price rise" (Caplan, Econlib 10 Jun 2019); "so weak and flawed as to
+permit a field of study to sustain itself" (Yudkowsky as quoted by
+Alexander, 039). Collison pages fetched verbatim via curl: Pentagon 491 d,
+Van Ness 7,600 d / $346M / $110,000 per metre, Alaska Highway $793/m,
+Marinship dates, Moderna 45 d / 266 d / 94.5%, Berlin Airlift 277,000
+flights / Tegel 92 d, WWII 3 y 8 m 23 d, BART 16 mi / $2.3B / ~7 y,
+NIH ~$37B, the replacement-rate and cost-disease question texts, and the
+Advice page including "If you're 20–30: I don't know yet." Numbers cited
+from memory and NOT re-verified this session (flagged for the reader as
+approximate where used): Kaufman 1976 counts (175 / ~85% / 27 / 246),
+Woolhandler & Himmelstein 2003 (31% vs ~17%), Ioannidis JAMA 2005
+(49 papers, ~16% contradicted, ~16% shrunk), Shorr 2012 (16 units, null),
+Fast Grants survey (~78% / ~64%), Bloom et al. 2020 (18x), Transit Costs
+Project findings, Surgery Center of Oklahoma (prices posted 2009).
+
+**Traps & dead ends:** The WebFetch summariser refused a verbatim request
+on patrickcollison.com/questions on fair-use grounds and paraphrased
+elsewhere; raw curl + tag-strip in Python was the reliable path for exact
+wording and should be the default for quote-bearing sources. The Bash tool
+mangled a Python heredoc containing apostrophes; edit scripts were written
+with the Write tool and executed by path instead. First drafts of all
+three came in at 4,200–4,300 words; each was brought over the 5,000 floor
+by adding worked cases (Transit Costs Project, Oklahoma, bed-alarm RCT;
+Ioannidis JAMA, ganzfeld, publication-as-trap; Questions-page portrait,
+Bloom et al., Arc), not by restatement.
+
+**Open questions:** (HITL) 038 and 039 use Kevin's own professional
+standing ("I run randomised trials for a living", "I work in an academic
+medical centre") more directly than earlier episodes; confirm the register.
+(HITL) Whether the memory-cited numbers above should be re-verified before
+the episodes are relied on for anything beyond listening. (AFK) 041
+Hamming: the Stripe Press edition text is not online; the 1986 lecture
+transcript is, and the queue already plans it as the spine.
+
+**Artifacts:** episodes/038-scott-alexander-considerations-on-cost-disease.md;
+episodes/039-scott-alexander-man-of-one-study-control-group.md;
+episodes/040-patrick-collison-fast-questions-advice.md; queue.md (three
+items checked with full summaries; order of record updated); STATE.md.
+
+**Context:** Attended session, 10 Sep 26, on Fable 5.1. Three commits,
+one push; build verified after push (see below).
+
 ## [2026-09-10] — Episode 037, Scott Alexander's Meditations on Moloch
 
 **Decisions:** Opened on a grounded, numbers-heavy real-world multipolar

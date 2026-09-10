@@ -3,12 +3,13 @@
 ## Order of record (Kevin, 8 Sep 26)
 
 1. 036 Weber, "Science as a Vocation" — done, 9 Sep 26 (see Classic essays below).
-2. Scott Alexander, three episodes (037–039), scoped below. 037 Meditations
-   on Moloch done, 10 Sep 26; its sign-off points to Considerations on Cost
-   Disease (038), up next.
+2. Scott Alexander, three episodes (037–039) — ALL DONE 10 Sep 26 (037
+   Moloch by the Routine; 038 Cost Disease and 039 the research-epistemics
+   pair by Kevin's day session).
 3. **The Collison shelf**, eight episodes (040–047), scoped in its own
-   section below. Chosen by Kevin 8 Sep 26 ("This seems good"). 039's
-   sign-off points to episode 1 of the series (Collison's own pages).
+   section below. Chosen by Kevin 8 Sep 26 ("This seems good"). 040
+   (Collison's own pages) done 10 Sep 26; its sign-off points to Hamming
+   (041), up next.
 4. Then nutrition science, science as an institution, how evidence was
    invented, doers, in that order; each to be scoped with Kevin before its
    first episode is written. If the next series is not yet scoped when the
@@ -469,22 +470,58 @@ narrator supplies the worked case, the reception pass is where the work goes.
   leap the diagnosis's own evidentiary standard doesn't meet. BLOOM aside:
   a counselling programme's enrollment-count ratchet. Sign-off promises
   Considerations on Cost Disease next.
-- [ ] Considerations on Cost Disease (2017). Why healthcare, education and
-  construction cost several times what they did in 1970 with no visible
-  improvement; Alexander's honest "I don't know". Reception: Baumol's own
-  formulation (1966; The Cost Disease, 2012) and whether Alexander misreads
-  it; Tabarrok and Helland, Why Are the Prices So Damn High? (Mercatus
-  2019); the "it's administrators" and "it's Baumol, full stop" camps.
-  Kevin's world (an academic medical centre) is the worked case.
-- [ ] The research-epistemics pair: Beware the Man of One Study (2014) and
-  The Control Group Is Out of Control (2014), as a duel-shaped single
-  episode. The first is about how a literature gets weaponised one paper at
-  a time; the second uses parapsychology as the control group for science
-  itself (Bem 2011, the Ganzfeld meta-analyses). Reception: Ioannidis 2005,
-  the replication-crisis literature, Gelman's garden of forking paths, and
-  the objection that Alexander's own reading of the psi meta-analyses is
-  selective. Most job-relevant of the three: a trialist's own defences
-  against being the man of one study.
+- [x] Considerations on Cost Disease (2017) — done as 038, 10 Sep 26
+  (5,069 words, lint clean). Cold open: Keynes's 1930 Madrid lecture and
+  the fifteen-hour week, closed out as the essay's own coda. The essay's
+  numbers (per-pupil 2.5x with flat NAEP; college 10x; health 5x since
+  1970 / ~8x since 1960, ten days' pay to sixty; NYC $2.2B/km vs Seoul
+  $40M) with the Transit Costs Project (Levy et al., 2023) as the control
+  case; the flat-wage puzzle; Baumol stated fairly then Alexander's
+  "wages are flat so it can't be Baumol" objection; the eight suspects with
+  the psychiatric-consult and hip-fall (personal vs institutional risk
+  tolerance) examples; Surgery Center of Oklahoma as the 1970 price still
+  on sale. Worked case: the academic medical centre's "every safeguard has
+  a birthday" ratchet (Jackall blame hydraulics, Davies sinks, 037's trap
+  with malpractice law as referee), with Shorr et al. 2012 (Annals) bed-
+  alarm cluster RCT as the safeguard that failed its test and stayed.
+  Reception: Tabarrok & Helland 2019 (opportunity-cost reading of Baumol;
+  admin share flat at ~16% of college spend; 1960s–70s timing) and
+  Alexander's June 2019 concession "I find their case pretty convincing"
+  with his three lingering doubts (flat factory wages; teacher pay +6% vs
+  per-pupil doubling; college 5 → 14 months of median wages 1971–2016);
+  Caplan same day ("I doubt it causes even half the price rise", constant
+  policy can cause change); Woolhandler/Himmelstein 2003 NEJM admin 31% US
+  vs ~17% Canada. Verdict: Baumol is the tide, the ratchet is what was
+  built on the shore. One BLOOM aside: lay-counsellor task-shifting as
+  Caplan's blocked substitute, unblocked. Sign-off promises the
+  research-epistemics pair.
+- [x] The research-epistemics pair — done as 039, 10 Sep 26 (5,027 words,
+  lint clean). Cold open: Bem 2011 in JPSP (nine experiments, d≈0.2, eight
+  of nine significant) and the 2014 meta-analysis (90 experiments, 33 labs,
+  14 countries, p<1.2e-10, BF≈7e9). Control-group frame credited, as the
+  essay does, to Allan Crossman; Yudkowsky quote "so weak and flawed as to
+  permit a field of study to sustain itself". Wiseman & Schlitz staring
+  experiment run to its end (each author suggests the other tampered); the
+  psychotherapy allegiance effect (d≈0.54) as the mainstream analogue;
+  Alexander's own filter of the 90 down to seven peer-reviewed exact
+  replications (3 +, 2 ≈0, 2 −), Ritchie/Wiseman/French rejected by JPSP;
+  "I think Bem is wrong" plus the standard-nobody-survives conclusion.
+  Man of One Study: the bell curve, the Depakote scoping problem, the
+  "Smith et al found it ineffective" title amputation, the minimum-wage
+  literature with both partisan summaries, the funnel plot as the only
+  positive tool. Reception: Simmons/Nelson/Simonsohn 2011, Gelman & Loken
+  forking paths, OSC 2015, Ioannidis 2005 (PLoS Med model + the JAMA
+  49-highly-cited-papers follow-up: ~1/6 contradicted, ~1/6 shrunk).
+  Publication as a multipolar trap (037 callback) with registered reports
+  as the regulator move. Case against: (1) Alexander picks the easiest
+  psi meta-analysis and walks past Bem & Honorton 1994 ganzfeld / Milton &
+  Wiseman 1999 / Storm 2010; (2) the target is the data-generating
+  process, not the statistical framework (he shames both Bayesians); (3)
+  the second essay's positive advice is thin. Trialist's chapter: write so
+  the dot can be placed; the deliverer-rated outcome is Schlitz in the
+  room. One BLOOM aside: counsellor forms as deliverer-rated outcomes, the
+  second channel as the Wiseman half. Sign-off promises the Collison shelf,
+  episode 1.
 
 Alternates if one of the above fails grounding: I Can Tolerate Anything
 Except the Outgroup (2014); The Categories Were Made for Man, Not Man for
@@ -505,8 +542,34 @@ book still runs but the attribution is dropped. Book format for the books,
 essay format for the pilot and for Hamming's lecture. Big books get two
 parts. Practical half first (what to do), per the feed's purpose.
 
-- [ ] 1. Collison's own pages: Fast, Questions, Advice. The map of the mind
-  before the books. Anchors: the Fast list and his question "Why do there
+- [x] 1. Collison's own pages — done as 040, 10 Sep 26 (5,017 words, lint
+  clean). Cold open: the Pentagon (Thursday decision → 491 days, "the day
+  before yesterday") against the Van Ness bus lane (2001 → 2022, ~7,600
+  days, $346M, $110,000/m vs Alaska Highway $793/m), both from the Fast
+  page verbatim. Bio: Stripe 2010, Stripe Press 2018 (~20 titles = the
+  canon; bookshelf page explicitly excluded), Nielsen Atlantic 2018 Nobel
+  survey, Cowen "progress studies" 2019, Fast Grants Apr 2020 (>$50M,
+  48-hour decisions; recipient survey ~4/5 would change programme, ~2/3
+  faster with fewer constraints, discounted as self-report), Arc Institute
+  2021. Fast list run: Hock/BankAmericard 90 d, P-80 143 d, Apollo 8 134 d,
+  Unix, JavaScript, Alto bet; Marinship telegram-to-hull 197 d with the 42
+  families' two weeks; Moderna 3 d design / 45 d to NIH / 266 d trials.
+  What fast needed: one decider, a war, no veto points; Collison's own
+  hypotheses list (Kaufman red tape, Wilson old/new system, Olson,
+  Fukuyama vetocracy, Levy, Glaeser's GWB in 49 months); WWII = 3 y 8 m
+  23 d; BART router delay. Case against: the missing failure column
+  (Moses/Caro, Pruitt-Igoe, thalidomide) — vetocracy as antibody, the
+  question is dose. Questions page: cost-disease bridge to 038 with the
+  a-priori-prediction sub-question; the replacement-rate question with
+  Kaufman 1976 (175 orgs in 1923, ~85% alive in 1973, 27 gone, 246 born)
+  as the floor under the whole org series; the NIH-has-no-books question;
+  Bloom et al. 2020 "Are Ideas Getting Harder to Find?" (18x researchers
+  for Moore's law) pointered to series 4. Advice page: depth, status lags
+  a generation, great work done young, "20–30: I don't know yet"; case
+  against = survivorship again; fellowship-director reading. One BLOOM
+  aside: form changes in days vs protocol changes in months, both
+  correct. Sign-off promises Hamming (041). Original scoping kept below.
+  The map of the mind before the books. Anchors: the Fast list and his question "Why do there
   seem to be more examples of rapidly-completed major projects in the past
   than the present?"; his question "How do you ensure an adequate
   replacement rate in systems that have no natural way to die?", which
