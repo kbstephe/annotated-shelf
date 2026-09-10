@@ -1,20 +1,22 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (10 Sep 2026, day, Kevin)
+## Snapshot (10 Sep 2026, evening, Kevin)
 
-Forty-one episodes (000 test + 001–040). Kevin asked for "the next 3
-episodes right now" and 038 Cost Disease (5,069 words), 039 Man of One
-Study + Control Group (5,027) and 040 Collison's own pages (5,017) were
-written attended in one session, all lint clean, all primary sources
-fetched directly (SSC essays via raw curl, not summariser; Collison's
-three pages verbatim). Scott Alexander run complete; Collison shelf
-opened. 040's sign-off promises Hamming (041), which the Routine should
-pick up 11 Sep. Nothing in the queue's scoping needed correcting this
-time. RULED 10 Sep (Kevin): narrator is Claude's point of view, never Kevin's
-first person; 038-040 re-edited accordingly. Lint repaired the same day
-(the 27 Aug patterns had literal backspaces and never matched) and widened
-(worth+gerund, dwell, weight of, deserves, persona). 012–037 re-edited the same day under the repaired lint (all 0/0);
-001–011 remain pre-lint by rule.
+Forty-one episodes (000 test + 001–040). Scott Alexander run complete
+(037–039); Collison shelf opened with 040; 040's sign-off promises Hamming
+(041), due from the Routine 11 Sep. Three rulings landed today and are in
+SCRIPT_STYLE.md: the narrator is Claude's point of view, never Kevin's first
+person; BLOOM asides default to none and are never shoehorned; `listener.md`
+(public, faculty-page level) tells the narrator what else the listener does.
+`scripts/lint_script.py` was repaired (the 27 Aug patterns had literal
+backspaces and never matched) and widened; every episode 012–040 was
+re-edited under it and reads 0 repeats, 0 tics. 001–011 stay pre-lint.
+**Next step:** read 041's opening when it ships, as the first unattended run
+under all three rulings.
+
+Open (HITL): confirm 041's register. Open (AFK): `listener.md` names two
+in-progress studies (choline, potassium salt); Kevin saw the draft and did
+not object.
 
 ## Previous snapshot (10 Sep 2026, Routine)
 
