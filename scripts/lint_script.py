@@ -51,15 +51,30 @@ TICS = [
     r"\bthat's the unlock\b", r"\bsmoking gun\b", r"\bbelt and suspenders\b",
     r"\bdelve\b", r"\bunderscore\b", r"\btapestry\b", r"\bnuanced\b", r"\bpivotal\b",
     # narrator staging his own drama (Kevin, 27 Aug 26: "this is where the pause carries weight")
-    r"carr(y|ies|ied) (the |its |real |a lot of )?weight", r"the pause", r"pause (here|there|on)",
-    r"(this|here) is where", r"heavy lifting", r"does a lot of",
-    r"hard to overstate", r"cannot be overstated", r"the tell", r"the trick is",
-    r"the move (here|is)", r"what makes this", r"read that again", r"say it again",
-    r"the quiet (part|truth|fact)", r"at bottom", r"in the end,", r"the (deep|deeper) (story|truth)",
-    r"worth.{0,12}(pausing|dwelling|lingering|noticing)", r"dwell on (this|that)",
-    r"the weight of (that|this|the)", r"land(s|ed)? (hard|differently)",
-    r"(for|on|into|by) Monday", r"Monday",
+    r"\bcarr(y|ies|ied) (the |its |real |a lot of )?weight\b", r"\bthe pause\b", r"\bpause (here|there|on)\b",
+    r"\b(this|here) is where\b", r"\bheavy lifting\b", r"\bdoes a lot of\b",
+    r"\bhard to overstate\b", r"\bcannot be overstated\b", r"\bthe tell\b", r"\bthe trick is\b",
+    r"\bthe move (here|is)\b", r"\bwhat makes this\b", r"\bread that again\b", r"\bsay it again\b",
+    r"\bthe quiet (part|truth|fact)\b", r"\bat bottom\b", r"\bin the end,\b", r"\bthe (deep|deeper) (story|truth)\b",
+    r"\bworth\b.{0,12}\b(pausing|dwelling|lingering|noticing)\b", r"\bdwell on (this|that)\b",
+    r"\bthe weight of (that|this|the)\b", r"\bland(s|ed)? (hard|differently)\b",
+    r"\b(for|on|into|by) Monday\b", r"\bMonday\b",
     r"—",
+    # narrator grading, second family (Kevin, 10 Sep 26: "we should dwell on it,
+    # because of the weight of the argument"). "worth <verb>ing" had mutated
+    # past the four forms above and closed nearly every episode 031-040.
+    r"\bworth \w+ing\b", r"\bworth (a|an|the) (moment|look|second|closer|pause|detour|hearing)\b",
+    r"\bdwell", r"\bweight of\b", r"\bdeserves?\b", r"\brepays?\b",
+    r"\bread(s)? (it |that |this )?twice\b", r"\bbears? (repeating|saying|restating|stating)\b",
+    r"\bpay(s)? (slower|closer|more|particular) attention\b",
+    r"\bmost (familiar|durable|useful|vivid|honest|important) \w+ (in|of|on) (his|her|the|this|that)\b",
+    r"\bthe (whole |entire )?(essay|book|argument|lecture) turns on\b",
+    r"\b(hinge|spine|centrepiece|heart) of the (essay|book|argument)\b",
+    # persona (Kevin, 10 Sep 26): the narrator is Claude, never Kevin in the
+    # first person. Judgments in "I" are fine; biography is not.
+    r"\bI (run|work in|work at|help run|practise|practice|treat|trained)\b",
+    r"\bmy (own )?(patients|career|field|trade|work|hospital|colleagues|trainees|programme|program|grants?|ward|clinic|lab)\b",
+    r"\bfor a living\b",
 ]
 
 

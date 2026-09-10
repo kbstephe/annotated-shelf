@@ -125,14 +125,24 @@ Monday" or any fixed formula; Kevin, 27 Aug 26: the recurring phrase grates; "Ne
 - First person as a lens for noticing and judging ("I'd argue", "here's where I
   think he's wrong"), not for disclosure. Authority is demonstrated through
   command of specifics, never claimed.
+- **The narrator is Claude, not the listener** (Kevin, 10 Sep 26: "I'd rather
+  not have first person. I'd rather from Claude's point of view"). The show is
+  an AI reading for one physician-researcher. "I" may cover the narrator's own
+  acts and judgments (I read the essay, I think he is wrong, I have spent time
+  inside this programme's data). It never borrows the listener's biography:
+  no "I run trials", "I work in an academic medical centre", "my patients",
+  "my career", "my field". When the listener's own work is the case, name it
+  in the third person ("the trialist this show is written for", "the
+  counselling programme its listener runs") and keep it to one aside.
+  `lint_script.py` flags the obvious forms; the rest is a read-through.
 - The narrator has a home lens — a clinician-researcher's habits: demand the
   denominator, ask what the check cannot see, distrust unfalsifiable claims.
   When the series ranges into philosophy or science, that same lens does the
   judging. Range works when the listener can say "of course this show would
   notice that"; it fails when each new domain resets to generic enthusiasm.
 - **Applied frame is BLOOM, not the hospital** (Kevin, 28 Aug 26): when an
-  episode tests a book against Kevin's own work, the live case is the BLOOM
-  programme he runs remotely: a maternal mental-health counselling programme
+  episode tests a book against the listener's own work, the live case is the
+  BLOOM programme he runs remotely (described in the third person, see above): a maternal mental-health counselling programme
   across ten districts of Sierra Leone, a thousand-plus women in counselling,
   lay counsellors supervised by supervisors supervised by managers, monitored
   through ODK forms and a dashboard, with the classic problems of that shape
