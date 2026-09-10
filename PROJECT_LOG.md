@@ -121,3 +121,75 @@ cleanly with `git checkout main && git merge --ff-only origin/main`, no
 issue to log per the template's instruction. Build verified live: the
 Build site Action's commit appeared within about three minutes of the push,
 and `site/feed.xml` on origin/main carries 036's title and full text.
+
+## [2026-09-10] — Episode 037, Scott Alexander's Meditations on Moloch
+
+**Decisions:** Opened on a grounded, numbers-heavy real-world multipolar
+trap (the 1950s-2017 livestock antibiotics growth-promotion race) rather
+than starting inside the essay itself, so the abstraction has a concrete
+referent before Ginsberg or Alexander are introduced; the same case is
+closed out later in its own chapter (the FDA's 2017 ban, and the honest
+caveat that overall antibiotic sales have since drifted back up under the
+looser "disease prevention" label) rather than left as a one-off cold open.
+Alexander's own proposed fix, a superintelligence "gardener" coordinating
+away traps no human institution can reach, is flagged explicitly as a
+speculative leap the essay's own evidentiary standard for its diagnosis
+doesn't meet, treating the essay's diagnosis and prescription as two
+different genres rather than one continuous argument. The queue's own
+scoping note for this item mis-attributed "Moloch's Toolbox" to Zvi
+Mowshowitz; research this session found it is Eliezer Yudkowsky's own
+LessWrong sequel to his book *Inadequate Equilibria*, and Mowshowitz's
+actual reply is a separate piece, "Moloch Hasn't Won" (2019, opening his
+Immoral Mazes sequence) — corrected in queue.md's done entry.
+
+**Verification:** The essay itself was fetched from slatestarcodex.com this
+session (not read from training knowledge alone) to confirm its structure,
+its ten-plus catalogued traps, and exact wording for the one quote used
+under fifteen words ("He is the god of child sacrifice"). Ginsberg's Moloch
+vision (October 17 1954, Nob Hill apartment, the Sir Francis Drake Hotel,
+peyote) checked against a Howl-scholarship source; the one Ginsberg quote
+used ("Moloch whose name is the Mind") confirmed against the poem text via
+the same research. Scott Alexander/Siskind biography (blog launch 2013,
+the June 2020 NYT-doxxing deletion, the Astral Codex Ten relaunch) checked
+via web search. The livestock antibiotics figures (eighty percent of US
+antibiotic sales to livestock by 2014, seventeen thousand tons, the
+growth-promotion sales drop from 5.7 million kg in 2016 to zero in 2017
+under FDA Guidance for Industry 213, and the subsequent partial rebound
+under the disease-prevention label) checked against CIDRAP and FDA-report
+coverage. Zvi Mowshowitz's "Moloch Hasn't Won" and Yudkowsky's "Moloch's
+Toolbox" both confirmed by title, author, and argument via web search
+rather than assumed from the queue's own (incorrect) note. Mike Travers's
+"Meditations on Meditations on Moloch" fetched directly and its
+denial-of-agency argument and Ginsberg-inversion charge verified against
+that fetch, not reconstructed from memory. Back-catalogue callbacks (Grove's
+Intel memory-business exit from 023, Bevan/Hood's NHS ratchet from 028,
+Ostrom's commons governance from 022, Jackall's blame games from 001) each
+checked against the actual episode text this session rather than assumed
+from the queue's own summaries.
+
+**Traps & dead ends:** An initial web search for a named economist critique
+("it's just externalities and game theory with a demon on top," the framing
+in this item's own queue scoping note) turned up nothing citable; no such
+attributed reception piece was found this session, so that reading was
+dropped from the episode rather than asserted without a source. The
+Travers piece supplied a stronger, citable case against instead.
+
+**Open questions:** (AFK) Alexander's own essay was read this session only
+via targeted fetches answering specific questions (structure, named
+examples, exact short quotes), not end to end in one continuous pass;
+worth a full primary read if the shelf ever needs to quote it more
+extensively. (HITL) Whether the antibiotics cold open (a constructed frame
+run through the essay's own logic, not one of Alexander's own listed
+examples) belongs in future episodes as a recurring device, opening on a
+grounded real-world case before naming the work, is Kevin's call to bless
+or veto.
+
+**Artifacts:** episodes/037-scott-alexander-meditations-on-moloch.md
+(5,390 words, lint clean); queue.md (Moloch item checked off with full
+episode summary and the Yudkowsky/Mowshowitz correction; order-of-record
+line 2 updated).
+
+**Context:** Unattended Routine run, 10 Sep 26. Pre-flight clean, no stale
+local `main` this time. Build verified live: the Build site Action's
+commit appeared within about ninety seconds of the push, and
+`site/feed.xml` on origin/main carries 037's title and full text.

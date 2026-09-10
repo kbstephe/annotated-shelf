@@ -1,14 +1,23 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (9 Sep 2026, Routine)
+## Snapshot (10 Sep 2026, Routine)
+
+Thirty-eight episodes (000 test + 001–037). 037 Scott Alexander,
+"Meditations on Moloch" (5,390 words, lint clean) written unattended
+10 Sep, the second item in the 8 Sep order-of-record queue, first of the
+three-episode Scott Alexander run. Essay itself fetched and checked
+directly this session (unlike 035/036, no primary-source gap to flag).
+Corrected the queue's own scoping note: "Moloch's Toolbox" is Yudkowsky's,
+not Zvi Mowshowitz's (his own reply is the separate "Moloch Hasn't Won").
+Sign-off promises Alexander's "Considerations on Cost Disease" (038) next.
+
+## Previous snapshot (9 Sep 2026, Routine)
 
 Thirty-seven episodes (000 test + 001–036). 036 Weber, "Science as a
 Vocation" (5,169 words, lint clean) written unattended 9 Sep, the first item
-in the 8 Sep order-of-record queue; sign-off promises Scott Alexander's
-Meditations on Moloch (037) next, the first of the three-episode Scott
-Alexander run. No primary full text of the lecture was fetchable this
-session (see PROJECT_LOG); its quotes rest on convergent independent
-secondary sourcing instead, flagged as an open question below.
+in the 8 Sep order-of-record queue. No primary full text of the lecture was
+fetchable this session (see PROJECT_LOG); its quotes rest on convergent
+independent secondary sourcing instead, flagged as an open question below.
 
 ## Previous snapshot (8 Sep 2026, day, Kevin)
 
@@ -119,8 +128,9 @@ worth a standing fix rather than a per-session workaround.
 - (HITL) Which classic essays get greenlit, and whether the shelf runs a whole
   essays turn or takes them as interludes between books — the slate is scoped
   in queue.md, selection is Kevin's.
-- (HITL) Scott Alexander best-of series: canon selection is Kevin's call
-  before any episode is written (parked in queue.md).
+- RESOLVED 8 Sep 26: Scott Alexander best-of series canon (Meditations on
+  Moloch, Considerations on Cost Disease, the research-epistemics pair) was
+  greenlit by Kevin that day; the open question here was stale.
 - (HITL) Orwell series order: 020's sign-off commits to Notes on Nationalism;
   the rest of the candidate order in queue.md is a proposal.
 - (HITL) Judge 016–020 in Matter: do the longer episodes (16–20 min) land
@@ -164,6 +174,15 @@ worth a standing fix rather than a per-session workaround.
   the Balchen case is similarly unverified against a primary government
   document, used in the episode as paraphrase, not quotation, for that
   reason.
+- (AFK) 037's Alexander essay was read this session only via targeted
+  fetches answering specific questions (structure, examples, exact short
+  quotes), not end to end in one continuous pass; worth a full primary
+  read if the shelf ever needs to quote it more extensively.
+- (HITL) 037 opened on a constructed cold-open case (the livestock
+  antibiotics multipolar trap) run through the essay's own logic rather
+  than one of Alexander's own listed examples. Whether that device — a
+  grounded real-world case preceding the work's own introduction — should
+  recur is Kevin's call.
 
 ## Out of scope
 
