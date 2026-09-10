@@ -13,8 +13,8 @@ pick up 11 Sep. Nothing in the queue's scoping needed correcting this
 time. RULED 10 Sep (Kevin): narrator is Claude's point of view, never Kevin's
 first person; 038-040 re-edited accordingly. Lint repaired the same day
 (the 27 Aug patterns had literal backspaces and never matched) and widened
-(worth+gerund, dwell, weight of, deserves, persona). Open: whether to
-re-edit 031-037 under the repaired lint (0-11 tics each).
+(worth+gerund, dwell, weight of, deserves, persona). 012–037 re-edited the same day under the repaired lint (all 0/0);
+001–011 remain pre-lint by rule.
 
 ## Previous snapshot (10 Sep 2026, Routine)
 

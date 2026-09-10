@@ -122,6 +122,29 @@ issue to log per the template's instruction. Build verified live: the
 Build site Action's commit appeared within about three minutes of the push,
 and `site/feed.xml` on origin/main carries 036's title and full text.
 
+## [2026-09-10] — Kevin's day session, part three: back-catalogue re-edit 012–037
+
+**Decisions:** Kevin: "go ahead and re edit". All 22 episodes 012–037 with
+hits under the repaired lint were re-edited in place (104 lines across 23
+files; article URLs/GUIDs unchanged, so Matter keeps its place). Three
+kinds of change: (1) narrator-grading sentences rewritten ("deserves a
+moment", "worth stating", "here is where", "the whole essay turns on",
+"most useful book on the shelf"); (2) the closing-question formula, which
+had gone "the question for Monday" (012–020 chapter headings included) →
+"worth carrying" (023–037), replaced with twelve rotating phrasings so no
+single one recurs more than twice; (3) the six BLOOM asides in 031–037
+that spoke as Kevin ("I run something with the same shape", "report up
+through me") recast in the third person per the persona ruling. Content,
+claims and callbacks untouched. Lint's `dwell` pattern narrowed to
+"dwell(s) on/in/inside/with" so "dwellings per hectare" passes.
+
+**Verification:** `lint_script.py` on every file 012–040: 0 repeats,
+0 tics. Closers grepped and read for grammar after variation. Grep for
+residual first person ("I've watched", "through me", "my own work") in
+031–037: none. 001–011 untouched (pre-lint, per the standing rule).
+
+**Artifacts:** episodes/012–037 (22 files), scripts/lint_script.py.
+
 ## [2026-09-10] — Kevin's day session, part two: lint was half-dead; narrator is Claude
 
 **Decisions:** (1) Narrator persona ruling: the show is written from Claude's
