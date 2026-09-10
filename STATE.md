@@ -10,10 +10,11 @@ fetched directly (SSC essays via raw curl, not summariser; Collison's
 three pages verbatim). Scott Alexander run complete; Collison shelf
 opened. 040's sign-off promises Hamming (041), which the Routine should
 pick up 11 Sep. Nothing in the queue's scoping needed correcting this
-time. Open (HITL): 038's chapter on the academic medical centre and 039's
-trialist chapter speak in Kevin's first person about his own work more
-directly than earlier episodes; Kevin should confirm that register is
-wanted (proximity rule: published record only unless he steers).
+time. RULED 10 Sep (Kevin): narrator is Claude's point of view, never Kevin's
+first person; 038-040 re-edited accordingly. Lint repaired the same day
+(the 27 Aug patterns had literal backspaces and never matched) and widened
+(worth+gerund, dwell, weight of, deserves, persona). Open: whether to
+re-edit 031-037 under the repaired lint (0-11 tics each).
 
 ## Previous snapshot (10 Sep 2026, Routine)
 

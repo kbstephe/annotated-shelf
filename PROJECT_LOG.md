@@ -122,6 +122,39 @@ issue to log per the template's instruction. Build verified live: the
 Build site Action's commit appeared within about three minutes of the push,
 and `site/feed.xml` on origin/main carries 036's title and full text.
 
+## [2026-09-10] — Kevin's day session, part two: lint was half-dead; narrator is Claude
+
+**Decisions:** (1) Narrator persona ruling: the show is written from Claude's
+point of view, never in Kevin's first person ("I run trials", "my career").
+Judgments in "I" stay; biography goes third person ("the trialist this show
+is written for", "the programme its listener runs"). SCRIPT_STYLE.md
+Register updated; 038-040 re-edited and re-pushed. (2) "worth <verb>ing"
+(holding/keeping/stating/carrying...) is now a tic; it had closed nearly
+every episode 031-040 as a fixed formula for the weekly question, which
+Kevin banned 27 Aug. (3) Episodes 012-037 stay as published (they now show
+0-11 tics each under the repaired lint); a back-catalogue re-edit is
+offered, not done.
+
+**Verification:** Root cause of the tics Kevin still hears: the 27 Aug
+batch of patterns in scripts/lint_script.py (lines 54-61: carries weight,
+the pause, this is where, heavy lifting, hard to overstate, the tell, the
+trick is, dwell on, the weight of, lands hard, Monday) had been written via
+a Bash heredoc that converted every `` into a literal backspace byte
+(0x08). Fifty backspaces found and replaced bytewise; those eleven lines
+had never matched a script. New families added: worth+gerund, dwell*,
+weight of, deserves, repays, reads twice, bears repeating, pay closer
+attention, "most X thing in the", "the essay turns on", persona forms
+(I run/work in/help run, my career/field/trade/patients, for a living).
+Re-lint after fixes: 038 5,066 w, 039 5,051 w, 040 5,020 w, all 0/0.
+
+**Traps & dead ends:** Same heredoc trap bit twice more this session
+(apostrophes, then `` again). Rule of record: any file containing a
+backslash is written with the Write tool or a Python script executed by
+path, never a Bash heredoc. The lint file itself is now the proof.
+
+**Artifacts:** scripts/lint_script.py; .claude/skills/audio-essay/
+SCRIPT_STYLE.md (Register: persona rule); episodes/038, 039, 040 re-edited.
+
 ## [2026-09-10] — Kevin's day session: Episodes 038, 039, 040 in one sitting
 
 **Decisions:** Kevin asked for the next three episodes at once (also as a
