@@ -1,22 +1,34 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (10 Sep 2026, evening, Kevin)
+## Snapshot (11 Sep 2026, Routine)
+
+Forty-two episodes (000 test + 001–041). Collison shelf: 040 (Collison's own
+pages) and 041 (Hamming, "You and Your Research") both done; 041 is the
+first unattended episode written entirely under the three 10 Sep rulings
+(Claude-narrator persona, no-shoehorn BLOOM default, `listener.md`) — no
+BLOOM aside used, since the payoff already landed cleanly on the
+fellowship-director/study-section register without one. `scripts/
+lint_script.py` still reads 0 repeats, 0 tics on every episode 012–041;
+001–011 stay pre-lint. **Next step:** 041's sign-off promises Vannevar
+Bush's "Pieces of the Action" (042).
+
+Open (HITL): read or listen to 041 to confirm the register lands as
+intended, in particular whether the Shannon/seven-year-rule material reads
+as Hamming's own contested judgment rather than the narrator's. Open (AFK):
+`listener.md` names two in-progress studies (choline, potassium salt);
+Kevin saw the draft and did not object.
+
+## Previous snapshot (10 Sep 2026, evening, Kevin)
 
 Forty-one episodes (000 test + 001–040). Scott Alexander run complete
 (037–039); Collison shelf opened with 040; 040's sign-off promises Hamming
-(041), due from the Routine 11 Sep. Three rulings landed today and are in
+(041), due from the Routine 11 Sep. Three rulings landed that day and are in
 SCRIPT_STYLE.md: the narrator is Claude's point of view, never Kevin's first
 person; BLOOM asides default to none and are never shoehorned; `listener.md`
 (public, faculty-page level) tells the narrator what else the listener does.
 `scripts/lint_script.py` was repaired (the 27 Aug patterns had literal
 backspaces and never matched) and widened; every episode 012–040 was
 re-edited under it and reads 0 repeats, 0 tics. 001–011 stay pre-lint.
-**Next step:** read 041's opening when it ships, as the first unattended run
-under all three rulings.
-
-Open (HITL): confirm 041's register. Open (AFK): `listener.md` names two
-in-progress studies (choline, potassium salt); Kevin saw the draft and did
-not object.
 
 ## Previous snapshot (10 Sep 2026, Routine)
 
@@ -201,6 +213,18 @@ worth a standing fix rather than a per-session workaround.
   than one of Alexander's own listed examples. Whether that device — a
   grounded real-world case preceding the work's own introduction — should
   recur is Kevin's call.
+- (HITL) 041 is the first unattended episode written under the Claude-
+  narrator persona rule, the no-shoehorn BLOOM default, and `listener.md`
+  simultaneously; read or listen to confirm the register lands, and in
+  particular whether the seven-year-field-shift rule and the "Shannon
+  ruined himself" verdict read as Hamming's own contested judgment rather
+  than the narrator's endorsement of it.
+- (AFK) The Stripe Press PDF of Hamming's book fetched cleanly this
+  session but no PDF text extractor worked in the environment
+  (`pdftotext` absent, `pypdf`'s native dependency chain broken); 041 was
+  written from the 1986 lecture transcript itself instead, which the
+  queue already treats as the spine, so nothing was lost, but the book's
+  surrounding chapters (outside the lecture) were not read this session.
 
 ## Out of scope
 

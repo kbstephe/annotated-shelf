@@ -348,3 +348,78 @@ pointer to listener.md).
 the narrator is meant to know about the listener must be in the repo or
 nowhere; that constraint, not preference, set the file's disclosure level.
 
+## [2026-09-11] — Routine: Episode 041, Hamming's "You and Your Research"
+
+**Decisions:** Wrote 041 from Hamming's 1986 Bell Labs lecture itself
+rather than from the Stripe Press book's surrounding chapters, per the
+queue's own scoping (the lecture as spine); the Stripe Press PDF wouldn't
+extract in this session's environment (no pdftotext, and the pypdf
+install hit a broken `_cffi_backend`/cryptography binding), so the primary
+source of record is the lecture transcript, cross-read across three
+independently hosted copies. No BLOOM aside: the payoff already lands
+cleanly on the fellowship-director/study-section register that is Kevin's
+actual job per `listener.md`, so a BLOOM aside would have been exactly the
+shoehorn the 10 Sep charter ruling bans. This is also the first episode
+written entirely under all three 10 Sep rulings at once (Claude-narrator
+persona, no-shoehorn default, listener.md) in an unattended run, the test
+the previous session's sign-off flagged as HITL.
+
+**Verification:** Full primary transcript of the 7 March 1986 talk fetched
+and read start to finish (cs.princeton.edu copy, cross-checked against the
+cs.virginia.edu and gwern.net transcriptions for the same wording). Every
+story and figure in the episode traces to that transcript: the McCall
+chemistry-table exchange, the Los Alamos origin, the Pfann/Clogston/
+Shannon examples, Bode's compound-interest story, the important-problem
+definition and Great Thoughts Time, the door-open/closed observation, the
+personality-defect stories (dressing, bicycle, Barney Oliver), the
+seven-year rule and the Shannon verdict, the Bode vision-vs.-management
+exchange, and Hamming's own "biased sample" admission in the Q&A, all
+quoted or paraphrased from the transcript text directly, not summarized.
+The 1947 relay-computer frustration and 1950 Hamming-code publication
+(outside the talk itself) were corroborated across two independent
+histories (IEEE Computer Society's pioneer page and a Bell Labs technical
+retrospective) before use. Cal Newport's open-door critique was verified
+against the raw fetched HTML of his own site after his first WebFetch
+summary misattributed it to a comment thread; the exact sentence quoted
+("orders of magnitudes smaller than what we encounter in an age of
+networked computers") sits in his own body text. The Erren/Cullen/Erren/
+Bourne PLoS Computational Biology rule list was verified the same way,
+by rendering the article's raw HTML rather than trusting a WebFetch
+summary, after the PDF version failed to extract in this environment;
+rule nine and rule ten are confirmed as quoted. gwern.net's two footnotes
+(the Newton line flagged apocryphal; the Institute for Advanced Study
+verdict read as possible regression to the mean) were read directly from
+the raw page text, not the page's own AI-generated summary.
+
+**Traps & dead ends:** The Stripe Press zine PDF fetched cleanly but no
+PDF text extractor worked in this session (`pdftotext` absent, `pypdf`'s
+native dependency chain broken); worked around by relying on the lecture
+transcript, which the queue already treats as the primary text, rather
+than losing time on the book's surrounding chapters. A first WebFetch
+summary of Cal Newport's page put his open-door critique "in the
+comments," which the raw HTML showed was wrong — it is in his own
+post body; raw curl-and-strip-tags, the house pattern since the 040
+session, is confirmed again as the reliable path for a load-bearing
+attributed quote, this time from a WebFetch summariser misattributing a
+location rather than fabricating a quote outright.
+
+**Open questions:** (HITL) Read or listen to 041 to confirm the register:
+first unattended episode under the persona rule, the no-shoehorn rule,
+and `listener.md` together. (AFK) The seven-year-field-shift rule and the
+"Shannon ruined himself" verdict are presented in the episode as Hamming's
+own harsh, unfalsifiable judgment rather than settled fact; worth a listen
+to confirm the framing reads as clearly contested as intended, not as the
+narrator's own claim.
+
+**Artifacts:** episodes/041-hamming-you-and-your-research.md (5,149 words,
+lint clean); queue.md (Collison shelf item 2 checked with full summary,
+order-of-record note updated, sign-off pointer moved to Bush's Pieces of
+the Action).
+
+**Context:** Unattended Routine run, 11 Sep 26. Pre-flight found local
+`main` behind `origin/main` by 33 commits, fixed with `git checkout main
+&& git merge --ff-only origin/main` per the standing template step (not
+logged as a pipeline event, per that step's own instruction). One push
+for the episode and queue update, verified live via `site/feed.xml` on
+`origin/main` before this log entry.
+
