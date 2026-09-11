@@ -8,8 +8,9 @@
    pair by Kevin's day session).
 3. **The Collison shelf**, eight episodes (040–047), scoped in its own
    section below. Chosen by Kevin 8 Sep 26 ("This seems good"). 040
-   (Collison's own pages) done 10 Sep 26; its sign-off points to Hamming
-   (041), up next.
+   (Collison's own pages) done 10 Sep 26; 041 (Hamming) done 11 Sep 26;
+   its sign-off points to Vannevar Bush's Pieces of the Action (042), up
+   next.
 4. Then nutrition science, science as an institution, how evidence was
    invented, doers, in that order; each to be scoped with Kevin before its
    first episode is written. If the next series is not yet scoped when the
@@ -577,12 +578,41 @@ parts. Practical half first (what to do), per the feed's purpose.
   the org series. All fetchable. What you'll use: what "fast" needs
   institutionally. Note the Questions page links Slate Star Codex on cost
   disease, the bridge from 038.
-- [ ] 2. Hamming, The Art of Doing Science and Engineering (Stripe Press
-  edition) with the 1986 Bell Labs lecture "You and Your Research" as the
-  spine. Important problems, the open door, compound effort, courage. Case
-  against: survivorship; Bell Labs conditions nobody has now; the "closed
-  door people get more done this year" half of his own argument. Payoff:
-  choosing what an R01 is for.
+- [x] 2. Hamming, The Art of Doing Science and Engineering — done as 041,
+  11 Sep 26 (5,149 words, lint clean), written from the 1986 Bell Labs
+  lecture "You and Your Research" itself (full primary transcript fetched
+  and read, cross-checked against three independent hosted copies). Cold
+  open: the chemistry-table exchange with Dave McCall (important problems,
+  spring to autumn payoff), then Hamming's bio and the talk's occasion.
+  Traits run in sequence: Los Alamos origin/envy; luck vs. the prepared
+  mind (Pasteur, young Einstein); brains vs. courage (Pfann, Clogston,
+  Shannon's random-code theorem); working conditions and drive (the
+  automatic-programming pivot, Bode's compound-interest speech, Edison,
+  Darwin's contradiction notebook); the important-problem definition
+  itself (time travel/teleportation/antigravity have no attack; Great
+  Thoughts Time; the correct 1-in-10-to-9-in-10 computer prediction); the
+  open door (hedged by Hamming himself, paired with the 1947-50 Hamming
+  code origin story as what an open door actually buys); selling the work
+  and personality defects (the 590 Madison dressing story vs. Tukey, the
+  bicycle and Barney Oliver bureaucracy stories, self-delusion/alibis);
+  the seven-year field-shift rule and the "Shannon ruined himself"
+  verdict, flagged as harsh and unfalsifiable; Bode's vision-vs.-
+  management story. Case against: Hamming's own "biased sample" admission
+  (offered about one question, extended here to the whole method) as the
+  spine of the reception pass, plus gwern.net's annotated-edition
+  fact-checks (the Newton quote flagged apocryphal; the Institute for
+  Advanced Study verdict read as possible regression to the mean), Cal
+  Newport's open-door critique (interruption rates now "orders of
+  magnitudes" past 1986), and Erren/Cullen/Erren/Bourne's 2007 PLoS
+  Computational Biology "Ten Simple Rules" formalization, whose own rule
+  nine (commit) and rule ten (open door) restate rather than resolve the
+  tension. Payoff: "important problem = an attack you have, not just
+  large stakes" landed on study-section grant review and fellowship
+  mentorship, explicitly bridged to 040's still-open NIH-has-no-books
+  question. One BLOOM aside considered and dropped — the payoff already
+  landed cleanly on the fellowship-director/R01 register without it, so
+  adding one would have been the shoehorn the 10 Sep charter ruling bans.
+  Sign-off promises Vannevar Bush's Pieces of the Action (042) next.
 - [ ] 3. Vannevar Bush, Pieces of the Action (Stripe Press). OSRD in wartime:
   radar, penicillin, the proximity fuze, and the administrative moves that
   made them fast (contracts to universities, not conscription of scientists).
