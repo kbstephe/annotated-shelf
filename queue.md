@@ -9,8 +9,8 @@
 3. **The Collison shelf**, eight episodes (040–047), scoped in its own
    section below. Chosen by Kevin 8 Sep 26 ("This seems good"). 040
    (Collison's own pages) done 10 Sep 26; 041 (Hamming) done 11 Sep 26;
-   its sign-off points to Vannevar Bush's Pieces of the Action (042), up
-   next.
+   042 (Vannevar Bush, Pieces of the Action) done 14 Sep 26; its sign-off
+   points to Braben's Scientific Freedom (043), up next.
 4. Then nutrition science, science as an institution, how evidence was
    invented, doers, in that order; each to be scoped with Kevin before its
    first episode is written. If the next series is not yet scoped when the
@@ -613,11 +613,42 @@ parts. Practical half first (what to do), per the feed's purpose.
   landed cleanly on the fellowship-director/R01 register without it, so
   adding one would have been the shoehorn the 10 Sep charter ruling bans.
   Sign-off promises Vannevar Bush's Pieces of the Action (042) next.
-- [ ] 3. Vannevar Bush, Pieces of the Action (Stripe Press). OSRD in wartime:
-  radar, penicillin, the proximity fuze, and the administrative moves that
-  made them fast (contracts to universities, not conscription of scientists).
-  The person who built the funding world Kevin lives in. Series 3 takes
-  Science, The Endless Frontier, so do not cover it here beyond a pointer.
+- [x] 3. Vannevar Bush, Pieces of the Action — done as 042, 14 Sep 26 (5,139
+  words, lint clean). Cold open: Bush's WWI magnetic submarine detector,
+  built and rejected for want of a military-civilian liaison, as the seed
+  of the book's whole argument. Bio and the book's own occasion (1970
+  memoir, reissued by Stripe Press). Central chain: the one-page memo and
+  FDR's "OK" (June 1940) as the method's opening move; the executing-vs-
+  innovating organizational-structure distinction (NDRC's five autonomous
+  divisions vs. the Navy's slow Ashcan depth charges, fixed only once the
+  Tenth Fleet borrowed OSRD's looser structure); the contract-instead-of-
+  conscription mechanism run through three unrelated fields on the same
+  wartime clock — the MIT Radiation Laboratory (Tizard mission magnetron,
+  ~100 radar systems, ~$1.5B wartime dollars), the proximity fuze (Section
+  T under Merle Tuve, Carnegie DTM to the new Johns Hopkins Applied
+  Physics Laboratory, trials by Aug 1942), and penicillin (OSRD's
+  Committee on Medical Research under A.N. Richards, Pfizer's deep-tank
+  fermentation, the Brooklyn ice-factory plant supplying most of the D-Day
+  penicillin); the tyro problem (Geoffrey Pyke's Habakkuk and the
+  Norwegian Weasel diversion) as the discipline a loose structure still
+  needs; "inventions are a dime a dozen" and wartime credit-indifference
+  as the hinge into the postwar patent/funding fight. Case against, three
+  lines: Kealey's crowding-out argument (a wartime emergency doesn't
+  validate a peacetime funding philosophy); Larry Owens's 1994
+  "counterproductive management" argument (the same contract
+  centralization that won the war produced, unsupervised, the postwar
+  public-private research sprawl Bush came to distrust); Kilgore's
+  concentration-in-elite-institutions critique, which was absorbed into
+  the postwar settlement rather than defeated and still describes federal
+  funding today. Landed on study-section grant review as Bush-vs-Kilgore
+  replayed in miniature on every scored application, then on the
+  executing/innovating distinction applied to any protocol or program. No
+  BLOOM aside — the study-section/R01 register was already the genuine
+  landing point, as it was for 041, and forcing a second frame in would
+  have been the shoehorn the charter bans. Science, The Endless Frontier
+  covered only as a pointer, per this item's own scoping, reserved for
+  series 4 item 1. Sign-off promises Braben's Scientific Freedom (043)
+  next.
 - [ ] 4. Braben, Scientific Freedom (Stripe Press). BP Venture Research
   (1980–1990) and the "Planck Club": fund people, no peer review, no
   milestones. Case against: tiny n, hindsight selection of the Planck Club,
