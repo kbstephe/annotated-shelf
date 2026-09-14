@@ -1,6 +1,30 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (11 Sep 2026, Routine)
+## Snapshot (14 Sep 2026, Routine)
+
+Forty-three episodes (000 test + 001–042). Collison shelf: 040 (Collison's
+own pages), 041 (Hamming), and 042 (Vannevar Bush, "Pieces of the Action")
+all done. 042 grounded entirely on secondary sources (the book itself was
+unreachable via fetch this session, no lending copy, no readable Internet
+Archive text) — two independently corroborating secondary sources (Ari
+Wagen's review, a Roots of Progress quote compilation) for the book's own
+material, direct historical sourcing for everything around it. No BLOOM
+aside, second episode running: the study-section/R01 register was again
+the genuine landing point without one. `scripts/lint_script.py` still
+reads 0 repeats, 0 tics on every episode 012–042; 001–011 stay pre-lint.
+**Next step:** 042's sign-off promises Braben's "Scientific Freedom" (043).
+
+Open (HITL): read or listen to 042 to confirm the register lands, and
+whether reusing 041's executing-vs-innovating framing this soon after
+Hamming's Great Thoughts Time material starts to feel like a repeated
+device rather than a fresh one. Open (AFK): "Pieces of the Action" itself
+was never read in primary form; every Bush quote and story rests on
+secondary-source corroboration rather than a page-checked read — worth
+trying the Internet Archive's actual lending flow if the shelf ever needs
+a more precise quotation. `listener.md` names two in-progress studies
+(choline, potassium salt); Kevin saw the draft and did not object.
+
+## Previous snapshot (11 Sep 2026, Routine)
 
 Forty-two episodes (000 test + 001–041). Collison shelf: 040 (Collison's own
 pages) and 041 (Hamming, "You and Your Research") both done; 041 is the
@@ -225,6 +249,18 @@ worth a standing fix rather than a per-session workaround.
   written from the 1986 lecture transcript itself instead, which the
   queue already treats as the spine, so nothing was lost, but the book's
   surrounding chapters (outside the lecture) were not read this session.
+- (AFK) 042's "Pieces of the Action" was never read in primary form; the
+  Internet Archive scan has no readable text or lending copy reachable by
+  fetch this session. Every Bush quote and story used rests on two
+  independently corroborating secondary sources (Ari Wagen's review,
+  Roots of Progress's memoir-quote compilation) rather than a page-checked
+  primary read. Worth trying the Internet Archive's actual lending flow,
+  not just a direct fetch, if the shelf ever needs a more precise
+  quotation from the book.
+- (HITL) 042 reuses 041's executing-vs-innovating organizational distinction
+  as its own closing generative question; worth a listen to judge whether
+  that frame recurring two episodes running on the same shelf reads as a
+  genuine throughline or as the series repeating itself.
 
 ## Out of scope
 

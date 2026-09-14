@@ -423,3 +423,85 @@ logged as a pipeline event, per that step's own instruction). One push
 for the episode and queue update, verified live via `site/feed.xml` on
 `origin/main` before this log entry.
 
+## [2026-09-14] — Routine: Episode 042, Vannevar Bush's "Pieces of the Action"
+
+**Decisions:** Wrote 042 from Bush's 1970 memoir as an organizational-design
+manual rather than a war history, per the queue's own scoping. Structured
+as a chain of three worked cases proving one mechanism generalizes: the MIT
+Radiation Laboratory (radar), Section T/the Applied Physics Laboratory (the
+proximity fuze), and OSRD's Committee on Medical Research (penicillin's
+deep-tank fermentation at Pfizer) — three unrelated fields, three different
+committee chairmen, the identical contract-not-conscription arrangement,
+each landing a working answer inside the same wartime clock. Cold open used
+Bush's own WWI submarine-detector failure (built the tech, no liaison to
+get the Navy to use it) as the seed of the whole argument rather than the
+more obvious 1940 Oval Office scene, which instead opens chapter two. Kept
+"Science, The Endless Frontier" to a single pointer paragraph, per the
+queue's explicit instruction that it belongs to series 4 item 1, not here.
+No BLOOM aside: the genuine landing point was study-section grant review
+(Bush-vs-Kilgore replayed on every scored R01), already Kevin's own
+register per `listener.md`, so a second applied frame would have been the
+shoehorn the charter bans — same call 041 made the episode before.
+
+**Verification:** Primary-source access to the book itself failed this
+session (the Internet Archive scan has no readable text or lending copy
+available via fetch); grounded instead on two independent secondary
+sources that each quote and paraphrase the book directly and corroborate
+each other on the same material — Ari Wagen's review (the "general's hat"
+quote, the NDRC/pyramid-vs-loose-structure argument, both Pyke stories in
+detail, the tyro/amateur distinction, "inventions are a dime a dozen") and
+a Roots of Progress compilation of direct memoir quotes (the "resignation"
+episode, "the hell with the credit," the patent-and-invention material).
+Historical facts around the book (Tizard mission date, magnetron origin,
+Rad Lab output figures, Section T's move from Carnegie DTM to Johns
+Hopkins APL, the CMR/Richards/Florey October 1941 meeting, Pfizer's deep-
+tank fermentation and Brooklyn plant dates, the June 1940 FDR one-page
+memo) were cross-checked across multiple independent aggregator sources
+(historical societies, university and lab histories, a WWII-technology
+history site) rather than a single source each. Reception/case-against
+grounded on three separate secondary treatments read directly this
+session: Kealey's crowding-out argument (via summaries of "The Economic
+Laws of Scientific Research"), Larry Owens's 1994 Business History Review
+"Counterproductive Management of Science" (abstract read directly,
+full text paywalled), and multiple sources on the Bush-Kilgore fight
+(patent policy, the 50%/100% overhead split, the ~15-institution
+concentration complaint). No full primary read of "Pieces of the Action"
+itself happened this session; flagged below.
+
+**Traps & dead ends:** The Internet Archive listing for the book (Boston
+Public Library scan, 396pp) shows metadata only, no readable text or
+lending option reachable this session, so no primary-text verification of
+any quote was possible; every quote used was already independently
+verified as a direct quotation by a secondary source (Wagen, Roots of
+Progress), matching the standard the last several episodes used when a
+primary text was unreachable. A first attempt to fetch a Cambridge Core
+review page and the Stripe Press book page directly worked for the latter
+but 403'd for the former (`online.ucpress.edu`); the Owens argument was
+sourced from the openly available abstract instead.
+
+**Open questions:** (AFK) "Pieces of the Action" itself was never read in
+primary form this session; every specific Bush quote and story used rests
+on independent secondary-source corroboration (Wagen's review and Roots of
+Progress's compilation agreeing on the same material) rather than a
+page-checked primary read, the same caveat already on record for several
+earlier episodes when a primary text wasn't fetchable. Worth a primary
+read via Internet Archive's lending system (not reachable by fetch tools
+this session, may work through an actual borrow flow) if the shelf ever
+needs a more precise quotation from the book. (HITL) Whether the executing-
+vs-innovating organizational distinction, reused here as the closing
+generative question, lands as freshly as it did structuring 041's Great
+Thoughts Time material, or starts to feel like a repeated device across
+the Collison shelf's first three episodes — worth a listen to judge.
+
+**Artifacts:** episodes/042-vannevar-bush-pieces-of-the-action.md (5,138
+words, lint clean); queue.md (Collison shelf item 3 checked with full
+summary, order-of-record note updated, sign-off pointer moved to Braben's
+Scientific Freedom).
+
+**Context:** Unattended Routine run, 14 Sep 26. Pre-flight found local
+`main` behind `origin/main` by 36 commits, fixed with `git checkout main
+&& git merge --ff-only origin/main` per the standing template step (not
+logged as a pipeline event, per that step's own instruction). One push for
+the episode and queue update, verified live via `site/feed.xml` on
+`origin/main` before this log entry.
+
