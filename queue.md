@@ -9,8 +9,9 @@
 3. **The Collison shelf**, eight episodes (040–047), scoped in its own
    section below. Chosen by Kevin 8 Sep 26 ("This seems good"). 040
    (Collison's own pages) done 10 Sep 26; 041 (Hamming) done 11 Sep 26;
-   042 (Vannevar Bush, Pieces of the Action) done 14 Sep 26; its sign-off
-   points to Braben's Scientific Freedom (043), up next.
+   042 (Vannevar Bush, Pieces of the Action) done 14 Sep 26; 043 (Donald
+   Braben, Scientific Freedom) done 15 Sep 26; its sign-off points to
+   Waldrop's The Dream Machine, part one (044), up next.
 4. Then nutrition science, science as an institution, how evidence was
    invented, doers, in that order; each to be scoped with Kevin before its
    first episode is written. If the next series is not yet scoped when the
@@ -649,10 +650,43 @@ parts. Practical half first (what to do), per the feed's purpose.
   covered only as a pointer, per this item's own scoping, reserved for
   series 4 item 1. Sign-off promises Braben's Scientific Freedom (043)
   next.
-- [ ] 4. Braben, Scientific Freedom (Stripe Press). BP Venture Research
-  (1980–1990) and the "Planck Club": fund people, no peer review, no
-  milestones. Case against: tiny n, hindsight selection of the Planck Club,
-  what it would cost NIH to run this way; the ARPA/FRO counter-examples.
+- [x] 4. Donald W. Braben, Scientific Freedom — done as 043, 15 Sep 26
+  (correcting the author's name: the book is Donald W. Braben's, not
+  "David Braben" as 042's sign-off had it; David Braben is the Elite/
+  Frontier game designer, a different person). Cold open: the March 1990
+  phone call ending BP's Venture Research unit "at the peak of its
+  capabilities," per Braben's own framing. Bio and the book's occasion
+  (2008, Stripe Press reissue 2020). Central chain: the Planck Club claim
+  (roughly three hundred paradigm-resetting scientists a century) grounded
+  concretely in Barbara McClintock's thirty-year gap between her 1950
+  jumping-gene result and her unshared 1983 Nobel; the no-proposal,
+  face-to-face selection method (the two questions, "credible heretics");
+  the funded portfolio's actual range, from Clough and Horsewill's obscure
+  Nottingham methyl-tunneling physics (1989–92) through Poliakoff's
+  supercritical-fluid chemistry (two decades ahead of green chemistry
+  having a name) to Dijkstra (twelve years funded) and Nobel laureate
+  Dudley Herschbach; the 1990 closure as a structural fragility (one
+  executive's political cover, no institutional memory) rather than a
+  one-off loss of nerve; Braben's own post-BP UCL continuation (Nick Lane)
+  as a tacit concession that the model still needs ordinary peer review
+  downstream. Case against, three lines: Steven Hill's (Director of
+  Research, Research England) demographic count against Braben's own
+  refusal to disclose it — 26 researchers behind 13 credited discoveries,
+  two women on the same project, a 3-person panel with 2 undisclosed
+  members; José Luis Ricón's (Nintil) evaluation-methodology critique, no
+  counterfactual and self-graded "transformative" results; the scale
+  arithmetic (two million pounds a year and a few dozen relationships is
+  not a model NIH's several-hundred-thousand-investigator budget could run
+  at any multiple); the ARPA/FRO counter-examples (DARPA's early Moderna
+  mRNA bet, Focused Research Organizations) against Braben's own dismissal
+  of the UK's ARIA as mistaken for keeping any milestone at all. Bush
+  callback: both writers need a filter for the genuine outlier versus the
+  confident crank, but Bush trusted institutional embedding where Braben
+  trusted one man's face-to-face read of a stranger, a riskier and more
+  personal mechanism. No BLOOM; landed instead on the fellowship
+  director's own judgment call (per listener.md) — how much unstructured
+  runway to give a trainee on a conversation alone, with Hill's critique
+  folded in as the same mechanism's own blind spot at that smaller scale.
 - [ ] 5. Waldrop, The Dream Machine (Stripe Press), part one. Licklider as
   the model programme officer: ARPA IPTO, choosing people over projects,
   "Man-Computer Symbiosis" (1960). Practical half: how to fund and mentor,
