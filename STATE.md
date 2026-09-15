@@ -1,28 +1,33 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (14 Sep 2026, Routine)
+## Snapshot (15 Sep 2026, Routine)
 
-Forty-three episodes (000 test + 001–042). Collison shelf: 040 (Collison's
-own pages), 041 (Hamming), and 042 (Vannevar Bush, "Pieces of the Action")
-all done. 042 grounded entirely on secondary sources (the book itself was
-unreachable via fetch this session, no lending copy, no readable Internet
-Archive text) — two independently corroborating secondary sources (Ari
-Wagen's review, a Roots of Progress quote compilation) for the book's own
-material, direct historical sourcing for everything around it. No BLOOM
-aside, second episode running: the study-section/R01 register was again
-the genuine landing point without one. `scripts/lint_script.py` still
-reads 0 repeats, 0 tics on every episode 012–042; 001–011 stay pre-lint.
-**Next step:** 042's sign-off promises Braben's "Scientific Freedom" (043).
+Forty-four episodes (000 test + 001–043). Collison shelf: 040 (Collison's
+own pages), 041 (Hamming), 042 (Vannevar Bush), and 043 (Donald W. Braben,
+"Scientific Freedom") all done. 043 corrects an author-name error in 042's
+own sign-off ("David Braben" was the wrong person; the book is Donald W.
+Braben's) — noted in queue.md and PROJECT_LOG, 042's published text left
+as is per the no-rewrite rule. 043 grounded entirely on secondary sources
+(no primary read of the book itself this session) but across an unusually
+wide independent-source set: two book reviews (Nintil, LessWrong), a named
+critic's own site (Steven Hill, Director of Research at Research England),
+an AEI Q&A with direct Braben quotes, and a publisher description, plus
+directly fact-checked surrounding claims (McClintock's 1950/1983 dates,
+the Clough/Horsewill publication record, DARPA/Moderna, Focused Research
+Organizations). No BLOOM; landed instead on an individual fellowship-
+mentorship judgment call rather than reusing 041/042's study-section
+register a third time. `scripts/lint_script.py` still reads 0 repeats, 0
+tics on every episode 012–043; 001–011 stay pre-lint.
+**Next step:** 043's sign-off promises Waldrop's "The Dream Machine," part
+one (044).
 
-Open (HITL): read or listen to 042 to confirm the register lands, and
-whether reusing 041's executing-vs-innovating framing this soon after
-Hamming's Great Thoughts Time material starts to feel like a repeated
-device rather than a fresh one. Open (AFK): "Pieces of the Action" itself
-was never read in primary form; every Bush quote and story rests on
-secondary-source corroboration rather than a page-checked read — worth
-trying the Internet Archive's actual lending flow if the shelf ever needs
-a more precise quotation. `listener.md` names two in-progress studies
-(choline, potassium salt); Kevin saw the draft and did not object.
+Open (HITL): read or listen to 043 to judge whether dropping the study-
+section register for the fellowship-mentorship one lands as a genuine
+widening or a strained pivot away from a frame that still fit. Open (AFK):
+"Scientific Freedom" itself was never read in primary form; every claim
+rests on independent secondary corroboration rather than a page-checked
+read. `listener.md` names two in-progress studies (choline, potassium
+salt); Kevin saw the draft and did not object.
 
 ## Previous snapshot (11 Sep 2026, Routine)
 
@@ -261,6 +266,17 @@ worth a standing fix rather than a per-session workaround.
   as its own closing generative question; worth a listen to judge whether
   that frame recurring two episodes running on the same shelf reads as a
   genuine throughline or as the series repeating itself.
+- (AFK) 043's "Scientific Freedom" was never read in primary form; every
+  claim about Braben's book and BP's Venture Research unit rests on
+  independent secondary corroboration (two book reviews, a named critic's
+  own site, an author Q&A, a publisher description) rather than a
+  page-checked primary read, the same caveat now on record for several
+  earlier episodes.
+- (HITL) 043 deliberately dropped 041/042's study-section/grant-committee
+  register in favor of an individual fellowship-mentorship judgment call,
+  to answer the open question above about that device recurring; worth a
+  listen to judge whether the new register is a genuine widening or a
+  strained pivot away from a frame that still fit.
 
 ## Out of scope
 

@@ -505,3 +505,98 @@ logged as a pipeline event, per that step's own instruction). One push for
 the episode and queue update, verified live via `site/feed.xml` on
 `origin/main` before this log entry.
 
+## [2026-09-15] — Routine: Episode 043, Donald Braben's "Scientific Freedom"
+
+**Decisions:** Corrected an author-name error inherited from 042's own
+sign-off, which named "David Braben" (the Elite/Frontier video-game
+designer, a different person); the book's actual author is the physicist
+Donald W. Braben. Episode text uses the correct name throughout; 042's
+already-published text is left as is per the shelf's own no-rewrite rule,
+and the correction is recorded here and in queue.md instead. Structured
+the episode as: the March 1990 BP phone call ending Venture Research as
+cold open; Braben's Planck Club claim (roughly three hundred paradigm-
+resetting scientists a century) grounded concretely in Barbara
+McClintock's documented thirty-year gap between her 1950 jumping-gene
+result and her unshared 1983 Nobel, rather than left as an assertion; the
+face-to-face, no-proposal selection method and its two questions; the
+funded portfolio's genuine range, from Clough and Horsewill's obscure
+Nottingham methyl-tunneling physics (1989-92) and Poliakoff's supercritical
+chemistry (two decades ahead of green chemistry having a name) through
+Dijkstra (twelve years funded) and Nobel laureate Dudley Herschbach; the
+1990 closure read as a structural fragility (one executive's political
+cover, no institutional memory to fall back on) rather than Braben's own
+framing of it as simply a company losing its nerve; his post-BP UCL
+continuation (Nick Lane) read as a tacit concession that the model still
+needs ordinary peer review downstream once work stops looking strange.
+Case against, three lines held to the charter's steelman-before-critique
+order: Steven Hill's (Director of Research, Research England) published
+demographic count against Braben's own refusal to disclose it; José Luis
+Ricón's (Nintil) evaluation-methodology critique (self-graded results, no
+counterfactual); the scale arithmetic against NIH-size funding, plus the
+ARPA/FRO counter-examples this item's own queue scoping asked for, against
+Braben's own on-record dismissal of the UK's ARIA as mistaken for keeping
+any milestone at all. Bush callback (042): both writers need a filter for
+the genuine outlier versus the confident crank, but Bush trusted
+institutional embedding where Braben trusted one man's face-to-face read
+of a stranger, framed as a genuinely different mechanism rather than a
+smaller version of Bush's, to avoid re-running 041/042's executing-vs-
+innovating device a third time running. No BLOOM; landed instead on the
+fellowship director's own judgment call (per listener.md) of how much
+unstructured runway to give a trainee on a conversation alone, with Hill's
+diversity critique folded into that ending as the same mechanism's own
+blind spot at the smaller scale, not just Braben's.
+
+**Verification:** No primary read of "Scientific Freedom" itself this
+session (see Open questions). Every claim about the book's contents and
+Venture Research's mechanics is corroborated across at least two
+independent named sources: José Luis Ricón's Nintil review, a LessWrong
+review, Steven Hill's own site, an AEI long-form Q&A with Braben carrying
+direct quotes, a Stripe Press publisher description, and an interview
+transcript (jameshk.com) whose OCR mangled "Dudley Herschbach" to "George
+Lee Hirschbach" but independently confirms the same funded-laureate claim
+Ricón's review makes under the correct name. McClintock's 1950/1983 dates
+and Nobel details, the Clough/Horsewill methyl-tunneling publication
+record (Nottingham, 1984-1992 span), and the DARPA/Moderna mRNA and
+Focused Research Organization facts were all checked directly via
+targeted web search this session rather than asserted from training
+knowledge alone. The total Venture Research budget (roughly twenty million
+pounds/dollars over ten years) and researcher count (thirty to forty) were
+stated with the hedge the sources themselves warrant, since aggregator
+summaries disagree on the exact researcher count.
+
+**Traps & dead ends:** Considered opening on Harry Kroto's buckminsterfullerene
+discovery, which several aggregator summaries loosely credit to Venture
+Research; checked directly and found the actual 1985 Nobel-winning
+experiment was a Rice University collaboration with no confirmed Venture
+Research funding line, only earlier, separately-funded Kroto astrochemistry
+work at Sussex that motivated it. Dropped the claim entirely rather than
+use a popular but unverifiable attribution. Two source fetches 403'd
+(RAND's own report page, ucl.ac.uk) and one 503'd (Idea Machines podcast
+transcript); worked around with corroborating sources instead of leaving
+the claims unverified.
+
+**Open questions:** (AFK) "Scientific Freedom" itself was never read in
+primary form this session; every claim about its contents rests on
+independent secondary corroboration (reviews, an author interview and
+Q&A, the publisher's own description) rather than a page-checked read,
+the same caveat now on record for several earlier episodes. (HITL) 043
+drops the study-section/grant-committee register 041 and 042 both landed
+on, in favor of an individual fellowship-mentorship judgment call, partly
+to answer the open question on record about that device recurring a third
+time; worth a listen to judge whether the new register lands as a genuine
+widening or as a strained pivot away from a frame that still fit. (AFK)
+The exact total researcher count for Venture Research is reported
+inconsistently across sources (some say roughly thirty, others roughly
+forty); the episode uses "three or four dozen" to stay honest to that
+spread rather than pick one figure.
+
+**Artifacts:** episodes/043-donald-braben-scientific-freedom.md (5,071
+words, lint clean); queue.md (Collison shelf item 4 checked with full
+summary and the author-name correction noted, order-of-record note
+updated, sign-off pointer moved to Waldrop's The Dream Machine, part one).
+
+**Context:** Unattended Routine run, 15 Sep 26. Pre-flight found local
+`main` already current with `origin/main` (no fast-forward needed this
+time). One push for the episode and queue update, verified live via
+`site/feed.xml` on `origin/main` before this log entry.
+
