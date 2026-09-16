@@ -10,8 +10,9 @@
    section below. Chosen by Kevin 8 Sep 26 ("This seems good"). 040
    (Collison's own pages) done 10 Sep 26; 041 (Hamming) done 11 Sep 26;
    042 (Vannevar Bush, Pieces of the Action) done 14 Sep 26; 043 (Donald
-   Braben, Scientific Freedom) done 15 Sep 26; its sign-off points to
-   Waldrop's The Dream Machine, part one (044), up next.
+   Braben, Scientific Freedom) done 15 Sep 26; 044 (Waldrop, The Dream
+   Machine, part one, Licklider) done 16 Sep 26; its sign-off points to
+   The Dream Machine, part two (045, Xerox PARC and the Alto), up next.
 4. Then nutrition science, science as an institution, how evidence was
    invented, doers, in that order; each to be scoped with Kevin before its
    first episode is written. If the next series is not yet scoped when the
@@ -687,10 +688,52 @@ parts. Practical half first (what to do), per the feed's purpose.
   director's own judgment call (per listener.md) — how much unstructured
   runway to give a trainee on a conversation alone, with Hill's critique
   folded in as the same mechanism's own blind spot at that smaller scale.
-- [ ] 5. Waldrop, The Dream Machine (Stripe Press), part one. Licklider as
-  the model programme officer: ARPA IPTO, choosing people over projects,
-  "Man-Computer Symbiosis" (1960). Practical half: how to fund and mentor,
-  which is the fellowship-director job.
+- [x] 5. Waldrop, The Dream Machine, part one — done as 044, 16 Sep 26
+  (5,152 words, lint clean). Cold open: the April 1963 memo addressed to
+  "Members and Affiliates of the Intergalactic Computer Network," four
+  isolated machines that could not exchange a single character, with the
+  memo's own buried admission that the whole effort exists "to bring into
+  being the technology that the military needs" as the tension the episode
+  keeps returning to. Bio: St Louis, Baptist minister's son, psychoacoustics
+  PhD, the SAGE human-factors work (light pens, cathode-ray screens) as the
+  origin of his man-and-machine conviction; "Man-Computer Symbiosis" (1960)
+  built from his own 85-percent time-study, the fig-tree/wasp analogy, and
+  his own automation-vs-symbiosis distinction. Central chain: hired to run
+  ARPA's "Command and Control Research" office in October 1962, he renames
+  it the Information Processing Techniques Office on arrival ("It really
+  wasn't a command and control research program. It was an interactive
+  computing program") and redirects Cold War money into the most basic
+  research he can find; the funded portfolio (Corbató's CTSS/Project MAC at
+  MIT, McCarthy's AI lab at Stanford via the 1956 Dartmouth workshop,
+  Berkeley's Project Genie, Engelbart's Augmentation Research Center) as
+  computer science funded into existence before the field had a name for
+  itself; Robert Taylor's own account of Licklider as "the most unlikely
+  great man" grounding why face-to-face trust worked administratively.
+  Succession as the spine: Licklider names Ivan Sutherland (Sketchpad, age
+  26) as his own successor before leaving for IBM in 1964, Sutherland hands
+  to Robert Taylor, whose three-mismatched-terminals irritation becomes the
+  actual ARPANET; Wes Clark's own resistance (keeping Washington University
+  in St Louis, Licklider's undergraduate alma mater, off the network for
+  years) as the case that participation had to be a funding condition, not
+  a favor; the 29 October 1969 first message (UCLA to SRI, crashing after
+  "LO") as the payoff, and the 1971 growth to fifteen nodes. Case against,
+  three lines: Paul Edwards's "Closed World" reading of "Man-Computer
+  Symbiosis" as Cold War cybernetic/closed-world discourse tracing to the
+  Macy Conferences; a Hill-style concentration critique (funded institutions
+  were the ones Licklider already knew from MIT/Stanford/psychoacoustics
+  circles, direct callback to 043); Janet Abbate's social-construction
+  history against crediting one 1963 memo for a network built five years
+  later by Baran, Davies, Roberts, and Taylor. Verdict: three-way comparison
+  with Bush (institutional embedding, wartime-clock-dependent) and Braben
+  (one irreplaceable man, died with Malpas's departure) — Licklider's own
+  mechanism, naming two successors before he needed to, is the first of the
+  three that survived its founder's own exit, with DARPA's current fixed-
+  term program-manager model as the institutionalized descendant. Landed on
+  a program officer's harder bet: not a fellowship director's per-trainee
+  runway call (043's frame), but who gets trusted to keep making the same
+  unglamorous call once the current director's own term ends. Direct
+  callback to 040's own Kaufman/Collison replacement-rate question as the
+  plainest answer the shelf has produced so far.
 - [ ] 6. The Dream Machine, part two. Xerox PARC, the Alto, and how the
   vision leaked out of the institution that paid for it (Dealers of
   Lightning as the companion source). Case against: great-man framing;
