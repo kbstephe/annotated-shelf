@@ -600,3 +600,109 @@ updated, sign-off pointer moved to Waldrop's The Dream Machine, part one).
 time). One push for the episode and queue update, verified live via
 `site/feed.xml` on `origin/main` before this log entry.
 
+## [2026-09-16] — Routine: Episode 044, J.C.R. Licklider, The Dream Machine, Part One
+
+**Decisions:** Wrote 044 from Waldrop's book as an essay-format single read
+of Licklider's own ARPA IPTO tenure (1962-64), reserving Xerox PARC and the
+Alto for part two per the queue's own scoping. Cold open: the April 1963
+"Members and Affiliates of the Intergalactic Computer Network" memo, four
+isolated machines that could not exchange a character, with its own buried
+line ("to bring into being the technology that the military needs") kept as
+the tension the episode returns to rather than resolved early. Central
+chain: SAGE's light-pen consoles as the origin of Licklider's man-machine
+conviction; "Man-Computer Symbiosis" (1960) built from his own 85-percent
+time-study and the fig-tree/wasp symbiosis-vs-automation distinction; hired
+to run ARPA's "Command and Control Research" office, October 1962, and
+renaming it the Information Processing Techniques Office on arrival, a
+bureaucratic act that redirected Cold War money toward the most basic
+research he could find; the funded portfolio (Corbató/CTSS/Project MAC,
+McCarthy's Stanford AI lab via the 1956 Dartmouth workshop, Berkeley's
+Project Genie, Engelbart's Augmentation Research Center) as computer
+science funded into existence before the field had a name. Succession as
+the spine and the episode's actual widening move: Licklider names Ivan
+Sutherland as his own successor before leaving for IBM in 1964, Sutherland
+hands to Robert Taylor, whose three-mismatched-terminals irritation becomes
+the actual ARPANET in 1969; Wes Clark's resistance (keeping Washington
+University in St Louis, Licklider's own undergraduate school, off the
+network for years) as the case that participation had to be a funding
+condition, not a favor. Landed on a program officer's harder bet, chosen
+deliberately to avoid a fourth straight recurrence of 041-043's fellowship-
+director-runway frame: not how much rope to give one promising trainee, but
+who gets trusted to keep making the same unglamorous call once the current
+director's own term ends, with DARPA's present fixed-term program-manager
+model as the mechanism's institutionalized descendant. Direct callback to
+040's own Kaufman/Collison replacement-rate question, answered more fully
+here than anywhere earlier on the shelf.
+
+**Verification:** "Man-Computer Symbiosis" (1960) itself was not read
+end to end this session; its content (the fig-tree opening, the 85-percent
+time study, the battle-planning example, the mechanically-extended-man
+versus automation distinction) was reconstructed from a targeted fetch of a
+page quoting substantial passages plus independent secondary confirmation
+of the automation/symbiosis distinction, and the two direct quotes used
+("getting into a position to think"; the fig-tree/wasp opening described in
+paraphrase) are both under the fifteen-word limit. The April 1963
+"Intergalactic Computer Network" memo was fetched in two forms this
+session, a PDF that would not extract cleanly and a hosted transcript
+(thekurzweillibrary.com) that did; the quote used ("to bring into being the
+technology that the military needs") is verified against that transcript
+directly. Licklider's own "It really wasn't a command and control research
+program. It was an interactive computing program" is a direct quote from
+his own oral history, confirmed via independent secondary citation this
+session. Larry Roberts's "The vision was really Lick's originally" and
+Robert Taylor's description of Licklider as "the most unlikely great man"
+were each checked against independent sources this session rather than
+recalled from training knowledge alone. Biographical facts (1915 St Louis
+birth, Baptist minister father, Washington University in St Louis and
+Rochester PhD, 1950 MIT Acoustics Lab, 1957 move to BBN, SAGE human-factors
+role) and institutional facts (ARPA's 1958 founding after Sputnik, the
+Command and Control Research charter, the October 1962 hire, Project MAC's
+July 1963 two-million-dollar contract, Corbató/CTSS/Multics, McCarthy's
+1956 Dartmouth workshop and 1962 Stanford move, Engelbart's October 1962
+report and his own 1950 origin story, Sutherland's 1964 succession at
+twenty-six, Taylor's three-terminal frustration and 1966 budget, the 29
+October 1969 first message crashing after "LO," the 1971 growth to fifteen
+nodes, Licklider's 1964-67 IBM period and 1968-70 Project MAC directorship,
+his 1974 return to IPTO, and his 1990 death) were each checked against at
+least one independent source this session (Britannica, IEEE Computer
+Society, Computer History Museum, historyofcomputercommunications.info,
+and others), not asserted from training knowledge alone. Paul Edwards's
+"The Closed World" reading of "Man-Computer Symbiosis" as Cold War
+closed-world/cyborg discourse tracing to the Macy Conferences, Janet
+Abbate's social-construction critique of great-man ARPANET histories, and
+the Wes Clark/Washington University resistance anecdote from Hafner and
+Lyon's "Where Wizards Stay Up Late" were each verified via targeted search
+this session rather than assumed. DARPA's current fixed-term (three-to-
+five-year) program-manager model was checked directly rather than assumed
+to still hold.
+
+**Traps & dead ends:** The Licklider memo PDF (worrydream.com) would not
+extract as text (FlateDecode-compressed, binary only); the hosted
+transcript at thekurzweillibrary.com supplied the verified quote instead.
+No other major dead ends this session; research converged quickly on
+well-documented computing-history sources.
+
+**Open questions:** (AFK) "Man-Computer Symbiosis" and "Libraries of the
+Future" were both read this session only via targeted fetches and
+secondary quotation aggregation, not as full primary texts end to end;
+worth a full primary read of the 1960 paper if the shelf ever needs to
+quote it more precisely. (HITL) This is the fourth of five Collison-shelf
+episodes running (041-044) to land at or near a research-funding/mentorship
+register; 044 deliberately varied the frame to succession rather than
+per-trainee runway to answer that recurrence directly, but whether the
+shift reads as a genuine widening or as the same well being revisited a
+fourth time is worth a listen to judge, especially set against 043's
+identical worry about a third recurrence.
+
+**Artifacts:** episodes/044-licklider-dream-machine-part-one.md (5,152
+words, lint clean); queue.md (Collison shelf item 5 checked off with full
+summary, order-of-record note updated, sign-off pointer moved to The Dream
+Machine, part two).
+
+**Context:** Unattended Routine run, 16 Sep 26. Pre-flight found local
+`main` three commits behind `origin/main`, fixed cleanly with `git checkout
+main && git merge --ff-only origin/main` per the standing template step
+(not logged as a pipeline event, per that step's own instruction). One
+push for the episode and queue update, verified live via `site/feed.xml`
+on `origin/main` before this log entry.
+

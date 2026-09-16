@@ -1,6 +1,41 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (15 Sep 2026, Routine)
+## Snapshot (16 Sep 2026, Routine)
+
+Forty-five episodes (000 test + 001–044). Collison shelf: 040 (Collison's
+own pages), 041 (Hamming), 042 (Vannevar Bush), 043 (Donald W. Braben),
+and 044 (J.C.R. Licklider, Waldrop's "The Dream Machine," part one) all
+done. 044 covers Licklider's own ARPA IPTO tenure (1962-64): the April 1963
+"Intergalactic Computer Network" memo, "Man-Computer Symbiosis" (1960), the
+Command-and-Control-Research-to-IPTO renaming, the funded portfolio
+(Project MAC, McCarthy's Stanford AI lab, Project Genie, Engelbart's ARC),
+and succession to Sutherland then Taylor as the actual mechanism that built
+the 1969 ARPANET. Case against: Paul Edwards's "Closed World" Cold-War-
+discourse reading, a Hill-style concentration critique, Janet Abbate's
+social-construction history. Verdict is a three-way comparison with Bush
+(042, institutional embedding) and Braben (043, one irreplaceable man):
+Licklider's own trick, naming two successors before he needed to, is the
+first of the three mechanisms this shelf has found that survived its
+founder's own departure. Deliberately varied the landing register away
+from 041-043's fellowship-director-runway frame (succession/who-to-trust-
+next, not per-trainee runway) to answer 043's own worry about a third
+straight recurrence; whether that read as a genuine widening or a fourth
+lap on the same well is now the open HITL question. `scripts/
+lint_script.py` still reads 0 repeats, 0 tics on every episode 012–044;
+001–011 stay pre-lint.
+**Next step:** 044's sign-off promises The Dream Machine, part two (045,
+Xerox PARC and the Alto).
+
+Open (HITL): listen to 044 and judge whether the succession/program-officer
+frame reads as a genuine widening of the fellowship-director material 041-
+043 have been circling, or as the same well a fourth time despite the
+deliberate variation. Open (AFK): "Man-Computer Symbiosis" and "Libraries
+of the Future" were both read this session only via targeted fetches and
+secondary quotation, not as full primary texts end to end. `listener.md`
+names two in-progress studies (choline, potassium salt); Kevin saw the
+draft and did not object.
+
+## Previous snapshot (15 Sep 2026, Routine)
 
 Forty-four episodes (000 test + 001–043). Collison shelf: 040 (Collison's
 own pages), 041 (Hamming), 042 (Vannevar Bush), and 043 (Donald W. Braben,
@@ -18,16 +53,6 @@ Organizations). No BLOOM; landed instead on an individual fellowship-
 mentorship judgment call rather than reusing 041/042's study-section
 register a third time. `scripts/lint_script.py` still reads 0 repeats, 0
 tics on every episode 012–043; 001–011 stay pre-lint.
-**Next step:** 043's sign-off promises Waldrop's "The Dream Machine," part
-one (044).
-
-Open (HITL): read or listen to 043 to judge whether dropping the study-
-section register for the fellowship-mentorship one lands as a genuine
-widening or a strained pivot away from a frame that still fit. Open (AFK):
-"Scientific Freedom" itself was never read in primary form; every claim
-rests on independent secondary corroboration rather than a page-checked
-read. `listener.md` names two in-progress studies (choline, potassium
-salt); Kevin saw the draft and did not object.
 
 ## Previous snapshot (11 Sep 2026, Routine)
 
@@ -277,6 +302,18 @@ worth a standing fix rather than a per-session workaround.
   to answer the open question above about that device recurring; worth a
   listen to judge whether the new register is a genuine widening or a
   strained pivot away from a frame that still fit.
+- (AFK) 044's "Man-Computer Symbiosis" (1960) and "Libraries of the Future"
+  (1965) were both read this session only via targeted fetches quoting
+  specific passages, not as full primary texts end to end; worth a full
+  primary read of the 1960 paper if the shelf ever needs to quote it more
+  extensively.
+- (HITL) 044 lands on a program officer's succession bet (who to trust to
+  keep making the same call once a director's own term ends) rather than
+  041-043's fellowship-director-per-trainee-runway frame, a deliberate
+  variation aimed at answering 043's own worry about a third straight
+  recurrence; worth a listen to judge whether the variation reads as a
+  genuine widening of the Collison shelf's funding-and-mentorship material
+  or as a fourth lap on the same well under a different name.
 
 ## Out of scope
 
