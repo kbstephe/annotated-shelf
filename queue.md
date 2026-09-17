@@ -11,8 +11,9 @@
    (Collison's own pages) done 10 Sep 26; 041 (Hamming) done 11 Sep 26;
    042 (Vannevar Bush, Pieces of the Action) done 14 Sep 26; 043 (Donald
    Braben, Scientific Freedom) done 15 Sep 26; 044 (Waldrop, The Dream
-   Machine, part one, Licklider) done 16 Sep 26; its sign-off points to
-   The Dream Machine, part two (045, Xerox PARC and the Alto), up next.
+   Machine, part one, Licklider) done 16 Sep 26; 045 (Waldrop/Hiltzik, The
+   Dream Machine, part two, Xerox PARC and Robert Taylor) done 17 Sep 26;
+   its sign-off points to Gurri, The Revolt of the Public (046), up next.
 4. Then nutrition science, science as an institution, how evidence was
    invented, doers, in that order; each to be scoped with Kevin before its
    first episode is written. If the next series is not yet scoped when the
@@ -734,10 +735,47 @@ parts. Practical half first (what to do), per the feed's purpose.
   unglamorous call once the current director's own term ends. Direct
   callback to 040's own Kaufman/Collison replacement-rate question as the
   plainest answer the shelf has produced so far.
-- [ ] 6. The Dream Machine, part two. Xerox PARC, the Alto, and how the
-  vision leaked out of the institution that paid for it (Dealers of
-  Lightning as the companion source). Case against: great-man framing;
-  Taylor vs Licklider credit; what the money actually bought per dollar.
+- [x] 6. The Dream Machine, part two — done as 045, 17 Sep 26 (5,024 words,
+  lint clean). Cold open: Gary Starkweather's laser printer (SLOT, 1971),
+  built after his own managers refused it, as the one PARC invention that
+  actually reached a factory floor before the decade was out. Robert
+  Taylor's move from ARPA IPTO to Xerox PARC in 1970, rehiring the
+  bankrupt Berkeley Computer Company's staff (Thacker, Lampson, Deutsch,
+  Mitchell, Simonyi) wholesale, the same trust-network mechanism Licklider
+  used at ARPA; the 1969 Mansfield Amendment (military-relevance
+  requirement) as the actual mechanism scattering ARPA-funded talent into
+  Xerox's lap, a direct callback to 044's own "technology the military
+  needs" memo line. Pake's refusal to give Taylor a formal manager title
+  (no doctorate) versus the Dealer-meeting heterarchy Taylor built anyway.
+  Bill English's move from Engelbart's ARC to PARC (rebuilding the mouse)
+  as a second, less flattering source for the lab's talent, with
+  Engelbart's own bitterness (per Hiltzik's "Dealers of Lightning") that
+  PARC treated his augmentation vision as a parts bin. Alan Kay's Dynabook
+  proposal (1972) and Smalltalk; the Alto (1973, ~$12,000/unit in parts,
+  ~2,000 built, none sold); Bravo/WYSIWYG (Simonyi); Ethernet (Metcalfe/
+  Boggs 1973); the Xerox 9700 (1977) as the one product that shipped;
+  PARC's own internal "office of the future" (Grapevine email, overlapping
+  windows) as a worked example of living inside the future years before
+  the outside world could buy it. December 1979 Jobs visit (the second of
+  two, arranged by Jef Raskin; Adele Goldberg overruled; the $1M pre-IPO
+  Apple stock trade). Xerox Star (1981, $16,595, ~25,000 units through
+  1985) as the commercial failure, then the diaspora: Tesler to Apple,
+  Simonyi to Microsoft, Metcalfe to 3Com, Warnock/Geschke to found Adobe.
+  Case against, three lines: great-man framing (Taylor coded nothing
+  himself; Abbate-style multi-actor correction, callback to 044); Taylor's
+  own on-record claim that his generation only extrapolated Licklider's
+  vision, complicating the shelf's succession frame; Gladwell's
+  reassessment that the laser-printer business alone repaid PARC's budget
+  many times over, so "Xerox fumbled the future" reads the wrong ledger.
+  Verdict: PARC's 1983 collapse (Taylor's "I quit" walkout, entire staff
+  following him to DEC) as structurally closer to Braben's one-executive
+  collapse than to Licklider's clean two-name handoff, since nobody at
+  Xerox ever named a successor to keep Taylor's own mechanism alive.
+  Landed on a measurement register (which ledger judges an investment)
+  rather than a fifth funding/mentorship frame, the deliberate widening
+  044's own open question asked for. No BLOOM; one generic monitoring-data
+  aside (which number a reviewer actually reads) left unnamed rather than
+  tied to the programme, per the no-shoehorn default.
 - [ ] 7. Gurri, The Revolt of the Public (Stripe Press, updated edition).
   Authority collapsed when information stopped being scarce. Public-health
   read: vaccine trust, WHO, district health officers. Case against: explains
