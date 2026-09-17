@@ -1,6 +1,44 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (16 Sep 2026, Routine)
+## Snapshot (17 Sep 2026, Routine)
+
+Forty-six episodes (000 test + 001–045). Collison shelf: 040 (Collison's
+own pages) through 045 (Robert Taylor, Waldrop/Hiltzik's "The Dream
+Machine," part two, Xerox PARC) all done; only Gurri (046) and Munger (047)
+remain. 045 covers Xerox PARC's 1970-83 decade: Taylor's move from ARPA
+IPTO, rehiring the bankrupt Berkeley Computer Company's staff wholesale
+(the same trust-network mechanism as 044's Licklider), the 1969 Mansfield
+Amendment as the actual reason ARPA-funded talent scattered into Xerox's
+lap (direct callback to 044's "technology the military needs" memo line),
+Pake's refusal to give Taylor a formal manager title, Bill English's move
+from Engelbart's ARC (a second, less flattering talent source), Kay's
+Dynabook/Smalltalk, the Alto (1973), Ethernet, the Xerox 9700 laser printer
+(1977, the one PARC product that actually shipped), the December 1979 Jobs
+demo, and the Star's 1981 commercial failure against the diaspora to Apple,
+Microsoft, 3Com, and Adobe. Case against: great-man framing (Abbate-style
+correction, callback to 044); Taylor's own on-record claim that his
+generation only extrapolated Licklider's vision; Gladwell's reassessment
+that the laser printer alone repaid PARC's budget many times over. Landed
+on a measurement register (which ledger judges an investment) rather than
+a fifth funding/mentorship frame, the deliberate widening 044's own open
+question asked for; whether that reads as a genuine widening or a
+plausible-sounding one-off is the new open HITL question. `scripts/
+lint_script.py` still reads 0 repeats, 0 tics on every episode 012–045;
+001–011 stay pre-lint.
+**Next step:** 045's sign-off promises Gurri's "The Revolt of the Public"
+(046).
+
+Open (HITL): listen to 045 and judge whether the measurement-ledger frame
+reads as a genuine widening of the Collison shelf's running concerns, or as
+disconnected from the fellowship/succession material 041-044 built up, set
+against 044's own explicit worry about a fourth straight recurrence. Open
+(AFK): "Dealers of Lightning," queue.md's own named companion source for
+045, was not read in primary form this session, only via independent
+secondary sourcing of its specific claims. `listener.md` names two
+in-progress studies (choline, potassium salt); Kevin saw the draft and did
+not object.
+
+## Previous snapshot (16 Sep 2026, Routine)
 
 Forty-five episodes (000 test + 001–044). Collison shelf: 040 (Collison's
 own pages), 041 (Hamming), 042 (Vannevar Bush), 043 (Donald W. Braben),
@@ -23,17 +61,6 @@ straight recurrence; whether that read as a genuine widening or a fourth
 lap on the same well is now the open HITL question. `scripts/
 lint_script.py` still reads 0 repeats, 0 tics on every episode 012–044;
 001–011 stay pre-lint.
-**Next step:** 044's sign-off promises The Dream Machine, part two (045,
-Xerox PARC and the Alto).
-
-Open (HITL): listen to 044 and judge whether the succession/program-officer
-frame reads as a genuine widening of the fellowship-director material 041-
-043 have been circling, or as the same well a fourth time despite the
-deliberate variation. Open (AFK): "Man-Computer Symbiosis" and "Libraries
-of the Future" were both read this session only via targeted fetches and
-secondary quotation, not as full primary texts end to end. `listener.md`
-names two in-progress studies (choline, potassium salt); Kevin saw the
-draft and did not object.
 
 ## Previous snapshot (15 Sep 2026, Routine)
 
@@ -314,6 +341,18 @@ worth a standing fix rather than a per-session workaround.
   recurrence; worth a listen to judge whether the variation reads as a
   genuine widening of the Collison shelf's funding-and-mentorship material
   or as a fourth lap on the same well under a different name.
+- (AFK) 045's companion source, Michael Hiltzik's "Dealers of Lightning,"
+  was never read in primary form this session; its parts-bin argument about
+  Engelbart's own borrowed inventions rests on independent secondary
+  sourcing of Bill English's and Engelbart's own moves rather than a
+  page-checked primary read of the book itself.
+- (HITL) 045 deliberately drops the fellowship/succession register entirely
+  for a measurement-ledger question (which number an organization or a
+  reviewer actually reads when judging whether an investment paid off), the
+  widening 044's own open question above asked for; worth a listen to judge
+  whether that reads as a genuine widening of the Collison shelf's running
+  concerns or as a plausible-sounding frame that no longer connects to what
+  041-044 built up.
 
 ## Out of scope
 

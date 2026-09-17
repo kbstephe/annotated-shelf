@@ -706,3 +706,70 @@ main && git merge --ff-only origin/main` per the standing template step
 push for the episode and queue update, verified live via `site/feed.xml`
 on `origin/main` before this log entry.
 
+
+## [2026-09-17] — Episode 045, Robert Taylor, The Dream Machine, Part Two
+
+**Decisions:** Landed the episode on a measurement register (which ledger an
+organization reads when judging whether strange research paid off) rather
+than a fifth funding/mentorship frame, the deliberate widening 044's own
+open question asked for after four straight Collison-shelf episodes in a
+row on grant-review and fellowship registers. No BLOOM aside; the one
+generic monitoring-data image in the close (a reviewer reading the dramatic
+number instead of the one paying for the operation) was kept unnamed rather
+than tied to the programme, since naming it would have been the shoehorn
+the charter bans and the general form did the same work.
+**Verification:** Every date, dollar figure, and named person in the episode
+was checked against at least one independent source this session (the
+Mansfield Amendment's 1969 passage and its effect on ARPA-funded computer
+science; Robert Taylor's 1965-69 IPTO tenure and 1970 move to Xerox; the
+Berkeley Computer Company's 1970 collapse and its staff's move to PARC en
+masse; George Pake's refusal to give Taylor a formal manager title; Gary
+Starkweather's 1971 transfer and the SLOT prototype; Bill English's 1971
+move from Engelbart's ARC to PARC and the rebuilt mouse; Alan Kay's 1972
+Dynabook proposal and the "invent the future" line's contested but
+Kay-confirmed origin; the Alto's 1973 build, ~$12,000-per-unit parts cost
+per Thacker, and ~2,000 units with none sold; Ethernet's May/November 1973
+dates and the 1976 patent's four named co-inventors; the Xerox 9700's 1977
+release; Grapevine as an early networked email system; the two 1979 Apple
+visits to PARC (Jef Raskin's first, Jobs's second) and the $1M pre-IPO
+stock trade; Adele Goldberg's "kitchen sink" objection; the Star's 1981
+price and ~25,000-unit sales figure through 1985; Tesler/Simonyi/Metcalfe/
+Warnock/Geschke's respective departures; Taylor's 1983 "I quit" exit and
+the CSL walkout to DEC's new Systems Research Center). Taylor's own quote
+crediting Licklider as "the father of it all" is a direct quote from a
+Charles Babbage Institute oral history, confirmed this session rather than
+recalled from training knowledge. Malcolm Gladwell's "Creation Myth"
+reassessment and the digitaltonto.com counter-read of the standard "Xerox
+fumbled the future" parable were both checked directly rather than assumed.
+Michael Hiltzik's "Dealers of Lightning," named in queue.md as the episode's
+companion source, was not read end to end this session; its parts-bin
+argument about Engelbart's own borrowed inventions was confirmed via
+independent secondary sourcing on Engelbart's and English's own moves, not
+a page-checked primary read of the book itself.
+**Traps & dead ends:** A search for a Maze War / multiplayer-game detail at
+PARC turned up a murkier attribution (the game originated at NASA Ames on
+an Imlac, ported to the Alto only in 1977 by researchers other than the
+ones this episode already names) than the confident single-lab-invention
+version the detail would have needed to earn its place; dropped rather than
+stretched to fit. No other major dead ends; research converged quickly on
+well-documented computing-history sources, several already partly covered
+by 044's own research pass.
+**Open questions:** (AFK) "Dealers of Lightning" itself was never read in
+primary form this session, only via independent secondary sourcing of its
+specific claims; worth a primary read if the shelf ever needs a more
+precise Hiltzik quotation. (HITL) This is the first Collison-shelf episode
+since 040 to land outside a funding/mentorship register; worth a listen to
+judge whether the measurement-ledger frame reads as a genuine widening of
+the shelf's running concerns or as a plausible-sounding but disconnected
+one-off, especially set against 044's own explicit worry about a fourth
+straight recurrence.
+**Artifacts:** episodes/045-dream-machine-part-two-xerox-parc.md (5,024
+words, lint clean); queue.md (Collison shelf item 6 checked off with full
+summary, order-of-record note updated, sign-off pointer moved to Gurri's
+The Revolt of the Public, 046).
+**Context:** Unattended Routine run, 17 Sep 26. Pre-flight found local
+`main` six commits behind `origin/main`, fixed cleanly with `git checkout
+main && git merge --ff-only origin/main` per the standing template step
+(not logged as a pipeline event, per that step's own instruction). One push
+for the episode and queue update, verified live via `site/feed.xml` on
+`origin/main` before this log entry.
