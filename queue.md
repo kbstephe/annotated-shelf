@@ -776,11 +776,39 @@ parts. Practical half first (what to do), per the feed's purpose.
   044's own open question asked for. No BLOOM; one generic monitoring-data
   aside (which number a reviewer actually reads) left unnamed rather than
   tied to the programme, per the no-shoehorn default.
-- [ ] 7. Gurri, The Revolt of the Public (Stripe Press, updated edition).
-  Authority collapsed when information stopped being scarce. Public-health
-  read: vaccine trust, WHO, district health officers. Case against: explains
-  too much; the "nihilist public" framing; critics who read the same events
-  as elite failure rather than public revolt.
+- [x] 7. Gurri, The Revolt of the Public — done as 046, 18 Sep 26 (5,086
+  words, lint clean). Cold open: Wael Ghonim's anonymous "We Are All Khaled
+  Said" Facebook page (June 2010), his eleven-day disappearance into
+  Egyptian state security two days into the protest he had called, and
+  Mubarak's 11 February 2011 resignation. Gurri's own vantage (born Havana
+  1949, twenty-nine years at the CIA's Open Source Center, director of
+  research) as the reason he noticed the pattern before anyone named it.
+  Five Waves framework (writing, alphabet, printing press, mass media,
+  digital) with the Bay of Pigs/Kennedy 83-percent-approval case as Wave
+  Four's power and Abu Ghraib (2004) plus WikiLeaks (Collateral Murder,
+  Manning, Cablegate, all 2010) as the Fifth Wave's opening breach. "The
+  public" as Gurri's technical term (temporary swarm, negation without
+  alternative) worked through Santelli's Tea Party rant (Feb 2009), Beppe
+  Grillo's Five Star Movement (Oct 2009), and the full 2011 run: Bouazizi,
+  Tahrir, the Indignados/15-M (Podemos born from it in 2014), the Israeli
+  tent protests, Occupy Wall Street. Steelmanned Gurri's own concession
+  that the underlying failures (Iraq WMDs, the 2008 crisis) were real, not
+  perceived. Widened to Brexit/Trump via Gurri's own center-vs-border frame
+  from the 2018 edition. Case against, three lines: Scott Alexander (ACX)
+  on tribal re-consolidation of trust making the thesis hard to falsify;
+  Noah Smith on 1789-1848 and 1960s-70s precedent plus undercounted elite
+  accomplishments; the narrator's own objection that calling the public's
+  correct diagnosis "nihilism" flatters elites. Public-health widening: the
+  WHO's own Feb 2020 "infodemic" coinage (Tedros, Munich) and the CDC/WHO
+  mask-guidance reversal as elites supplying their own ammunition, then a
+  generic (no programme named) district-health/vaccine-trust application,
+  with a callback to episode 002's accountability sinks. Verdict pulled
+  forward Gurri's own 2024 "ten years on" essay (DOGE, Milei, Le
+  Pen/AfD exclusion, Romania's nullified election) against this shelf's
+  running funding-side question of whether lost institutional trust can be
+  rebuilt by demonstration. No BLOOM; the closing application stayed
+  generic per the public-health scoping note, not tied to any named
+  programme.
 - [ ] 8. Poor Charlie's Almanack (Stripe Press), one talk: "The Psychology of
   Human Misjudgment", Munger's 25 tendencies as a working checklist. Case
   against: hindsight, the bias-list critique (Gigerenzer), Munger's own
