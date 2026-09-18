@@ -773,3 +773,75 @@ main && git merge --ff-only origin/main` per the standing template step
 (not logged as a pipeline event, per that step's own instruction). One push
 for the episode and queue update, verified live via `site/feed.xml` on
 `origin/main` before this log entry.
+
+## [2026-09-18] — Episode 046, Martin Gurri, The Revolt of the Public
+
+**Decisions:** Left the Collison shelf's computing-history run entirely for
+a media/information-theory book, the shelf's own item 7 scoping. Cold open
+on Wael Ghonim's anonymous "We Are All Khaled Said" Facebook page and
+Mubarak's 11 February 2011 resignation rather than on Gurri himself, so the
+book's explanatory power shows before its author does. Widened past the
+book's own two editions (2014, 2018) into a case neither could have used,
+the WHO's 2020 "infodemic" coinage and the CDC/WHO mask-guidance reversal,
+as the generative widening the queue's own public-health scoping note
+called for; kept the closing application fully generic (a district health
+office, no programme named) per the no-shoehorn default, since the queue
+note authorized a public-health read but not a BLOOM-specific one. Used
+one callback to episode 002's accountability sinks (Davies) where the
+mechanism genuinely inverts it: sinks hide accountability inside an
+institution, the fifth wave routes a public around the institution's own
+account entirely. Landed the verdict on Gurri's own 2024 "ten years on"
+essay (DOGE, Milei, Le Pen/AfD exclusion, Romania's nullified election)
+against this shelf's running funding-side question, left open rather than
+resolved, of whether lost institutional trust can be rebuilt by
+demonstration the way Bush's peer-review structure was.
+**Verification:** Checked directly this session: Gurri's biography (born
+Havana 1949, arrived Miami October 1960, twenty-nine years at the CIA's
+Open Source Center, director of research, 2014 self-publish, 2018 Stripe
+reissue); Ghonim's page and arrest timeline (page created June 2010,
+arrested two days into the protests his own event page called for on 25
+January 2011, released 7 February after eleven days, Mubarak resigned 11
+February); the Bay of Pigs/Kennedy 83-percent approval figure; Abu Ghraib
+(2004) and WikiLeaks's 2010 releases (Collateral Murder in April, Manning's
+arrest in May, Cablegate in November, Manning's 35-year sentence); Santelli's
+19 February 2009 CNBC rant and the ten-day gap to the first Tea Party
+rallies; the Five Star Movement's October 2009 founding; Bouazizi's 17
+December 2010 self-immolation and 4 January 2011 death; the Indignados'
+15 May 2011 Puerta del Sol occupation and Podemos's January 2014 founding
+out of it; Brexit (June 2016) and Trump's election; the WHO's Tedros
+"infodemic" quote (15 February 2020, Munich) and the term's 2003 coinage;
+the CDC's February-to-April 2020 mask-guidance reversal. Scott Alexander's
+and Noah Smith's reviews were read directly this session, not recalled,
+and their objections (tribal re-consolidation of trust; 1789-1848 and
+1960s-70s precedent; undercounted elite accomplishments) are drawn from
+the reviews themselves rather than paraphrased from memory. The third
+case-against line (calling a correct diagnosis "nihilism" flatters elites)
+is the narrator's own argument, not attributed to a named critic, and is
+flagged as such in the episode.
+**Traps & dead ends:** An early draft placed Ghonim's arrest twelve days
+before his own event page's protest date; the actual sequence is the
+reverse, arrested two days after the protests he had called for began,
+caught and corrected before publication. A Daphni Leef tent-protest
+attendance/approval figure sourced only from a secondary review summary
+was dropped rather than stated as a precise number the session could not
+independently verify.
+**Open questions:** (HITL) 046 drops the funding/mentorship register
+entirely for an information-and-legitimacy one, the widest departure yet
+from the shelf's first six Collison-shelf episodes; worth a listen to judge
+whether the shelf-level pivot reads as a deliberate widening (queue.md's
+own item 7 scoping) or as a break in the shelf's throughline. (AFK) Gurri's
+book itself was read this session only through targeted research on its
+specific claims, named terms, and case studies, not as a full primary
+text end to end; worth a full primary read if the shelf ever needs a more
+precise quotation. (AFK) The Daphni Leef tent-protest figures were dropped
+for exactly this reason; worth checking primary Israeli press coverage if
+that protest ever needs harder numbers.
+**Artifacts:** episodes/046-gurri-revolt-of-the-public.md (5,086 words,
+lint clean); queue.md (Collison shelf item 7 checked off with full
+summary, sign-off pointer already pointing to Munger, item 8, unchanged).
+**Context:** Unattended Routine run, 18 September 2026. Pre-flight found
+local `main` detached and nine commits behind `origin/main` (a HEAD-detached
+variant of the usual stale-ref artifact); fixed with `git checkout main &&
+git merge --ff-only origin/main`, per the standing template step, not
+logged as a pipeline event. One push for the episode and queue update,
+verified live via `site/feed.xml` on `origin/main` before this log entry.

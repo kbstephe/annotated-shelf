@@ -1,6 +1,32 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (17 Sep 2026, Routine)
+## Snapshot (18 Sep 2026, Routine)
+
+Forty-seven episodes (000 test + 001–046). Collison shelf: 040 through 046
+(Martin Gurri, "The Revolt of the Public") all done; only Munger (047)
+remains, closing the shelf. 046 leaves the shelf's computing-history run
+for a media/information-legitimacy book: Gurri's Five Waves framework,
+the 2011 protest wave (Tahrir, the Indignados, Occupy), Brexit and Trump
+via his own center-vs-border frame, three case-against lines (Scott
+Alexander, Noah Smith, and the narrator's own objection that calling a
+correct diagnosis "nihilism" flatters elites), and a public-health
+widening (the WHO's 2020 "infodemic" coinage, the CDC/WHO mask reversal)
+kept generic per the queue's own no-BLOOM scoping. `scripts/lint_script.py`
+still reads 0 repeats, 0 tics on every episode 012–046; 001–011 stay
+pre-lint.
+**Next step:** 046's sign-off promises Munger's "The Psychology of Human
+Misjudgment" (047), the last item on the Collison shelf.
+
+Open (HITL): whether 046's pivot away from the funding/mentorship register
+entirely, into information and institutional legitimacy, reads as the
+shelf's own scoped widening (queue.md's item 7) or as a break in the
+throughline 040-045 built. Open (AFK): Gurri's book itself was read this
+session only through targeted research on its specific claims and named
+terms, not as a full primary text end to end. `listener.md` names two
+in-progress studies (choline, potassium salt); Kevin saw the draft and did
+not object.
+
+## Previous snapshot (17 Sep 2026, Routine)
 
 Forty-six episodes (000 test + 001–045). Collison shelf: 040 (Collison's
 own pages) through 045 (Robert Taylor, Waldrop/Hiltzik's "The Dream
@@ -353,6 +379,20 @@ worth a standing fix rather than a per-session workaround.
   whether that reads as a genuine widening of the Collison shelf's running
   concerns or as a plausible-sounding frame that no longer connects to what
   041-044 built up.
+- (AFK) 046's "The Revolt of the Public" was read this session only through
+  targeted research on its specific claims, named terms (the public,
+  negation, the Five Waves, center vs border), and case studies, not as a
+  full primary text end to end; worth a full primary read if the shelf ever
+  needs a more precise quotation. A Daphni Leef tent-protest attendance
+  figure, sourced only from a secondary review's summary, was dropped
+  rather than stated as verified; worth checking primary Israeli press
+  coverage if that protest ever needs harder numbers.
+- (HITL) 046 drops the funding/mentorship register the first six
+  Collison-shelf episodes shared for a media/information-legitimacy
+  argument entirely outside it, the widest single departure the shelf has
+  made; worth a listen to judge whether that reads as the shelf's own
+  scoped widening (queue.md's item 7 called for a "public-health read" on
+  a different kind of book) or as a break in the throughline 040-045 built.
 
 ## Out of scope
 
