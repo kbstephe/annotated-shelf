@@ -13,12 +13,16 @@
    Braben, Scientific Freedom) done 15 Sep 26; 044 (Waldrop, The Dream
    Machine, part one, Licklider) done 16 Sep 26; 045 (Waldrop/Hiltzik, The
    Dream Machine, part two, Xerox PARC and Robert Taylor) done 17 Sep 26;
-   its sign-off points to Gurri, The Revolt of the Public (046), up next.
+   046 (Gurri, The Revolt of the Public) done 18 Sep 26; 047 (Munger, The
+   Psychology of Human Misjudgment) done 21 Sep 26, closing the shelf.
+   Sign-off points to nutrition science, item 1 (scurvy), up next.
 4. Then nutrition science, science as an institution, how evidence was
    invented, doers, in that order; each to be scoped with Kevin before its
-   first episode is written. If the next series is not yet scoped when the
-   current one ends, fall through to the first unchecked item in Classic
-   essays.
+   first episode is written. Nutrition science was already scoped 8 Sep 26
+   "as a start" and the PubMed connector attached the same day, so its
+   first episode (scurvy) is ready to write without further scoping. If a
+   later series is not yet scoped when the one before it ends, fall through
+   to the first unchecked item in Classic essays.
 
 ## Done
 - [x] 000 Pipeline test
@@ -809,10 +813,46 @@ parts. Practical half first (what to do), per the feed's purpose.
   rebuilt by demonstration. No BLOOM; the closing application stayed
   generic per the public-health scoping note, not tied to any named
   programme.
-- [ ] 8. Poor Charlie's Almanack (Stripe Press), one talk: "The Psychology of
-  Human Misjudgment", Munger's 25 tendencies as a working checklist. Case
-  against: hindsight, the bias-list critique (Gigerenzer), Munger's own
-  record. Closes the series on tools rather than history.
+- [x] 8. Poor Charlie's Almanack (Stripe Press), one talk: "The Psychology of
+  Human Misjudgment" — done as 047, 21 Sep 26 (5,096 words, lint clean),
+  closing the Collison shelf. Cold open: an unnamed aircraft maker's
+  certification evacuation test, run twice in one dark hangar on the same
+  elderly volunteers, roughly forty serious injuries and one permanent
+  paralysis across both runs, Munger's own case for what he called
+  lollapalooza tendency. Munger's biography (Omaha 1924, Caltech
+  meteorology via the Army Air Corps, Harvard Law 1948, the 1959 Omaha
+  dinner with Buffett, Berkshire vice chairman from 1978) and the
+  checklist's own origin (Cialdini's *Influence*, Jacobi's "invert, always
+  invert," the self-described amateur "popping off" on psychology). Five
+  tendencies worked in depth, each with Munger's own case: reward and
+  punishment superresponse (Federal Express night shift, Xerox commissions,
+  the gall-bladder surgeon, Westinghouse's accounting collapse);
+  doubt-avoidance and inconsistency-avoidance (Darwin's disconfirmation
+  habit, Planck, Einstein, Franklin's small-favor trick reused as Korean
+  War brainwashing); social proof and authority-misinfluence (Milgram's
+  Yale obedience runs, Kitty Genovese with the bystander-count myth flagged
+  and corrected, Frank Serpico); reciprocation (Cialdini's zoo experiment,
+  Sam Walton's no-favors rule, Watergate); reason-respecting tendency (Carl
+  Braun's who/what/where/when/why rule, the photocopier-line experiment).
+  The evacuation-test cold open closed out mid-episode as Munger's own
+  worked example of five or six tendencies compounding at once. Case
+  against, three lines per this item's own scoping: the narrator's own
+  hindsight objection, built from Munger's own Q&A concession that the
+  list is tautological and could be organized differently; Gerd
+  Gigerenzer's fast-and-frugal-heuristics critique, that calling a
+  shortcut a bias assumes an idealized rational alternative that usually
+  performs worse in real environments; Munger's own record (the Wheeler,
+  Munger & Co. partnership's 1973–74 peak-to-trough drawdown of over fifty
+  percent from a leveraged, concentrated bet, and the self-admitted 2021–22
+  Alibaba mistake at Daily Journal). Verdict closed the shelf by naming
+  what each of the other seven episodes answered institutionally (Bush's
+  peer review, Braben's one-man patronage, Licklider's named successors,
+  Taylor's collapse without one, Gurri's broken information monopoly)
+  against what Munger's checklist answers instead: not which institution
+  to trust, but what a single mind can do alone, portable precisely
+  because it depends on no institution and therefore catches nothing when
+  attention lapses. No BLOOM aside. Sign-off points to the nutrition
+  science series, opening with scurvy.
 
 Alternates if one fails grounding or Kevin swaps: Where Is My Flying Car?
 (Storrs Hall); Stubborn Attachments (Cowen); Scaling People (Hughes Johnson,
