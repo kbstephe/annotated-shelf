@@ -1,6 +1,38 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (18 Sep 2026, Routine)
+## Snapshot (21 Sep 2026, Routine)
+
+Forty-eight episodes (000 test + 001–047). The Collison shelf is complete:
+040 through 047 (Charlie Munger, "The Psychology of Human Misjudgment") all
+done. 047 closes the eight-episode shelf on a register none of the other
+seven used: not which institution earns trust, but what a single mind can
+do alone with no institution behind it. Built around Munger's own aircraft-
+evacuation-test case (run twice in one hangar, compounding tendencies,
+Munger's "lollapalooza"), five tendencies worked in full (incentives;
+doubt/inconsistency-avoidance; social proof/authority; reciprocation;
+reason-respecting), three case-against lines per the queue's own scoping
+(hindsight via Munger's own Q&A tautology admission; Gigerenzer's fast-
+and-frugal-heuristics critique; Munger's own record, the 1973-74 Wheeler
+Munger drawdown and the 2021-22 Alibaba mistake). No BLOOM aside.
+`scripts/lint_script.py` still reads 0 repeats, 0 tics on every episode
+012–047; 001–011 stay pre-lint.
+**Next step:** 047's sign-off promises nutrition science's first episode,
+scurvy; the series was scoped 8 Sep 26 "as a start" and the PubMed
+connector is already attached, so no further scoping is needed before
+writing it.
+
+Open (HITL): whether 047's closing move, individual cognitive habit rather
+than institutional design, reads as answering the Collison shelf's own
+running question from a genuinely different angle or as a step outside the
+shelf's own throughline right at its close. Open (AFK): the episode's
+"Munger's own record" case-against line draws on two well-documented but
+separate events three decades apart (the 1973-74 partnership drawdown, the
+2021-22 Alibaba position); worth checking whether a closer, single example
+exists if the shelf ever revisits Munger. `listener.md` names two
+in-progress studies (choline, potassium salt); Kevin saw the draft and did
+not object.
+
+## Previous snapshot (18 Sep 2026, Routine)
 
 Forty-seven episodes (000 test + 001–046). Collison shelf: 040 through 046
 (Martin Gurri, "The Revolt of the Public") all done; only Munger (047)
@@ -393,6 +425,16 @@ worth a standing fix rather than a per-session workaround.
   made; worth a listen to judge whether that reads as the shelf's own
   scoped widening (queue.md's item 7 called for a "public-health read" on
   a different kind of book) or as a break in the throughline 040-045 built.
+- (HITL) 047 closes the Collison shelf on individual cognitive habit rather
+  than institutional design, the register none of the other seven episodes
+  used; worth a listen to judge whether that closing move answers the
+  shelf's own running question from a genuinely different angle or steps
+  outside the shelf's throughline right at its close.
+- (AFK) 047's "Munger's own record" case-against line draws on two
+  well-documented but separate events three decades apart (the 1973-74
+  Wheeler, Munger & Co. drawdown and the 2021-22 Alibaba mistake at Daily
+  Journal); worth checking whether a closer, single example exists if the
+  shelf ever revisits Munger.
 
 ## Out of scope
 

@@ -845,3 +845,122 @@ variant of the usual stale-ref artifact); fixed with `git checkout main &&
 git merge --ff-only origin/main`, per the standing template step, not
 logged as a pipeline event. One push for the episode and queue update,
 verified live via `site/feed.xml` on `origin/main` before this log entry.
+
+## [2026-09-21] — Episode 047, Charlie Munger's The Psychology of Human Misjudgment, closing the Collison shelf
+
+**Decisions:** Wrote 047 from the fully revised 2005 text of Munger's talk
+(the version Stripe Press published as an appendix to Poor Charlie's
+Almanack, licensed and hosted verbatim by fs.blog with Peter Kaufman's and
+Munger's own permission), not the shorter 1995 Harvard version, per this
+item's own queue scoping. Cold open and mid-episode payoff both built
+around one case Munger tells about himself: an unnamed aircraft maker's
+FAA-style evacuation certification test, run twice in one dark hangar on
+the same elderly volunteers, roughly forty serious injuries and one
+permanent paralysis across both runs, used as Munger's own demonstration of
+"lollapalooza tendency," several mild shortcuts compounding into one
+severe outcome. Selected five tendencies for full worked treatment rather
+than enumerating all twenty-five, per the charter's ban on list-reading
+aloud: reward-and-punishment superresponse, doubt-avoidance paired with
+inconsistency-avoidance, social proof paired with authority-misinfluence,
+reciprocation, and reason-respecting tendency, each carrying at least one
+of Munger's own named cases rather than a restated definition. Flagged the
+Kitty Genovese bystander-count as the popular, since-corrected version
+Munger's own retelling repeats, rather than silently reusing the debunked
+thirty-eight-witness figure as fact. Case against, the three lines this
+item's own queue scoping named: hindsight, built as the narrator's own
+argument from Munger's own Q&A concession that the twenty-five tendencies
+overlap and could be organized differently ("The answers are yes, yes, and
+yes"); Gerd Gigerenzer's fast-and-frugal-heuristics critique, that calling
+a shortcut a bias assumes an idealized rational alternative that actually
+performs worse in real, uncertain environments; and Munger's own record,
+the Wheeler, Munger & Co. partnership's 1973-74 peak-to-trough drawdown of
+over fifty percent from a leveraged, concentrated bet, plus the
+self-admitted 2021-22 Alibaba mistake at Daily Journal Corporation ("I
+regard Alibaba as one of the biggest mistakes I ever made"). Verdict closed
+out the eight-episode Collison shelf by naming what each of the other seven
+answered institutionally (Bush's peer review, Braben's one-man patronage,
+Licklider's named successors, Taylor's collapse without one, Gurri's broken
+information monopoly) against what Munger's checklist answers instead: not
+which institution to trust, but what a single mind can do alone, portable
+precisely because it needs no institution and therefore catches nothing
+when its user's attention lapses, the same gap Munger's own worst mistakes
+fell through. No BLOOM aside; the checklist's own individual-cognition
+register never pointed toward the programme without a stretch, so none was
+forced.
+
+**Verification:** The talk itself was read directly this session, start to
+finish, from raw HTML fetched and stripped by hand (not a WebFetch summary,
+after two earlier summarizer calls on the same page returned incomplete or
+inconsistently ordered accounts of tendencies 13-25, a repeat of the house
+lesson from 040's Collison-page fetches: raw curl-and-strip is the reliable
+path for a text this long and quote-bearing). Every tendency, example, and
+short quote used in the episode (the Federal Express night shift, the Xerox
+commission story, the gall-bladder surgeon, the Westinghouse accounting
+collapse, Darwin's disconfirmation habit, Planck and Einstein, Franklin's
+small-favor trick and its Korean War application, the Milgram twenty-six-
+of-forty figure, Cialdini's zoo experiment and its Watergate application,
+Sam Walton's no-favors rule, Carl Braun's who/what/where/when/why rule, the
+photocopier-line experiment, the Munger family dog, the Belridge Oil
+mistake, the Carly Fiorina hiring critique, and the Q&A's tautology
+admission) traces to that same direct read of the primary text. Munger's
+biography (Omaha 1924, Army Air Corps meteorology at Caltech, Harvard Law
+1948, the 1959 Omaha dinner with Buffett, Berkshire vice chairman from
+1978, death 28 November 2023 at 99, the tenure fact checked to confirm it
+ran his full working life though the death date is not used in the episode
+itself) was checked against independent sources this session (CNBC's
+obituary coverage, Caltech's own alumni page). The Milgram twenty-six-of-
+forty figure and its context (24 experimental conditions, an average
+obedience rate near forty-three percent across all of them, not the
+headline sixty-five percent alone) and the Kitty Genovese bystander-count
+correction (the New York Times's own 2016 acknowledgment that the original
+thirty-eight-witness account was overstated) were both checked directly
+this session rather than taken from Munger's own retelling. The Wheeler,
+Munger & Co. 1973-74 drawdown figures (down 31.9 percent in 1973, a further
+31.5 percent in 1974, a 53.3 percent peak-to-trough loss driven by a
+leveraged stake in New America Fund and Blue Chip Stamps) and the Alibaba
+mistake (Daily Journal's 2021 buildup, the 2022 halving of the position,
+Munger's own quoted admission at that firm's annual meeting) were each
+checked against independent financial-press coverage this session, not
+recalled from training knowledge alone. Gerd Gigerenzer's fast-and-frugal-
+heuristics program and its specific objection to labeling a shortcut a
+bias against an idealized rational baseline were checked directly against
+his own published framing, not assumed from a general sense of the
+behavioral-economics debate.
+
+**Traps & dead ends:** Two early WebFetch-summarized passes over the same
+fs.blog transcript (once trying to extract tendencies 13-25 directly, once
+trying a different mirror) each returned incomplete and mutually
+inconsistent orderings and mislabeled several tendencies (Reciprocation
+Tendency mislabeled "13," a jump from item 17 straight to item 22 in one
+pass); neither was used. The raw curl-and-strip fetch of the same page
+supplied the complete, correctly ordered, and internally consistent primary
+text used for the whole episode. A first draft using only five tendency
+chapters came in at 4,339 words under the 5,000 floor; brought over the
+floor by adding two more full worked chapters (Reciprocation Tendency with
+the Cialdini zoo experiment and Watergate case; Reason-Respecting Tendency
+with Carl Braun and the photocopier-line experiment) rather than by
+restating material already used, per the charter's ban on padding by
+restatement.
+
+**Open questions:** (HITL) 047 closes the eight-episode Collison shelf on a
+register none of the other seven used, individual cognitive habit rather
+than institutional design; worth a listen to judge whether that closing
+move reads as answering the shelf's own running question from a genuinely
+different angle, or as a step outside the shelf's own throughline right at
+its close. (AFK) The episode's three-line case against draws its "Munger's
+own record" material from two well-documented but separate events three
+decades apart (the 1973-74 partnership drawdown, the 2021-22 Alibaba
+position); worth checking whether a closer, single example exists if the
+shelf ever revisits Munger.
+
+**Artifacts:** episodes/047-munger-psychology-of-human-misjudgment.md
+(5,096 words, lint clean); queue.md (Collison shelf item 8 checked off
+with full summary, closing the shelf; order-of-record block updated to
+show all eight items done and point to nutrition science item 1).
+
+**Context:** Unattended Routine run, 21 September 2026. Pre-flight found
+local `main` twelve commits behind `origin/main`, fixed cleanly with `git
+checkout main && git merge --ff-only origin/main` per the standing
+template step, not logged as a pipeline event. One push for the episode
+and queue update, verified live via `site/feed.xml` on `origin/main`
+before this log entry.
