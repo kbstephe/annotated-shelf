@@ -964,3 +964,109 @@ checkout main && git merge --ff-only origin/main` per the standing
 template step, not logged as a pipeline event. One push for the episode
 and queue update, verified live via `site/feed.xml` on `origin/main`
 before this log entry.
+
+## [2026-09-22] — Episode 048, Scurvy: the cure found, lost, and found again, opening the nutrition science series
+
+**Decisions:** Wrote 048 as the pilot of the nutrition science series, per
+queue.md's item 1 scoping (Lind's 1747 trial, the gap before Admiralty
+lemon juice, the lime-juice regression, the Scott expedition; anchors
+Carpenter's *The History of Scurvy and Vitamin C* and Bown's *Scurvy*).
+Restructured the item's own theme, "a proven intervention and the
+institutional reasons it does not get adopted," into a sharper spine once
+research turned up a repeating pattern the queue note had not fully named:
+not one delayed adoption but four separate loss-and-recovery cycles across
+two hundred fifty years, each with a different mechanism. Cold-opened on
+the 1875 Nares Arctic expedition (men taking their official lime-juice
+ration exactly as ordered and getting scurvy anyway) as the hour's driving
+mystery, answered only once the story reaches the 1860 lemon-to-lime
+substitution. Callback structure: John Woodall's 1617 East India Company
+manual opens the historical account and closes the verdict chapter; James
+Lind's own twenty-five-year tenure as chief physician of Haslar Hospital
+(1758-1783), retiring twelve years before his own finding became fleet
+policy, is planted in Chapter Three and re-invoked when Haslar's own
+admission numbers (1,457 cases in 1780 versus two in 1806-1810) appear in
+Chapter Six. Case-against layer, per the higher grounding bar this series
+carries (Kevin's own field): Carpenter's and Bown's own competing
+revisionist framings against the tidy popular Lind-then-Blane myth; Thomas
+Trotter's complicating role as a Channel Fleet physician who pushed hard
+on naval health reform but never endorsed citrus as prevention, only as
+cure; and the genuinely unsettled historical question of whether scurvy
+contributed to the deaths of Scott's own polar party, stated as contested
+rather than resolved either way. Verdict lands on the series' own running
+concern for a trialist audience: a proven intervention with no known
+mechanism cannot protect itself from a good-faith substitution, and the
+closing generative question extends that past scurvy to any modern
+feeding protocol, supplement source, or therapeutic food whose exact
+composition can drift from what its own original trial tested. No BLOOM
+aside; nothing in the material pointed toward the programme without a
+stretch, so the default (none) held.
+
+**Verification:** Facts and figures were checked across multiple
+independent web sources this session, not from training knowledge alone:
+Woodall's 1617 *The Surgeon's Mate* and its East India Company context;
+Lind's 1747 Salisbury trial (twelve sailors, six pairs, the six-day
+citrus result) and his own 1753 treatise, cross-checked against the James
+Lind Library's own historical scholarship; Lind's Haslar appointment
+(1758) and retirement (1783), and the 1,457-to-two Haslar admission
+figures; Anson's 1740-44 circumnavigation losses (close to nineteen
+hundred men, roughly fourteen hundred dead by 1742, overwhelmingly
+scurvy), corroborated across two independent sources though historians'
+exact figures vary; Macbride's and Pringle's fixed-air/wort theory and the
+abandoned 1762 Portsmouth/Plymouth naval trial; Cook's 1768-71 voyage and
+the confounded wort/sauerkraut/fresh-produce/cleanliness bundle behind its
+reported success; Blane's 1779-82 service with Rodney's fleet, the one
+man in seven annual disease-death tally from his own 1781 memorial, and
+Rodney's scurvy-free six-month West Indies voyage (winter 1781-82) — a
+direct quotation attributed to Rodney about this voyage turned up in only
+one aggregated source this session and was not independently verified
+verbatim, so it was paraphrased rather than quoted, per the grounding
+rule against unverified quotations; the 1795 Suffolk voyage and Blane's
+Commissioner appointment; the 1860 lemon-to-lime substitution and its
+1918 potency test; the 1875 Nares expedition (the sixty-cases/four-deaths
+figure rests on a single secondary source found this session and is
+flagged below as unverified against a second source); Scott's 1901-04
+Discovery expedition, Reginald Koettlitz's watercress crop, and the
+Terra Nova polar ration's calorie composition; Holst and Frølich's 1907
+guinea-pig model and the animal-model-validity point (most standard lab
+animals synthesize their own vitamin C and cannot develop scurvy);
+Szent-Györgyi's 1927-32 hexuronic-acid-to-ascorbic-acid work and his 1937
+Nobel Prize. No primary text (Lind's own treatise, Carpenter's or Bown's
+book) was read in full this session; all of the above rests on targeted,
+cross-checked web research rather than a page-checked primary read.
+
+**Traps & dead ends:** An initial draft ran 4,227 words, under the 5,000
+floor; brought over the floor by deepening existing worked examples
+(Lind's Haslar career, Macbride's fixed-air theory, Blane's Rodney-fleet
+record) rather than by restating material already used, per the charter's
+ban on padding by restatement. A first-pass sentence attributed a direct
+quotation to Rodney ("not one was buried in six months") sourced from a
+single aggregated search result; on review this could not be confirmed
+verbatim against a second source, so it was rewritten as paraphrase before
+publication rather than published as an unverified quotation.
+
+**Open questions:** (AFK) The 1875 Nares expedition's specific casualty
+count, sixty cases and four deaths, rests on one secondary source found
+this session (a history-focused newsletter) rather than a primary
+Admiralty inquiry record or a second independent corroborating source;
+worth checking against the official 1877 Arctic Committee report if the
+shelf ever needs a harder number. (AFK) None of this episode's four
+anchor primary materials, Lind's 1753 treatise, Carpenter's and Bown's
+histories, or a primary Admiralty or Discovery-expedition record, was read
+in full this session; the episode rests on targeted, cross-checked
+secondary research throughout, the same caveat now on record for many
+earlier episodes. (HITL) 048 restructures its own queue-note theme
+("institutional reasons a proven intervention does not get adopted") into
+a four-cycle repeating-loss structure the queue note did not fully
+anticipate; worth a listen to confirm that widening reads as delivering
+the queue's own scoped theme rather than substituting a different one.
+
+**Artifacts:** episodes/048-scurvy-cure-found-lost-found-again.md (5,031
+words, lint clean); queue.md (nutrition science item 1 checked off with
+full summary; order-of-record block updated to point to item 2, beriberi).
+
+**Context:** Unattended Routine run, 22 September 2026. Pre-flight found
+local `main` fifteen commits behind `origin/main`, fixed cleanly with `git
+checkout main && git merge --ff-only origin/main` per the standing
+template step, not logged as a pipeline event. One push for the episode
+and queue update, verified live via `site/feed.xml` on `origin/main`
+before this log entry.

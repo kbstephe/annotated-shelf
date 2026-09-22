@@ -1,6 +1,40 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (21 Sep 2026, Routine)
+## Snapshot (22 Sep 2026, Routine)
+
+Forty-nine episodes (000 test + 001–048). Nutrition science series opened
+with 048, Scurvy: the cure a ship's surgeon proved in six days, and an
+empire needed two centuries to keep, per queue.md item 1. Reframed the
+item's own theme (a proven intervention and the institutional reasons it
+does not get adopted) as four separate loss-and-recovery cycles across two
+hundred fifty years rather than one delayed adoption: Woodall's 1617
+manual forgotten within a century; Lind's 1747 Salisbury trial undercut by
+his own hedged treatise and untested boiled-juice "rob"; the Macbride/
+Pringle wort theory and Cook's confounded endorsement of it; Blane's 1795
+mandate and the Haslar 1,457-to-two swing; the 1860 lemon-to-lime
+substitution, invisible until the 1875 Nares Arctic disaster; the
+ptomaine-poisoning detour and Scott's Terra Nova expedition; Holst and
+Frølich's 1907 guinea-pig model; Szent-Györgyi's 1932 ascorbic-acid
+isolation, which finally gave the cure a measurable identity. Case against:
+Carpenter's and Bown's own competing revisionist framings, Thomas
+Trotter's complicating role, and the contested question of scurvy's part
+in Scott's own polar-party deaths. No BLOOM aside. `scripts/lint_script.py`
+still reads 0 repeats, 0 tics on every episode 012–048; 001–011 stay
+pre-lint.
+**Next step:** 048's sign-off promises nutrition science item 2, beriberi
+(Takaki, Eijkman, the Japanese naval diet trials).
+
+Open (HITL): whether 048's four-cycle restructuring reads as delivering
+queue.md's own scoped theme for this item or as substituting a different
+one. Open (AFK): the 1875 Nares expedition's sixty-cases/four-deaths
+figure rests on one secondary source found this session, not a primary
+Admiralty inquiry record; none of the episode's four anchor materials
+(Lind's treatise, Carpenter's and Bown's histories, a primary Admiralty or
+Discovery-expedition record) was read in full this session. `listener.md`
+names two in-progress studies (choline, potassium salt); Kevin saw the
+draft and did not object.
+
+## Previous snapshot (21 Sep 2026, Routine)
 
 Forty-eight episodes (000 test + 001–047). The Collison shelf is complete:
 040 through 047 (Charlie Munger, "The Psychology of Human Misjudgment") all
@@ -435,6 +469,19 @@ worth a standing fix rather than a per-session workaround.
   Wheeler, Munger & Co. drawdown and the 2021-22 Alibaba mistake at Daily
   Journal); worth checking whether a closer, single example exists if the
   shelf ever revisits Munger.
+- (HITL) 048 opens the nutrition science series by restructuring its own
+  queue-note theme (a proven intervention and the institutional reasons it
+  does not get adopted) into four separate loss-and-recovery cycles rather
+  than one delayed adoption; worth a listen to judge whether that reads as
+  delivering the queue's own scoped theme for this item or as substituting
+  a different one right at the new series' opening.
+- (AFK) 048's 1875 Nares expedition casualty figure (sixty cases, four
+  deaths) rests on one secondary source found this session, not a primary
+  Admiralty inquiry record or a second independent corroboration; worth
+  checking against the official 1877 Arctic Committee report if the shelf
+  ever needs a harder number. None of the episode's four anchor materials
+  (Lind's 1753 treatise, Carpenter's and Bown's histories, a primary
+  Admiralty or Discovery-expedition record) was read in full this session.
 
 ## Out of scope
 
