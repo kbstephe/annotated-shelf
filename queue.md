@@ -19,10 +19,11 @@
 4. Then nutrition science, science as an institution, how evidence was
    invented, doers, in that order; each to be scoped with Kevin before its
    first episode is written. Nutrition science was already scoped 8 Sep 26
-   "as a start" and the PubMed connector attached the same day, so its
-   first episode (scurvy) is ready to write without further scoping. If a
-   later series is not yet scoped when the one before it ends, fall through
-   to the first unchecked item in Classic essays.
+   "as a start" and the PubMed connector attached the same day. Item 1
+   (scurvy) done as 048, 22 Sep 26, opening the series; sign-off points to
+   item 2 (beriberi). If a later series is not yet scoped when the one
+   before it ends, fall through to the first unchecked item in Classic
+   essays.
 
 ## Done
 - [x] 000 Pipeline test
@@ -869,11 +870,29 @@ reference to his studies. Nine episodes (048–056); the order is a draft he
 approved as a start, not a ruling, so re-ordering is allowed if a later
 episode's grounding is ready first.
 
-- [ ] 1. Scurvy: the cure found, lost and found again. Lind's 1747 Salisbury
-  trial, the forty-year gap before Admiralty lemon juice (1795), the
-  lime-juice regression and the Scott expedition. Anchors: Carpenter, The
-  History of Scurvy and Vitamin C (1986); Bown, Scurvy (2003). Theme: a
-  proven intervention and the institutional reasons it does not get adopted.
+- [x] 1. Scurvy: the cure found, lost and found again — done as 048, 22 Sep
+  26. Four separate loss-and-recovery cycles across two hundred fifty
+  years rather than one delayed adoption: Woodall's 1617 East India
+  Company manual, forgotten within a century; Lind's 1747 Salisbury trial
+  (six pairs, citrus wins in six days) undercut by his own hedged treatise
+  and his untested boiled-juice "rob"; the Macbride/Pringle fixed-air wort
+  theory and Cook's confounded, uncontrolled endorsement of it; Blane's
+  1795 mandate (built on his own West Indies record with Rodney's fleet
+  plus the Suffolk's scurvy-free 1795 voyage) and the Haslar hospital
+  swing from 1,457 cases to two; the 1860 lemon-to-lime substitution,
+  invisible until the 1875 Nares Arctic disaster; the ptomaine-poisoning
+  detour and Scott's Terra Nova expedition; Holst and Frølich's 1907
+  guinea-pig model (the animal-model-validity point: most lab animals
+  make their own vitamin C and can't get scurvy at all); Szent-Györgyi's
+  1932 isolation of ascorbic acid, which finally gave the cure a
+  measurable identity no substitution could silently defeat. Case-against
+  layer: Carpenter's and Bown's own competing revisionist framings against
+  the tidy Lind-then-Blane myth, Thomas Trotter's complicating role, and
+  the still-contested question of whether scurvy contributed to the
+  deaths of Scott's own polar party. Verdict lands on a trialist's own
+  problem: a proven intervention with no known mechanism cannot protect
+  itself from good-faith substitution. Sign-off points to item 2
+  (beriberi).
 - [ ] 2. Beriberi: Takaki, Eijkman and the first deficiency disease proved
   by trial. Japanese Navy diet trials (1880s), Eijkman's polyneuritis in
   chickens (1890s), Grijns, Funk's "vitamine" (1912). Anchor: Carpenter,
