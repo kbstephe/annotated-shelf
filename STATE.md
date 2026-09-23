@@ -1,6 +1,43 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (22 Sep 2026, Routine)
+## Snapshot (23 Sep 2026, Routine)
+
+Fifty episodes (000 test + 001–049). Nutrition science item 2 done as 049,
+Beriberi: the cure a Japanese Navy surgeon proved by 1885, and the war his
+own Army needed to believe it. Shape deliberately different from 048's:
+not a cure lost and refound inside one institution, but a cure proven
+cleanly by the Imperial Japanese Navy (Takaki Kanehiro's Ryujo/Tsukuba
+paired-ship trial, 1882-84, and the 1885 barley compromise) and then
+refused for two decades by the Imperial Japanese Army's own medical
+bureau, at a cost the Russo-Japanese War made countable: roughly 250,000
+army beriberi cases, 27,000 dead, against 47,000 killed by the enemy.
+Second strand: Eijkman's accidental chicken discovery in Batavia, his own
+unshaken toxin theory, Grijns's correct 1901 deficiency hypothesis and
+Nobel snub, Suzuki's 1910 oryzanine losing priority to Funk's 1911-12
+"vitamine" over a dropped clause in translation, Jansen and Donath's 1926
+crystallization and Robert Williams's 1936 synthesis naming thiamine.
+Steelmanned the Army's resistance (germ theory's real recent successes)
+before the case against (Carpenter, Alexander Bay, Liao Yuqun's caution
+against equating Edo-period kakke with modern beriberi). No BLOOM aside.
+`scripts/lint_script.py` still reads 0 repeats, 0 tics on every episode
+012–049; 001–011 stay pre-lint.
+**Next step:** 049's sign-off promises nutrition science item 3, pellagra
+(Goldberger against the germ-theory consensus).
+
+Open (HITL): whether the episode's body-count closing argument (proof
+alone did not move the resisting institution; only an embarrassing cost
+in lives did) reads as an honest verdict or as an overly grim note, three
+nutrition-science-adjacent episodes running now (037, 048, 049) that have
+closed in a similarly dark register. Open (AFK): the Tsukuba's total crew
+size is reported inconsistently across sources (287 versus 333); the
+episode hedges as "around three hundred." Grijns's Nobel-nomination and
+1935-translation claims rest on one source, not independently
+corroborated this session. Carpenter's book, this item's named anchor,
+was read only via a single review, not the text itself. `listener.md`
+names two in-progress studies (choline, potassium salt); Kevin saw the
+draft and did not object.
+
+## Previous snapshot (22 Sep 2026, Routine)
 
 Forty-nine episodes (000 test + 001–048). Nutrition science series opened
 with 048, Scurvy: the cure a ship's surgeon proved in six days, and an
@@ -482,6 +519,19 @@ worth a standing fix rather than a per-session workaround.
   ever needs a harder number. None of the episode's four anchor materials
   (Lind's 1753 treatise, Carpenter's and Bown's histories, a primary
   Admiralty or Discovery-expedition record) was read in full this session.
+- (HITL) 049 closes on a body-count argument, that proof alone did not move
+  the Japanese Army's medical bureau and only an embarrassing cost in
+  lives did; worth a listen to judge whether that reads as an honest
+  verdict or as an overly grim note, the third nutrition-science-adjacent
+  episode running (037, 048, 049) to close in a comparably dark register.
+- (AFK) 049's Tsukuba crew-size figure is reported inconsistently across
+  sources (287 in one peer-reviewed history, 333 in the James Lind
+  Library's account); the episode hedges as "around three hundred" rather
+  than pick one. Grijns's Nobel-nomination and 1935-translation-date
+  claims rest on a single source (World Neurology Online), not
+  independently corroborated. Carpenter's "Beriberi, White Rice, and
+  Vitamin B," this item's named anchor, was read only via a single review
+  this session, not the book itself.
 
 ## Out of scope
 

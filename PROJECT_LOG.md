@@ -1070,3 +1070,105 @@ checkout main && git merge --ff-only origin/main` per the standing
 template step, not logged as a pipeline event. One push for the episode
 and queue update, verified live via `site/feed.xml` on `origin/main`
 before this log entry.
+
+## [2026-09-23] — Routine: Episode 049, Beriberi, Takaki, Eijkman, Grijns, and Funk
+
+**Decisions:** Structured the item's own scoping (Takaki, Eijkman, Grijns,
+Funk) around a mechanism genuinely different from 048's: not a cure lost
+and refound inside one institution, but a cure proven cleanly and then
+refused for two decades by a second institution in the same country, at a
+countable cost. Cold open on the Russo-Japanese War's Army-wide beriberi
+toll (roughly 250,000 cases, 27,000 dead against 47,000 killed by the
+enemy; 25,000 of the 80,000-strong Third Army evacuated at Port Arthur),
+set against the fact that the Imperial Japanese Navy had already
+eliminated the same disease from its own ranks two decades earlier.
+Takaki's Ryujo/Tsukuba paired-ship trial (1882-84) built as this series'
+own echo of Lind's Salisbury trial, with the fourteen Tsukuba sailors who
+refused the new ration read as an accidental control group inside the
+experiment itself; the 1885 barley compromise's success despite Takaki's
+own wrong nitrogen-ratio theory read against 048's Blane material (a
+mandate that works without a mechanism). Army resistance built through
+named actors: Ishiguro Tadanori's anti-barley faction and 1895 quote,
+Ogata Masanori's unreproducible "beriberi bacillus," the demotion of army
+surgeons Toki Yoritoku and Horiuchi Toshikuni for reporting the navy's own
+result during the First Sino-Japanese War, Terauchi's too-late February
+1905 field order. Java strand run as a second, structurally different
+kind of loss: Eijkman's accidental chicken discovery, his own inability to
+fully abandon a toxin theory even after his data broke it; Grijns's 1901
+correct deficiency hypothesis and Nobel snub (1929, shared with Hopkins,
+uncredited in Eijkman's own lecture) as a credit-versus-correctness case
+parallel to Suzuki's 1910 oryzanine losing priority to Funk's 1911-12
+"vitamine" over a dropped clause in a German translation. Steelmanned the
+Army's resistance explicitly (germ theory's own recent, real successes
+made a laboratory-mechanism standard a reasonable one to hold in the
+abstract) before the case against. No BLOOM aside; the closing generative
+question (what moves one part of an institution trained to trust one kind
+of evidence to accept a result from a part trained to trust another) was
+left general rather than pointed at the listener's own programme.
+
+**Verification:** Takaki's biography, epidemiological survey (18 ships,
+4,683 personnel), and the Ryujo (376 crew, 169 cases/44.9%, 25 deaths) and
+Tsukuba (14 cases) trial numbers checked against three independent
+sources this session (the James Lind Library's dedicated Takaki article,
+Wikipedia's sourced biography, and a peer-reviewed 2024 Annals of Surgery
+Open history article via PubMed/PMC, "ADOPTERs of Innovation in a
+Crisis"), which disagreed on the Tsukuba's total crew size (287 versus
+333) and is flagged as an open question below rather than silently picked
+one way. The Russo-Japanese War beriberi figures (250,000 cases, 27,000
+dead, 47,000 combat dead, the Port Arthur 25,000-of-80,000 evacuation)
+were cross-checked across the same PMC article, a Wikipedia summary
+citing independent sources, and a web search of secondary coverage, all
+converging on the same figures. Ishiguro Tadanori's 1895 quote, Shigemichi
+Suzuki's 1901 and 1906 quotes, and Shimazono's 1927 concession are all
+drawn from the PMC article's own translated citations of primary Japanese
+sources, not reconstructed from training knowledge. Eijkman's biography
+and the chicken-feed accident were checked against a peer-reviewed 2019
+neurology-journal retrospective (PMC6803585) fetched this session; Grijns's
+1901 hypothesis, his exclusion from the 1929 Nobel Prize, and the 1935
+translation date came from a dedicated World Neurology Online article on
+Grijns, single-sourced and flagged as such below. The Suzuki/Funk priority
+dispute (the German translation dropping Suzuki's novelty claim) and the
+Jansen/Donath 1926 crystallization plus Robert Williams's 1936 structure
+and synthesis of thiamine were each checked via independent web sources
+this session. Carpenter's book was read only via a single review
+(dannyreviews.com) rather than the text itself; Alexander Bay's
+institutional argument and the "power and medicine" quote came from a
+Medical History journal book review of Bay's own monograph, read directly
+this session.
+
+**Traps & dead ends:** An initial fetch of the Military Medicine journal
+PDF on the Imperial Japanese Army's beriberi history (Hawk, 2006) hit a
+paywall and returned only its abstract; the PMC "ADOPTERs" article,
+fetched successfully via the PubMed tool, supplied the same ground with
+far more citation detail and became the episode's central source for the
+Army-resistance chapters instead.
+
+**Open questions:** (AFK) The Tsukuba's total crew size is reported
+inconsistently across sources (287 in the PMC "ADOPTERs" article, 333 in
+the James Lind Library's account); the episode uses "around three
+hundred" to stay honest to that spread rather than pick one figure, the
+same hedge 043 used for Venture Research's researcher count. (AFK)
+Grijns's Nobel-nomination and translation-date claims rest on a single
+source (World Neurology Online) not independently corroborated this
+session; worth a second check if the shelf ever leans harder on the
+credit-dispute framing. (AFK) Kenneth Carpenter's book itself, this
+item's named anchor, was not read in primary form this session, only via
+one review; worth a fuller read if the shelf ever needs to quote Carpenter
+more precisely than the even-handed "luck and translation" framing used
+here. (HITL) The episode leans on a body-count argument (an institution
+changed course only once the cost in lives became too large to ignore)
+as its own closing generative question; worth a listen to judge whether
+that reads as an honest reading of the record or as an overly grim note
+to end a nutrition-science episode on, three episodes running now (037,
+048, 049) that have closed on a comparably dark note.
+
+**Artifacts:** episodes/049-beriberi-navy-proved-army-refused.md (5,014
+words, lint clean); queue.md (nutrition science item 2 checked off with
+full summary; order-of-record block updated to point to item 3,
+pellagra).
+
+**Context:** Unattended Routine run, 23 September 2026. Pre-flight clean,
+local `main` already current with `origin/main`. One push for the episode
+and queue update; the Build site Action's commit appeared within about
+two minutes, and `site/feed.xml` on `origin/main` carries 049's title
+before this log entry.
