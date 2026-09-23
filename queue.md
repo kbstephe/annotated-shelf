@@ -20,9 +20,10 @@
    invented, doers, in that order; each to be scoped with Kevin before its
    first episode is written. Nutrition science was already scoped 8 Sep 26
    "as a start" and the PubMed connector attached the same day. Item 1
-   (scurvy) done as 048, 22 Sep 26, opening the series; sign-off points to
-   item 2 (beriberi). If a later series is not yet scoped when the one
-   before it ends, fall through to the first unchecked item in Classic
+   (scurvy) done as 048, 22 Sep 26, opening the series; item 2 (beriberi)
+   done as 049, 23 Sep 26; sign-off points to item 3 (pellagra). If a later
+   series is not yet scoped when the one before it ends, fall through to
+   the first unchecked item in Classic
    essays.
 
 ## Done
@@ -893,10 +894,40 @@ episode's grounding is ready first.
   problem: a proven intervention with no known mechanism cannot protect
   itself from good-faith substitution. Sign-off points to item 2
   (beriberi).
-- [ ] 2. Beriberi: Takaki, Eijkman and the first deficiency disease proved
-  by trial. Japanese Navy diet trials (1880s), Eijkman's polyneuritis in
-  chickens (1890s), Grijns, Funk's "vitamine" (1912). Anchor: Carpenter,
-  Beriberi, White Rice, and Vitamin B (2000).
+- [x] 2. Beriberi: Takaki, Eijkman and the first deficiency disease proved
+  by trial — done as 049, 23 Sep 26. Cold open: the Russo-Japanese War's
+  Army-wide beriberi toll (roughly 250,000 cases, 27,000 dead against
+  47,000 killed by the enemy; 25,000 of the 80,000-strong Third Army
+  evacuated at Port Arthur), set against the fact that the Imperial
+  Japanese Navy, the same country, the same war, had already eliminated
+  the disease from its own ranks two decades earlier. Takaki Kanehiro's
+  biography (St Thomas's Hospital London, Tokyo Naval Hospital 1880, the
+  4,683-man/18-ship epidemiological survey, the wrong nitrogen-ratio
+  theory); the Ryujo (376 crew, 169 cases/44.9%, 25 deaths, 1882-83) and
+  Tsukuba (around 300 crew, 14 cases, 1884) paired trial on the identical
+  route, with the fourteen who refused the new diet as an accidental
+  control group; the 1885 barley compromise that cut incidence to near
+  zero without Takaki ever being right about why. Army resistance: the
+  anti-barley faction (Ishiguro Tadanori, Mori Rintaro), Ogata Masanori's
+  unreproducible 1885 "beriberi bacillus," the demotion of army surgeons
+  Toki Yoritoku and Horiuchi Toshikuni for reporting the same barley
+  result during the First Sino-Japanese War, Terauchi's too-late Feb 1905
+  field order, the Beriberi Research Council's resistance to 1925 and
+  Shimazono's 1927 concession. Java strand: Eijkman's accidental chicken
+  discovery in Batavia (the army cook's rice-supply refusal), his own
+  unshaken toxin theory, Vorderman's 245,000-prisoner comparison; Grijns's
+  1901 correct deficiency hypothesis and his Nobel snub (1929, shared with
+  Hopkins, Eijkman's own lecture uncredited); Suzuki's 1910 oryzanine
+  versus Funk's 1911-12 "vitamine" naming and priority dispute; Jansen and
+  Donath's 1926 crystallization and Robert Williams's 1936 structure and
+  synthesis, naming it thiamine. Case against/reception: Carpenter's
+  even-handed "luck and translation" framing, Alexander Bay's
+  power-and-medicine institutional reading, Liao Yuqun's caution against
+  equating Edo-period kakke with modern beriberi outright. Verdict: unlike
+  scurvy's cure that kept drifting and getting lost inside one institution,
+  beriberi's cure stayed exactly where it was proven and still could not
+  cross a hallway to a second institution trained to trust a different
+  kind of evidence. Sign-off points to item 3 (pellagra).
 - [ ] 3. Pellagra: Goldberger against the germ-theory consensus. Orphanage
   and asylum diet trials, the Rankin prison-farm experiment (1915), the
   filth parties (1916), and the twenty years the fix waited on Southern
