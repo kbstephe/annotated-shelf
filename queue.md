@@ -21,9 +21,10 @@
    first episode is written. Nutrition science was already scoped 8 Sep 26
    "as a start" and the PubMed connector attached the same day. Item 1
    (scurvy) done as 048, 22 Sep 26, opening the series; item 2 (beriberi)
-   done as 049, 23 Sep 26; sign-off points to item 3 (pellagra). If a later
-   series is not yet scoped when the one before it ends, fall through to
-   the first unchecked item in Classic
+   done as 049, 23 Sep 26; item 3 (pellagra) done as 050, 24 Sep 26;
+   sign-off points to item 4 (the Minnesota Starvation Experiment). If a
+   later series is not yet scoped when the one before it ends, fall through
+   to the first unchecked item in Classic
    essays.
 
 ## Done
@@ -928,10 +929,44 @@ episode's grounding is ready first.
   beriberi's cure stayed exactly where it was proven and still could not
   cross a hallway to a second institution trained to trust a different
   kind of evidence. Sign-off points to item 3 (pellagra).
-- [ ] 3. Pellagra: Goldberger against the germ-theory consensus. Orphanage
-  and asylum diet trials, the Rankin prison-farm experiment (1915), the
-  filth parties (1916), and the twenty years the fix waited on Southern
-  politics and the Depression. Anchor: Kraut, Goldberger's War (2003).
+- [x] 3. Pellagra: Goldberger against the germ-theory consensus — done as
+  050, 24 Sep 26. Cold open: the epidemic's own scale (roughly three
+  million cases, a hundred thousand deaths, 1906-1940) against the two
+  wrong answers already on record by 1914, Lombroso's decades-long
+  spoiled-corn toxin theory and the Thompson-McFadden Commission's
+  1912-14 verdict that pellagra was person-to-person contagious, likely
+  fly-borne. Goldberger's biography (three prior infections caught in the
+  field; his 1906 interfaith marriage to Mary Farrar, who later joined
+  the filth parties). The clean orphanage and Georgia State Sanitarium
+  diet trials (1914); the Rankin State Prison Farm experiment (twelve
+  convict volunteers, one discharged, six of the remaining eleven
+  produced confirmed pellagra on a corn-heavy ration by Sept 1915, cured
+  by the same pardon-for-participation diet reversed); the 1916 filth
+  parties (eight sessions, seventeen participants, Goldberger and Wheeler
+  injecting each other with pellagrin blood) as the negative control
+  ruling out contagion. Sydenstricker's 1918-20 cotton-mill-village
+  income study (Spartanburg County) as the economic proof: pellagra rates
+  roughly twelve times higher in the lowest-wage mill households than the
+  highest, ten times higher again among non-earning women fed last.
+  Southern political backlash (Seale Harris's editorial, Senator
+  Tillman's own interest in the Thompson-McFadden Commission's home
+  base) read against a genuinely different mechanism than 049's Army
+  resistance: not just a rival evidentiary standard but a regional
+  economy's material stake in the wrong answer. The 1927 Mississippi
+  flood as Goldberger's last public vindication (Red Cross yeast relief,
+  twelve thousand pounds, four-thousand-plus cured); his 1929 death
+  before niacin was named; Elvehjem's 1937 identification of nicotinic
+  acid using Goldberger and Wheeler's own black-tongue dog model; the
+  twenty-plus-year gap to an actual fix, closed by two forces at once,
+  wartime bread fortification (1938-42) and the Depression-era cotton
+  collapse that forced crop diversification before anyone had accepted
+  the diagnosis. Case against: Jon Harkness's bioethics critique of the
+  Rankin trial's pardon-as-coercion problem and Kraut's own footnoting of
+  the asylum women's lack of real choice, landed as a research-ethics
+  verdict distinct from the science question, on the listener's own
+  professional terrain (trial consent, vulnerable populations, ethics
+  committees) without a BLOOM aside. Sign-off points to item 4, the
+  Minnesota Starvation Experiment.
 - [ ] 4. The Minnesota Starvation Experiment. Keys 1944–45, thirty-six
   conscientious objectors, semi-starvation and the refeeding phase.
   Anchors: Tucker, The Great Starvation Experiment (2006); Keys et al., The
