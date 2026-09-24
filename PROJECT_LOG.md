@@ -1172,3 +1172,129 @@ local `main` already current with `origin/main`. One push for the episode
 and queue update; the Build site Action's commit appeared within about
 two minutes, and `site/feed.xml` on `origin/main` carries 049's title
 before this log entry.
+
+## [2026-09-24] — Routine: Episode 050, Pellagra and Joseph Goldberger
+
+**Decisions:** Structured this item's own scoping (Goldberger against the
+germ-theory consensus, the orphanage/asylum trials, Rankin, the filth
+parties, twenty years to a fix) around two throughlines run in parallel
+rather than one: the science question (poverty-diet cause vs. the
+Thompson-McFadden Commission's contagion theory) and, held apart as a
+second and separate audit in the closing chapter, a research-ethics
+question about the consent those same proofs rested on. Cold open on the
+epidemic's own scale (roughly three million cases, a hundred thousand
+deaths, 1906-1940) against two wrong answers already on record by 1914:
+Lombroso's decades-long spoiled-corn toxin theory and the Thompson-
+McFadden Commission's 1912-14 verdict for person-to-person, likely
+fly-borne contagion. Chain: the clean 1914 orphanage and Georgia State
+Sanitarium diet trials; the Rankin State Prison Farm experiment (twelve
+convict volunteers, one discharged for an unrelated condition, six of the
+remaining eleven produced confirmed pellagra on a corn-heavy ration);
+the 1916 filth parties as the negative control ruling out contagion on
+Goldberger's own body; Sydenstricker's 1918-20 cotton-mill-village income
+study as the economic proof. Steelmanned the Thompson-McFadden
+Commission's germ-theory standard explicitly, then argued the comparison
+to 049's Army resistance only holds part way: unlike the Army, the South's
+resistance blended an honest evidentiary dispute with a regional economy's
+material stake in the wrong answer, since accepting the diagnosis meant
+indicting cotton monoculture itself, a distinction the episode names as
+the narrator's own revision of the parallel it opens by suggesting. Landed
+the twenty-year gap to an actual fix on two forces converging without the
+South ever conceding the diagnosis: wartime bread fortification (1938-42)
+following Elvehjem's 1937 niacin identification, and the Depression-era
+cotton collapse that forced crop diversification for economic reasons that
+had nothing to do with Goldberger being believed. No BLOOM aside; the
+closing chapter's research-ethics question (a coerced or institutionalized
+population's consent, an IRB's own modern audit) lands directly on the
+listener's actual professional terrain per `listener.md` (trial consent,
+vulnerable populations, ethics committees in two countries) without
+needing a bridge to any specific programme.
+
+**Verification:** Checked directly this session via web search (no primary
+read of Kraut's "Goldberger's War" itself, flagged below): Goldberger's
+biography (1874 birth near Girált, Austro-Hungarian Empire; 1883
+immigration; Bellevue MD 1895; 1899 Marine Hospital Service; yellow fever,
+dengue, and typhus each contracted in the field; 1906 marriage to Mary
+Farrar across both families' religious objections; his own "never faced
+anything with greater reluctance" quote to his wife on the 1914
+assignment). The Thompson-McFadden Pellagra Commission's 1912-14
+Spartanburg investigation, its Army Medical Corps leadership, its fly
+vector suspicion, and Senator Ben Tillman's documented interest in its
+Spartanburg site selection were each checked via independent sources. The
+1914 Jackson, Mississippi orphanage trials and the Georgia State
+Sanitarium trial (72 patients, 36 Black women from October and 36 white
+women from December, no recurrences through October 1915) were checked
+against a James Lind Library account of the trials. The Rankin State
+Prison Farm timeline (twelve volunteers, one discharged in July for
+prostatitis, baseline period 4 Feb-19 Apr, dermatitis first observed 12
+Sept, study closed 31 Oct 1915, six of eleven confirmed) was checked
+against a dedicated Mississippi Encyclopedia account and cross-checked
+against Jon Harkness's 1996 "Prisoners and Pellagra," the paper this
+episode's ethics case-against draws on for the coercion argument and the
+volunteer who reportedly could not withdraw once sick; the contemporary
+press quote used ("no effort to minimize the grave physical risk," under
+fifteen words) is drawn from Harkness's own quotation of that press
+account, not the primary press item itself, and is flagged as such here.
+The 1916 filth parties (eight sessions, seventeen participants, the April
+26 mutual blood injections) were checked against the Science History
+Institute's account. Sydenstricker's cotton-mill-village figures (roughly
+3.5 cases per thousand at the top wage tier, roughly twelve times higher
+at the bottom, ten times higher again among non-earning women) and Seale
+Harris's editorial line ("does the South a gross injustice," under fifteen
+words) were each checked via independent web sources. The 1927 Mississippi
+flood relief figures (sixteen million acres, twelve thousand pounds of
+yeast, four-thousand-plus cured) and Goldberger's January 1929 death from
+kidney cancer were checked directly. Elvehjem's 1937 niacin identification
+using Goldberger and Wheeler's own black-tongue dog model, and the
+fortification timeline (1938 voluntary enrichment, 1941 FDA standards,
+February 1942 Army enriched-flour-only purchasing, three-quarters of
+white bread fortified by year's end) were each checked against independent
+sources. The Depression-era crop-diversification figures (roughly 8%
+higher corn acreage, 3% peanut, 1.2% sweet potato per capita in
+high-cotton-loss counties) came from an NBER working paper whose own PDF
+would not extract as readable text this session; the acreage percentages
+are instead as reported in a web-search synthesis of that paper's stated
+findings, not independently verified against the paper's own tables, and
+are flagged below at that hedge.
+
+**Traps & dead ends:** Two PDF fetches (the NBER working paper on
+pellagra's rise and fall, and Harkness's own CDC-hosted "Prisoners and
+Pellagra") returned unreadable binary/compressed-stream content rather
+than extractable text in this session's environment, the same PDF-
+extraction gap earlier sessions hit with the Hamming and Bush books;
+worked around both times with targeted web-search synthesis of each
+paper's stated findings rather than a page-checked primary read.
+
+**Open questions:** (AFK) Neither Kraut's "Goldberger's War," this item's
+own named anchor, nor Harkness's "Prisoners and Pellagra," nor the NBER
+working paper on pellagra's economic history, was read in primary form
+this session; the episode's ethics case-against and the Depression-era
+crop-diversification figures both rest on search-synthesized secondary
+accounts of those sources rather than a page-checked read, worth
+revisiting if the shelf ever needs more precise figures or quotations.
+(HITL) The episode closes on a research-ethics verdict (informed consent
+under coercion, an IRB's modern standard) rather than folding an
+application into a BLOOM aside; worth a listen to judge whether landing
+directly on trial methods and ethics, without naming any programme, reads
+as a genuine and undiluted connection to the listener's own actual work or
+as a missed chance to make it concrete. (HITL) The episode explicitly
+revises its own opening comparison to 049's Army resistance partway
+through (Chapter Eight), arguing the South's resistance combined
+evidentiary caution with material self-interest in a way beriberi's story
+did not; worth judging whether that self-correction reads as the delayed-
+thesis device the charter calls for or as hedging.
+
+**Artifacts:** episodes/050-pellagra-goldberger-south-twenty-years.md
+(5,087 words, lint clean); queue.md (nutrition science item 3 checked off
+with full summary; order-of-record block updated to point to item 4, the
+Minnesota Starvation Experiment).
+
+**Context:** Unattended Routine run, 24 September 2026. Pre-flight found
+local `main` one commit behind `origin/main` (a non-fast-forward push
+rejection on the first dry-run check, the same routine checkout artifact
+prior sessions have hit), fixed cleanly with `git checkout main && git
+merge --ff-only origin/main` per the standing template step, not logged as
+a pipeline event. One push for the episode and queue update; the Build
+site Action's commit appeared within about two minutes, and
+`site/feed.xml` on `origin/main` carries 050's title before this log
+entry.

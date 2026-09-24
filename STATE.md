@@ -1,6 +1,53 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (23 Sep 2026, Routine)
+## Snapshot (24 Sep 2026, Routine)
+
+Fifty-one episodes (000 test + 001–050). Nutrition science item 3 done as
+050, Pellagra: the poverty diagnosis a Mississippi prison diet proved in
+five months, and the South spent two decades refusing to accept. Two
+throughlines held apart rather than merged: the science question (Joseph
+Goldberger's diet-poverty cause versus the Thompson-McFadden Commission's
+1912-14 germ-theory verdict, disproven by the clean 1914 orphanage and
+Georgia asylum trials, the Rankin State Prison Farm experiment inducing
+pellagra in six of eleven convict volunteers on a corn-heavy diet, the
+1916 filth parties ruling out contagion on Goldberger's own body, and
+Sydenstricker's 1918-20 cotton-mill-village income study) and, held as a
+separate closing audit, a research-ethics question about the coerced
+consent those same proofs rested on (Harkness's critique of the
+pardon-for-participation Rankin design; Kraut's own footnoting of the
+asylum women's lack of real choice). Explicitly revised its own opening
+comparison to 049's Army resistance: unlike Japan's Army, the South's
+resistance combined honest evidentiary caution with a regional economy's
+material stake in the wrong answer, since the diagnosis indicted cotton
+monoculture itself. Closed the twenty-year gap to an actual fix on two
+forces converging without Southern concession: 1938-42 wartime bread
+fortification after Elvehjem's 1937 niacin identification (using
+Goldberger and Wheeler's own black-tongue dog model), and the
+Depression-era cotton collapse that forced crop diversification for
+reasons having nothing to do with the diagnosis being believed. No BLOOM
+aside; the closing ethics question lands directly on the listener's own
+professional terrain (trial consent, vulnerable populations, ethics
+committees) per `listener.md`, without a programme-specific bridge.
+`scripts/lint_script.py` still reads 0 repeats, 0 tics on every episode
+012–050; 001–011 stay pre-lint.
+**Next step:** 050's sign-off promises nutrition science item 4, the
+Minnesota Starvation Experiment (Keys, 1944-45).
+
+Open (HITL): whether landing the closing chapter on trial consent and IRB
+ethics directly, with no BLOOM aside and no named programme, reads as a
+genuine and undiluted connection to the listener's own work or as a
+missed chance to make it concrete; whether the episode's mid-episode
+self-revision of its own comparison to 049 (Chapter Eight) reads as the
+charter's delayed-thesis device working as intended or as hedging. Open
+(AFK): neither Kraut's "Goldberger's War" (this item's named anchor), nor
+Harkness's "Prisoners and Pellagra," nor the NBER working paper on
+pellagra's economic history, was read in primary form this session; both
+PDFs failed to extract as text in this environment. The episode's ethics
+case-against and its Depression-era crop-diversification acreage figures
+both rest on search-synthesized secondary accounts rather than a
+page-checked primary read.
+
+## Previous snapshot (23 Sep 2026, Routine)
 
 Fifty episodes (000 test + 001–049). Nutrition science item 2 done as 049,
 Beriberi: the cure a Japanese Navy surgeon proved by 1885, and the war his
@@ -532,6 +579,21 @@ worth a standing fix rather than a per-session workaround.
   independently corroborated. Carpenter's "Beriberi, White Rice, and
   Vitamin B," this item's named anchor, was read only via a single review
   this session, not the book itself.
+- (HITL) 050 closes on a research-ethics verdict (coerced consent, an IRB's
+  modern standard) rather than a BLOOM aside, landed directly on the
+  listener's own trial-methods terrain per `listener.md`; worth a listen to
+  judge whether that lands as a genuine, undiluted connection or as a
+  missed chance to make it concrete. 050 also explicitly revises its own
+  opening comparison to 049's Army resistance partway through; worth
+  judging whether that self-correction reads as the charter's delayed-
+  thesis device working as intended or as hedging.
+- (AFK) Neither Kraut's "Goldberger's War" (050's named anchor), nor Jon
+  Harkness's "Prisoners and Pellagra," nor the NBER working paper on
+  pellagra's economic history, was read in primary form this session; both
+  PDFs failed to extract as readable text in this environment. The
+  episode's ethics case-against and its Depression-era crop-diversification
+  acreage figures rest on search-synthesized secondary accounts rather
+  than a page-checked primary read.
 
 ## Out of scope
 
