@@ -1298,3 +1298,85 @@ a pipeline event. One push for the episode and queue update; the Build
 site Action's commit appeared within about two minutes, and
 `site/feed.xml` on `origin/main` carries 050's title before this log
 entry.
+
+## 2026-09-25 — Episode 051: The Minnesota Starvation Experiment
+
+**Decisions:** Landed the study's modern application on Kevin's own SAM/RUTF
+research territory (the WHO F-75/F-100 staged refeeding protocol, and a
+grounded note on the Uganda F-75-to-RUTF transition literature) rather than
+on BLOOM, per `listener.md`'s instruction to land an application on the
+right part of the listener's work rather than defaulting to the same
+programme every time; `listener.md` names severe/moderate acute
+malnutrition treatment as Kevin's actual primary study area, a closer and
+less-stretched fit than a maternal mental-health counselling programme for
+a study about staged refeeding physiology. Framed the episode's spine as
+the explicit contrast 050's own sign-off promised (genuine volunteer
+consent versus Rankin's coerced pardon), then complicated rather than
+simply confirmed that contrast with the "Compelled to Volunteer" thesis on
+CPS social pressure and the desire to disprove the "coward" charge, judged
+the more honest version of the story than a clean opposite. Used the
+Bhatt/Lederman/Voo 2021 bioethics critique (Minnesota's data cited to
+justify Guantanamo force-feeding) as the case-against/reception chapter,
+since it engages the same consent theme from a genuinely different angle
+(voluntary data weaponized against an involuntary population) rather than
+re-litigating 050's own argument. One direct callback to 042 (OSRD's
+Committee on Medical Research, the same wartime funding body behind both
+the penicillin scale-up and this study).
+
+**Verification:** Core facts (dates, phase calorie levels, the four
+refeeding groups and their caloric increments, physical effects, MMPI use,
+attrition numbers) were checked against multiple independent sources
+(Wikipedia, MNopedia/Minnesota Historical Society, the Brethren Historical
+Library's archive page) and found consistent. The Samuel Legg finger-
+amputation incident and his euphoric aftermath (seventeen soda fountains)
+were corroborated across several independent secondary accounts and an
+AFSC oral-history page naming him alongside fellow volunteer Marshall
+Sutton, though none of these is Tucker's book itself, which was not
+fetched or read in primary form this session. The Neil Hartman and Harold
+Blickenstaff material, the "Will You Starve That They Be Better Fed?"
+brochure title, and the Carlyle Frederick cookbook detail all came from
+independent secondary sources converging on the same wording. The
+Schnitker et al. 1951 Japanese POW refeeding-death figures and the 1981
+Weinsier/Krumdieck refeeding-syndrome naming were checked against a
+dedicated PMC history-of-refeeding-syndrome article. The Bhatt, Lederman
+and Voo 2021 Journal of Bioethical Inquiry critique was verified via its
+own abstract and independent summaries, not the full text (paywalled). Two
+arithmetic errors caught and fixed before publication: a "sixty-nine years
+later" line for the 2021 citation (corrected to seventy-seven, from 1944)
+and a line conflating the 2018 publication date of the "57-year follow-up"
+study with the 57-year mark itself (the interviews were conducted in 2002,
+fifty-seven years after 1945; publication was delayed to 2018, a fact now
+stated directly rather than elided).
+
+**Traps & dead ends:** None; all primary web fetches this session
+succeeded (Wikipedia, MNopedia, the AFSC oral-history page, the PMC
+refeeding-syndrome history), unlike several recent sessions' PDF-extraction
+failures.
+
+**Open questions:** (AFK) Todd Tucker's "The Great Starvation Experiment"
+(2006) and Keys et al.'s "The Biology of Human Starvation" (1950), this
+item's two named anchors, were not read in primary form this session; the
+episode's account rests on convergent secondary sourcing (Wikipedia,
+MNopedia, APA Monitor-adjacent coverage, academic retrospectives) rather
+than a page-checked primary read, the same caveat now on record for most
+of this shelf's nutrition-science episodes. The Bhatt/Lederman/Voo 2021
+paper was read only via its abstract and secondary summaries, not the full
+text. (HITL) The episode complicates 050's "opposite direction from
+Goldberger's Rankin trial" framing with the "Compelled to Volunteer"
+thesis rather than leaving the contrast clean; worth a listen to judge
+whether that complication reads as honest nuance or as undercutting the
+sign-off's own promised setup right at the episode's start.
+
+**Artifacts:** episodes/051-minnesota-starvation-experiment-refeeding.md
+(5,082 words, lint clean); queue.md (nutrition science item 4 checked off
+with full summary; order-of-record block updated to point to item 5, the
+great protein fiasco).
+
+**Context:** Unattended Routine run, 25 September 2026. Pre-flight found
+local `main` behind `origin/main` by six commits (the same routine
+checkout artifact prior sessions have hit), fixed cleanly with `git
+checkout main && git merge --ff-only origin/main` per the standing
+template step, not logged as a pipeline event. One push for the episode
+and queue update; the Build site Action's commit appeared within about
+thirty seconds, and `site/feed.xml` on `origin/main` carries 051's title
+before this log entry.

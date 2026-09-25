@@ -1,6 +1,44 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (24 Sep 2026, Routine)
+## Snapshot (25 Sep 2026, Routine)
+
+Fifty-two episodes (000 test + 001–051). Nutrition science item 4 done as
+051, The Minnesota Starvation Experiment: the hunger thirty-six men chose
+in 1944, and the refeeding rules it wrote for every famine that came
+after. Ancel Keys's OSRD-funded 1944-45 study (Committee on Medical
+Research, the same funding body as 042's penicillin story), thirty-six
+conscientious objectors, three phases, and semi-starvation neurosis
+(Brozek's MMPI scores, food-obsession diaries, Samuel Legg's finger
+amputation). Explicit contrast to 050's Rankin coercion, per 050's own
+sign-off, then deliberately complicated rather than left clean by the
+"Compelled to Volunteer" thesis on CPS social pressure to disprove the
+"coward" charge. The four-group graduated refeeding phase landed on
+Kevin's own SAM/RUTF research territory (WHO F-75/F-100 protocol) rather
+than a BLOOM aside, per `listener.md`'s instruction to land on the right
+part of the listener's actual work; Schnitker et al. 1951's POW refeeding
+deaths as the negative case refeeding syndrome (named 1981) was later
+built to prevent. Case against/reception: Bhatt, Lederman and Voo 2021 on
+the study's data being cited to justify Guantanamo force-feeding, an
+inversion of the original volunteers' own consent. `scripts/
+lint_script.py` still reads 0 repeats, 0 tics on every episode 012–051;
+001–011 stay pre-lint.
+**Next step:** 051's sign-off promises nutrition science item 5, the great
+protein fiasco (kwashiorkor, McLaren's Lancet 1974 piece, Waterlow and
+Payne's reply).
+
+Open (HITL): whether complicating 050's clean "opposite direction from
+Goldberger's Rankin trial" framing, via the "Compelled to Volunteer"
+thesis, reads as honest nuance or as undercutting the sign-off's own
+promised setup right at the episode's start. Open (AFK): neither Tucker's
+"The Great Starvation Experiment" nor Keys et al.'s "The Biology of Human
+Starvation," this item's two named anchors, was read in primary form this
+session; the episode rests on convergent secondary sourcing instead. Note
+for whoever writes item 5: queue.md's own text flags the great protein
+fiasco as closest to Kevin's actual work, so per the 8 Sep 26 proximity
+rule (nutrition items 5 and 8 use the published record only unless Kevin
+steers them) this is not a routine unattended pick without his input.
+
+## Previous snapshot (24 Sep 2026, Routine)
 
 Fifty-one episodes (000 test + 001–050). Nutrition science item 3 done as
 050, Pellagra: the poverty diagnosis a Mississippi prison diet proved in
@@ -594,6 +632,25 @@ worth a standing fix rather than a per-session workaround.
   episode's ethics case-against and its Depression-era crop-diversification
   acreage figures rest on search-synthesized secondary accounts rather
   than a page-checked primary read.
+- (HITL) 051 complicates 050's own "opposite direction from Goldberger's
+  Rankin trial" framing, via the "Compelled to Volunteer" thesis on CPS
+  social pressure, rather than leaving the volunteer/coerced contrast
+  clean; worth a listen to judge whether that complication reads as honest
+  nuance or as undercutting the sign-off's own promised setup right at the
+  episode's start.
+- (AFK) Neither Todd Tucker's "The Great Starvation Experiment" (2006) nor
+  Keys et al.'s "The Biology of Human Starvation" (1950), 051's two named
+  anchors, was read in primary form this session; the episode's account
+  rests on convergent secondary sourcing (Wikipedia, MNopedia, an AFSC
+  oral-history page, academic retrospectives) rather than a page-checked
+  primary read. The Bhatt/Lederman/Voo 2021 bioethics critique was read
+  only via its abstract and secondary summaries, the full text being
+  paywalled.
+- (HITL) Item 5, the great protein fiasco, is flagged in queue.md's own
+  text as closest to Kevin's actual research; per the 8 Sep 26 proximity
+  rule (nutrition items 5 and 8 use the published record only unless Kevin
+  steers them), whoever writes it next should not treat it as a routine
+  unattended pick without checking for his input first.
 
 ## Out of scope
 
