@@ -21,8 +21,9 @@
    first episode is written. Nutrition science was already scoped 8 Sep 26
    "as a start" and the PubMed connector attached the same day. Item 1
    (scurvy) done as 048, 22 Sep 26, opening the series; item 2 (beriberi)
-   done as 049, 23 Sep 26; item 3 (pellagra) done as 050, 24 Sep 26;
-   sign-off points to item 4 (the Minnesota Starvation Experiment). If a
+   done as 049, 23 Sep 26; item 3 (pellagra) done as 050, 24 Sep 26; item 4
+   (the Minnesota Starvation Experiment) done as 051, 25 Sep 26; sign-off
+   points to item 5 (the great protein fiasco). If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -967,11 +968,31 @@ episode's grounding is ready first.
   professional terrain (trial consent, vulnerable populations, ethics
   committees) without a BLOOM aside. Sign-off points to item 4, the
   Minnesota Starvation Experiment.
-- [ ] 4. The Minnesota Starvation Experiment. Keys 1944–45, thirty-six
-  conscientious objectors, semi-starvation and the refeeding phase.
-  Anchors: Tucker, The Great Starvation Experiment (2006); Keys et al., The
-  Biology of Human Starvation (1950). Read-across: SAM refeeding and the
-  psychology of hunger (BLOOM aside if it lands).
+- [x] 4. The Minnesota Starvation Experiment — done as 051, 25 Sep 26. Cold
+  open: the recruiting brochure's own title, "Will You Starve That They Be
+  Better Fed?", and Neil Hartman's volunteer quote about proving he was not
+  a coward. Ancel Keys's OSRD-funded 1944-45 study (Committee on Medical
+  Research, the same body as 042's penicillin story) built to give UNRRA a
+  refeeding protocol for postwar famine relief; thirty-six conscientious
+  objectors selected from four hundred volunteers, three phases (twelve
+  weeks control, twenty-four weeks semi-starvation at roughly fifteen
+  seventy calories, twenty-two miles of required weekly walking), physical
+  effects (forty percent BMR drop, resting heart rate to twenty-eight,
+  edema, cold intolerance) and semi-starvation neurosis (Brozek's MMPI
+  scores, Carlyle Frederick's cookbook collecting, Harold Blickenstaff,
+  Samuel Legg's finger amputation and euphoric aftermath). Explicit contrast
+  to 050's Rankin coercion, complicated rather than simply confirmed by the
+  "Compelled to Volunteer" thesis on CPS social pressure. The four-group
+  refeeding phase (graduated calorie increments, blinded macronutrient
+  variation) as the hour's real subject, landed on Kevin's own SAM/RUTF
+  research territory via the WHO F-75/F-100 protocol rather than a BLOOM
+  aside, per listener.md; Schnitker et al. 1951's Japanese POW refeeding
+  deaths as the negative case refeeding syndrome (named 1981) was later
+  built to prevent. Case against/reception: Bhatt, Lederman and Voo 2021 on
+  the study's data being repurposed to justify Guantanamo force-feeding, an
+  inversion of the original volunteers' own consent. The 2002/2018 57-year
+  follow-up (Eckert et al.) as the closing legacy beat. Sign-off promises
+  item 5, the great protein fiasco.
 - [ ] 5. The great protein fiasco. Kwashiorkor as protein deficiency, the
   1950s–60s "protein gap", McLaren, "The great protein fiasco" (Lancet
   1974), Waterlow and Payne's reply (Nature 1975), and how the dogma bent
