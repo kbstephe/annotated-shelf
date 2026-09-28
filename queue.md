@@ -22,8 +22,10 @@
    "as a start" and the PubMed connector attached the same day. Item 1
    (scurvy) done as 048, 22 Sep 26, opening the series; item 2 (beriberi)
    done as 049, 23 Sep 26; item 3 (pellagra) done as 050, 24 Sep 26; item 4
-   (the Minnesota Starvation Experiment) done as 051, 25 Sep 26; sign-off
-   points to item 5 (the great protein fiasco). If a
+   (the Minnesota Starvation Experiment) done as 051, 25 Sep 26; item 5 (the
+   great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
+   the published record only per the item's own proximity note); sign-off
+   points to item 6 (diet-heart, Keys vs. Yudkin). If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -993,11 +995,40 @@ episode's grounding is ready first.
   inversion of the original volunteers' own consent. The 2002/2018 57-year
   follow-up (Eckert et al.) as the closing legacy beat. Sign-off promises
   item 5, the great protein fiasco.
-- [ ] 5. The great protein fiasco. Kwashiorkor as protein deficiency, the
-  1950s–60s "protein gap", McLaren, "The great protein fiasco" (Lancet
-  1974), Waterlow and Payne's reply (Nature 1975), and how the dogma bent
-  FAO/WHO policy and requirement figures. Closest to Kevin's work; see note
-  above.
+- [x] 5. The great protein fiasco — done as 052, 28 Sep 26, unattended (Kevin
+  had not steered it by the time it came up, so written from the published
+  record only per the item's own proximity note; no BLOOM aside, no
+  reference to his own studies). Cold open: Donald McLaren's own 1957-62
+  East Africa (kwashiorkor) to 1962 Beirut (marasmus) career pivot as the
+  worked case that seeded his doubt. Cicely Williams's careful 1933/1935
+  hedge (some amino acid or protein deficiency cannot be excluded) hardened
+  by Trowell's serum-albumin finding and Brock and Autret's 1952 WHO
+  monograph into the syllogism that built the Protein Advisory Group
+  (1955) and a decade of protein-rich food mixtures (Incaparina, fish
+  protein concentrate, single-cell protein, Quorn's 1964-85 mistimed
+  development, Vitasoy's ironic Hong Kong success). McLaren's own 1966
+  Hamburg dissent and its institutional suppression (seminar conclusions
+  struck from the report); Autret's own 1969 restatement of the maximal
+  claim five years before the collapse. The 1974 Lancet paper itself read
+  in full primary form this session (a PDF fetch succeeded, unlike most of
+  this series' named anchors): Cicely Williams's own quote ("for the last
+  20 years I've been trying to debunk kwashiorkor"), the ten-million-ton/
+  hundred-billion-dollar "gap" closed by revising the requirement down
+  rather than growing more food. Waterlow and Payne's 1975 Nature
+  confirmation and Sukhatme's independent Indian analysis as the
+  convergence that made the correction stick. Institutional unwind: the
+  1974 World Food Conference sidelining the PAG, its 1977 wind-down, the
+  1985 FAO/WHO/UNU revision. Case against any tidy resolution: kwashiorkor's
+  actual mechanism is still unsettled fifty years on (Golden and Ramdath's
+  free-radical hypothesis undercut by a Malawi antioxidant trial that made
+  outcomes worse; Hendrickse's aflatoxin hypothesis undercut by reverse
+  causality; the 2013 Malawi twin/gut-microbiome study), and kwashiorkor
+  research itself collapsed into an "orphan disease" (Briend 2014) once the
+  tidy protein story fell, even as the disease keeps killing children by
+  the hundreds of thousands a year. Explicit mirror-image framing against
+  049/050 (refusing a true diagnosis vs. embracing a false one). Sign-off
+  points to item 6, Diet-heart (Keys vs. Yudkin), already promised by 051's
+  own close.
 - [ ] 6. Diet-heart, a duel: Keys versus Yudkin. Seven Countries Study,
   Pure, White and Deadly (1972), the recovered Minnesota Coronary
   Experiment data (Ramsden et al., BMJ 2016), the Sugar Research Foundation
