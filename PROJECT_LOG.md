@@ -1380,3 +1380,98 @@ template step, not logged as a pipeline event. One push for the episode
 and queue update; the Build site Action's commit appeared within about
 thirty seconds, and `site/feed.xml` on `origin/main` carries 051's title
 before this log entry.
+
+## [2026-09-28] — Routine: Episode 052, The Great Protein Fiasco
+
+**Decisions:** Wrote item 5 unattended under the item's own 8 Sep 26
+proximity fallback (queue.md: "if he has not [steered it] by the time
+they come up, write them from the published record only and make no
+reference to his studies"); no steering had occurred, so the episode
+proceeds on that pre-authorized basis. No BLOOM aside; unlike 051, this
+episode makes no reference to RUTF, SAM treatment protocols, or any
+research territory adjacent to the listener's own work, per the proximity
+rule's explicit instruction, even though several of the historical
+sources used (the 2013 Malawi twin-microbiome study, a Malawi antioxidant
+trial) sit in that same geography. Cold open built around Donald
+McLaren's own career pivot (kwashiorkor-dominant Tanzania 1957-62 to
+marasmus-dominant Beirut 1962) as the worked case seeding his doubt,
+rather than opening on the UN bureaucracy directly. Explicit mirror-image
+framing against 049 and 050: those two episodes were institutions
+refusing a *correct* diagnosis; this one is institutions eagerly
+embracing an *incorrect* one, for the opposite reason (it cost them
+nothing and opened funding). Closed not on a tidy correction but on the
+still-unresolved question the protein theory had been a wrong answer to
+in the first place (why kwashiorkor's oedema versus marasmus's wasting on
+similar diets), and on the further irony that kwashiorkor research
+itself collapsed into what a 2014 reviewer called an "orphan disease"
+once the tidy story fell, even as the disease kept killing children by
+the hundreds of thousands a year.
+
+**Verification:** Donald McLaren's actual 1974 Lancet article ("The Great
+Protein Fiasco") was fetched as a PDF and read in full primary form this
+session via the Read tool's native PDF support, a break from this
+series' usual pattern of AFK-flagged secondary-only sourcing for its
+named anchor. Every figure and quote drawn from it (Cicely Williams's
+"for the last 20 years I've been trying to debunk kwashiorkor," Marcel
+Autret's 1969 restatement, the ten-million-ton/hundred-billion-dollar
+closed "gap," the McLaren/Scrimshaw exchange, the Incaparina and Vitasoy
+economics, the 1966 Hamburg suppression account) is quoted or paraphrased
+directly from that primary text, not reconstructed from secondary
+summaries. A second primary source, André Briend's 2014 CMAM Forum
+technical brief "Kwashiorkor: still an enigma," was also fetched as a PDF
+and read in full; it supplied the free-radical hypothesis (Golden and
+Ramdath 1985/87), the Malawi antioxidant-trial null/adverse result, the
+aflatoxin hypothesis and its reverse-causality rebuttal, the
+dysadaptation/insulin-cortisol hypothesis, the 2013 Malawi twin-microbiome
+study (Smith et al., Science), the requirement-table wobble through 2007,
+and the publication-count "orphan disease" finding, all cited directly
+from Briend's own text and reference list rather than search summaries.
+Waterlow and Payne's 1975 Nature paper and Sukhatme's 1970 Nutrition
+Reviews paper were not reachable in primary form this session (Nature
+redirected to an authentication wall); their content rests on convergent
+secondary sourcing (search-engine summaries, the Karger "Rise and Fall of
+Protein Malnutrition" review, a JHU preprint history of the protein gap)
+corroborating each other and consistent with how McLaren's own paper
+cites them. Cicely Williams's biography (Oxford, Colonial Medical
+Service, 1929 Gold Coast posting, wartime Japanese POW years, 1933/1935
+papers) and the institutional history (PAG founding 1955, World Food
+Conference November 1974, PAG wind-down by 1977, FAO/WHO/UNU 1985
+revision) were each checked against at least one independent source this
+session, not asserted from training knowledge alone.
+
+**Traps & dead ends:** Direct WebFetch of both the Lancet and Nature
+articles' own hosting pages failed (403 and an authentication redirect
+respectively); a raw curl-and-download of a PDF mirror of McLaren's paper
+succeeded where the WebFetch tool did not, and the Read tool's native PDF
+rendering extracted the full four-page article cleanly, including its
+reference list, a path worth trying first on future episodes before
+accepting a secondary-only read. The Waterlow/Payne Nature paper had no
+equivalent open mirror found this session.
+
+**Open questions:** (AFK) Waterlow and Payne's 1975 Nature paper itself
+was not read in primary form this session; its content rests on
+convergent secondary corroboration, the same caveat on record for most of
+this series' non-McLaren sources. Sukhatme's 1970 Nutrition Reviews paper
+was likewise not read in primary form. (HITL) Whether opening on
+McLaren's own biographical pivot, rather than on the UN apparatus
+directly, delays the institutional thesis too long before the listener
+has a name for what is wrong with it; worth a listen to judge against the
+charter's own delayed-thesis preference. (HITL) Item 5's proximity rule
+required omitting any BLOOM aside or reference to the listener's own
+research territory even though several of the strongest available
+sources (the Malawi twin study, the Malawi antioxidant trial) come from
+exactly that geography; worth Kevin's judgment on whether the episode
+drew that line correctly or overcorrected into avoidance.
+
+**Artifacts:** episodes/052-great-protein-fiasco-kwashiorkor.md (5,017
+words, lint clean); queue.md (nutrition science item 5 checked off with
+full summary; order-of-record block updated to point to item 6,
+diet-heart, Keys vs. Yudkin, already promised by 051's own sign-off).
+
+**Context:** Unattended Routine run, 28 September 2026. Pre-flight found
+local `main` behind `origin/main` by nine commits, fixed cleanly with
+`git checkout main && git merge --ff-only origin/main` per the standing
+template step, not logged as a pipeline event. One push for the episode
+and queue update; the Build site Action's commit appeared within about
+ninety seconds, and `site/feed.xml` on `origin/main` carries 052's title
+and full text, verified before this log entry.

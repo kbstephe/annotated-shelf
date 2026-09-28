@@ -1,6 +1,47 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (25 Sep 2026, Routine)
+## Snapshot (28 Sep 2026, Routine)
+
+Fifty-three episodes (000 test + 001–052). Nutrition science item 5 done
+as 052, The Great Protein Fiasco: the disease Cicely Williams named in
+1935, and the twenty-year industry the world's nutrition agencies built
+on a diagnosis she never believed. Written unattended under item 5's own
+8 Sep 26 proximity fallback (Kevin had not steered it, so published
+record only, no BLOOM aside, no reference to his own studies). Cold open
+on Donald McLaren's own 1957-62 Tanzania-to-Beirut career pivot
+(kwashiorkor to marasmus) as the worked case seeding his doubt; Cicely
+Williams's careful 1935 hedge hardened by Trowell's serum-albumin finding
+and Brock and Autret's 1952 WHO monograph into the Protein Advisory Group
+(1955) and a decade of protein-rich food mixtures (Incaparina, fish
+protein concentrate, single-cell protein, Quorn's mistimed 1964-85
+development, Vitasoy). McLaren's 1974 Lancet paper read in full primary
+form this session (via PDF), including Cicely Williams's own quote ("for
+the last 20 years I've been trying to debunk kwashiorkor") and the
+ten-million-ton/hundred-billion-dollar "gap" closed by redefinition, not
+production. Waterlow and Payne's 1975 Nature confirmation, the 1974 World
+Food Conference sidelining the PAG, its 1977 wind-down. Case against any
+tidy resolution: kwashiorkor's mechanism remains genuinely unsettled
+fifty years on (Golden's free-radical hypothesis undercut by a Malawi
+trial, Hendrickse's aflatoxin hypothesis undercut by reverse causality,
+the 2013 Malawi twin-microbiome study), and kwashiorkor research itself
+collapsed into an "orphan disease" once the tidy story fell. Explicit
+mirror-image framing against 049/050 (refusing a true diagnosis vs.
+embracing a false one). `scripts/lint_script.py` still reads 0 repeats,
+0 tics on every episode 012–052; 001–011 stay pre-lint.
+**Next step:** 052's sign-off (and 051's own close before it) promises
+nutrition science item 6, diet-heart, a duel between Keys and Yudkin.
+
+Open (HITL): whether opening 052 on McLaren's own biography rather than
+the UN bureaucracy directly delays the institutional thesis too long.
+Open (HITL): whether 052 drew the proximity-rule line correctly given
+that some of its best sources (a Malawi twin study, a Malawi antioxidant
+trial) sit in the same research geography as the listener's own work,
+even though the episode itself makes no such connection. Open (AFK):
+Waterlow and Payne's 1975 Nature paper was not read in primary form this
+session (redirected to an authentication wall); its content rests on
+convergent secondary sourcing.
+
+## Previous snapshot (25 Sep 2026, Routine)
 
 Fifty-two episodes (000 test + 001–051). Nutrition science item 4 done as
 051, The Minnesota Starvation Experiment: the hunger thirty-six men chose
@@ -32,11 +73,7 @@ thesis, reads as honest nuance or as undercutting the sign-off's own
 promised setup right at the episode's start. Open (AFK): neither Tucker's
 "The Great Starvation Experiment" nor Keys et al.'s "The Biology of Human
 Starvation," this item's two named anchors, was read in primary form this
-session; the episode rests on convergent secondary sourcing instead. Note
-for whoever writes item 5: queue.md's own text flags the great protein
-fiasco as closest to Kevin's actual work, so per the 8 Sep 26 proximity
-rule (nutrition items 5 and 8 use the published record only unless Kevin
-steers them) this is not a routine unattended pick without his input.
+session; the episode rests on convergent secondary sourcing instead.
 
 ## Previous snapshot (24 Sep 2026, Routine)
 
@@ -646,11 +683,23 @@ worth a standing fix rather than a per-session workaround.
   primary read. The Bhatt/Lederman/Voo 2021 bioethics critique was read
   only via its abstract and secondary summaries, the full text being
   paywalled.
-- (HITL) Item 5, the great protein fiasco, is flagged in queue.md's own
-  text as closest to Kevin's actual research; per the 8 Sep 26 proximity
-  rule (nutrition items 5 and 8 use the published record only unless Kevin
-  steers them), whoever writes it next should not treat it as a routine
-  unattended pick without checking for his input first.
+- (AFK) Waterlow and Payne's 1975 Nature paper "The Protein Gap" and
+  Sukhatme's 1970 Nutrition Reviews paper, both cited heavily in 052, were
+  not read in primary form this session (Nature's own page redirected to
+  an authentication wall); their content rests on convergent secondary
+  sourcing consistent with how McLaren's own primary-read 1974 paper cites
+  them. (HITL) 052 opens on Donald McLaren's own biographical pivot
+  (kwashiorkor-dominant Tanzania to marasmus-dominant Beirut) rather than
+  the UN bureaucracy directly, delaying the institutional thesis; worth a
+  listen to judge against the charter's delayed-thesis preference. (HITL)
+  052 was written unattended under item 5's own 8 Sep 26 proximity
+  fallback (no steering had occurred, so the episode used the published
+  record only, with no BLOOM aside and no reference to the listener's own
+  studies) even though several of its strongest sources (a 2013 Malawi
+  twin-microbiome study, a Malawi antioxidant trial) sit in that same
+  research geography; worth Kevin's judgment on whether that line was
+  drawn correctly. Item 8 (growth standards) carries the same proximity
+  rule and will need the same judgment call when it comes up.
 
 ## Out of scope
 
