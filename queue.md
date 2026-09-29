@@ -24,8 +24,9 @@
    done as 049, 23 Sep 26; item 3 (pellagra) done as 050, 24 Sep 26; item 4
    (the Minnesota Starvation Experiment) done as 051, 25 Sep 26; item 5 (the
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
-   the published record only per the item's own proximity note); sign-off
-   points to item 6 (diet-heart, Keys vs. Yudkin). If a
+   the published record only per the item's own proximity note); item 6
+   (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
+   sign-off points to item 7 (Barker and fetal origins). If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1029,11 +1030,22 @@ episode's grounding is ready first.
   049/050 (refusing a true diagnosis vs. embracing a false one). Sign-off
   points to item 6, Diet-heart (Keys vs. Yudkin), already promised by 051's
   own close.
-- [ ] 6. Diet-heart, a duel: Keys versus Yudkin. Seven Countries Study,
+- [x] 6. Diet-heart, a duel: Keys versus Yudkin. Seven Countries Study,
   Pure, White and Deadly (1972), the recovered Minnesota Coronary
   Experiment data (Ramsden et al., BMJ 2016), the Sugar Research Foundation
   papers (Kearns et al., JAMA Intern Med 2016). Case against runs both
-  ways: against Keys and against Taubes.
+  ways: against Keys and against Taubes. DONE as episode 053, 29 Sep 26
+  (unattended, published record only, no BLOOM aside). Cold open on the
+  Frantz basement boxes; Keys from Naples 1952 through the 1953 six-country
+  paper, Yerushalmy and Hilleboe's 1957 twenty-two-country rebuttal, and
+  Seven Countries as his answer; Yudkin's 1957 Lancet paper to the 1974
+  COMA reservation; Kromhout 2018 showing sucrose correlates with CHD
+  death across Keys's own cohorts as strongly as saturated fat (the tables
+  could not separate them); Kearns 2016 read carefully (process failure,
+  not proof the fat conclusion was false; Yudkin's own dairy/egg/oil
+  funding via Guyenet); Sydney and Minnesota recovered trials plus
+  Cochrane 2020, with the reverse-causality steelman; no sugar trial ever
+  run; Taubes case against both sides. Sign-off points to item 7.
 - [ ] 7. Barker and fetal origins. Hertfordshire cohorts (Barker, Lancet
   1989), the thrifty phenotype (Hales and Barker 1992), DOHaD as a field,
   and the critics who report effect sizes shrinking as study quality rose.
