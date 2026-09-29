@@ -1,6 +1,25 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (28 Sep 2026, Routine)
+## Snapshot (29 Sep 2026, Routine)
+
+Fifty-four episodes (000 test + 001-053). Nutrition science item 6 done as
+053, Diet-Heart: Ancel Keys versus John Yudkin. Cold open on the Frantz
+basement boxes (Minnesota Coronary Experiment); Keys's six-country paper,
+Yerushalmy and Hilleboe's rebuttal and Seven Countries as his answer;
+Yudkin's sugar case and its reception; Kromhout 2018 showing sucrose
+tracks CHD death across Keys's own cohorts as tightly as saturated fat, so
+the tables could not separate them; Kearns 2016 read as a process failure,
+not proof the fat conclusion was wrong; the recovered Sydney and Minnesota
+trials with the reverse-causality steelman; no sugar trial ever run;
+Taubes weighed against both sides. Published record only, no BLOOM aside.
+Lint reads 0 repeats, 0 tics. **Next step:** 053's sign-off promises
+nutrition science item 7, Barker and fetal origins.
+
+Open (AFK): Ramsden 2016 and Kearns 2016 were read only through secondary
+sourcing (PMC pages blocked); a PDF fetch could confirm the numbers.
+Open (HITL): whether 053's compressed Yudkin biography reads as detour.
+
+## Previous snapshot (28 Sep 2026, Routine)
 
 Fifty-three episodes (000 test + 001–052). Nutrition science item 5 done
 as 052, The Great Protein Fiasco: the disease Cicely Williams named in
