@@ -1,6 +1,20 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (29 Sep 2026, Routine)
+## Snapshot (30 Sep 2026, Routine)
+
+Fifty-five episodes (000 test + 001-054). Nutrition science item 7 done as
+054, Barker and the Fetal Origins of Adult Disease. Cold open on the
+Hertfordshire baby ledgers; the 1986 maps, 1989 and 1993 cohorts, thrifty
+phenotype, Dutch Hunger Winter, Huxley 2002 shrinking effect sizes, fetal
+insulin hypothesis and Horikoshi 2016 genetics, Gambia season of birth,
+Victora 2008. Published record only, no BLOOM aside. Lint reads 0 repeats,
+0 tics. **Next step:** 054's sign-off promises item 8, growth standards.
+
+Open (AFK): 054's figures rest on search summaries; Huxley 2002 and the 1989
+Lancet paper could be read in primary form.
+Open (HITL): whether 054's genetics chapter is too dense for a walking listen.
+
+## Previous snapshot (29 Sep 2026, Routine)
 
 Fifty-four episodes (000 test + 001-053). Nutrition science item 6 done as
 053, Diet-Heart: Ancel Keys versus John Yudkin. Cold open on the Frantz
