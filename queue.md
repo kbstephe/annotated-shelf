@@ -26,7 +26,7 @@
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   sign-off points to item 7 (Barker and fetal origins). If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); sign-off points to item 8 (growth standards). If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1046,7 +1046,8 @@ episode's grounding is ready first.
   funding via Guyenet); Sydney and Minnesota recovered trials plus
   Cochrane 2020, with the reverse-causality steelman; no sugar trial ever
   run; Taubes case against both sides. Sign-off points to item 7.
-- [ ] 7. Barker and fetal origins. Hertfordshire cohorts (Barker, Lancet
+- [x] 7. Barker and fetal origins. DONE as episode 054, 30 Sep 26 (unattended, published record only, no BLOOM aside; COGENT read-across left out under the proximity rule). Hertfordshire ledgers and Burnside; Barker-Osmond 1986 maps; 1989 and 1993 (Sheffield) cohorts; Hales-Barker thrifty phenotype; Hunger Winter (Ravelli 1976, Roseboom 2000, six cases); Huxley 2002 shrinking effect sizes and the adjust-for-current-weight trap; Hattersley-Tooke fetal insulin hypothesis and Horikoshi 2016 genetics; Gambia season of birth; Victora 2008 COHORTS. Sign-off points to item 8, growth standards.
+  Original scope note: Hertfordshire cohorts (Barker, Lancet
   1989), the thrifty phenotype (Hales and Barker 1992), DOHaD as a field,
   and the critics who report effect sizes shrinking as study quality rose.
   Read-across: COGENT.
