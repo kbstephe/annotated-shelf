@@ -1,6 +1,24 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (30 Sep 2026, Routine)
+## Snapshot (1 Oct 2026, Routine)
+
+Fifty-six episodes (000 test + 001-055). Nutrition science item 8 done as
+055, Growth Standards: who is the reference child. Gomez 1956 percent-of-
+Boston-median grades; Waterlow's stunting/wasting split and z-scores; the
+NCHS reference built on Fels formula-fed data; reference versus standard;
+WHO MGRS 2006 and its shifts; the 2009 SAM statement; Sachdev and Natale-
+Rajagopalan against one curve, Borghi for it. Published record only, no
+BLOOM aside. Lint reads 0 repeats, 0 tics. **Next step:** 055's sign-off
+promises item 9, the Ioannidis versus Hu/Willett duel on nutritional
+epidemiology (closes the series).
+
+Open (AFK): 055's figures rest on search summaries; Gomez 1956 mortality
+numbers, Habicht 1974 and Waterlow 1972/1977 were not read in primary form,
+and the Sachdev/Natale numbers come through a 2024 debate page.
+Open (HITL): whether 055's two chapters on the six-site critique read as too
+dense for a walking listen.
+
+## Previous snapshot (30 Sep 2026, Routine)
 
 Fifty-five episodes (000 test + 001-054). Nutrition science item 7 done as
 054, Barker and the Fetal Origins of Adult Disease. Cold open on the
