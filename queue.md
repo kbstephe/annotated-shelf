@@ -26,7 +26,7 @@
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); sign-off points to item 8 (growth standards). If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); sign-off points to item 9 (the closer duel). If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1051,7 +1051,8 @@ episode's grounding is ready first.
   1989), the thrifty phenotype (Hales and Barker 1992), DOHaD as a field,
   and the critics who report effect sizes shrinking as study quality rose.
   Read-across: COGENT.
-- [ ] 8. Growth standards: who is the reference child? Gomez (1956), the
+- [x] 8. DONE as episode 055, 1 Oct 26 (unattended, published record only, no BLOOM aside, no reference to Kevin's own work). Gomez 1956 percent-of-Boston-median grades; Waterlow 1972 stunting/wasting split and 1977 z-scores; NCHS 1977 reference built on Fels (Yellow Springs, formula-fed) data, the 24-month lying/standing seam; Habicht 1974; the reference-versus-standard distinction; WHO MGRS 1997-2003, six sites, 8,440 children, 3% between-site share; 2006 shifts in stunting and wasting; 2009 WHO-UNICEF SAM statement (WHZ below -3 or MUAC under 115 mm); Sachdev and Natale-Rajagopalan against one curve, Borghi for it; INTERGROWTH-21st briefly. Sign-off points to item 9, the closer duel.
+  Original scope: Growth standards: who is the reference child? Gomez (1956), the
   NCHS 1977 reference, the WHO Multicentre Growth Reference Study (2006),
   and the argument over whether one standard fits every population. Kevin's
   own z-score perspective piece is the natural aside; see note above.
