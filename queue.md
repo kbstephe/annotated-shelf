@@ -26,7 +26,7 @@
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); sign-off points to item 9 (the closer duel). If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; sign-off points to science as an institution, item 1 (Bush, Endless Frontier). If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1056,7 +1056,8 @@ episode's grounding is ready first.
   NCHS 1977 reference, the WHO Multicentre Growth Reference Study (2006),
   and the argument over whether one standard fits every population. Kevin's
   own z-score perspective piece is the natural aside; see note above.
-- [ ] 9. Closer, a duel: can nutritional epidemiology be trusted? Ioannidis,
+- [x] 9. DONE as episode 056, 2 Oct 26 (unattended, published record only, no BLOOM aside). Ioannidis's 2018 JAMA essay read in full (hazelnut and egg arithmetic, beta carotene RR 0.69, genome-linkage analogy, reforms) with the 2013 cookbook study; Satija, Yu, Willett and Hu 2015 as the defence brief, plus Willett's and Hu's press replies; trans fat and folate as wins, beta carotene as the failure; PREDIMED retraction, WHI Dietary Modification Trial, Hall 2019 inpatient feeding trial; split verdict. Sign-off points to science as an institution, item 1 (Bush). Original item text:
+  Ioannidis,
   "The Challenge of Reforming Nutritional Epidemiologic Research" (JAMA
   2018) against the Hu/Willett replies; what randomised feeding trials can
   and cannot fix.
