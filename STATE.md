@@ -1,6 +1,22 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (1 Oct 2026, Routine)
+## Snapshot (2 Oct 2026, Routine)
+
+Fifty-seven episodes (000 test + 001-056). Nutrition science item 9 done as
+056, Can Nutritional Epidemiology Be Trusted?, closing the series (048-056).
+Ioannidis's 2018 JAMA essay read in full against the 2015 Satija/Willett/Hu
+defence; trans fat and folate as wins, beta carotene as the failure; PREDIMED,
+WHI and Hall 2019 on what trials settle. Split verdict. Published record only,
+no BLOOM aside. Lint reads 0 repeats, 0 tics. **Next step:** 056's sign-off
+promises science as an institution, item 1, Bush's Science, the Endless
+Frontier.
+
+Open (AFK): 056's quotes of Willett and Hu are paraphrases from press
+summaries; beta carotene trial and WHI hazard figures rest on training
+knowledge.
+Open (HITL): whether 056's trial chapters are too dense for a walking listen.
+
+## Previous snapshot (1 Oct 2026, Routine)
 
 Fifty-six episodes (000 test + 001-055). Nutrition science item 8 done as
 055, Growth Standards: who is the reference child. Gomez 1956 percent-of-
