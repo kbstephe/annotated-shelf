@@ -26,7 +26,7 @@
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; sign-off points to science as an institution, item 1 (Bush, Endless Frontier). If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one. If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1074,7 +1074,7 @@ here beyond pointers. Kuhn gets three parts at Kevin's instruction ("split
 Kuhn into a few episodes at least"). Practical half first: the payoff for a
 researcher writing grants and sitting on panels.
 
-- [ ] 1. Bush, Science, The Endless Frontier (1945). The report that built
+- [x] 1. DONE as episode 057, 5 Oct 26 (unattended, no BLOOM aside). Report read in full from the NSF 75th-anniversary reprint: Roosevelt's four questions, the 1930-40 spending table, penicillin as the report's own example of both halves of its model, the Five Fundamentals and the Foundation's design, Truman's 1947 veto and the 1950 act; Godin, Edgerton and Pielke on the linear-model attribution, Kealey and Nelson, Stokes, Comroe and Dripps; split verdict by claim (market, sequence, governance). Sign-off points to item 2, Kuhn part one. Original item text: Bush, Science, The Endless Frontier (1945). The report that built
   the NSF/NIH model: basic research as the "pacemaker of technological
   progress", the linear model, and what the report said versus what it is
   cited for. Case against: Kealey (The Economic Laws of Scientific Research,
