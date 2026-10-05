@@ -1,6 +1,24 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (2 Oct 2026, Routine)
+## Snapshot (5 Oct 2026, Routine)
+
+Fifty-eight episodes (000 test + 001-057). Science as an institution item 1
+done as 057, Science, the Endless Frontier (Bush). Report read in full from
+the NSF 75th-anniversary reprint; penicillin as the report's own example of
+both halves of its model; Five Fundamentals and the Foundation design against
+Truman's 1947 veto; Godin, Edgerton, Pielke, Kealey/Nelson, Stokes, Comroe
+and Dripps as reception. Split verdict by claim (market, sequence,
+governance). Published record only, no BLOOM aside. Lint reads 0 repeats,
+0 tics. **Next step:** 057's sign-off promises item 2, Kuhn, The Structure of
+Scientific Revolutions, part one (normal science).
+
+Open (AFK): 057's reception (Godin, Edgerton, Pielke, Kevles, Kealey,
+Comroe and Dripps) rests on abstracts and search summaries, not the papers;
+the post-1945 ONR/NIH/AEC paragraph and penicillin scale-up are from training
+knowledge. Open (HITL): whether 057's design-and-veto chapters are too dense
+for a walking listen.
+
+## Previous snapshot (2 Oct 2026, Routine)
 
 Fifty-seven episodes (000 test + 001-056). Nutrition science item 9 done as
 056, Can Nutritional Epidemiology Be Trusted?, closing the series (048-056).
