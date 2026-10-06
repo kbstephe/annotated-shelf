@@ -1,6 +1,27 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (5 Oct 2026, Routine)
+## Snapshot (6 Oct 2026, Routine)
+
+Fifty-nine episodes (000 test + 001-058). Science as an institution item 2
+done as 058, The Structure of Scientific Revolutions part one (Kuhn). Chapters
+I to V, XI and the 1969 Postscript read in full from a text copy; Popper's
+1965 essay and Kuhn's reply read from the 1970 volume. Electricity before and
+after Franklin, the three classes of normal science, the puzzle criterion,
+exemplars over rules, textbook rewriting, Popper's badly-taught charge; the
+study-section half uses the NIH simplified review framework (January 2025) and
+Nicholson/Ioannidis against Salzberg. Published record only, no BLOOM aside.
+Lint reads 0 repeats, 0 tics; 7,235 words, over the 6,500 ceiling.
+**Next step:** 058's sign-off promises item 3, Kuhn part two (anomaly, crisis,
+revolution; oxygen and X-rays).
+
+Open (AFK): the Essential Tension (1959) rests on secondary summaries; the
+Clairaut attribution for the 1750 lunar-motion solution, Salzberg's first name
+and the Nicholson/Ioannidis and Salzberg figures are from search or secondary
+pages; Kuhn's Aristotle epiphany is from recollection and biography.
+Open (HITL): whether 058 is too long and whether the Popper and study-section
+chapters are too dense for a walking listen.
+
+## Previous snapshot (5 Oct 2026, Routine)
 
 Fifty-eight episodes (000 test + 001-057). Science as an institution item 1
 done as 057, Science, the Endless Frontier (Bush). Report read in full from
