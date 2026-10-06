@@ -26,7 +26,7 @@
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one. If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); sign-off points to item 3, Kuhn part two. If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1081,7 +1081,7 @@ researcher writing grants and sitting on panels.
   1996) on crowding out; historians (Godin 2006) who argue the linear model
   was never Bush's. Pieces of the Action (Collison shelf ep. 3) is the
   companion, pointer only.
-- [ ] 2. Kuhn, The Structure of Scientific Revolutions (1962), part one:
+- [x] 2. DONE as episode 058, 6 Oct 26 (unattended, no BLOOM aside). Chapters I to V, XI and the 1969 Postscript read in full from a text copy: electricity before and after Franklin, the three classes of normal science, puzzle criterion, rules versus exemplars (Galileo-Huygens-Bernoulli chain), textbook rewriting; Popper's 1965 essay and Kuhn's reply read from the 1970 volume; Masterman; NIH simplified review framework and Nicholson/Ioannidis versus Salzberg for the study-section half. Sign-off points to item 3, Kuhn part two. Original item text: Kuhn, The Structure of Scientific Revolutions (1962), part one:
   normal science. Paradigms, puzzle-solving, why textbooks rewrite history,
   and the "essential tension" between tradition and innovation (Kuhn 1959).
   Practical half: what normal science means for a study section that only
