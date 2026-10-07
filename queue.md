@@ -26,7 +26,7 @@
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); sign-off points to item 3, Kuhn part two. If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); sign-off points to item 4, Kuhn part three. If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1086,7 +1086,7 @@ researcher writing grants and sitting on panels.
   and the "essential tension" between tradition and innovation (Kuhn 1959).
   Practical half: what normal science means for a study section that only
   funds the paradigm.
-- [ ] 3. Kuhn, part two: anomaly, crisis, revolution. Discovery of oxygen
+- [x] 3. DONE as episode 059, 7 Oct 26 (unattended, no BLOOM aside). Chapters VI to X, XII read in full from a text copy: oxygen as process, X-rays, Bruner-Postman cards, Uranus, Hahn-Strassmann, Copernicus/Lavoisier crises, anomaly vs counterinstance (Clairaut), Dalton/Proust-Berthollet, what persuades, Planck/Darwin; Helicobacter case built from Marshall's 2005 Nobel lecture (with Hull 1978 and Azoulay 2019 as secondary-summary tests of the funeral clause). Sign-off points to item 4, Kuhn part three. Original item text: Kuhn, part two: anomaly, crisis, revolution. Discovery of oxygen
   and X-rays as worked cases, Gestalt switch, incommensurability, and why
   Kuhn said scientists do not convert but die off (Planck's remark, the
   bridge to ep. 6). Worked case from medicine: Helicobacter and ulcers
