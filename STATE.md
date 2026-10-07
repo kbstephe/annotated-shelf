@@ -1,6 +1,26 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (6 Oct 2026, Routine)
+## Snapshot (7 Oct 2026, Routine)
+
+Sixty episodes (000 test + 001-059). Science as an institution item 3 done as
+059, The Structure of Scientific Revolutions part two (Kuhn). Chapters VI to X
+and XII read in full from a text copy; oxygen and X-rays as worked cases, the
+card experiment, Uranus, crisis in astronomy and chemistry, anomaly versus
+counterinstance, Dalton and Proust-Berthollet, what persuades, Planck and Darwin.
+Helicobacter built from Marshall's 2005 Nobel lecture and scored against Kuhn by
+claim. Published record only, no BLOOM aside. Lint reads 0 repeats, 0 tics;
+6,514 words including frontmatter.
+**Next step:** 059's sign-off promises item 4, Kuhn part three (reception:
+Lakatos, Feyerabend, Kuhn's later retreat; Popper's essay was already covered in 058).
+
+Open (AFK): Hull 1978 and Azoulay 2019 are from search summaries; the February
+1994 NIH date and Marshall's table are not checked against primary papers;
+058's open items (Essential Tension, Clairaut attribution, Salzberg figures) stand,
+the Clairaut attribution now confirmed by Kuhn's own text.
+Open (HITL): whether the Helicobacter case is too large a share of a Kuhn episode;
+whether 058 and 059 are dense for a walking listen.
+
+## Previous snapshot (6 Oct 2026, Routine)
 
 Fifty-nine episodes (000 test + 001-058). Science as an institution item 2
 done as 058, The Structure of Scientific Revolutions part one (Kuhn). Chapters
