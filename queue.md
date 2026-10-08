@@ -1092,7 +1092,7 @@ researcher writing grants and sitting on panels.
   bridge to ep. 6). Worked case from medicine: Helicobacter and ulcers
   (Marshall and Warren), or the diet-heart material from the nutrition
   series, pointer only.
-- [ ] 4. Kuhn, part three: the reception. Popper's "myth of the framework",
+- [x] 4. DONE as episode 060, 8 Oct 26 (unattended, no BLOOM aside). The 1970 Criticism and the Growth of Knowledge volume read in full text (Lakatos's essay incl. the imaginary-planet story, Prout and Bohr; Feyerabend's Consolations; Kuhn's Reflections on my Critics, values-not-rules and the risk-spreading argument); The Road Since Structure for the 1992 Harvard lecture (strong programme, local incommensurability); Neptune/Vulcan/Mercury as the test case; Feyerabend's later book via the Stanford Encyclopedia only. The attributed line "I am not a Kuhnian" was not found in the text and is not used as a quote. Sign-off points to item 5, Polanyi. Original item text: Kuhn, part three: the reception. Popper's "myth of the framework",
   Lakatos's research programmes as the compromise, Feyerabend, the 1969
   Postscript, the 1965 London colloquium (Criticism and the Growth of
   Knowledge, 1970), and Kuhn's later disowning of the relativist reading
