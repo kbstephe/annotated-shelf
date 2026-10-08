@@ -1,24 +1,19 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (7 Oct 2026, Routine)
+## Snapshot (8 Oct 2026, Routine)
 
-Sixty episodes (000 test + 001-059). Science as an institution item 3 done as
-059, The Structure of Scientific Revolutions part two (Kuhn). Chapters VI to X
-and XII read in full from a text copy; oxygen and X-rays as worked cases, the
-card experiment, Uranus, crisis in astronomy and chemistry, anomaly versus
-counterinstance, Dalton and Proust-Berthollet, what persuades, Planck and Darwin.
-Helicobacter built from Marshall's 2005 Nobel lecture and scored against Kuhn by
-claim. Published record only, no BLOOM aside. Lint reads 0 repeats, 0 tics;
-6,514 words including frontmatter.
-**Next step:** 059's sign-off promises item 4, Kuhn part three (reception:
-Lakatos, Feyerabend, Kuhn's later retreat; Popper's essay was already covered in 058).
+Sixty-one episodes (000 test + 001-060). Science as an institution item 4 done as
+060, The Structure of Scientific Revolutions part three (Kuhn): Lakatos's mob-psychology
+charge and research-programme test, Feyerabend on tenacity and proliferation, Kuhn's 1970
+reply (values not rules, risk spreading), his 1992 break with the strong programme; Neptune
+and Vulcan as the worked pair. 1970 volume and The Road Since Structure read in full text.
+Lint 0 repeats, 0 tics; about 5,850 words. Published record only, no BLOOM aside.
+**Next step:** 060's sign-off promises item 5, Polanyi, "The Republic of Science" (1962).
 
-Open (AFK): Hull 1978 and Azoulay 2019 are from search summaries; the February
-1994 NIH date and Marshall's table are not checked against primary papers;
-058's open items (Essential Tension, Clairaut attribution, Salzberg figures) stand,
-the Clairaut attribution now confirmed by Kuhn's own text.
-Open (HITL): whether the Helicobacter case is too large a share of a Kuhn episode;
-whether 058 and 059 are dense for a walking listen.
+Open (AFK): Against Method and Kuhn's 1977 essay not read in full; Galle's date and
+Lescarbault's biography from memory or summaries; "I am not a Kuhnian" not found in the
+Road Since Structure text. 059's open items (Hull 1978, Azoulay 2019) stand.
+Open (HITL): whether 058 to 060 are dense for a walking listen.
 
 ## Previous snapshot (6 Oct 2026, Routine)
 
