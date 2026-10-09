@@ -26,7 +26,7 @@
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); sign-off points to item 4, Kuhn part three. If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); sign-off points to item 6, Merton on priority and the Matthew effect. If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1097,7 +1097,7 @@ researcher writing grants and sitting on panels.
   Postscript, the 1965 London colloquium (Criticism and the Growth of
   Knowledge, 1970), and Kuhn's later disowning of the relativist reading
   ("I am not a Kuhnian"). Verdict: what survives for a working scientist.
-- [ ] 5. Polanyi, "The Republic of Science: Its Political and Economic
+- [x] 5. DONE as episode 061, 9 Oct 26 (unattended, no BLOOM aside). Essay read in full from a posted copy of the Minerva text (jigsaw, three merit standards, overlapping neighbourhoods, Rayleigh 1947, Royal Society 1945 'balanced development' episode, Manchester chairs, Brains Trust, authority and tradition); Bernal debate via Fehér's essay; Society for Freedom in Science, Begley/Ellis, Open Science Collaboration and Mirowski via search summaries only (flagged in the script). Sign-off points to item 6, Merton. Original item text: Polanyi, "The Republic of Science: Its Political and Economic
   Theory" (Minerva 1962). Science as a spontaneous order coordinated by
   mutual adjustment; the case against central planning of research (the
   Bernal debate). Case against Polanyi: it assumes the community polices
