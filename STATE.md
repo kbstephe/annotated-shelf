@@ -1,19 +1,19 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (8 Oct 2026, Routine)
+## Snapshot (9 Oct 2026, Routine)
 
-Sixty-one episodes (000 test + 001-060). Science as an institution item 4 done as
-060, The Structure of Scientific Revolutions part three (Kuhn): Lakatos's mob-psychology
-charge and research-programme test, Feyerabend on tenacity and proliferation, Kuhn's 1970
-reply (values not rules, risk spreading), his 1992 break with the strong programme; Neptune
-and Vulcan as the worked pair. 1970 volume and The Road Since Structure read in full text.
-Lint 0 repeats, 0 tics; about 5,850 words. Published record only, no BLOOM aside.
-**Next step:** 060's sign-off promises item 5, Polanyi, "The Republic of Science" (1962).
+Sixty-two episodes (000 test + 001-061). Science as an institution item 5 done as
+061, The Republic of Science (Polanyi): the jigsaw and mutual adjustment, the Bernal
+debate, the Royal Society's 1945 survey of neglected subjects and the Manchester chairs,
+then the case against (replication, the plausibility filter, follow-the-winners). Essay
+read in full; Society, Begley/Ellis, OSC and Mirowski from summaries only. Lint 0 repeats,
+0 tics; about 5,680 words. No BLOOM aside.
+**Next step:** 061's sign-off promises item 6, Merton on priority and the Matthew effect.
 
-Open (AFK): Against Method and Kuhn's 1977 essay not read in full; Galle's date and
-Lescarbault's biography from memory or summaries; "I am not a Kuhnian" not found in the
-Road Since Structure text. 059's open items (Hull 1978, Azoulay 2019) stand.
-Open (HITL): whether 058 to 060 are dense for a walking listen.
+Open (AFK): McGucken on the Society, Bernal's book, and the replication papers not read
+in primary form. 060's open items (Against Method, Kuhn 1977) and 059's (Hull 1978,
+Azoulay 2019) stand.
+Open (HITL): whether 058 to 061 are dense for a walking listen.
 
 ## Previous snapshot (6 Oct 2026, Routine)
 
