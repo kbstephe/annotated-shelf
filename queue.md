@@ -26,7 +26,7 @@
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); sign-off points to item 6, Merton on priority and the Matthew effect. If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); item 6 (Merton) done as 062, 12 Oct 26 (unattended); sign-off points to item 7, Azoulay et al. on star deaths. If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1103,7 +1103,7 @@ researcher writing grants and sitting on panels.
   Bernal debate). Case against Polanyi: it assumes the community polices
   itself, which the replication literature disputes. Short text; the worked
   case is where the episode lives.
-- [ ] 6. Merton's other papers: "Priorities in Scientific Discovery" (1957)
+- [x] 6. DONE as episode 062, 12 Oct 26 (unattended, no BLOOM aside). Merton 1957 read from a journal scan (disputes, norms, reward system, eponymy, Darwin and Wallace letters); 1968 paper not obtained, its definition and 41st-chair passage taken from quotations in the Azoulay-Stuart-Wang working paper (read) and Strevens 2006 (read in full); Cole and Cole via summaries; Bol, de Vaan and van de Rijt 2018 via abstract only. Sign-off points to item 7, Azoulay et al. on star deaths. Original item text: Merton's other papers: "Priorities in Scientific Discovery" (1957)
   and "The Matthew Effect in Science" (Science 1968). Credit accumulates to
   the credited; extends 035. Case against: Stephen Cole's tests, and the
   modern bibliometric work on cumulative advantage (Azoulay, Stuart and
