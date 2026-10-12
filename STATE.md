@@ -1,19 +1,18 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (9 Oct 2026, Routine)
+## Snapshot (12 Oct 2026, Routine)
 
-Sixty-two episodes (000 test + 001-061). Science as an institution item 5 done as
-061, The Republic of Science (Polanyi): the jigsaw and mutual adjustment, the Bernal
-debate, the Royal Society's 1945 survey of neglected subjects and the Manchester chairs,
-then the case against (replication, the plausibility filter, follow-the-winners). Essay
-read in full; Society, Begley/Ellis, OSC and Mirowski from summaries only. Lint 0 repeats,
-0 tics; about 5,680 words. No BLOOM aside.
-**Next step:** 061's sign-off promises item 6, Merton on priority and the Matthew effect.
+Sixty-three episodes (000 test + 001-062). Science as an institution item 6 done as
+062, Merton on priority (1957) and the Matthew effect (1968): Darwin's 1858 letters, the
+reward system, Strevens's defence, then Cole, the HHMI citation study and the Dutch
+early-career threshold study. The 1957 paper read from a scan; the 1968 paper never
+obtained (quoted via Azoulay et al. and Strevens, both read). Lint 0 repeats, 0 tics;
+6,563 words with frontmatter. No BLOOM aside.
+**Next step:** 062's sign-off promises item 7, Azoulay, Fons-Rosen and Graff Zivin on star deaths.
 
-Open (AFK): McGucken on the Society, Bernal's book, and the replication papers not read
-in primary form. 060's open items (Against Method, Kuhn 1977) and 059's (Hull 1978,
-Azoulay 2019) stand.
-Open (HITL): whether 058 to 061 are dense for a walking listen.
+Open (AFK): Merton 1968 itself, Bol et al. tables, Cole 1970. 061's open items (McGucken,
+Bernal, replication papers) and 060's and 059's stand.
+Open (HITL): whether 058 to 062 are dense for a walking listen.
 
 ## Previous snapshot (6 Oct 2026, Routine)
 
