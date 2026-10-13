@@ -1,6 +1,23 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (12 Oct 2026, Routine)
+## Snapshot (13 Oct 2026, Routine)
+
+Sixty-four episodes (000 test + 001-063). Science as an institution item 7 done as 063,
+Azoulay, Fons-Rosen and Graff Zivin on star deaths (AER 2019): Planck's sentence and
+its 1946/1949 wording, the Herskowitz yeast-paper walk-through of the design, collaborators
+down about 21 percent and non-collaborators up 8.6 percent, the citation-quantile gradient,
+outsiders and Goliath's shadow, invisible-college splits, the welfare section, and the
+design's limits. AER text read in full; appendices not obtained; Hull et al. via summaries;
+no published critique found. 059's "about seven percent" is corrected in the script.
+Lint 0 repeats, 0 tics; 6,014 words with frontmatter. No BLOOM aside.
+**Next step:** 063's sign-off promises item 8, the ideas-getting-harder-to-find duel (Bloom et al. versus Collison and Nielsen, Park et al.).
+
+Open (AFK): Azoulay appendices (death-by-cause, age cutoffs, author-level output); Hull
+et al. 1978 in primary form; Planck's wording from the book itself. 062's, 061's and 060's
+open items stand.
+Open (HITL): whether 058 to 063 are dense for a walking listen.
+
+## Previous snapshot (12 Oct 2026, Routine)
 
 Sixty-three episodes (000 test + 001-062). Science as an institution item 6 done as
 062, Merton on priority (1957) and the Matthew effect (1968): Darwin's 1858 letters, the
