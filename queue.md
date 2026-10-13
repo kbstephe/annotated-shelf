@@ -26,7 +26,7 @@
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); item 6 (Merton) done as 062, 12 Oct 26 (unattended); sign-off points to item 7, Azoulay et al. on star deaths. If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); item 6 (Merton) done as 062, 12 Oct 26 (unattended); item 7 (Azoulay et al.) done as 063, 13 Oct 26 (unattended); sign-off points to item 8, the ideas-getting-harder-to-find duel. If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1108,7 +1108,7 @@ researcher writing grants and sitting on panels.
   the credited; extends 035. Case against: Stephen Cole's tests, and the
   modern bibliometric work on cumulative advantage (Azoulay, Stuart and
   Wang 2014 on the Howard Hughes "Matthew effect" natural experiment).
-- [ ] 7. "Does Science Advance One Funeral at a Time?" (Azoulay, Fons-Rosen
+- [x] 7. DONE as episode 063, 13 Oct 26 (unattended, no BLOOM aside). AER 2019 version read in full (main text and Tables 1 to 7; appendices not obtained): Herskowitz yeast-paper worked case, 452 deaths, collaborator -21% vs non-collaborator +8.6% (059's "about 7 percent" corrected in the script), citation-quantile gradient, outsiders, Goliath's shadow, invisible-college splits, welfare section; Planck wording from Quote Investigator, Hull et al. via summaries only; no published critique found. Sign-off points to item 8, Bloom et al. versus Collison and Nielsen. Original item text: "Does Science Advance One Funeral at a Time?" (Azoulay, Fons-Rosen
   and Graff Zivin, AER 2019). Star deaths and what happens to the field
   after; pair with Planck's original remark and Collison's replacement-rate
   question (Collison shelf ep. 1, pointer). Short primary text.
