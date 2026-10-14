@@ -1,6 +1,18 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (13 Oct 2026, Routine)
+## Snapshot (14 Oct 2026, Routine)
+
+Sixty-five episodes (000 test + 001-064). Science as an institution item 8 done as 064,
+the ideas-getting-harder duel: Bloom, Jones, Van Reenen and Webb (AER 2020, read in full)
+against Collison and Nielsen's Atlantic survey (not reached; secondary summaries) and Park,
+Leahey and Funk's CD index, with the Macher et al. and Holst et al. corrections. Lint 0
+repeats, 0 tics; 6,028 words with frontmatter. No BLOOM aside.
+**Next step:** 064's sign-off promises item 9, the study section (Pier et al., Fang and Casadevall, Bhattacharya and Packalen, programme-manager model).
+
+Open (AFK): Atlantic essay itself; Nature main text; Park reply to Holst; Alston and Pardey. 063's open items stand.
+Open (HITL): whether 058 to 064 are dense for a walking listen.
+
+## Previous snapshot (13 Oct 2026, Routine)
 
 Sixty-four episodes (000 test + 001-063). Science as an institution item 7 done as 063,
 Azoulay, Fons-Rosen and Graff Zivin on star deaths (AER 2019): Planck's sentence and
