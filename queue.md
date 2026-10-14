@@ -26,7 +26,7 @@
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); item 6 (Merton) done as 062, 12 Oct 26 (unattended); item 7 (Azoulay et al.) done as 063, 13 Oct 26 (unattended); sign-off points to item 8, the ideas-getting-harder-to-find duel. If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); item 6 (Merton) done as 062, 12 Oct 26 (unattended); item 7 (Azoulay et al.) done as 063, 13 Oct 26 (unattended); item 8 (ideas duel) done as 064, 14 Oct 26 (unattended); sign-off points to item 9, the study section. If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1112,7 +1112,7 @@ researcher writing grants and sitting on panels.
   and Graff Zivin, AER 2019). Star deaths and what happens to the field
   after; pair with Planck's original remark and Collison's replacement-rate
   question (Collison shelf ep. 1, pointer). Short primary text.
-- [ ] 8. Duel: are ideas getting harder to find? Bloom, Jones, Van Reenen
+- [x] 8. DONE as episode 064, 14 Oct 26 (unattended, no BLOOM aside). AER 2020 read in full; Park et al. via arXiv v5 (Nature text paywalled); Holst et al. 2024 preprint read; Macher, Rutzer and Weder via fetch summary; Atlantic essay NOT reached (secondary summaries only); no published Park reply found. Sign-off points to item 9, the study section. Original item text: Duel: are ideas getting harder to find? Bloom, Jones, Van Reenen
   and Webb (AER 2020) versus Collison and Nielsen, "Science Is Getting Less
   Bang for Its Buck" (Atlantic 2018) and Park, Leahey and Funk on declining
   disruptiveness (Nature 2023), with the replies that the metrics measure
