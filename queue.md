@@ -26,7 +26,7 @@
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); item 6 (Merton) done as 062, 12 Oct 26 (unattended); item 7 (Azoulay et al.) done as 063, 13 Oct 26 (unattended); item 8 (ideas duel) done as 064, 14 Oct 26 (unattended); sign-off points to item 9, the study section. If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); item 6 (Merton) done as 062, 12 Oct 26 (unattended); item 7 (Azoulay et al.) done as 063, 13 Oct 26 (unattended); item 8 (ideas duel) done as 064, 14 Oct 26 (unattended); item 9 (the study section) done as 065, 15 Oct 26 (unattended); sign-off points to item 10, Cochrane. If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1117,7 +1117,7 @@ researcher writing grants and sitting on panels.
   Bang for Its Buck" (Atlantic 2018) and Park, Leahey and Funk on declining
   disruptiveness (Nature 2023), with the replies that the metrics measure
   publishing, not discovery (Macher, Rutzer and Weder; Holst et al. 2024).
-- [ ] 9. The study section. Pier et al. on reviewer agreement (PNAS 2018),
+- [x] 9. DONE as episode 065, 15 Oct 26 (unattended, no BLOOM aside). Pier et al. PNAS 2018 read in full (main text; SI not read); Fang and Casadevall mBio 2016 with Barnett's letter and reply read in full; Fang, Bowen and Casadevall eLife 2016 reanalysis read; Li and Agha by abstract only; NZ Explorer survey (Liu et al. 2020) via fetch summary; Gross and Bergstrom 2019 intro/discussion; Heyard et al. Swiss method (no Swiss outcomes read); Bhattacharya and Packalen NBER w26752 read; ARPA-model paper (Azoulay, Fuchs, Goldstein, Kearney) read in part; HHMI paper by abstract only. Sign-off points to item 10, Cochrane. Original item text: The study section. Pier et al. on reviewer agreement (PNAS 2018),
   Fang and Casadevall's lottery proposal (mBio 2016), Bhattacharya and
   Packalen, "Stagnation and Scientific Incentives" (2020), and the
   DARPA/ARPA-H programme-manager model as the alternative. Case against:
