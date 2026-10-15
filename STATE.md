@@ -1,6 +1,18 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (14 Oct 2026, Routine)
+## Snapshot (15 Oct 2026, Routine)
+
+Sixty-six episodes (000 test + 001-065). Science as an institution item 9 done as 065, the
+study section: Pier et al. (PNAS 2018, ICC zero on 25 good R01s), Fang and Casadevall's modified
+lottery with the eLife reanalysis of Li and Agha, the New Zealand Explorer scheme and Swiss
+Bayesian-ranking lottery, Bhattacharya and Packalen's novelty ruler, and the ARPA programme-manager
+model. Lint 0 repeats, 0 tics; 6,408 words with frontmatter. No BLOOM aside.
+**Next step:** 065's sign-off promises item 10, Cochrane, Effectiveness and Efficiency (1972), the series closer.
+
+Open (AFK): Pier SI appendix and any published replies; Li and Agha in full; Swiss lottery outcomes; Azoulay-Graff Zivin-Manso HHMI paper in full. 064's open items stand.
+Open (HITL): whether 058 to 065 are dense for a walking listen.
+
+## Previous snapshot (14 Oct 2026, Routine)
 
 Sixty-five episodes (000 test + 001-064). Science as an institution item 8 done as 064,
 the ideas-getting-harder duel: Bloom, Jones, Van Reenen and Webb (AER 2020, read in full)
@@ -12,7 +24,7 @@ repeats, 0 tics; 6,028 words with frontmatter. No BLOOM aside.
 Open (AFK): Atlantic essay itself; Nature main text; Park reply to Holst; Alston and Pardey. 063's open items stand.
 Open (HITL): whether 058 to 064 are dense for a walking listen.
 
-## Previous snapshot (13 Oct 2026, Routine)
+## Earlier snapshot (13 Oct 2026, Routine)
 
 Sixty-four episodes (000 test + 001-063). Science as an institution item 7 done as 063,
 Azoulay, Fons-Rosen and Graff Zivin on star deaths (AER 2019): Planck's sentence and
