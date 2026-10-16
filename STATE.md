@@ -1,12 +1,21 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (16 Oct 2026, Kevin's session, overnight)
+## Snapshot (16 Oct 2026, Routine)
+
+Sixty-seven episodes (000 test + 001-066). Science as an institution closed with item 10 as 066, Cochrane's Effectiveness and Efficiency (1972), read in full from the Nuffield scan: input and output tables, the caning study, the six boxes, the Bristol home-versus-hospital trial and the reversed table, the cervical smear he doubted (Peto 2004 set against it), tonsils and hearing aids, the Scottish length-of-stay scatter tied back to 065, the U/non-U complaint tied back to 057 and 061, equality and the Alan Williams passage, a case against, and the 1979 wooden spoon to the Collaboration. Later history (Mather 1976, Peto, UGDP, Chalmers, Greenhalgh) is from search summaries, flagged in the script. Lint 0 repeats, 0 tics; 7,702 words with frontmatter, above the 6,500 ceiling because the book's three claims each needed a worked chapter. No BLOOM aside.
+**Next step:** 066's sign-off promises the "How evidence was invented" series, item 1, Semmelweis and Snow (queue.md; Nuland, Johnson, Snow 1855 as anchors; numbered 067 on the feed).
+
+Open (AFK): the 1979 Cochrane essay in its own words; One Man's Medicine unread; the full Mather 1976 and Peto 2004 papers; 065's items stand.
+Open (HITL), from the 16 Oct review, each a yes/no or pick-one: (1) the narrated closing source paragraph in 060-065: keep narrated, move to the page, or log only; (2) a title cap, 105 characters and 15 words (the 28 Aug set) or 130 and 20; (3) digits written out always, or years and decimals exempt; (4) whether Kevin will file a one-line "listened" GitHub issue from his phone, the first one saying whether Matter lists 025-065; (5) whether a silent-failure watchdog may open an issue despite the no-notifications rule. Also (6) whether to pin the Routine's model, which now runs on the environment default; and the standing one, whether 058 to 066 are dense for a walking listen (one listen to 062 and 065 back to back would settle it).
+
+
+## Previous snapshot (16 Oct 2026, Kevin's session, overnight)
 
 Sixty-six episodes (000 test + 001-065); 065, the study section, was the last Routine episode (15 Oct; details in that day's log entry). This session wrote no episode. It scouted new topics (80 candidates across eight lenses, a four-judge panel) and audited the project in six dimensions (47 findings, each adversarially checked; 42 survived). The report is reviews/2026-10-16-topics-and-improvements.md (five proposed series, an interlude pool, 25 ranked improvements, five questions for Kevin); the top three series are scoped at the end of queue.md, unscheduled. Nothing in the pipeline, charter or Routine was changed.
 **Next step:** 065's sign-off promises item 10, Cochrane, Effectiveness and Efficiency (1972), the series closer. Primary text: https://www.nuffieldtrust.org.uk/sites/default/files/2017-01/effectiveness-and-efficiency-web-final.pdf (3.6 MB, 94 pages of 300 dpi scans with no text layer: pdftotext, pypdf and WebFetch all return nothing, and no OCR binary exists in the environment). curl it to a scratch directory and read it with the Read tool's pages parameter in five calls (1-20, 21-40, 41-60, 61-80, 81-94), as the 052 run read McLaren 1974. PDF page = book page + 2: Introduction 3-9, Historical sketch 10-13, The NHS 14-21, Evaluation of evidence 22-27, Effectiveness and efficiency 28-46, Illustrative examples 47-68, Preliminary evaluation 69-71, Equality 72-79, Conclusions 80-87, Summary 88, Postscript 89, References 90-94. The archive.org copy is lending-only. The book is in copyright: quotes under fifteen words, one per source.
 
 Open (AFK): 065's items stand (Pier SI appendix and replies; Li and Agha in full; Swiss lottery outcomes; the HHMI paper).
-Open (HITL), from the 16 Oct review, each a yes/no or pick-one: (1) the narrated closing source paragraph in 060-065: keep narrated, move to the page, or log only; (2) a title cap, 105 characters and 15 words (the 28 Aug set) or 130 and 20; (3) digits written out always, or years and decimals exempt; (4) whether Kevin will file a one-line "listened" GitHub issue from his phone, the first one saying whether Matter lists 025-065; (5) whether a silent-failure watchdog may open an issue despite the no-notifications rule. Also (6) whether to pin the Routine's model, which now runs on the environment default; and the standing one, whether 058 to 065 are dense for a walking listen (one listen to 062 and 065 back to back would settle it).
+Open (HITL): carried forward to the 16 Oct (Routine) snapshot above.
 
 ## Previous snapshot (14 Oct 2026, Routine)
 
