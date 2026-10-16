@@ -3,10 +3,11 @@
 ## Snapshot (16 Oct 2026, Routine)
 
 Sixty-seven episodes (000 test + 001-066). Science as an institution closed with item 10 as 066, Cochrane's Effectiveness and Efficiency (1972), read in full from the Nuffield scan: input and output tables, the caning study, the six boxes, the Bristol home-versus-hospital trial and the reversed table, the cervical smear he doubted (Peto 2004 set against it), tonsils and hearing aids, the Scottish length-of-stay scatter tied back to 065, the U/non-U complaint tied back to 057 and 061, equality and the Alan Williams passage, a case against, and the 1979 wooden spoon to the Collaboration. Later history (Mather 1976, Peto, UGDP, Chalmers, Greenhalgh) is from search summaries, flagged in the script. Lint 0 repeats, 0 tics; 7,702 words with frontmatter, above the 6,500 ceiling because the book's three claims each needed a worked chapter. No BLOOM aside.
+**Ruling for 067 onward (Kevin, 16 Oct 26):** no closing bibliography. 065 and 066 end on one; do not copy it. Say thin sourcing inline in one clause; the full list goes in the log's Verification field. Lint now flags "for the record".
 **Next step:** 066's sign-off promises the "How evidence was invented" series, item 1, Semmelweis and Snow (queue.md; Nuland, Johnson, Snow 1855 as anchors; numbered 067 on the feed).
 
 Open (AFK): the 1979 Cochrane essay in its own words; One Man's Medicine unread; the full Mather 1976 and Peto 2004 papers; 065's items stand.
-Open (HITL), from the 16 Oct review, each a yes/no or pick-one: (1) the narrated closing source paragraph in 060-065: keep narrated, move to the page, or log only; (2) a title cap, 105 characters and 15 words (the 28 Aug set) or 130 and 20; (3) digits written out always, or years and decimals exempt; (4) whether Kevin will file a one-line "listened" GitHub issue from his phone, the first one saying whether Matter lists 025-065; (5) whether a silent-failure watchdog may open an issue despite the no-notifications rule. Also (6) whether to pin the Routine's model, which now runs on the environment default; and the standing one, whether 058 to 066 are dense for a walking listen (one listen to 062 and 065 back to back would settle it).
+Open (HITL), from the 16 Oct review, each a yes/no or pick-one (question 1, the narrated bibliography, answered 16 Oct: drop it): (2) a title cap, 105 characters and 15 words (the 28 Aug set) or 130 and 20; (3) digits written out always, or years and decimals exempt; (4) whether Kevin will file a one-line "listened" GitHub issue from his phone, the first one saying whether Matter lists 025-065; (5) whether a silent-failure watchdog may open an issue despite the no-notifications rule. Also (6) whether to pin the Routine's model, which now runs on the environment default; and the standing one, whether 058 to 066 are dense for a walking listen (one listen to 062 and 065 back to back would settle it).
 
 
 ## Previous snapshot (16 Oct 2026, Kevin's session, overnight)
@@ -610,6 +611,10 @@ Older previous snapshots (25 Aug – 7 Sep 2026) are in
 - **Reception pass** for well-covered works: named critics, attributed, feeding
   case-against and verdict.
 - **En dashes, never em dashes**, in episode text.
+- **No narrated bibliography** (Kevin, 16 Oct 26): from 067 on, episodes do
+  not close with a paragraph on what was and was not read; thin sourcing is
+  said inline in one clause, the full account goes in the log's Verification
+  field. 060-066 stand. Charter and lint updated the same day.
 - **Length serves the analysis** (Kevin, 25 Aug 26): word count is not a
   ceiling; a longer episode is fine when the work needs it. Recalibrated
   26 Aug 26: Matter reads ≈270 wpm, not the 150 first assumed, so the

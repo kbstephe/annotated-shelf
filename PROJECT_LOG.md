@@ -1713,3 +1713,28 @@ the answer lives in the chat, not here.
 **Open questions:** (AFK) the 1979 essay in primary form; One Man's Medicine; the full Mather 1976 and Peto 2004 papers. (HITL) the six numbered questions in STATE.md stand, including whether 058 to 066 are dense for a walking listen and whether 7,700 words is too long.
 **Artifacts:** episodes/066-cochrane-effectiveness-and-efficiency.md (7,702 words with frontmatter, lint 0 repeats 0 tics); queue.md (item 10 ticked); STATE.md snapshot; this entry. Build commit "Build: site + feed [skip ci]" appeared on origin/main within about a minute and the feed contains the new title.
 **Context:** Routine run of 16 Oct 2026 after the same night's scouting and audit session; nothing in the pipeline, charter or lint was changed. The series "science as an institution" is now complete; the next episode opens "How evidence was invented".
+
+## [2026-10-16] — Kevin's session: no narrated bibliography from 067
+
+**Decisions:** Kevin answered the review's first question: "no need for
+bibliography moving forward." From 067 on, episodes do not close with a
+paragraph on what was and was not read; thin sourcing is said inline in one
+clause, and the full account stays in this log's Verification field, where
+it already lives. 060-066 stand as published (no-rewrite rule). The ruling
+is in SCRIPT_STYLE.md (Grounding, and pre-flight item 4), STATE.md (decision
+of record, and a line above Next step so the Monday run sees it before
+reading 065 and 066, which both end on one), and the lint.
+**Verification:** Three lint patterns added ("for the record"; "how this
+(episode) was grounded"; "how much of this I have verified"), written by a
+Python script run by path, not a heredoc. They fire on every bibliography
+opener in 060-066 and on nothing in 012-059 (all still 0 repeats, 0 tics).
+066 (written this morning by the Routine) used the Cochrane scan pointer and
+read the book in full; it also closed on a bibliography copied from 065 and
+ran 7,700 words with frontmatter.
+**Open questions:** (HITL) Questions 2 to 5 of the review and the Routine
+model stand in STATE.md. Whether the five proposed series join the order of
+record is Kevin's call; until he says so they stay unscheduled at the end of
+queue.md and the Routine follows the evidence series (067-074), then Doers
+(075-085).
+**Artifacts:** .claude/skills/audio-essay/SCRIPT_STYLE.md;
+scripts/lint_script.py; STATE.md; this entry.

@@ -178,6 +178,14 @@ Monday" or any fixed formula; Kevin, 27 Aug 26: the recurring phrase grates; "Ne
   work can actually be reconstructed — from solid training knowledge verified by
   web search for anything load-bearing, or from the user's own notes. If command
   of a book is thin, say so in the episode or leave the book in the queue.
+  Say it in the sentence that makes the claim, in one clause ("from the
+  abstract only", "through a summary I did not check"), as 058 and 059 did.
+- **No narrated bibliography** (Kevin, 16 Oct 26: "no need for bibliography
+  moving forward"). Never a closing paragraph listing what was and was not
+  read ("For the record, here is how this episode was grounded..."); 060-066
+  carried one and they stand as published, but do not copy their endings.
+  That list belongs in PROJECT_LOG's Verification field, where it already
+  lives. The episode ends on its last claim, the next title and the sign-off.
 - **Never invent quotes, scenes, or statistics.** Quotes only when verified
   against a source this session; otherwise paraphrase and attribute. Under-15
   words, at most one per source (copyright).
@@ -264,7 +272,8 @@ The canon will range wider (philosophy, science); the home lens travels with it.
    (bullets, digits, orphaned headings) and any sentence that sounds like a
    press release.
 4. **Grounding pass**: every quote verified, every constructed example flagged,
-   no conversational residue, first sentence works as a cold open.
+   no conversational residue, no closing source list, first sentence works as
+   a cold open.
 5. `python scripts/build_site.py` runs clean; then discard local site output
    (`git checkout site/`, delete untracked site/*.html) — CI rebuilds it.
 6. Frontmatter has `title:` and `description:` (one sentence, for the feed).

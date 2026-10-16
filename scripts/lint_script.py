@@ -50,6 +50,10 @@ TICS = [
     r"\bthe honest (answer|take|version)\b", r"\bhonest take\b", r"\bstated fairly\b",
     r"\bthat's the unlock\b", r"\bsmoking gun\b", r"\bbelt and suspenders\b",
     r"\bdelve\b", r"\bunderscore\b", r"\btapestry\b", r"\bnuanced\b", r"\bpivotal\b",
+    # narrated bibliography (Kevin, 16 Oct 26: "no need for bibliography moving forward").
+    # 060-066 closed on a source-list paragraph; these are its opening frames.
+    r"\bfor the record\b", r"\bhow (this|the) (episode )?was grounded\b",
+    r"\bhow much of this I (have )?(verified|checked|read)\b",
     # narrator staging his own drama (Kevin, 27 Aug 26: "this is where the pause carries weight")
     r"\bcarr(y|ies|ied) (the |its |real |a lot of )?weight\b", r"\bthe pause\b", r"\bpause (here|there|on)\b",
     r"\b(this|here) is where\b", r"\bheavy lifting\b", r"\bdoes a lot of\b",
