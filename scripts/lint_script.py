@@ -86,6 +86,7 @@ TICS = [
     r"\bquestion (to|I would|I'd|you (can|could|might)) (carry|take|bring|hold) (into|back|with|to)\b",
     r"\bquestion for the (working |coming |next )?(week|month)\b",
     r"\bto carry into\b",
+    r"\bcarr(y|ies|ying)\b[^.?!]{0,40}\binto (the|your|his|a|any|each|next) (routine|week|next|working|clinic|office|meeting|stack|room|day|programme|trial)\b",
     # the charter's own checklist words, narrated ("flagged as constructed")
     r"\b(flagged|labell?ed|marked) as (constructed|invented|the narrator's|mine|my own)\b",
     r"\bmy own inference\b",
@@ -145,7 +146,7 @@ TITLE_MAX_CHARS, TITLE_MAX_WORDS = 105, 15
 # Digits (review batch, 16 Oct 26): numbers are written out for the ear, except
 # four-digit years and decimal statistics. A digit run attached to a letter,
 # hyphen or slash (R01, ISIS-2, F-75, 24/7) is part of a name and passes.
-DIGIT = re.compile(r"(?<![\w.,\-/])\d[\d,]*(?:\.\d+)?(?![\w\-/]|[.,]\d)")
+DIGIT = re.compile(r"(?<![\w.,\-/])\d(?:[\d,]*\d)?(?:\.\d+)?(?![\w\-/]|[.,]\d)")
 YEAR = re.compile(r"^(1[5-9]\d\d|20\d\d)$")
 
 
@@ -195,9 +196,9 @@ def main(path):
     text = open(path, encoding="utf-8").read()
     meta = frontmatter(text)
     # blank the frontmatter rather than cut it, so reported line numbers are absolute
-    if text.startswith("---"):
+    if text.startswith("---") and "---" in text[3:]:
         head, rest = text[3:].split("---", 1)
-        text = "\n" * (head.count("\n") + 1) + rest
+        text = "\n" * head.count("\n") + rest
     reps = near_repeats(text)
     tk = sorted(tics(text) + digits(text) + structure(text, meta))
     for line, g in reps:

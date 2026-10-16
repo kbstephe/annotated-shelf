@@ -4,7 +4,7 @@
 
 Sixty-seven episodes (000 test + 001-066). 066, Cochrane's Effectiveness and Efficiency, closed the science series (written by the Routine this morning from the Nuffield scan; 7,702 words with frontmatter). The 16 Oct review's next batch is applied: lint families, FRAMES.md and scripts/frames.py, the held-text sourcing rule and references/sourcing-routes.md, a cold-read step (SKILL.md 2c), title cap and digit rule, done-skill limits, Pages and build fixes, Routine step 6 verifying by GUID. Three new series are scheduled after Doers (queue.md, Order of record item 5).
 **Ruling for 067 onward (Kevin, 16 Oct 26):** no closing bibliography. 065 and 066 end on one; do not copy it. Thin sourcing is said inline in one clause; the full list goes in the log's Verification field.
-**Next step:** 066's sign-off promises the "How evidence was invented" series, item 1, Semmelweis and Snow (queue.md; numbered 067). Snow 1855 and Semmelweis 1861 are on archive.org as text (references/sourcing-routes.md). The first run under the new lint: titles under 105 characters and 15 words, digits written out except years and decimals.
+**Next step:** 066's sign-off promises the "How evidence was invented" series, item 1, Semmelweis and Snow (queue.md; numbered 067). Snow 1855 and Semmelweis 1861 are on archive.org as text (.claude/skills/audio-essay/references/sourcing-routes.md gives the item IDs); Nuland and Johnson are lending-only, so they serve as reception, hedged in the sentence. The first run under the new lint: titles under 105 characters and 15 words, digits written out except years and decimals.
 
 ## Decisions of record
 
@@ -13,7 +13,7 @@ Sixty-seven episodes (000 test + 001-066). 066, Cochrane's Effectiveness and Eff
 - **Signal shape, not significance**: section-opening questions are a soft default, never shoehorned; importance-announcement is banned.
 - **Grounding hard rules**: no episode without material to reconstruct the work; quotes verified while writing or paraphrased; constructed examples flagged in plain speech.
 - **Spoken numbers come from held text** (16 Oct 26): never from a fetch or search summary, which has fabricated and misplaced quotes and gave 059 a wrong figure (corrected in 063).
-- **No narrated bibliography** (Kevin, 16 Oct 26): see the Snapshot ruling. 060-066 stand.
+- **No narrated bibliography** (Kevin, 16 Oct 26): no closing source-list paragraph from 067; thin sourcing is said inline in one clause, and the full list goes in the log's Verification field. 060-066 stand.
 - **Reception pass** for well-covered works: named critics, attributed, feeding case-against and verdict.
 - **No em dashes** in episode text (the lint flags them); en dashes are permitted, commas and full stops preferred.
 - **Length serves the analysis** (Kevin, 25-26 Aug 26): working target 5,000-6,500 words (Matter reads about 270 wpm); longer when the work needs it, never padded.
@@ -44,7 +44,7 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 - (AFK) Nutrition 048-055 rest largely on secondary sourcing (log entries 22 Sep to 1 Oct); one slip found, 053's "listed no industry funding". A one-off check of their figures against primaries now reachable is optional.
 - (AFK) Collison shelf 042-046 never read their books in primary form (log 14-18 Sep); 036 Weber and 035 Merton likewise (log 8-9 Sep).
 - (AFK) Science series open reads: Merton 1968; Pier SI appendix; Li and Agha in full; Swiss lottery outcomes; the HHMI paper; Atlantic essay; Cochrane's 1979 essay and Mather 1976 (log 12-16 Oct).
-- (AFK) ISIS-2, Guyatt 1992, Hill 1965, Hill 1990 and Hernán 2008 are unreachable from the cloud; a text copy placed in the repo would let 069-073 anchor on them.
+- (AFK) ISIS-2, Guyatt 1992, Hill 1965, Hill 1990 and Hernán 2008 are unreachable from the cloud; a text copy placed in the repo would let 070-073 anchor on them.
 
 ## Out of scope
 

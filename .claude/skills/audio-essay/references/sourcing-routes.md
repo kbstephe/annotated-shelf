@@ -30,7 +30,9 @@ search summary only says what to fetch.
 - **Internet Archive text**: find the item with
   `https://archive.org/advancedsearch.php?q=<query>&fl[]=identifier&output=json`,
   list files at `https://archive.org/metadata/<id>/files`, fetch the
-  `_djvu.txt`. A 401 or 403 means lending-only; stop. Old journal issues are
+  `_djvu.txt`. A 401 or 403 means that copy is lending-only; try the other
+  identifiers the search returned (060 reached an open copy of the same
+  volume after a 401), and stop only when none is open. Old journal issues are
   often here as OCR text, for example the BMJ 1948 streptomycin paper in
   `sim_british-medical-journal_1948-10-30_2_4582` and Doll and Hill 1950 in
   `sim_british-medical-journal_1950-09-30_2_4682`.
@@ -60,13 +62,17 @@ block page, so check the title and word count of what came back.
 
 ## Evidence series anchors (067-074)
 
-Reachable in full text: Snow 1855 and Semmelweis 1861 (archive.org text);
+Reachable in full text: Snow 1855 (archive.org b28985266, `_djvu.txt`) and
+Semmelweis 1861 (archive.org b33953740, `_djvu.txt`, German OCR; translations
+are the writer's own and are paraphrased, not quoted);
 Fisher, The Design of Experiments (archive.org, in.ernet.dli.2015.199572); the
 1948 MRC streptomycin paper and Doll and Hill 1950 (archive.org BMJ issues
 above); WHI 2002 (escholarship.org, qt3mr6f93p); Gigerenzer 2004, Mindless
 Statistics (library.mpib-berlin.mpg.de); the ASA 2016 statement (amstat.org);
 Ioannidis 2005 and Greenhalgh 2014 (Europe PMC XML).
 Closed: ISIS-2 (Lancet 1988), Guyatt et al. 1992 (JAMA), Hill 1965, Hill 1990,
-Hernán et al. 2008. For these, write from open restatements and the reception
-pass, say in the sentence that a figure comes from a secondary account, and
-log the gap.
+Hernán et al. 2008; and Nuland, The Doctors' Plague (2003) and Johnson, The
+Ghost Map (2006), archive.org lending-only, so 067 holds Snow and Semmelweis as
+text and uses the two books for reception only, hedged in the sentence. For
+the closed papers, write from open restatements and the reception pass, say in
+the sentence that a figure comes from a secondary account, and log the gap.

@@ -51,7 +51,8 @@ before commit. Fix by rewriting, never by deleting the check.
 After lint is clean, make one subagent call (the Agent tool, named Task in some
 environments; general-purpose type) with
 everything inline and an instruction not to open any file: the rubric below,
-the full script, the final two paragraphs of each of the previous two episodes,
+the full script, the last three paragraphs of each of the previous two episodes
+(065 and 066 put a source list between the closing application and the sign-off),
 and the "What he wants from the show" section of listener.md. Rubric, each item
 PASS or FLAG with at most two quoted lines and a one-sentence fix:
 R1 grading: the narrator telling the listener what matters, self-awarded

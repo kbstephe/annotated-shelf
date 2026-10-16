@@ -88,8 +88,8 @@ mechanism, not just the name, and only where it genuinely applies); a verdict
 with reading prescription and dose; one application the listener can use in
 his own work (not recall). It may be an instruction, a bet, a scenario or a
 test to run. It is never labelled, never introduced by a fixed phrase, and
-never in the previous episode's closing shape: read the last episode's final
-two paragraphs before writing yours (Kevin, 27 Aug 26: the recurring phrase
+never in the previous episode's closing shape: read the last episode's closing
+paragraphs, skipping any source-list paragraph, before writing yours (Kevin, 27 Aug 26: the recurring phrase
 grates; it re-formed as "the question to carry into X" in 058-065 and the
 lint now bans that family); "Next time, X"; "Thanks for listening."
 
@@ -235,7 +235,7 @@ lint now bans that family); "Next time, X"; "Thanks for listening."
 - Cynical frameworks get the dosage treatment: diagnostic doses medicine,
   identity doses poison.
 - An intuition pump or thought experiment is welcome, and the trick is named:
-  "notice this story is built to make you feel X."
+  "this story is built to make you feel X."
 
 ## Episode length and multi-part books
 

@@ -1776,3 +1776,28 @@ index.html, .nojekyll, .github/workflows/build.yml, scripts/lint_script.py,
 scripts/frames.py, scripts/build_site.py, .claude/skills/audio-essay/SKILL.md,
 SCRIPT_STYLE.md, references/sourcing-routes.md, .claude/skills/done/SKILL.md,
 archive/STATE_previous_snapshots_08sep26-16oct26.md; this entry.
+
+## [2026-10-16] — Kevin's session: review fixes to the batch
+
+**Decisions:** An independent three-lens review of the batch (Monday-run
+simulation, code, content) found no blocker and several should-fixes, all
+applied: the digit check now ends tokens on a digit, so a year before a comma
+("In 1847,") passes; the lint catches 066's closing variant ("carry the six
+boxes into the routine"); reported line numbers are exact and a malformed
+header no longer crashes the lint; the closing-shape check reads the last three
+paragraphs (065 and 066 put a source list between the closer and the sign-off);
+seven FRAMES keys tightened (Parkinson's disease, study section as everyday
+context, Licklider's "tight coupling", Kuhn in a Hamming key, generic
+"paradigm", Grove's name, Waterlow and Ioannidis outside their frames); the
+man-of-one-study frame now carries both essays' mechanisms; the STATE
+bibliography decision stands on its own; Nuland and Johnson marked lending-only
+for 067; archive.org IDs for Snow and Semmelweis; range and episode-number
+corrections. Routine prompt (update_trigger): step 3's fallback now follows the
+Order of record, and step 5 runs the SKILL.md 2c cold read and re-lints.
+**Verification:** Synthetic scripts: years before commas pass, 43 and 1,987
+flag, 8.6 and R01 and ISIS-2 pass; an unterminated header reports tics instead
+of a traceback; lint line numbers match grep -n. frames.py table re-run after
+the key changes. Build and Pages runs for 997274d were queued at the time.
+**Artifacts:** scripts/lint_script.py, FRAMES.md, STATE.md, queue.md,
+.claude/skills/audio-essay/SKILL.md, SCRIPT_STYLE.md,
+references/sourcing-routes.md; Routine trig_017rhfD6LEfWxb4R7pgTuVTz prompt.

@@ -17,8 +17,8 @@
    Psychology of Human Misjudgment) done 21 Sep 26, closing the shelf.
    Sign-off points to nutrition science, item 1 (scurvy), up next.
 4. Then nutrition science, science as an institution, how evidence was
-   invented, doers, in that order; all five were scoped with Kevin on 8 Sep
-   26 (nutrition and evidence "as a start", so re-ordering within them is
+   invented, doers, in that order; all four (five with the Collison shelf)
+   were scoped with Kevin on 8 Sep 26 (nutrition and evidence "as a start", so re-ordering within them is
    allowed), and no further scoping gate stands before a series opens, per
    the 047-to-048 and 056-to-057 precedents. The PubMed connector was
    attached 8 Sep 26. Item 1
@@ -1148,7 +1148,8 @@ starts a step earlier and ends with the machinery Kevin uses every week.
 Same grounding bar as nutrition: read the primary papers wherever they can
 be held as text. Most can (routes checked 16 Oct 26 in
 .claude/skills/audio-essay/references/sourcing-routes.md); ISIS-2, Guyatt
-1992, Hill 1965, Hill 1990 and Hernán 2008 could not be reached, so those
+1992, Hill 1965, Hill 1990, Hernán 2008, Nuland 2003 and Johnson 2006 could
+not be reached, so those
 items lean on open restatements and say so in the sentence. Practical half
 first: what a trialist's SAP actually commits to.
 
@@ -1309,7 +1310,7 @@ Ten episodes. 065 ended on whether a one-point score difference could be defende
 - [ ] 3. When can a clinician trust the feeling. Kahneman-Klein 2009 (mirrored PDFs), Shanteau 1992 (paywalled; lists reproduced in open secondary), Hogarth-Lejarraga-Soyer 2015 (pure.mpg.de). Constellation. Hogarth's typhoid doctor; three of the listener's tasks sorted kind or wicked (bedside, grant scoring, dashboard). Case against: Klein 2015, Hambrick 2014; the circularity charge. Reception admiring, say so.
 - [ ] 4–5. Noise (Kahneman, Sibony, Sunstein 2021), two parts, from its open sources: Partridge-Eldridge 1974 (FJC PDF), Dror 2006, Vul-Pashler 2008, Linder 2014 / Kim 2018 / Neprash 2019 (PMC). Part One: the insurance audit (ten guessed, fifty-five found), MSE as bias squared plus noise squared, percent-concordant applied to 065's score-outcome correlations. Part Two: the sentencing-guidelines arc and decision hygiene. Case against: John Kay 2021, Bronnikov 2022 (SABE PDF), Stith and Cabranes 1998. Book paraphrased, never quoted.
 - [ ] 6–7. The committee, duel in two parts. Janis 1972 v Surowiecki 2004 (both lending) and Sunstein 2005 (NYU Law Review, open); decided by Galton 1907 (galton.org), Stasser-Titus 1985, Lorenz 2011 (PMC3107299), Aldag-Fuller 1993 (MIT PDF), Tetlock 1992. Part Two: Delphi (Dalkey-Helmer; Sackman 1974 on DTIC) and the grant panels (Obrecht 2007, Fogelholm 2012, Pier 2017). Case against: Fuller-Aldag 1998, Kramer 1998, Baron 2005; Lanier 2006; Woudenberg 1991. 006 coined groupthink and 030 rejected it: callbacks only.
-- [ ] 8–9. Tetlock, Expert Political Judgment and Superforecasting, two parts, with Mellers 2014 (eScholarship) and Hauenstein 2024 (OSF). 284 experts, 82,000 forecasts; the three levers and the reanalysis that erases two. Case against: Caplan 2010, Bueno de Mesquita 2010 (Potsdam PDF), Taleb-Bar-Yam-Cirillo 2022, Denrell-Fang 2010. One sentence on 011's Burnham scoring, no redo.
+- [ ] 8–9. Tetlock, Expert Political Judgment and Superforecasting, two parts, with Mellers 2014 (eScholarship) and Hauenstein 2024 (OSF). 284 experts, 82,000 forecasts; the three levers and the reanalysis that erases two. Case against: Caplan 2010, Bueno de Mesquita 2010 (Potsdam PDF), Taleb-Bar-Yam-Cirillo 2022, Denrell-Fang 2010. One sentence on 015's Burnham scoring, no redo.
 - [ ] 10. Closer: can anyone predict the trial. Djulbegovic-Chalmers (Cochrane MR000024; Nature 2013, not 2008), Benjamin 2020 (PMC7794184), Atanasov 2020 (PMC7455341), Doussau 2023 (PMC11005298), Benjamin-Mandel-Kimmelman 2017 (PMC5490935). Constellation. 137 oncologists, AUC 0.52, beaten by the always-fifty-percent algorithm; aggregates carry signal, individuals none. Case against: Miller and Joffe 2011 on equipoise; the after-the-fact base rate; reception is the authors answering themselves, say so. Callbacks to 066 and 072.
 
 Alternates: Croskerry v Norman (placed in the training series); Gigerenzer v Kahneman-Tversky (6.0; 047 used the point); Nudge and the replication reckoning (Mertens, Maier, DellaVigna-Linos) as optional coda.
