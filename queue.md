@@ -1123,7 +1123,7 @@ researcher writing grants and sitting on panels.
   DARPA/ARPA-H programme-manager model as the alternative. Case against:
   lotteries have their own losers; the Swiss and New Zealand lottery pilots
   as evidence. Most directly useful episode for an R01 writer.
-- [ ] 10. Closer: Cochrane, Effectiveness and Efficiency (1972). The person
+- [x] 10. DONE as episode 066, 16 Oct 26 (unattended, no BLOOM aside). Cochrane's book read in full from the Nuffield scan; later history (Mather 1976 abstract, Peto 2004, UGDP controversy, 1979 essay and wooden spoon, Chalmers, Collaboration 1993, Greenhalgh 2014) from search summaries. Sign-off points to How evidence was invented, item 1 (Semmelweis and Snow). Original item text: Closer: Cochrane, Effectiveness and Efficiency (1972). The person
   who asked whether medicine's interventions had ever been tested, and what
   happened when the answer was mostly no. Bridges into "How evidence was
   invented".
