@@ -1592,3 +1592,67 @@ and full text, verified before this log entry.
 **Open questions:** (AFK) Read the Pier SI appendix and search for published replies. (AFK) Read Li and Agha in full and the Azoulay, Graff Zivin and Manso HHMI paper to confirm the 97 percent figure. (AFK) Find Swiss lottery outcome data and the BMJ Open Postdoc.Mobility study. (HITL) Whether 058 to 065 are dense for a walking listen.
 **Artifacts:** episodes/065-pier-fang-casadevall-bhattacharya-packalen-the-study-section.md (6,408 words including frontmatter, lint clean); queue.md (item 9 checked off, order-of-record points to item 10).
 **Context:** Unattended Routine run, 15 October 2026. One episode push (commit 865d7df); Build commit 4b72d21 appeared within a few minutes and site/feed.xml on origin/main carries the 065 title. Sign-off promises item 10, Cochrane, Effectiveness and Efficiency, which closes the science series.
+
+## [2026-10-16] — Kevin's session (overnight): new-topic scouting and project audit, part one
+
+**Decisions:** Kevin asked for new valuable topics and an investigation of
+ways to improve the project, with learning as the yardstick ("goal is for me
+to learn"), and approved the plan: scout, judge, synthesise, write a report,
+add the proposed series to queue.md as unscheduled candidates, log the
+session. Nothing in the pipeline, the charter, the Routine or the episodes
+was changed this session; every improvement is a proposal in the report
+(part two) for Kevin to pick from. The one binding addition is a sourcing
+pointer for the 16 Oct Cochrane run, in STATE.md's Next step.
+
+**Verification:** Method: eight topic scouts, one lens each (trial-methods
+classics; global-health institutions; frontline implementation; medicine's
+history and sociology; science essayists in the home lens; fiction read as
+peer literature; judgment, noise and forecasting; economics of science),
+each checking anchors by web search; 80 unique candidates; a four-judge
+panel (listener advocate, grounding skeptic, curriculum editor, learning
+scientist). Six project audits (pipeline and build; craft drift; state and
+docs hygiene; grounding and sourcing; quality loop and feedback; listener
+experience and series design) produced 47 findings, each handed to an
+independent refuter with repo access: 42 survived, 5 were refuted, and most
+severities were downgraded. Facts the refuters confirmed by re-measuring:
+CI is healthy (66 of 69 builds green, the 3 failures on 26 Aug before the
+Routine era; one Episode commit on every weekday 24 Sep to 15 Oct, none
+doubled, Build commit 11 to 19 s after each). The Routine runs on the
+environment's default model, not the one Kevin's day sessions use. Seven of
+the nine nutrition episodes never read their named anchor in primary form,
+though 13 of 14 spot-checked figures in 053 match the primaries. Titles have
+grown from about 100 to 222-310 characters. A narrated sourcing paragraph
+("For the record, here is how this episode was grounded") has closed every
+episode since 060, growing from 129 to 227 words, and the charter does not
+mention it. The closing question has re-formed into "The question to carry
+into X is" in 7 of the last 8 episodes. STATE.md is 93 percent history.
+GitHub Pages renders episodes/*.md through Jekyll as unstyled duplicates
+(no .nojekyll). The Routine's step-6 grep of feed.xml for the new title can
+be satisfied by the previous episode's sign-off text. From the cloud egress,
+Europe PMC REST, OpenAlex, arXiv, Gutenberg, NBER and gwern PDFs work;
+bmj.com, jamanetwork, pnas.org, science.org, scholar.archive.org,
+web.archive.org and PMC behind reCAPTCHA do not. Cochrane 1972 exists online
+only as a 94-page image-only Nuffield Trust scan (pdftotext returns nothing;
+the Read tool renders it page by page).
+
+**Traps & dead ends:** One workflow was capped at two concurrent agents by
+the 4-CPU container; splitting the same work into four workflows ran eight.
+Agent outputs over about 30 KB cannot be passed on as workflow arguments;
+details went to a scratch JSON file and only an index was passed.
+
+**Open questions:** (HITL) The report's questions for Kevin (a title cap,
+the narrated bibliography, a cold second-reader step before publish, a
+one-minute feedback channel) arrive in part two. (AFK) The 16 Oct run reads
+the Cochrane scan via the Read tool's pages parameter, per STATE.md.
+
+**Artifacts:** PROJECT_LOG.md (this entry); STATE.md (snapshot rewritten in
+place, Next step carries the Cochrane route). Part two adds
+reviews/2026-10-16-topics-and-improvements.md and a candidate section in
+queue.md.
+
+**Context:** Session of 16 Oct 2026, 00:00 UTC onward, attended at the
+start. About 8 million subagent tokens across 65 agents so far (scouting
+1.2 M, audits and verification 6.4 M; panel and synthesis still running when
+this entry was written). Kevin's brief, in his words: "new valuable topics
+and investigation of ways to improve this project"; "high quality insightful
+summaries ... goal is for me to learn"; "I approve".

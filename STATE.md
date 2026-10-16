@@ -1,16 +1,12 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (15 Oct 2026, Routine)
+## Snapshot (16 Oct 2026, Kevin's session, overnight)
 
-Sixty-six episodes (000 test + 001-065). Science as an institution item 9 done as 065, the
-study section: Pier et al. (PNAS 2018, ICC zero on 25 good R01s), Fang and Casadevall's modified
-lottery with the eLife reanalysis of Li and Agha, the New Zealand Explorer scheme and Swiss
-Bayesian-ranking lottery, Bhattacharya and Packalen's novelty ruler, and the ARPA programme-manager
-model. Lint 0 repeats, 0 tics; 6,408 words with frontmatter. No BLOOM aside.
-**Next step:** 065's sign-off promises item 10, Cochrane, Effectiveness and Efficiency (1972), the series closer.
+Sixty-six episodes (000 test + 001-065); 065, the study section, was the last Routine episode (15 Oct; details in that day's log entry). This session wrote no episode. It scouted new topics (80 candidates across eight lenses, a four-judge panel) and audited the project in six dimensions (47 findings, each adversarially checked; 42 survived). The report and a candidate section in queue.md arrive in part two of today's log; nothing in the pipeline, charter or Routine was changed.
+**Next step:** 065's sign-off promises item 10, Cochrane, Effectiveness and Efficiency (1972), the series closer. Primary text: https://www.nuffieldtrust.org.uk/sites/default/files/2017-01/effectiveness-and-efficiency-web-final.pdf (3.6 MB, 94 pages of 300 dpi scans with no text layer: pdftotext, pypdf and WebFetch all return nothing, and no OCR binary exists in the environment). curl it to a scratch directory and read it with the Read tool's pages parameter in five calls (1-20, 21-40, 41-60, 61-80, 81-94), as the 052 run read McLaren 1974. PDF page = book page + 2: Introduction 3-9, Historical sketch 10-13, The NHS 14-21, Evaluation of evidence 22-27, Effectiveness and efficiency 28-46, Illustrative examples 47-68, Preliminary evaluation 69-71, Equality 72-79, Conclusions 80-87, Summary 88, Postscript 89, References 90-94. The archive.org copy is lending-only. The book is in copyright: quotes under fifteen words, one per source.
 
-Open (AFK): Pier SI appendix and any published replies; Li and Agha in full; Swiss lottery outcomes; Azoulay-Graff Zivin-Manso HHMI paper in full. 064's open items stand.
-Open (HITL): whether 058 to 065 are dense for a walking listen.
+Open (AFK): 065's items stand (Pier SI appendix and replies; Li and Agha in full; Swiss lottery outcomes; the HHMI paper).
+Open (HITL): the questions in part two's report (title cap, the narrated bibliography, a second-reader step, a feedback channel); whether 058 to 065 are dense for a walking listen.
 
 ## Previous snapshot (14 Oct 2026, Routine)
 
