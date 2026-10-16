@@ -33,22 +33,35 @@ The repo holds its own state in three files. Each fact lives in exactly one:
    ```
 
    Phrase status as state, not instructions ("012 is 3,891 words", never
-   "trim 012").
+   "trim 012"). Report length and density as numbers under Artifacts, never
+   as an open question. The routine fast-forward of a stale local main is not
+   recorded anywhere.
 
 3. Update `STATE.md`:
-   - Snapshot: rewrite to 3–6 lines. Episode count, what the latest sign-off
-     promises (that promise is binding on the next writer), the single most
-     important next step.
+   - Snapshot: replace it in place, 3–6 lines. Episode count, what the latest
+     sign-off promises (that promise is binding on the next writer), the single
+     most important next step. Never add a "Previous" or "Earlier snapshot"
+     section: git history and PROJECT_LOG hold the old one.
    - Decisions of record: add any new durable rule with its one-line why.
-   - Open questions: add new ones; delete resolved ones (the answer lives in
-     today's log entry).
-   Do not regenerate the whole file.
+   - Open questions: at most twelve bullets, each at most two lines, newest
+     first. If the same question is already open, add the episode number to
+     that bullet instead of writing a new one. Delete resolved ones (the
+     answer lives in today's log entry).
+   Do not regenerate the whole file. Before committing, run
+   `grep -c "^## Snapshot" STATE.md` (must print 1), `grep -c "Previous snapshot" STATE.md`
+   (must print 0) and `wc -l STATE.md` (must be under 150); if any fails, fix
+   STATE.md in this run and do not record the fix as an open question.
 
-4. `queue.md`: tick the work just published; if a new work was promised in
+4. `queue.md`: tick the work just published with its episode number and date
+   only (the summary lives in the log entry); if a new work was promised in
    the sign-off and is not on the queue, add it at the top of the fitting
    section.
 
-5. Commit the three files together (`Log: <topic>`) and push to main. In an
+4b. `FRAMES.md`: if the episode planted a frame the shelf should keep, add a
+   row (name, distinctive keys, one-line mechanism). Usage counts are
+   computed by `scripts/frames.py`, so nothing else needs updating.
+
+5. Commit the changed files together (`Log: <topic>`) and push to main. In an
    unattended run this push is the last step; do not end the turn before it.
 
 ## Guardrails

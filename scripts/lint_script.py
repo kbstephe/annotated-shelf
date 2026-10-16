@@ -79,6 +79,32 @@ TICS = [
     r"\bI (run|work in|work at|help run|practise|practice|treat|trained)\b",
     r"\bmy (own )?(patients|career|field|trade|work|hospital|colleagues|trainees|programme|program|grants?|ward|clinic|lab)\b",
     r"\bfor a living\b",
+    # --- review batch, 16 Oct 26 (reviews/2026-10-16-topics-and-improvements.md) ---
+    # the closing question re-formed after the 27 Aug "Monday" ban
+    # ("The question to carry into X" closed 7 of 8 episodes 058-065)
+    r"\bgenerative (question|habit|test)\b",
+    r"\bquestion (to|I would|I'd|you (can|could|might)) (carry|take|bring|hold) (into|back|with|to)\b",
+    r"\bquestion for the (working |coming |next )?(week|month)\b",
+    r"\bto carry into\b",
+    # the charter's own checklist words, narrated ("flagged as constructed")
+    r"\b(flagged|labell?ed|marked) as (constructed|invented|the narrator's|mine|my own)\b",
+    r"\bmy own inference\b",
+    r"\b(inference|rule|test|suggestion|arithmetic|case against) is (mine|the narrator's)\b",
+    r"\bbelongs to the narrator\b",
+    r"\bnarrator's (own|test|rule|suggestion|inference)\b",
+    r"\bI (will )?(label|mark|flag) (it|this|that|them) as\b",
+    # importance announced ahead of the payoff
+    r"\bthis hour\b",
+    r"\b(will|would) matter (later|more later|further on|in a (few )?(minutes?|moments?)|in the (final|last|next|closing) chapter|by the end)\b",
+    r"\bmatters? (later|more later|further on)\b",
+    r"\bremember (that|this) (\w+ )?(detail|number|name|date|sentence|figure|distinction|fact)\b",
+    r"\bhold (on ?to|onto) (that|this) (\w+ )?(sentence|detail|number|name|date|fact|figure|choice|distinction|thought)\b",
+    r"\bkeep (that|this|the) (\w+ )?(sentence|detail|number|name|date|fact|figure|distinction) in mind\b",
+    r"\bbefore this (hour|episode|chapter) is (done|over|out)\b",
+    # conversational residue: the listener is a stranger to the writing session
+    r"\bthis session\b", r"\bas (you )?requested\b", r"\bas you suggested\b", r"\bthe user\b", r"\.md\b",
+    # citation-first chapter openers: put the claim first, the citation second
+    r"\bwith (a|the) title\b",
 ]
 
 
@@ -111,14 +137,69 @@ def tics(text):
     return sorted(out)
 
 
+# Title cap (review batch, 16 Oct 26): titles had grown from about 100 to 310
+# characters; the cap is anchored on the 25 titles Kevin renamed on 28 Aug 26
+# (58-103 characters). Form: Work (Author): one short hook.
+TITLE_MAX_CHARS, TITLE_MAX_WORDS = 105, 15
+
+# Digits (review batch, 16 Oct 26): numbers are written out for the ear, except
+# four-digit years and decimal statistics. A digit run attached to a letter,
+# hyphen or slash (R01, ISIS-2, F-75, 24/7) is part of a name and passes.
+DIGIT = re.compile(r"(?<![\w.,\-/])\d[\d,]*(?:\.\d+)?(?![\w\-/]|[.,]\d)")
+YEAR = re.compile(r"^(1[5-9]\d\d|20\d\d)$")
+
+
+def digits(text):
+    out = []
+    for m in DIGIT.finditer(text):
+        tok = m.group(0)
+        if YEAR.match(tok) or "." in tok:
+            continue
+        line = text.count("\n", 0, m.start()) + 1
+        out.append((line, f"digit {tok} (write it out)"))
+    return out
+
+
+def structure(text, meta):
+    out = []
+    last_line = text.rstrip().count("\n") + 1
+    paras = [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+    tail = " ".join(paras[-2:])
+    if "Next time" not in tail:
+        out.append((last_line, "sign-off: no 'Next time' in the last two paragraphs"))
+    if not text.rstrip().endswith("Thanks for listening."):
+        out.append((last_line, "sign-off: script must end 'Thanks for listening.'"))
+    title = meta.get("title", "")
+    if not title:
+        out.append((1, "frontmatter: no title"))
+    elif len(title) > TITLE_MAX_CHARS or len(title.split()) > TITLE_MAX_WORDS:
+        out.append((1, f"title {len(title)} chars / {len(title.split())} words "
+                       f"(cap {TITLE_MAX_CHARS} / {TITLE_MAX_WORDS}): Work (Author): one short hook"))
+    if not meta.get("description"):
+        out.append((1, "frontmatter: no description"))
+    return out
+
+
+def frontmatter(text):
+    meta = {}
+    if text.startswith("---"):
+        head = text[3:].split("---", 1)[0]
+        for line in head.splitlines():
+            if ":" in line:
+                k, _, v = line.partition(":")
+                meta[k.strip()] = v.strip().strip('"').strip("'")
+    return meta
+
+
 def main(path):
     text = open(path, encoding="utf-8").read()
+    meta = frontmatter(text)
     # blank the frontmatter rather than cut it, so reported line numbers are absolute
     if text.startswith("---"):
         head, rest = text[3:].split("---", 1)
         text = "\n" * (head.count("\n") + 1) + rest
     reps = near_repeats(text)
-    tk = tics(text)
+    tk = sorted(tics(text) + digits(text) + structure(text, meta))
     for line, g in reps:
         print(f"{path}:{line}: repeat within {WINDOW} words: '{g}'")
     for line, g in tk:

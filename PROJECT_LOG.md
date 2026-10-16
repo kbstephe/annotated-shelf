@@ -1738,3 +1738,41 @@ queue.md and the Routine follows the evidence series (067-074), then Doers
 (075-085).
 **Artifacts:** .claude/skills/audio-essay/SCRIPT_STYLE.md;
 scripts/lint_script.py; STATE.md; this entry.
+
+## [2026-10-16] — Kevin's session: the review's next batch applied
+
+**Decisions:** Kevin: "no worries on those things, just unlock next batch",
+so the open choices were taken at the defaults the review recommended: title
+cap 105 characters and 15 words (the 28 Aug set); digits written out except
+four-digit years and decimals; no listen-issue channel and no watchdog (both
+need Kevin's participation or break the no-notifications rule); the three
+scoped series scheduled after Doers (analysis plan 086-095, the judge and the
+formula 096-105, the view from headquarters 106-115). Applied: lint families
+(closing formula, narrated checklist words, delayed importance, session
+residue, citation-first openers), a structure check (sign-off shape, title
+cap) and a digit check, all counted as tics so the gate string is unchanged;
+FRAMES.md and scripts/frames.py; held-text sourcing rule and
+references/sourcing-routes.md; cold-read step SKILL.md 2c; proximity rule
+copied into the charter; next-work rule fixed to the Order of record;
+done-skill limits (one snapshot, at most twelve open questions, STATE under
+150 lines, length reported as numbers, never as a question); STATE.md cut from
+57,754 to 7,145 bytes with the old file archived verbatim; queue.md curriculum
+lines for the evidence and Doers series; .nojekyll and a root redirect;
+site/** added to the build trigger; shallow-clone builds reuse committed
+pubDates; config.json description; Routine step 6 verifies by GUID and step 4
+names the title cap (update_trigger; schedule, connector and model unchanged).
+**Verification:** New lint families fire only on genuine drift across
+012-066 (42 "this hour", 14 closing-formula, 5 session residue, the rest
+single digits); no episode fails the sign-off check; 37 of 55 titles since
+012 exceed the new cap and stand. A shallow-clone build reproduces all 67
+committed pubDates (it would have re-dated 50 before). frames.py: two keys
+tightened after false matches (Christensen's "disruptive" in 024, a generic
+"research programme" in 025). An independent three-lens review of the diff
+was still running at commit time; its fixes, if any, follow in a separate
+commit before Monday's 067 run.
+**Open questions:** In STATE.md, now nine bullets.
+**Artifacts:** CLAUDE.md, STATE.md, queue.md, config.json, FRAMES.md,
+index.html, .nojekyll, .github/workflows/build.yml, scripts/lint_script.py,
+scripts/frames.py, scripts/build_site.py, .claude/skills/audio-essay/SKILL.md,
+SCRIPT_STYLE.md, references/sourcing-routes.md, .claude/skills/done/SKILL.md,
+archive/STATE_previous_snapshots_08sep26-16oct26.md; this entry.

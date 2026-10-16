@@ -11,7 +11,7 @@ import json
 import re
 import subprocess
 import sys
-from email.utils import format_datetime
+from email.utils import format_datetime, parsedate_to_datetime
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -68,10 +68,39 @@ def parse_frontmatter(text: str) -> tuple[dict, str]:
     return meta, parts[2].lstrip("\n")
 
 
+def is_shallow() -> bool:
+    try:
+        out = subprocess.run(["git", "rev-parse", "--is-shallow-repository"],
+                             cwd=ROOT, capture_output=True, text=True, check=True).stdout
+        return out.strip() == "true"
+    except Exception:
+        return False
+
+
+def committed_pubdates() -> dict:
+    """GUID -> pubDate from the feed already in the working tree (the last CI build)."""
+    feed = SITE / "feed.xml"
+    if not feed.exists():
+        return {}
+    text = feed.read_text(encoding="utf-8")
+    dates = {}
+    for item in re.findall(r"<item>(.*?)</item>", text, flags=re.S):
+        g = re.search(r"<guid[^>]*>(.*?)</guid>", item)
+        d = re.search(r"<pubDate>(.*?)</pubDate>", item)
+        if g and d:
+            try:
+                dates[html.unescape(g.group(1))] = parsedate_to_datetime(d.group(1))
+            except (TypeError, ValueError):
+                pass
+    return dates
+
+
 def first_commit_date(path: Path) -> datetime:
     """Publication date = when the script first landed in git; stable across rebuilds.
 
-    Needs full history (fetch-depth: 0 in CI); falls back to file mtime.
+    Needs full history (fetch-depth: 0 in CI). In a shallow clone git names the
+    graft commit as every older file's first commit, so main() prefers the
+    committed feed's dates there; this falls back to file mtime.
     """
     try:
         out = subprocess.run(
@@ -80,8 +109,8 @@ def first_commit_date(path: Path) -> datetime:
         ).stdout.strip().splitlines()
         if out:
             return datetime.fromisoformat(out[-1]).astimezone(timezone.utc)
-    except Exception:
-        pass
+    except Exception as exc:
+        print(f"warning: git date lookup failed for {path.name}: {exc}", file=sys.stderr)
     return datetime.fromtimestamp(path.stat().st_mtime, tz=timezone.utc)
 
 
@@ -114,6 +143,11 @@ def main() -> None:
     cfg = load_config()
     base = f"{cfg['base_url']}/site"
     SITE.mkdir(exist_ok=True)
+    known = {}
+    if is_shallow():
+        known = committed_pubdates()
+        print("warning: shallow clone; reusing pubDates from the committed site/feed.xml "
+              "(CI builds with full history)", file=sys.stderr)
 
     episodes = []
     for md in sorted(EPISODES.glob("*.md")):
@@ -122,7 +156,7 @@ def main() -> None:
         desc = meta.get("description", "")
         article = body_to_html(body)
         slug = md.stem
-        pub = first_commit_date(md)
+        pub = known.get(f"{base}/{slug}.html") or first_commit_date(md)
 
         inner = (
             "<article>\n"

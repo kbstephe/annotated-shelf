@@ -83,11 +83,15 @@ change the words. `scripts/lint_script.py` flags these mechanically.
 Required elements (order flexible, shoehorn nothing): who the author is and why
 they earn attention; the two or three central ideas each carried by a worked
 example; the steelman before the case against; the case against stated hard;
-connection to the series' running frames (Rao's pyramid, Jackall's blame
-hydraulics, Davies's sinks — as they genuinely apply); a verdict with reading
-prescription and dose; one generative question the listener can carry into the
-next working week (application, not recall) — never labelled "the question for
-Monday" or any fixed formula; Kevin, 27 Aug 26: the recurring phrase grates; "Next time, X"; "Thanks for listening."
+connection to the series' running frames (FRAMES.md lists them; carry the
+mechanism, not just the name, and only where it genuinely applies); a verdict
+with reading prescription and dose; one application the listener can use in
+his own work (not recall). It may be an instruction, a bet, a scenario or a
+test to run. It is never labelled, never introduced by a fixed phrase, and
+never in the previous episode's closing shape: read the last episode's final
+two paragraphs before writing yours (Kevin, 27 Aug 26: the recurring phrase
+grates; it re-formed as "the question to carry into X" in 058-065 and the
+lint now bans that family); "Next time, X"; "Thanks for listening."
 
 ## Writing for retention (single listen, no rewind)
 
@@ -97,6 +101,12 @@ Monday" or any fixed formula; Kevin, 27 Aug 26: the recurring phrase grates; "Ne
   default, not a rule to force onto every chapter). Importance signposts are the
   banned list above. The test: does the sentence orient the listener in the
   argument (keep) or instruct them what to feel about it (cut)?
+  A deferral may say where a thread goes ("I will come back to how much
+  worse"); it may not grade it on the way ("this will matter later",
+  "remember that detail"). Importance is shown at the payoff, never
+  announced ahead of it. A chapter's first sentence is a finding, a scene or
+  the question it answers; the citation (who published what, where, in which
+  year) comes second, after the claim the paper makes.
 - **Fewer ideas, worked deeper.** Audio has no visual channel to offload onto.
   Three ideas landed beat seven surveyed.
 - **Define terms before building on them.** Never introduce a concept
@@ -165,18 +175,20 @@ Monday" or any fixed formula; Kevin, 27 Aug 26: the recurring phrase grates; "Ne
   right part of his work, not always on BLOOM.
 - Take the object dead seriously, especially a disreputable one (Rao analyzing
   a sitcom as peer literature to Whyte). Never signal "I know this is silly."
-- Numbers and acronyms written out for the ear. No formatting that cannot be
-  heard: no bullets, no bold, no parenthetical longer than a breath.
+- Numbers and acronyms written out for the ear, except four-digit years and
+  decimal statistics, which may stay as digits (16 Oct 26; the lint enforces
+  it). No formatting that cannot be heard: no bullets, no bold, no
+  parenthetical longer than a breath. No em dashes (the lint flags them).
 - Vary sentence and paragraph rhythm; break parallel structures. Watch the
-  AI tics catalogued in `~/.claude/skills/academic-writing/references/ai-tells.md`
-  (triadic tic, epigram run, uniform paragraph shapes) — the read-aloud medium
-  exposes them mercilessly.
+  AI tics: the triadic tic, the epigram run, uniform paragraph shapes. The
+  read-aloud medium exposes them mercilessly.
 
 ## Grounding and honesty (hard rules)
 
 - **Write only what the material supports.** An episode happens only when the
-  work can actually be reconstructed — from solid training knowledge verified by
-  web search for anything load-bearing, or from the user's own notes. If command
+  work can actually be reconstructed — from solid training knowledge verified
+  against text the session held for anything load-bearing, or from the user's
+  own notes. If command
   of a book is thin, say so in the episode or leave the book in the queue.
   Say it in the sentence that makes the claim, in one clause ("from the
   abstract only", "through a summary I did not check"), as 058 and 059 did.
@@ -186,10 +198,27 @@ Monday" or any fixed formula; Kevin, 27 Aug 26: the recurring phrase grates; "Ne
   carried one and they stand as published, but do not copy their endings.
   That list belongs in PROJECT_LOG's Verification field, where it already
   lives. The episode ends on its last claim, the next title and the sign-off.
+- **Spoken numbers come from held text** (16 Oct 26). Any number, date or
+  quotation that will be spoken comes from text the writer held: raw HTML,
+  Europe PMC fullTextXML, pdftotext output, arXiv text, or a Read-tool page of
+  a PDF or scan. A WebFetch or search summary tells you whether and what to
+  fetch, never what to say: summaries have fabricated a quote, misplaced a
+  quote, asserted a false event, and given 059 a wrong percentage (corrected
+  in 063). If the text cannot be held, drop the figure or speak it as
+  approximate, with the hedge in the same sentence. Routes that work are in
+  references/sourcing-routes.md.
 - **Never invent quotes, scenes, or statistics.** Quotes only when verified
-  against a source this session; otherwise paraphrase and attribute. Under-15
-  words, at most one per source (copyright).
-- **Constructed examples are always flagged as constructed.**
+  against a source while writing the episode; otherwise paraphrase and
+  attribute. Under-15 words, at most one per source (copyright).
+- **Constructed examples are always flagged**, in plain speech the listener
+  would not recognise as a checklist item: "Suppose a funder has a hundred
+  applications", "Imagine two applicants", "the numbers are made up to show
+  the arithmetic". Never "flagged as constructed", "that inference is mine"
+  or any phrase from this document; the lint bans that family.
+- **Proximity rule** (Kevin, 8 Sep 26). An episode touching the listener's own
+  work (nutrition items 5 and 8, Doers items 8 and 11, and any later item the
+  queue marks for proximity) uses the published record only: no BLOOM aside
+  and no reference to his own studies, unless Kevin steers it.
 - **Distinguish three things when they diverge**: what the author claims, what
   the evidence supports, what the narrator concludes.
 - **Steelman before critique.** Reconstruct the strongest version of a position
@@ -243,14 +272,21 @@ The canon will range wider (philosophy, science); the home lens travels with it.
 ## Continuity rules (critical for unattended runs)
 
 - Before writing, read the one or two most recent scripts in `episodes/` in
-  full. The synthesis must engage with what those episodes actually said.
+  full. The synthesis must engage with what those episodes actually said, but
+  do not inherit their habits: anything the charter does not ask for (a
+  closing formula, a source-list paragraph) is drift, not house style.
+- Read FRAMES.md, and run `python3 scripts/frames.py episodes/NNN-slug.md` on
+  the draft before pre-flight: it lists the running frames the draft touches
+  and the ten longest unused. Call one back only where it genuinely applies.
 - The original Rao (Gervais Principle) episode predates this feed: style
   ancestry only. Use its ideas freely as series touchstones, but never call it
   "last episode" or give it an episode number. (Davies is Episode 002 in the
   feed and may be referenced as such.)
 - End the final chapter, just before "Thanks for listening," by naming the next
-  work: "Next time, X." Pick the first unchecked item in queue.md. The overnight
-  pipeline reads this sign-off to choose the next episode — it is a promise.
+  work: "Next time, X." Name the next item in queue.md's Order of record (the
+  top block); the file-order first unchecked item is not the rule. The
+  overnight pipeline reads this sign-off to choose the next episode — it is a
+  promise.
 - **No conversational residue.** The script must contain nothing addressed to
   the user or referencing the session that produced it ("Your instinct is
   right", "as you suggested"). The listener is a stranger to this conversation.
@@ -261,9 +297,12 @@ The canon will range wider (philosophy, science); the home lens travels with it.
    Short: deepen the worked examples and the steelman. Long: cut coverage,
    not depth — or split parts.
 2. **Lint.** `python scripts/lint_script.py episodes/NNN-slug.md` must print
-   `0 repeats, 0 tics`. It catches phrase echoes within forty words and the
+   `0 repeats, 0 tics`. It catches phrase echoes within forty words, the
    banned narrator moves (importance announcements, "load-bearing", "the point
-   is", "which is to say", "sit with that", "quietly", "precisely", em dashes…).
+   is", "which is to say", "sit with that", "quietly", "precisely", em dashes,
+   the closing-question formula, narrated checklist words, a closing source
+   list, session residue), digits other than years and decimals, the sign-off
+   shape, and the title cap.
    Each hit gets rewritten, not synonym-swapped; a repeat is fixed by changing
    the second occurrence's words or cutting it. Then a manual pass for the
    moves a regex cannot see: insight countdowns, quote ushers, stock praise,
@@ -274,6 +313,12 @@ The canon will range wider (philosophy, science); the home lens travels with it.
 4. **Grounding pass**: every quote verified, every constructed example flagged,
    no conversational residue, no closing source list, first sentence works as
    a cold open.
-5. `python scripts/build_site.py` runs clean; then discard local site output
-   (`git checkout site/`, delete untracked site/*.html) — CI rebuilds it.
-6. Frontmatter has `title:` and `description:` (one sentence, for the feed).
+5. Optional local preview: `python scripts/build_site.py`, then discard the
+   output (`git checkout site/`, delete untracked site/*.html). CI rebuilds
+   site/ on every push; never commit site/.
+6. Frontmatter has `title:` and `description:`. Title keeps the form of record
+   (Kevin, 28 Aug 26): Work (author surname; two joined by "and"; more than
+   two, first surname and colleagues), Part N if any, then a colon and one
+   short hook saying what you will hear. Cap 105 characters and 15 words
+   (the lint enforces it). Everything else goes in description: one
+   sentence, about 30-45 words.

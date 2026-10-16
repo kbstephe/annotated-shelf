@@ -17,19 +17,28 @@
    Psychology of Human Misjudgment) done 21 Sep 26, closing the shelf.
    Sign-off points to nutrition science, item 1 (scurvy), up next.
 4. Then nutrition science, science as an institution, how evidence was
-   invented, doers, in that order; each to be scoped with Kevin before its
-   first episode is written. Nutrition science was already scoped 8 Sep 26
-   "as a start" and the PubMed connector attached the same day. Item 1
+   invented, doers, in that order; all five were scoped with Kevin on 8 Sep
+   26 (nutrition and evidence "as a start", so re-ordering within them is
+   allowed), and no further scoping gate stands before a series opens, per
+   the 047-to-048 and 056-to-057 precedents. The PubMed connector was
+   attached 8 Sep 26. Item 1
    (scurvy) done as 048, 22 Sep 26, opening the series; item 2 (beriberi)
    done as 049, 23 Sep 26; item 3 (pellagra) done as 050, 24 Sep 26; item 4
    (the Minnesota Starvation Experiment) done as 051, 25 Sep 26; item 5 (the
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); item 6 (Merton) done as 062, 12 Oct 26 (unattended); item 7 (Azoulay et al.) done as 063, 13 Oct 26 (unattended); item 8 (ideas duel) done as 064, 14 Oct 26 (unattended); item 9 (the study section) done as 065, 15 Oct 26 (unattended); sign-off points to item 10, Cochrane. If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); item 6 (Merton) done as 062, 12 Oct 26 (unattended); item 7 (Azoulay et al.) done as 063, 13 Oct 26 (unattended); item 8 (ideas duel) done as 064, 14 Oct 26 (unattended); item 9 (the study section) done as 065, 15 Oct 26 (unattended); item 10 (Cochrane) done as 066, 16 Oct 26 (unattended), closing the series; sign-off points to How evidence was invented, item 1, Semmelweis and Snow. If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
+5. After Doers (085), three series scheduled 16 Oct 26 at Kevin's go-ahead
+   ("just unlock next batch"), in the slot the 16 Oct review recommended:
+   the analysis plan (086-095), the judge and the formula (096-105), the
+   view from headquarters (106-115). Scoped in their own sections at the end
+   of this file; the reasoning is in reviews/2026-10-16-topics-and-improvements.md,
+   which also scopes two more series (global health as an institution;
+   making doctors) and an interlude pool, not yet scheduled.
 
 ## Done
 - [x] 000 Pipeline test
@@ -1136,9 +1145,21 @@ Atlantis 2016); Nielsen, Reinventing Discovery (2011).
 
 Eight episodes (067–074). Cochrane closes the science series, so this one
 starts a step earlier and ends with the machinery Kevin uses every week.
-Same grounding bar as nutrition: the primary papers are all short and
-fetchable, so read them. Practical half first: what a trialist's SAP
-actually commits to.
+Same grounding bar as nutrition: read the primary papers wherever they can
+be held as text. Most can (routes checked 16 Oct 26 in
+.claude/skills/audio-essay/references/sourcing-routes.md); ISIS-2, Guyatt
+1992, Hill 1965, Hill 1990 and Hernán 2008 could not be reached, so those
+items lean on open restatements and say so in the sentence. Practical half
+first: what a trialist's SAP actually commits to.
+
+Earlier frames that may apply, only where they genuinely do (FRAMES.md):
+Goodhart and Campbell (a score or 0.05 as a target, 027-028); the man of one
+study and the control group (039); the nutritional-epidemiology duel (056);
+the study section's noise (065); effectiveness and efficiency (066).
+Frames this series plants, in the same words each time they recur: the
+sealed envelope; the astrological subgroup; the null ritual; the
+healthy-user effect. Heavy items for numbers: 3, 5, 6 and 8; one worked
+number-run per chapter. Duels: 3 and 6.
 
 - [ ] 1. Before the trial: Semmelweis and Snow. Handwashing in Vienna
   (1847) and the Broad Street pump (1854): observational evidence that was
@@ -1191,11 +1212,11 @@ rest are proposals. None is scheduled until he picks.
 - [x] **Science as an institution** — scoped 8 Sep 26 as its own section above.
 - [x] **How evidence was invented** — scoped 8 Sep 26 as its own section above ("sounds good for a start").
 - [x] **Doers** — scoped 8 Sep 26 as its own section below.
-- Proposed next series (16 Oct 26): five series and an interlude pool from a
-  scouting-and-panel pass, scoped in "Proposed next series" at the end of
-  this file and in full in reviews/2026-10-16-topics-and-improvements.md.
-  None is scheduled until Kevin picks; the bullets there carry no checkboxes
-  on purpose, so the fall-through rule above cannot select them.
+- [x] **The analysis plan, the judge and the formula, the view from
+  headquarters**: scheduled after Doers on 16 Oct 26, scoped at the end of
+  this file. Global health as an institution, making doctors and the
+  interlude pool are scoped in reviews/2026-10-16-topics-and-improvements.md
+  and not yet scheduled.
 
 ## Doers: people who built things (series of record, scoped 8 Sep 26)
 
@@ -1203,6 +1224,14 @@ Eight subjects, eleven episodes (075–085) once the two-parters are counted.
 Leans toward people who built institutions in hard places rather than
 founders, because that is closer to Kevin's job. Big books get two parts
 per the charter. Sierra Leone reads are one aside each, never a theme.
+
+Earlier frames that may apply, only where they genuinely do (FRAMES.md):
+the replacement rate and the Fast list (040); contract, not conscription
+(042); named successors (044) and which ledger (045); normal accidents
+(029); leverage and paired indicators (023); legibility and mētis (017-018).
+Frames this series plants: the person who controls the paperwork (Moses);
+the small insulated team (Skunk Works); responsibility with a name attached
+(Rickover). Proximity rule applies to items 8 (Borlaug) and 11 (Farmer).
 
 - [ ] 1–2. Caro, The Power Broker (1974), two parts. How Moses accumulated
   power nobody voted for: authorities, bond covenants, knowing the rules
@@ -1251,23 +1280,23 @@ Alternates: Isaacson, Steve Jobs (on Collison's shelf, but done to death);
 Shackleton (Lansing, Endurance); Cowperthwaite and Hong Kong (Monnery, The
 Architect of Prosperity, linked from Collison's Questions page).
 
-## Proposed next series (16 Oct 26, unscoped; none scheduled until Kevin picks)
+## After Doers: three series of record (scheduled 16 Oct 26)
 
-Series editor's cut from the 16 Oct 26 panel (80 candidates, four judges). Three series in recommended order; the full report has five plus an interlude pool. Numbers assume the Doers end at 085. Same grounding bar as the evidence series: open primaries read in full, paywalled texts reconstructed from open restatements and never quoted, attended-only items marked. Proximity rule as for nutrition 5 and 8.
+Series editor's cut from the 16 Oct 26 panel (80 candidates, four judges), scheduled after Doers the same day. Three series in order; the full report has five plus an interlude pool. Numbers assume the Doers end at 085. Same grounding bar as the evidence series: open primaries read in full, paywalled texts reconstructed from open restatements and never quoted, attended-only items marked. Proximity rule as for nutrition 5 and 8.
 
 ### 1. The analysis plan: ten fights behind the document you sign before you unblind (086–095)
 
 Ten episodes. A SAP is a list of arguments its author promises not to make later; each promise was won in a published fight between named statisticians. The evidence series (067–074) ends at SAPs as governance; this is the layer underneath, the reasons. Practical half of every episode: which section of the SAP it changes, and why.
 
-- 1. What counts as a test. Chamberlin 1890/1965 and Platt 1964 (whoi.edu PDFs), Meehl 1967 (gwern) and 1978 (Notre Dame PDF). Constellation. Meehl's paradox worked numerically: in soft science more power makes a directional null easier to reject, so precision weakens corroboration; NIH "hypothesis-driven" aims as Platt's language on Meehl's weak tests. Case against: O'Donohue and Buchanan 2001 (open, MNSU), Davis 2006, Serlin and Lapsley 1985, Gelman's 2026 rereading.
-- 2. Gosset v Fisher: the Lanarkshire milk experiment, duel. Student 1931 and Elderton 1933 (gwern scans), Senn 2023 (PMC9867657); Fisher and Bartlett 1931 and Student 1938 paywalled, read through Senn, Bailey and Ziliak (JEP 2008, free). Teachers "balancing" 20,000 children put poorer children in the milk arm; Student's fifty twin pairs run as arithmetic. Case against: Fisher via Senn 1994 and 2020, Yates 1939; Senn shows Student's own variance ignored the block structure. Proximity: a school-feeding cluster trial, published record only.
-- 3. Senn v Deaton and Cartwright: what randomisation buys, duel. Senn 2013 (author copy at errorstatistics.com), Deaton-Cartwright 2018 (PMC6019115), Worrall 2002 (testingtreatments.org). The indefinitely-many-covariates argument; why CONSORT dropped baseline p-values. Case against: Imbens's and Basu's commentaries, Bonell et al.; Martinez and Teira 2024 against Worrall.
-- 4. The adjustment constellation. Lord 1967 (via Pearl 2016 and Tennant, arXiv 2302.01822), Freedman 2008 (stat.berkeley.edu), Lin 2013 (arXiv 1208.2301), Vickers and Altman 2001 (PMC1121605), FDA 2023 covariate guidance. Lord's dining hall; Freedman's small-sample bias and Lin's fix; three analyses of one trial at correlations 0.2 to 0.8. Case against: Lin on Freedman; Holland and Rubin on Pearl; the mixed-model caution for cluster-level baselines.
-- 5. The power duel. Halpern 2002 (course-page copy) and Gelman-Carlin 2014 (errorstatistics PDF) v Bacchetti 2005 (AJE, with Prentice's commentary) and 2010 (PMC2856520). The pilot-to-R01 pipeline run end to end, with the exaggeration ratio for thirty per arm. Case against: Prentice 2005, Button 2013 and its correspondence, Mayo on design analysis as a smuggled prior.
-- 6. The subgroup duel. Yusuf 1991 (paywalled; restated in Sleight 2000, PMC59592) v Kravitz 2004 (PMC2690188), Kent 2010 (PMC2928211) and 2018 (PMC6889830), PATH 2020. One prespecified risk score against one-at-a-time subgroups; the highest-risk quartile holds most absolute benefit. Case against: Harrell on PATH (fharrell.com); Brookes on interaction power. The astrological subgroup gets one sentence; 071 owns it.
-- 7. Ware's ECMO trial, single read. Statistical Science 1989 with the full discussion and Ware's rejoinder, and Royall 1991 with discussion (Project Euclid, open); Bartlett 1985 (mirror PDF); UK Collaborative Trial 1996 (numbers reproduced); Thall 2015 (open). Play-the-winner's one control infant; 9/9 against 6/10; 185 infants settle it. Case against: Royall and Berry; Byar, Zelen and Simes; Robertson 2023 (arXiv 2005.00564) on Thall's simulations. Paneth 1985 editorial unverified, check before use.
-- 8. Popper and Mayo on what a null licenses. Popper 1953 (errorstatistics PDF), Mayo-Spanos 2006 (errorstatistics), Mayo-Cox 2006 (arXiv math/0610846). A constructed null trial (flagged) run through severity: which effect sizes the result rules out. Case against: Earman-Glymour via Kennefick (arXiv 0709.0685); the 2019 multi-author review (arXiv 1905.08876); Gelman-Shalizi 2013. P-value politics stay in 069.
-- 9–10. Pearl v Hernán and Robins, two parts. What If (free PDF), Hernán 2016 (PMC5207342), Pearl 2018 (NSF PAR), the IJE 2016 exchange (PMC5841832, PMC5841837), Imbens 2020 (arXiv 1907.07271). Part One the two languages (does water kill; the effect of obesity). Part Two the pluralism war, with a constructed mediation analysis (flagged) written in each language. Case against: Imbens, Gelman 2019, Aronow-Sävje 2020; Daniel et al.'s reply. 072 should point here, not repeat it.
+- [ ] 1. What counts as a test. Chamberlin 1890/1965 and Platt 1964 (whoi.edu PDFs), Meehl 1967 (gwern) and 1978 (Notre Dame PDF). Constellation. Meehl's paradox worked numerically: in soft science more power makes a directional null easier to reject, so precision weakens corroboration; NIH "hypothesis-driven" aims as Platt's language on Meehl's weak tests. Case against: O'Donohue and Buchanan 2001 (open, MNSU), Davis 2006, Serlin and Lapsley 1985, Gelman's 2026 rereading.
+- [ ] 2. Gosset v Fisher: the Lanarkshire milk experiment, duel. Student 1931 and Elderton 1933 (gwern scans), Senn 2023 (PMC9867657); Fisher and Bartlett 1931 and Student 1938 paywalled, read through Senn, Bailey and Ziliak (JEP 2008, free). Teachers "balancing" 20,000 children put poorer children in the milk arm; Student's fifty twin pairs run as arithmetic. Case against: Fisher via Senn 1994 and 2020, Yates 1939; Senn shows Student's own variance ignored the block structure. Proximity: a school-feeding cluster trial, published record only.
+- [ ] 3. Senn v Deaton and Cartwright: what randomisation buys, duel. Senn 2013 (author copy at errorstatistics.com), Deaton-Cartwright 2018 (PMC6019115), Worrall 2002 (testingtreatments.org). The indefinitely-many-covariates argument; why CONSORT dropped baseline p-values. Case against: Imbens's and Basu's commentaries, Bonell et al.; Martinez and Teira 2024 against Worrall.
+- [ ] 4. The adjustment constellation. Lord 1967 (via Pearl 2016 and Tennant, arXiv 2302.01822), Freedman 2008 (stat.berkeley.edu), Lin 2013 (arXiv 1208.2301), Vickers and Altman 2001 (PMC1121605), FDA 2023 covariate guidance. Lord's dining hall; Freedman's small-sample bias and Lin's fix; three analyses of one trial at correlations 0.2 to 0.8. Case against: Lin on Freedman; Holland and Rubin on Pearl; the mixed-model caution for cluster-level baselines.
+- [ ] 5. The power duel. Halpern 2002 (course-page copy) and Gelman-Carlin 2014 (errorstatistics PDF) v Bacchetti 2005 (AJE, with Prentice's commentary) and 2010 (PMC2856520). The pilot-to-R01 pipeline run end to end, with the exaggeration ratio for thirty per arm. Case against: Prentice 2005, Button 2013 and its correspondence, Mayo on design analysis as a smuggled prior.
+- [ ] 6. The subgroup duel. Yusuf 1991 (paywalled; restated in Sleight 2000, PMC59592) v Kravitz 2004 (PMC2690188), Kent 2010 (PMC2928211) and 2018 (PMC6889830), PATH 2020. One prespecified risk score against one-at-a-time subgroups; the highest-risk quartile holds most absolute benefit. Case against: Harrell on PATH (fharrell.com); Brookes on interaction power. The astrological subgroup gets one sentence; 071 owns it.
+- [ ] 7. Ware's ECMO trial, single read. Statistical Science 1989 with the full discussion and Ware's rejoinder, and Royall 1991 with discussion (Project Euclid, open); Bartlett 1985 (mirror PDF); UK Collaborative Trial 1996 (numbers reproduced); Thall 2015 (open). Play-the-winner's one control infant; 9/9 against 6/10; 185 infants settle it. Case against: Royall and Berry; Byar, Zelen and Simes; Robertson 2023 (arXiv 2005.00564) on Thall's simulations. Paneth 1985 editorial unverified, check before use.
+- [ ] 8. Popper and Mayo on what a null licenses. Popper 1953 (errorstatistics PDF), Mayo-Spanos 2006 (errorstatistics), Mayo-Cox 2006 (arXiv math/0610846). A constructed null trial (flagged) run through severity: which effect sizes the result rules out. Case against: Earman-Glymour via Kennefick (arXiv 0709.0685); the 2019 multi-author review (arXiv 1905.08876); Gelman-Shalizi 2013. P-value politics stay in 069.
+- [ ] 9–10. Pearl v Hernán and Robins, two parts. What If (free PDF), Hernán 2016 (PMC5207342), Pearl 2018 (NSF PAR), the IJE 2016 exchange (PMC5841832, PMC5841837), Imbens 2020 (arXiv 1907.07271). Part One the two languages (does water kill; the effect of obesity). Part Two the pluralism war, with a constructed mediation analysis (flagged) written in each language. Case against: Imbens, Gelman 2019, Aronow-Sävje 2020; Daniel et al.'s reply. 072 should point here, not repeat it.
 
 Alternates: the three paradoxes (Berkson 1946 in IJE 2014, Bickel 1975, the birth-weight paradox; proximity); Cornfield 1959 and the E-value dispute; Amrhein-Greenland-McShane 2019 v Ioannidis; Breiman's two cultures.
 
@@ -1275,13 +1304,13 @@ Alternates: the three paradoxes (Berkson 1946 in IJE 2014, Bickel 1975, the birt
 
 Ten episodes. 065 ended on whether a one-point score difference could be defended to a second reader; that is Meehl's 1954 question with the answer already counted. From the formula to the room to the tournament; closes on the trial record as the only scorer that kept count. Every Meehl text is open on meehl.umn.edu.
 
-- 1. Meehl, Clinical versus Statistical Prediction (1954), with "When Shall We Use Our Heads" (1957) and "Causes and Effects of My Disturbing Little Book" (1986), all on meehl.umn.edu; the book via Grove and Meehl 1996 (same site). Body of work, one part. The tally, Grove 2000's 136-study recount, the broken-leg override's four conditions. Case against: Holt 1958 and 1970, Sawyer 1966, Kleinmuntz 1990. The 1973 case-conference essay goes to the training series.
-- 2. The model of the judge beats the judge. Goldberg 1970 (paywalled; reconstructed in Grove-Meehl 1996), Dawes 1979 (cmu.edu PDF, image scan), Dawes-Faust-Meehl 1989 (Meehl site). Constellation. Bootstrapping; unit weights and the flat maximum (Wainer 1976); why clinicians never learn. Case against: Karelaia-Hogarth 2008; Gigerenzer's fast-and-frugal rival; Holt again.
-- 3. When can a clinician trust the feeling. Kahneman-Klein 2009 (mirrored PDFs), Shanteau 1992 (paywalled; lists reproduced in open secondary), Hogarth-Lejarraga-Soyer 2015 (pure.mpg.de). Constellation. Hogarth's typhoid doctor; three of the listener's tasks sorted kind or wicked (bedside, grant scoring, dashboard). Case against: Klein 2015, Hambrick 2014; the circularity charge. Reception admiring, say so.
-- 4–5. Noise (Kahneman, Sibony, Sunstein 2021), two parts, from its open sources: Partridge-Eldridge 1974 (FJC PDF), Dror 2006, Vul-Pashler 2008, Linder 2014 / Kim 2018 / Neprash 2019 (PMC). Part One: the insurance audit (ten guessed, fifty-five found), MSE as bias squared plus noise squared, percent-concordant applied to 065's score-outcome correlations. Part Two: the sentencing-guidelines arc and decision hygiene. Case against: John Kay 2021, Bronnikov 2022 (SABE PDF), Stith and Cabranes 1998. Book paraphrased, never quoted.
-- 6–7. The committee, duel in two parts. Janis 1972 v Surowiecki 2004 (both lending) and Sunstein 2005 (NYU Law Review, open); decided by Galton 1907 (galton.org), Stasser-Titus 1985, Lorenz 2011 (PMC3107299), Aldag-Fuller 1993 (MIT PDF), Tetlock 1992. Part Two: Delphi (Dalkey-Helmer; Sackman 1974 on DTIC) and the grant panels (Obrecht 2007, Fogelholm 2012, Pier 2017). Case against: Fuller-Aldag 1998, Kramer 1998, Baron 2005; Lanier 2006; Woudenberg 1991. 006 coined groupthink and 030 rejected it: callbacks only.
-- 8–9. Tetlock, Expert Political Judgment and Superforecasting, two parts, with Mellers 2014 (eScholarship) and Hauenstein 2024 (OSF). 284 experts, 82,000 forecasts; the three levers and the reanalysis that erases two. Case against: Caplan 2010, Bueno de Mesquita 2010 (Potsdam PDF), Taleb-Bar-Yam-Cirillo 2022, Denrell-Fang 2010. One sentence on 011's Burnham scoring, no redo.
-- 10. Closer: can anyone predict the trial. Djulbegovic-Chalmers (Cochrane MR000024; Nature 2013, not 2008), Benjamin 2020 (PMC7794184), Atanasov 2020 (PMC7455341), Doussau 2023 (PMC11005298), Benjamin-Mandel-Kimmelman 2017 (PMC5490935). Constellation. 137 oncologists, AUC 0.52, beaten by the always-fifty-percent algorithm; aggregates carry signal, individuals none. Case against: Miller and Joffe 2011 on equipoise; the after-the-fact base rate; reception is the authors answering themselves, say so. Callbacks to 066 and 072.
+- [ ] 1. Meehl, Clinical versus Statistical Prediction (1954), with "When Shall We Use Our Heads" (1957) and "Causes and Effects of My Disturbing Little Book" (1986), all on meehl.umn.edu; the book via Grove and Meehl 1996 (same site). Body of work, one part. The tally, Grove 2000's 136-study recount, the broken-leg override's four conditions. Case against: Holt 1958 and 1970, Sawyer 1966, Kleinmuntz 1990. The 1973 case-conference essay goes to the training series.
+- [ ] 2. The model of the judge beats the judge. Goldberg 1970 (paywalled; reconstructed in Grove-Meehl 1996), Dawes 1979 (cmu.edu PDF, image scan), Dawes-Faust-Meehl 1989 (Meehl site). Constellation. Bootstrapping; unit weights and the flat maximum (Wainer 1976); why clinicians never learn. Case against: Karelaia-Hogarth 2008; Gigerenzer's fast-and-frugal rival; Holt again.
+- [ ] 3. When can a clinician trust the feeling. Kahneman-Klein 2009 (mirrored PDFs), Shanteau 1992 (paywalled; lists reproduced in open secondary), Hogarth-Lejarraga-Soyer 2015 (pure.mpg.de). Constellation. Hogarth's typhoid doctor; three of the listener's tasks sorted kind or wicked (bedside, grant scoring, dashboard). Case against: Klein 2015, Hambrick 2014; the circularity charge. Reception admiring, say so.
+- [ ] 4–5. Noise (Kahneman, Sibony, Sunstein 2021), two parts, from its open sources: Partridge-Eldridge 1974 (FJC PDF), Dror 2006, Vul-Pashler 2008, Linder 2014 / Kim 2018 / Neprash 2019 (PMC). Part One: the insurance audit (ten guessed, fifty-five found), MSE as bias squared plus noise squared, percent-concordant applied to 065's score-outcome correlations. Part Two: the sentencing-guidelines arc and decision hygiene. Case against: John Kay 2021, Bronnikov 2022 (SABE PDF), Stith and Cabranes 1998. Book paraphrased, never quoted.
+- [ ] 6–7. The committee, duel in two parts. Janis 1972 v Surowiecki 2004 (both lending) and Sunstein 2005 (NYU Law Review, open); decided by Galton 1907 (galton.org), Stasser-Titus 1985, Lorenz 2011 (PMC3107299), Aldag-Fuller 1993 (MIT PDF), Tetlock 1992. Part Two: Delphi (Dalkey-Helmer; Sackman 1974 on DTIC) and the grant panels (Obrecht 2007, Fogelholm 2012, Pier 2017). Case against: Fuller-Aldag 1998, Kramer 1998, Baron 2005; Lanier 2006; Woudenberg 1991. 006 coined groupthink and 030 rejected it: callbacks only.
+- [ ] 8–9. Tetlock, Expert Political Judgment and Superforecasting, two parts, with Mellers 2014 (eScholarship) and Hauenstein 2024 (OSF). 284 experts, 82,000 forecasts; the three levers and the reanalysis that erases two. Case against: Caplan 2010, Bueno de Mesquita 2010 (Potsdam PDF), Taleb-Bar-Yam-Cirillo 2022, Denrell-Fang 2010. One sentence on 011's Burnham scoring, no redo.
+- [ ] 10. Closer: can anyone predict the trial. Djulbegovic-Chalmers (Cochrane MR000024; Nature 2013, not 2008), Benjamin 2020 (PMC7794184), Atanasov 2020 (PMC7455341), Doussau 2023 (PMC11005298), Benjamin-Mandel-Kimmelman 2017 (PMC5490935). Constellation. 137 oncologists, AUC 0.52, beaten by the always-fifty-percent algorithm; aggregates carry signal, individuals none. Case against: Miller and Joffe 2011 on equipoise; the after-the-fact base rate; reception is the authors answering themselves, say so. Callbacks to 066 and 072.
 
 Alternates: Croskerry v Norman (placed in the training series); Gigerenzer v Kahneman-Tversky (6.0; 047 used the point); Nudge and the replication reckoning (Mertens, Maier, DellaVigna-Linos) as optional coda.
 
@@ -1289,15 +1318,15 @@ Alternates: Croskerry v Norman (placed in the training series); Gigerenzer v Kah
 
 Ten episodes. The only thing that travels from a frontline worker to a distant centre is a record; every management problem in a dispersed programme is a question about what the record can carry. Verdict resists a lesson: measurement is a conditional instrument and the condition is the verifiability of the output. Two attended-only episodes; unattended, the series runs as eight.
 
-- 1. Kaufman, The Forest Ranger (1960; RFF 2006). Single read, attended only: no open text, Internet Archive lending unverified; reconstructable from Wilson 1989, Tipple-Wellman (PAR 1991), Koontz (PAR 2007). The diary read against the forest; preformed decisions; rotation at the price of belonging. Case against: Tipple-Wellman, Hirt 1994, Moe. If no copy, open with Lipsky.
-- 2. Lipsky, Street-Level Bureaucracy (1980; 2010 edition) with "Toward a Theory of Street-Level Bureaucracy" (1969; irp.wisc.edu dp4869.pdf, verified). Single read. Creaming, categories as the eligibility rule nobody wrote, counts of coping. Case against: Evans-Harris 2004, Bovens-Zouridis 2002, Maynard-Moody and Musheno 2003.
-- 3. The Indian monitoring constellation. Chaudhury 2006 (aeaweb.org free), Banerjee-Glennerster-Duflo 2008 (J-PAL page), Duflo-Hanna-Ryan 2012 (NBER 11880), Dhaliwal-Hanna 2017 (NBER 20482); all verified. Udaipur nurses (gains gone by month sixteen through exemptions), Udaipur teachers (absence halved, held, because the NGO paid them), Karnataka at scale. Case against: Deaton-Cartwright; Pritchett-Sandefur 2015; Muralidharan-Niehaus 2017; the Lipskyan objection. No aside; the mapping is Kevin's.
-- 4. Tendler, Good Government in the Tropics (1997). Single read, attended only; book in copyright, Tendler-Freedheim 1994 paywalled; open companions Svitone 2000 and Barrêto 2000 (SciELO, 403 from here), Macinko 2006 (PMC2465542), Rowe 2018 (PMC6185992). Ceará's radio campaigns told villages what each agent owed them, making the client the supervisor. Case against: one state, one governor; Barrêto's finding that families bypassed agents when children were ill. Named critics unverified; search first.
-- 5. The checklist constellation. Pronovost 2006, Dixon-Woods 2011 (PMC3142336), Haynes 2009, Urbach 2014, Semrau/BetterBirth 2017 (PMC5672590, CC BY). Michigan, Ontario, Uttar Pradesh, ending on the box done and the composite unchanged. Case against: Bosk 2009, Catchpole-Russ 2015, Leape 2014; the blunt-composite reply. Proximity: maternal-health programme trial, published record only.
-- 6. The end result. Codman 1918 (Internet Archive), Donabedian 1966 (PMC2690293), Berwick 1989 (paywalled, four pages). Constellation. Outcome most valid and least attributable; bad apples against continuous improvement; Mid Staffordshire. Case against: Donabedian 1989 on Codman, Wachter-Pronovost 2009, Dixon-Woods and Martin 2016. Callback to 028, not a re-run.
-- 7. Bosk v Leape and To Err Is Human (nationalacademies.org, free). Duel. The four errors and the M&M ritual; the Harvard arithmetic to 44,000–98,000; Hayward-Hofer 2001; Makary 2016 v Shojania and Dixon-Woods 2017. Case against: Millman 1977, Paget 1988; Bosk's 2003 preface. Bosk paraphrased from a lending copy or not quoted.
-- 8. Ostrom's second programme. Nobel lecture (AER 2010, open), "Crossing the great divide" 1996 (hosted copies, verify), the Indianapolis policing studies (lending). Body of work. Victimisation surveys against departmental forms; condominial sewers; design principles as a monitoring theory read against the CHW record (Perry 2014). Case against: Morrison 2019, Mitlin 2008, the consolidation school. Proximity: Ostrom's cases and the published CHW record only; nothing on BLOOM.
-- 9. Building State Capability (Andrews, Pritchett, Woolcock 2017; OUP open access, also bsc.hks.harvard.edu) with "Capability Traps" 2010 (cgdev.org) and "Looking Like a State" 2013. Isomorphic mimicry, premature load bearing, the big stuck. Case against: Yanguas 2018, Duncan Green, the reflexive objection; reception thin, say so.
-- 10. Honig, Navigation by Judgment (2018) with "When Reporting Undermines Performance" (IO 2019). Closer. Fourteen thousand projects; autonomy pays where output is hard to verify, costs where it is not. Case against: Dietrich 2021; the crude autonomy measure; the self-reported project rating. Author site 503 this session.
+- [ ] 1. Kaufman, The Forest Ranger (1960; RFF 2006). Single read, attended only: no open text, Internet Archive lending unverified; reconstructable from Wilson 1989, Tipple-Wellman (PAR 1991), Koontz (PAR 2007). The diary read against the forest; preformed decisions; rotation at the price of belonging. Case against: Tipple-Wellman, Hirt 1994, Moe. If no copy, open with Lipsky.
+- [ ] 2. Lipsky, Street-Level Bureaucracy (1980; 2010 edition) with "Toward a Theory of Street-Level Bureaucracy" (1969; irp.wisc.edu dp4869.pdf, verified). Single read. Creaming, categories as the eligibility rule nobody wrote, counts of coping. Case against: Evans-Harris 2004, Bovens-Zouridis 2002, Maynard-Moody and Musheno 2003.
+- [ ] 3. The Indian monitoring constellation. Chaudhury 2006 (aeaweb.org free), Banerjee-Glennerster-Duflo 2008 (J-PAL page), Duflo-Hanna-Ryan 2012 (NBER 11880), Dhaliwal-Hanna 2017 (NBER 20482); all verified. Udaipur nurses (gains gone by month sixteen through exemptions), Udaipur teachers (absence halved, held, because the NGO paid them), Karnataka at scale. Case against: Deaton-Cartwright; Pritchett-Sandefur 2015; Muralidharan-Niehaus 2017; the Lipskyan objection. No aside; the mapping is Kevin's.
+- [ ] 4. Tendler, Good Government in the Tropics (1997). Single read, attended only; book in copyright, Tendler-Freedheim 1994 paywalled; open companions Svitone 2000 and Barrêto 2000 (SciELO, 403 from here), Macinko 2006 (PMC2465542), Rowe 2018 (PMC6185992). Ceará's radio campaigns told villages what each agent owed them, making the client the supervisor. Case against: one state, one governor; Barrêto's finding that families bypassed agents when children were ill. Named critics unverified; search first.
+- [ ] 5. The checklist constellation. Pronovost 2006, Dixon-Woods 2011 (PMC3142336), Haynes 2009, Urbach 2014, Semrau/BetterBirth 2017 (PMC5672590, CC BY). Michigan, Ontario, Uttar Pradesh, ending on the box done and the composite unchanged. Case against: Bosk 2009, Catchpole-Russ 2015, Leape 2014; the blunt-composite reply. Proximity: maternal-health programme trial, published record only.
+- [ ] 6. The end result. Codman 1918 (Internet Archive), Donabedian 1966 (PMC2690293), Berwick 1989 (paywalled, four pages). Constellation. Outcome most valid and least attributable; bad apples against continuous improvement; Mid Staffordshire. Case against: Donabedian 1989 on Codman, Wachter-Pronovost 2009, Dixon-Woods and Martin 2016. Callback to 028, not a re-run.
+- [ ] 7. Bosk v Leape and To Err Is Human (nationalacademies.org, free). Duel. The four errors and the M&M ritual; the Harvard arithmetic to 44,000–98,000; Hayward-Hofer 2001; Makary 2016 v Shojania and Dixon-Woods 2017. Case against: Millman 1977, Paget 1988; Bosk's 2003 preface. Bosk paraphrased from a lending copy or not quoted.
+- [ ] 8. Ostrom's second programme. Nobel lecture (AER 2010, open), "Crossing the great divide" 1996 (hosted copies, verify), the Indianapolis policing studies (lending). Body of work. Victimisation surveys against departmental forms; condominial sewers; design principles as a monitoring theory read against the CHW record (Perry 2014). Case against: Morrison 2019, Mitlin 2008, the consolidation school. Proximity: Ostrom's cases and the published CHW record only; nothing on BLOOM.
+- [ ] 9. Building State Capability (Andrews, Pritchett, Woolcock 2017; OUP open access, also bsc.hks.harvard.edu) with "Capability Traps" 2010 (cgdev.org) and "Looking Like a State" 2013. Isomorphic mimicry, premature load bearing, the big stuck. Case against: Yanguas 2018, Duncan Green, the reflexive objection; reception thin, say so.
+- [ ] 10. Honig, Navigation by Judgment (2018) with "When Reporting Undermines Performance" (IO 2019). Closer. Fourteen thousand projects; autonomy pays where output is hard to verify, costs where it is not. Case against: Dietrich 2021; the crude autonomy measure; the self-reported project rating. Author site 503 this session.
 
 Alternates: Scott's Weapons of the Weak (the form as public transcript). Vetoed and not to be substituted: Wilson's Bureaucracy, Pressman-Wildavsky v Elmore, Bosk alone (see the report's Do-not-do list).

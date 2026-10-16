@@ -11,6 +11,7 @@ on:
       - "episodes/*.md"
       - "config.json"
       - "scripts/build_site.py"
+      - "site/**"   # a hand or agent commit to site/ is rebuilt within a minute; the bot's own commit carries [skip ci]
   workflow_dispatch: {}
 
 permissions:
