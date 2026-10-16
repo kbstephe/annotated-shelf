@@ -1656,3 +1656,51 @@ start. About 8 million subagent tokens across 65 agents so far (scouting
 this entry was written). Kevin's brief, in his words: "new valuable topics
 and investigation of ways to improve this project"; "high quality insightful
 summaries ... goal is for me to learn"; "I approve".
+
+## [2026-10-16] — Kevin's session (overnight): new-topic scouting and project audit, part two
+
+**Decisions:** None taken; everything below is a proposal for Kevin. The
+report is reviews/2026-10-16-topics-and-improvements.md: five proposed
+series (the analysis plan; the judge and the formula; the view from
+headquarters; global health as an institution; making doctors), a pool of
+ten interludes, 25 ranked improvements in three groups (do now with no
+decision; needs Kevin; later), five dismissed findings with the refuter's
+reasons, and five questions only Kevin can answer. The top three series are
+scoped at the end of queue.md under "Proposed next series", with hyphen
+bullets and no checkboxes so the fall-through rule cannot pick them up.
+Recommended order after the Doers: the analysis plan first, as the layer
+under the evidence series and the sequel to 065.
+
+**Verification:** Panel of four judges over 80 candidates (listener
+advocate, grounding skeptic with web spot-checks, curriculum editor,
+learning scientist); 76 survived, 4 vetoed by two or more judges
+(task-shifting constellation, his own literature; Lewis Thomas, lending-only
+texts; Yes Minister, no checkable script; Bosk alone, no open text). Top
+single candidates by weighted score: the Indian monitoring constellation
+(9.3), can anyone predict the trial (9.2), Ware's ECMO trial (8.4), the
+adjustment constellation (8.4). Improvements: 42 findings confirmed by an
+independent refuter with repository access, 5 refuted (a daily density
+question at the done skill; synthesis episodes closing each series; a
+charter density rule; a question frontmatter key; short interlude formats).
+The refuters re-measured every number used in the report.
+
+**Open questions:** (HITL) The five in STATE.md: the narrated closing
+source paragraph (keep, page-only, or log-only); a title cap; digits
+written out or years and decimals exempt; a one-line "listened" issue from
+the phone; a silent-failure watchdog issue. Also whether to pin the
+Routine's model. (AFK) The do-now group in the report's Part B is written
+to be applied by a day session in about a working day: lint families, three
+charter sentences, the held-text sourcing rule and a dated routes file, a
+cold second-reader step, FRAMES.md, the STATE rewrite and done-skill
+wording, the document reconciliation, .nojekyll.
+
+**Artifacts:** reviews/2026-10-16-topics-and-improvements.md (13,675
+words); queue.md (pointer under Candidate next series; the proposed section
+at the end, 1,947 words); STATE.md (snapshot names the report; Open (HITL)
+block rewritten as six numbered questions); this entry.
+
+**Context:** Session of 16 Oct 2026, 00:00 to about 02:15 UTC. Totals from
+the session record at 02:06 UTC: 2.7 million output tokens, 4.5 million
+input tokens, 78 million cache-read tokens, across 66 agents plus the main
+session. The user asked mid-session why his usage meter showed nothing;
+the answer lives in the chat, not here.
