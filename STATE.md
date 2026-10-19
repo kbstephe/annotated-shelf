@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (16 Oct 2026, Kevin's session)
+## Snapshot (19 Oct 2026, Routine run)
 
-Sixty-seven episodes (000 test + 001-066). 066, Cochrane's Effectiveness and Efficiency, closed the science series (written by the Routine this morning from the Nuffield scan; 7,702 words with frontmatter). The 16 Oct review's next batch is applied: lint families, FRAMES.md and scripts/frames.py, the held-text sourcing rule and references/sourcing-routes.md, a cold-read step (SKILL.md 2c), title cap and digit rule, done-skill limits, Pages and build fixes, Routine step 6 verifying by GUID. Three new series are scheduled after Doers (queue.md, Order of record item 5).
-**Ruling for 067 onward (Kevin, 16 Oct 26):** no closing bibliography. 065 and 066 end on one; do not copy it. Thin sourcing is said inline in one clause; the full list goes in the log's Verification field.
-**Next step:** 066's sign-off promises the "How evidence was invented" series, item 1, Semmelweis and Snow (queue.md; numbered 067). Snow 1855 and Semmelweis 1861 are on archive.org as text (.claude/skills/audio-essay/references/sourcing-routes.md gives the item IDs); Nuland and Johnson are lending-only, so they serve as reception, hedged in the sentence. The first run under the new lint: titles under 105 characters and 15 words, digits written out except years and decimals.
+Sixty-eight episodes (000 test + 001-067). 067, Snow and Semmelweis (5,818 words), opened the "How evidence was invented" series; the Build commit and feed GUID were verified. It reverses the queue's premise: neither man was believed in their lifetime, so the chapter on reception puts the difference in the afterlife.
+**Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
+**Next step:** 067's sign-off promises item 2, Fisher: randomisation and the lady tasting tea, The Design of Experiments (1935), Rothamsted, with Fisher's tobacco denial as the case against (queue.md; numbered 068). Fisher's book is on archive.org (in.ernet.dli.2015.199572, see sourcing-routes.md). Plant the frames the series names (sealed envelope, astrological subgroup, null ritual, healthy-user effect) only where they arrive.
 
 ## Decisions of record
 
@@ -36,6 +36,7 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
+- (AFK) 067's account of how Snow and Semmelweis were received rests on the standard story from memory, hedged in the script; Nuland, Johnson or the 1855 inquiry report in full text would confirm it.
 - (HITL) Has Kevin listened past 024? Every register judgment since August waits on that: the density of 058-066, the register pivots of 037 and 043-050, and whether restored callbacks read as teaching or repetition. One listen to 062 and 065 back to back would settle the density question.
 - (HITL) Whether to pin the Routine's model; it writes on the environment default, a tier below Kevin's day sessions.
 - (HITL) Global health as an institution, making doctors, and the interlude pool (Shaw's preface before 068, Arrowsmith before 070) are scoped in reviews/2026-10-16-topics-and-improvements.md but not scheduled.
