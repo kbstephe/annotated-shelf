@@ -28,7 +28,7 @@
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); item 6 (Merton) done as 062, 12 Oct 26 (unattended); item 7 (Azoulay et al.) done as 063, 13 Oct 26 (unattended); item 8 (ideas duel) done as 064, 14 Oct 26 (unattended); item 9 (the study section) done as 065, 15 Oct 26 (unattended); item 10 (Cochrane) done as 066, 16 Oct 26 (unattended), closing the series; sign-off points to How evidence was invented, item 1, Semmelweis and Snow. If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); item 6 (Merton) done as 062, 12 Oct 26 (unattended); item 7 (Azoulay et al.) done as 063, 13 Oct 26 (unattended); item 8 (ideas duel) done as 064, 14 Oct 26 (unattended); item 9 (the study section) done as 065, 15 Oct 26 (unattended); item 10 (Cochrane) done as 066, 16 Oct 26 (unattended), closing the series; How evidence was invented item 1 (Semmelweis and Snow) done as 067, 19 Oct 26 (unattended); sign-off points to item 2, Fisher. If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1162,7 +1162,7 @@ sealed envelope; the astrological subgroup; the null ritual; the
 healthy-user effect. Heavy items for numbers: 3, 5, 6 and 8; one worked
 number-run per chapter. Duels: 3 and 6.
 
-- [ ] 1. Before the trial: Semmelweis and Snow. Handwashing in Vienna
+- [x] 1. DONE as episode 067, 19 Oct 26 (unattended, no BLOOM aside). Snow 1855 and Semmelweis 1861 read from archive.org text; Nuland and Johnson not held, reception hedged in the sentence. Sign-off points to item 2 (Fisher). Original item text: Before the trial: Semmelweis and Snow. Handwashing in Vienna
   (1847) and the Broad Street pump (1854): observational evidence that was
   right, and why one was believed and the other was not. Anchors: Nuland,
   The Doctors' Plague (2003); Johnson, The Ghost Map (2006); Snow's own On
