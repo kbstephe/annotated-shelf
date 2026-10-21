@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (20 Oct 2026, Routine run)
+## Snapshot (21 Oct 2026, Routine run)
 
-Sixty-nine episodes (000 test + 001-068). 068, Fisher's The Design of Experiments (6,126 words), was verified by Build commit and feed GUID. It argues that randomisation guarantees the probability statement, not equality, runs Darwin's maize to its end, and treats Fisher's smoking dispute as the case against.
+Seventy episodes (000 test + 001-069). 069, Significance versus Hypothesis Testing (Fisher, Neyman and Pearson) (6,443 words), was verified by Build commit and feed GUID. It sets Fisher's tea and null against Neyman and Pearson's rules of behaviour, the hybrid Gigerenzer calls the null ritual, the ASA 2016 principles, and a SAP test: label each 0.05 as an error rate or a reading.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 068's sign-off promises item 3, Fisher versus Neyman: significance against hypothesis testing, the hybrid nobody chose, and what a SAP commits to when it writes 0.05 (queue.md; numbered 069). Gigerenzer 2004 and the ASA 2016 statement are reachable (sourcing-routes.md). Plant the null ritual only where it arrives.
+**Next step:** 069's sign-off promises item 4, the 1948 streptomycin trial: Bradford Hill, sealed envelopes, why scarcity made randomisation ethical (queue.md; numbered 070). The BMJ 1948 issue is on archive.org (sim_british-medical-journal_1948-10-30_2_4582); Hill 1965 and 1990 are closed.
 
 ## Decisions of record
 
@@ -36,6 +36,7 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
+- (AFK) 069 relays Fisher 1955-56 quotes through Gigerenzer; Fisher 1955 (JRSS B) in full text would confirm them.
 - (AFK) 068's smoking chapter rests on Salsburg's account; Cornfield 1959 and Fisher's Nature "Cancer and Smoking" in full text would confirm it.
 - (AFK) 067's account of how Snow and Semmelweis were received rests on the standard story from memory, hedged in the script; Nuland, Johnson or the 1855 inquiry report in full text would confirm it.
 - (HITL) Has Kevin listened past 024? Every register judgment since August waits on that: the density of 058-066, the register pivots of 037 and 043-050, and whether restored callbacks read as teaching or repetition. One listen to 062 and 065 back to back would settle the density question.
