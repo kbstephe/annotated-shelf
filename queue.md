@@ -28,7 +28,7 @@
    great protein fiasco) done as 052, 28 Sep 26 (unattended, written from
    the published record only per the item's own proximity note); item 6
    (diet-heart, Keys vs. Yudkin) done as 053, 29 Sep 26 (unattended);
-   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); item 6 (Merton) done as 062, 12 Oct 26 (unattended); item 7 (Azoulay et al.) done as 063, 13 Oct 26 (unattended); item 8 (ideas duel) done as 064, 14 Oct 26 (unattended); item 9 (the study section) done as 065, 15 Oct 26 (unattended); item 10 (Cochrane) done as 066, 16 Oct 26 (unattended), closing the series; How evidence was invented item 1 (Semmelweis and Snow) done as 067, 19 Oct 26 (unattended); item 2 (Fisher) done as 068, 20 Oct 26 (unattended); sign-off points to item 3, Fisher versus Neyman. If a
+   item 7 (Barker and fetal origins) done as 054, 30 Sep 26 (unattended); item 8 (growth standards) done as 055, 1 Oct 26 (unattended); item 9 (the closer duel) done as 056, 2 Oct 26 (unattended), closing the series; science as an institution item 1 (Bush, Endless Frontier) done as 057, 5 Oct 26 (unattended); sign-off points to item 2, Kuhn part one; item 2 (Kuhn part one) done as 058, 6 Oct 26 (unattended); item 3 (Kuhn part two) done as 059, 7 Oct 26 (unattended); item 4 (Kuhn part three) done as 060, 8 Oct 26 (unattended); item 5 (Polanyi) done as 061, 9 Oct 26 (unattended); item 6 (Merton) done as 062, 12 Oct 26 (unattended); item 7 (Azoulay et al.) done as 063, 13 Oct 26 (unattended); item 8 (ideas duel) done as 064, 14 Oct 26 (unattended); item 9 (the study section) done as 065, 15 Oct 26 (unattended); item 10 (Cochrane) done as 066, 16 Oct 26 (unattended), closing the series; How evidence was invented item 1 (Semmelweis and Snow) done as 067, 19 Oct 26 (unattended); item 2 (Fisher) done as 068, 20 Oct 26 (unattended); item 3 (Fisher versus Neyman) done as 069, 21 Oct 26 (unattended); sign-off points to item 4, the streptomycin trial. If a
    later series is not yet scoped when the one before it ends, fall through
    to the first unchecked item in Classic
    essays.
@@ -1171,7 +1171,7 @@ number-run per chapter. Duels: 3 and 6.
   Experiments (1935), Rothamsted, and why randomisation was a mathematical
   idea before it was a medical one. Case against: Fisher's tobacco denial
   (1958–59) as the worked case of a great methodologist going wrong.
-- [ ] 3. Fisher versus Neyman, a duel. Significance testing against
+- [x] 3. DONE as episode 069, 21 Oct 26 (unattended, no BLOOM aside). Gigerenzer 2004, Neyman and Pearson 1933, Fisher 1935 (ninth ed.) and the ASA 2016 press release read as text; Fisher 1955-56 via Gigerenzer only. Sign-off points to item 4 (streptomycin). Original item text: Fisher versus Neyman, a duel. Significance testing against
   hypothesis testing, the hybrid nobody chose (Gigerenzer's "null ritual"),
   and the p-value fights that followed (ASA statement 2016). Practical half:
   what a SAP commits to when it writes 0.05.
