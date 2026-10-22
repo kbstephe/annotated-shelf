@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (21 Oct 2026, Routine run)
+## Snapshot (22 Oct 2026, Routine run)
 
-Seventy episodes (000 test + 001-069). 069, Significance versus Hypothesis Testing (Fisher, Neyman and Pearson) (6,443 words), was verified by Build commit and feed GUID. It sets Fisher's tea and null against Neyman and Pearson's rules of behaviour, the hybrid Gigerenzer calls the null ritual, the ASA 2016 principles, and a SAP test: label each 0.05 as an error rate or a reading.
+Seventy-one episodes (000 test + 001-070). 070, the MRC streptomycin trial (Bradford Hill and the MRC) (5,847 words), was verified by Build commit and feed GUID. It reads the 1948 BMJ report and editorial as text: the envelope, the scarcity defence, the blinded film panel, and resistance as the finding the headline omits.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 069's sign-off promises item 4, the 1948 streptomycin trial: Bradford Hill, sealed envelopes, why scarcity made randomisation ethical (queue.md; numbered 070). The BMJ 1948 issue is on archive.org (sim_british-medical-journal_1948-10-30_2_4582); Hill 1965 and 1990 are closed.
+**Next step:** 070's sign-off promises item 5, ISIS-2 and the astrological subgroup (queue.md; numbered 071). The Lancet 1988 paper is closed from the cloud; write from open restatements and say so in the sentence.
 
 ## Decisions of record
 
