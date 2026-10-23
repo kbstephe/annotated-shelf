@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (22 Oct 2026, Routine run)
+## Snapshot (23 Oct 2026, Routine run)
 
-Seventy-one episodes (000 test + 001-070). 070, the MRC streptomycin trial (Bradford Hill and the MRC) (5,847 words), was verified by Build commit and feed GUID. It reads the 1948 BMJ report and editorial as text: the envelope, the scarcity defence, the blinded film panel, and resistance as the finding the headline omits.
+Seventy-two episodes (000 test + 001-071). 071, ISIS-2 and the astrological subgroup (ISIS-2 Collaborative Group) (5,243 words), was verified by Build commit and feed GUID. The ISIS-2 paper is closed; it is written from the PubMed abstract, Sleight 2000 and Peto 2011 in full text, and Lee 1980's abstract, said so in the script.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 070's sign-off promises item 5, ISIS-2 and the astrological subgroup (queue.md; numbered 071). The Lancet 1988 paper is closed from the cloud; write from open restatements and say so in the sentence.
+**Next step:** 071's sign-off promises item 6, the Women's Health Initiative reversal (queue.md; numbered 072). WHI 2002 is at escholarship.org (qt3mr6f93p); Hernán 2008 is closed, so say so inline.
 
 ## Decisions of record
 
@@ -36,6 +36,7 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
+- (AFK) 071 relays ISIS-2 through Sleight 2000 and Peto 2011 and holds Lee 1980 as an abstract; the ISIS-2 and Lee papers in full text would confirm them.
 - (AFK) 069 relays Fisher 1955-56 quotes through Gigerenzer; Fisher 1955 (JRSS B) in full text would confirm them.
 - (AFK) 068's smoking chapter rests on Salsburg's account; Cornfield 1959 and Fisher's Nature "Cancer and Smoking" in full text would confirm it.
 - (AFK) 067's account of how Snow and Semmelweis were received rests on the standard story from memory, hedged in the script; Nuland, Johnson or the 1855 inquiry report in full text would confirm it.
