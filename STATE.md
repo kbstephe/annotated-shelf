@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (23 Oct 2026, Routine run)
+## Snapshot (26 Oct 2026, Routine run)
 
-Seventy-two episodes (000 test + 001-071). 071, ISIS-2 and the astrological subgroup (ISIS-2 Collaborative Group) (5,243 words), was verified by Build commit and feed GUID. The ISIS-2 paper is closed; it is written from the PubMed abstract, Sleight 2000 and Peto 2011 in full text, and Lee 1980's abstract, said so in the script.
+Seventy-three episodes (000 test + 001-072). 072, the Women's Health Initiative (Rossouw and colleagues) (5,589 words), was verified by Build commit and feed GUID. The 2002 trial paper is closed from the cloud and is written from its abstract; Hernán 2008, Manson 2013 and Rossouw 2013 were read in full through the PubMed connector, and the script says so.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 071's sign-off promises item 6, the Women's Health Initiative reversal (queue.md; numbered 072). WHI 2002 is at escholarship.org (qt3mr6f93p); Hernán 2008 is closed, so say so inline.
+**Next step:** 072's sign-off promises item 7, evidence-based medicine as a movement (queue.md; numbered 073). Guyatt 1992 is closed; Greenhalgh 2014 is at Europe PMC.
 
 ## Decisions of record
 
