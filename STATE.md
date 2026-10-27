@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (26 Oct 2026, Routine run)
+## Snapshot (27 Oct 2026, Routine run)
 
-Seventy-three episodes (000 test + 001-072). 072, the Women's Health Initiative (Rossouw and colleagues) (5,589 words), was verified by Build commit and feed GUID. The 2002 trial paper is closed from the cloud and is written from its abstract; Hernán 2008, Manson 2013 and Rossouw 2013 were read in full through the PubMed connector, and the script says so.
+Seventy-four episodes (000 test + 001-073). 073, Evidence-Based Medicine (Guyatt, Sackett and the critics) (4987 words), was verified by Build commit and feed GUID. Guyatt 1992 and Sackett 1996 are closed and are spoken from title and index only, said in the script; Greenhalgh 2014 and the PARACHUTE trial were read in full text, and Tonelli 1998, Straus and McAlister 2000 and Smith and Pell 2003 from abstracts.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 072's sign-off promises item 7, evidence-based medicine as a movement (queue.md; numbered 073). Guyatt 1992 is closed; Greenhalgh 2014 is at Europe PMC.
+**Next step:** 073's sign-off promises item 8, the replication crisis comes for medicine (queue.md; numbered 074): Ioannidis 2005 (PLoS Med, open), Prasad and Cifu, the fixes.
 
 ## Decisions of record
 
