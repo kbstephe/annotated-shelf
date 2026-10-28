@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (27 Oct 2026, Routine run)
+## Snapshot (28 Oct 2026, Routine run)
 
-Seventy-four episodes (000 test + 001-073). 073, Evidence-Based Medicine (Guyatt, Sackett and the critics) (4987 words), was verified by Build commit and feed GUID. Guyatt 1992 and Sackett 1996 are closed and are spoken from title and index only, said in the script; Greenhalgh 2014 and the PARACHUTE trial were read in full text, and Tonelli 1998, Straus and McAlister 2000 and Smith and Pell 2003 from abstracts.
+Seventy-five episodes (000 test + 001-074). 074, Why Most Published Research Findings Are False (Ioannidis) (5,789 words), was verified by Build commit and feed GUID; it closes How evidence was invented. Ioannidis 2005, Goodman and Greenland 2007 and Kaplan and Irvin 2015 were read in full text; Prasad 2013, Jager and Leek 2014 and Ioannidis JAMA 2005 from abstracts, and Prasad and Cifu's book not held.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 073's sign-off promises item 8, the replication crisis comes for medicine (queue.md; numbered 074): Ioannidis 2005 (PLoS Med, open), Prasad and Cifu, the fixes.
+**Next step:** 074's sign-off promises Doers items 1-2, Caro, The Power Broker, part one (queue.md; numbered 075). Proximity rule applies to Doers items 8 and 11, not yet.
 
 ## Decisions of record
 
@@ -36,10 +36,9 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
+- (AFK) 074: Ioannidis's reply to Goodman and Greenland, the Jager and Leek discussion papers and Prasad and Cifu's book in full text would firm Chapter Four.
 - (AFK) 071 relays ISIS-2 through Sleight 2000 and Peto 2011 and holds Lee 1980 as an abstract; the ISIS-2 and Lee papers in full text would confirm them.
-- (AFK) 069 relays Fisher 1955-56 quotes through Gigerenzer; Fisher 1955 (JRSS B) in full text would confirm them.
-- (AFK) 068's smoking chapter rests on Salsburg's account; Cornfield 1959 and Fisher's Nature "Cancer and Smoking" in full text would confirm it.
-- (AFK) 067's account of how Snow and Semmelweis were received rests on the standard story from memory, hedged in the script; Nuland, Johnson or the 1855 inquiry report in full text would confirm it.
+- (AFK) 067-069 rest on relays: Fisher 1955 (069), Cornfield 1959 and Fisher's Nature letter (068), and Nuland, Johnson or the 1855 inquiry report for the Snow and Semmelweis reception (067, hedged in the script); full texts would confirm.
 - (HITL) Has Kevin listened past 024? Every register judgment since August waits on that: the density of 058-066, the register pivots of 037 and 043-050, and whether restored callbacks read as teaching or repetition. One listen to 062 and 065 back to back would settle the density question.
 - (HITL) Whether to pin the Routine's model; it writes on the environment default, a tier below Kevin's day sessions.
 - (HITL) Global health as an institution, making doctors, and the interlude pool (Shaw's preface before 068, Arrowsmith before 070) are scoped in reviews/2026-10-16-topics-and-improvements.md but not scheduled.
