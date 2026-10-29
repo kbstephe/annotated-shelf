@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (28 Oct 2026, Routine run)
+## Snapshot (29 Oct 2026, Routine run)
 
-Seventy-five episodes (000 test + 001-074). 074, Why Most Published Research Findings Are False (Ioannidis) (5,789 words), was verified by Build commit and feed GUID; it closes How evidence was invented. Ioannidis 2005, Goodman and Greenland 2007 and Kaplan and Irvin 2015 were read in full text; Prasad 2013, Jager and Leek 2014 and Ioannidis JAMA 2005 from abstracts, and Prasad and Cifu's book not held.
+Seventy-six episodes (000 test + 001-075). 075, The Power Broker (Caro) Part One (6,215 words), was verified by Build commit and feed GUID; it opens Doers. The full text of Caro's book was held (archive.org), so part two can quote-check against it.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 074's sign-off promises Doers items 1-2, Caro, The Power Broker, part one (queue.md; numbered 075). Proximity rule applies to Doers items 8 and 11, not yet.
+**Next step:** 075's sign-off promises Doers item 2, The Power Broker part two (the cost, and Jane Jacobs; queue.md, numbered 076). Proximity rule applies to Doers items 8 and 11, not yet.
 
 ## Decisions of record
 
