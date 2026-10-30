@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (29 Oct 2026, Routine run)
+## Snapshot (30 Oct 2026, Routine run)
 
-Seventy-six episodes (000 test + 001-075). 075, The Power Broker (Caro) Part One (6,215 words), was verified by Build commit and feed GUID; it opens Doers. The full text of Caro's book was held (archive.org), so part two can quote-check against it.
+Seventy-seven episodes (000 test + 001-076). 076, The Power Broker (Caro) Part Two (6,477 words), was verified by Build commit and feed GUID; it finishes Doers items 1-2. Caro's text and Jacobs's Death and Life were both held (archive.org).
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 075's sign-off promises Doers item 2, The Power Broker part two (the cost, and Jane Jacobs; queue.md, numbered 076). Proximity rule applies to Doers items 8 and 11, not yet.
+**Next step:** 076's sign-off promises Doers item 3, Skunk Works (Rich and Janos; queue.md). Proximity rule applies to Doers items 8 and 11, not yet.
 
 ## Decisions of record
 
@@ -36,6 +36,7 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
+- (AFK) 076: the Winner and Joerges overpass dispute, the Mumford review, the 2011 road-capacity study and the 2007 Moses exhibition are all memory-hedged in the script; Joerges 1999 and Ballon and Jackson 2007 in full text would firm Chapter Five and Seven. The session laws behind 075 remain unread.
 - (AFK) 074: Ioannidis's reply to Goodman and Greenland, the Jager and Leek discussion papers and Prasad and Cifu's book in full text would firm Chapter Four.
 - (AFK) 071 relays ISIS-2 through Sleight 2000 and Peto 2011 and holds Lee 1980 as an abstract; the ISIS-2 and Lee papers in full text would confirm them.
 - (AFK) 067-069 rest on relays: Fisher 1955 (069), Cornfield 1959 and Fisher's Nature letter (068), and Nuland, Johnson or the 1855 inquiry report for the Snow and Semmelweis reception (067, hedged in the script); full texts would confirm.
