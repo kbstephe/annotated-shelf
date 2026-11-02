@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (30 Oct 2026, Routine run)
+## Snapshot (2 Nov 2026, Routine run)
 
-Seventy-seven episodes (000 test + 001-076). 076, The Power Broker (Caro) Part Two (6,477 words), was verified by Build commit and feed GUID; it finishes Doers items 1-2. Caro's text and Jacobs's Death and Life were both held (archive.org).
+Seventy-eight episodes (000 test + 001-077). 077, Skunk Works (Rich and Janos) (6,592 words), was verified by Build commit and feed GUID; it is Doers item 3. Rich's full text was held (archive.org).
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 076's sign-off promises Doers item 3, Skunk Works (Rich and Janos; queue.md). Proximity rule applies to Doers items 8 and 11, not yet.
+**Next step:** 077's sign-off promises Doers item 4, Gertner, The Idea Factory (queue.md). Proximity rule applies to Doers items 8 and 11, not yet.
 
 ## Decisions of record
 
