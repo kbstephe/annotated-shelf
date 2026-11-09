@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (2 Nov 2026, Routine run)
+## Snapshot (9 Nov 2026, Routine run)
 
-Seventy-eight episodes (000 test + 001-077). 077, Skunk Works (Rich and Janos) (6,592 words), was verified by Build commit and feed GUID; it is Doers item 3. Rich's full text was held (archive.org).
+Seventy-nine episodes (000 test + 001-078). 078, The Idea Factory (Gertner) (5,058 words), was verified by Build commit and feed GUID; it is Doers item 4. The inventors' Nobel lectures and Shannon 1948 were held; the book itself was not (lending-only).
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 077's sign-off promises Doers item 4, Gertner, The Idea Factory (queue.md). Proximity rule applies to Doers items 8 and 11, not yet.
+**Next step:** 078's sign-off promises Doers item 5, Lee Kuan Yew, From Third World to First, part one (queue.md). Proximity rule applies to Doers items 8 and 11, not yet.
 
 ## Decisions of record
 
