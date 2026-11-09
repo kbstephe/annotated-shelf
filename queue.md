@@ -1244,7 +1244,7 @@ the small insulated team (Skunk Works); responsibility with a name attached
   U-2 and the SR-71, why a small insulated team outran the parent company.
   Case against: it needed Lockheed's money and a Cold War customer. Ties to
   Grove (025) and the Fast list (Collison ep. 1).
-- [ ] 4. Gertner, The Idea Factory (2012). Bell Labs under Kelly: the
+- [x] 4. Gertner, The Idea Factory (2012). DONE as episode 078, 9 Nov 26 (unattended; Nobel lectures of Bardeen, Shockley, Brattain and Shannon 1948 held; book lending-only, hedged). Item 5 (Lee Kuan Yew, part one) is next. Bell Labs under Kelly: the
   transistor, Shannon, the "institute of creative technology", and why it
   cannot be rebuilt (monopoly rents). Pairs with the Dream Machine episodes.
 - [ ] 5–6. Lee Kuan Yew, From Third World to First (2000), two parts.
