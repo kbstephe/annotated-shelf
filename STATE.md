@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (9 Nov 2026, Routine run)
+## Snapshot (10 Nov 2026, Routine run)
 
-Seventy-nine episodes (000 test + 001-078). 078, The Idea Factory (Gertner) (5,058 words), was verified by Build commit and feed GUID; it is Doers item 4. The inventors' Nobel lectures and Shannon 1948 were held; the book itself was not (lending-only).
+Eighty episodes (000 test + 001-079). 079, From Third World to First (Lee), Part One (5,427 words), was verified by Build commit and feed GUID; it is Doers item 5. Lee's full text was held (archive.org); no reviews were read and the script says so.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 078's sign-off promises Doers item 5, Lee Kuan Yew, From Third World to First, part one (queue.md). Proximity rule applies to Doers items 8 and 11, not yet.
+**Next step:** 079's sign-off promises Doers item 6, Lee Kuan Yew part two (clean government, media, opponents, the liberty ledger; book chapters 8 to 14 and 41 not yet read). Proximity rule applies to Doers items 8 and 11, not yet.
 
 ## Decisions of record
 
