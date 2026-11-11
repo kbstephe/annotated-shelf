@@ -45,8 +45,7 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 - (HITL) Global health as an institution, making doctors, and the interlude pool (Shaw's preface before 068, Arrowsmith before 070) are scoped in reviews/2026-10-16-topics-and-improvements.md but not scheduled.
 - (HITL) Whether the classic-essays and Orwell items ever resume; they sit below the series of record.
 - (HITL) 052 and 055 were written under the proximity fallback with sources in Kevin's own research geography; whether that line was drawn right.
-- (AFK) Nutrition 048-055 rest largely on secondary sourcing (log entries 22 Sep to 1 Oct); one slip found, 053's "listed no industry funding". A one-off check of their figures against primaries now reachable is optional.
-- (AFK) Collison shelf 042-046 never read their books in primary form (log 14-18 Sep); 036 Weber and 035 Merton likewise (log 8-9 Sep).
+- (AFK) Nutrition 048-055 rest largely on secondary sourcing (one slip found, 053's "listed no industry funding"); Collison shelf 042-046, 036 Weber and 035 Merton never read their books in primary form (log 8 Sep to 1 Oct).
 - (AFK) Science series open reads: Merton 1968; Pier SI appendix; Li and Agha in full; Swiss lottery outcomes; the HHMI paper; Atlantic essay; Cochrane's 1979 essay and Mather 1976 (log 12-16 Oct).
 - (AFK) ISIS-2, Lee 1980, Guyatt 1992, Hill 1965, Hill 1990 and Hernán 2008 are unreachable from the cloud (071 relays ISIS-2 through Sleight 2000 and Peto 2011); a text copy in the repo would let 070-073 anchor on them.
 
