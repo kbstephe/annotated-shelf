@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (10 Nov 2026, Routine run)
+## Snapshot (11 Nov 2026, Routine run)
 
-Eighty episodes (000 test + 001-079). 079, From Third World to First (Lee), Part One (5,427 words), was verified by Build commit and feed GUID; it is Doers item 5. Lee's full text was held (archive.org); no reviews were read and the script says so.
+Eighty-one episodes (000 test + 001-080). 080, From Third World to First (Lee), Part Two (5,551 words), was verified by Build commit and feed GUID; it is Doers item 6 and closes the Lee pair. Lee's chapters 8, 9, 12 and 14 were held in full; no reviews were read and the script says so.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 079's sign-off promises Doers item 6, Lee Kuan Yew part two (clean government, media, opponents, the liberty ledger; book chapters 8 to 14 and 41 not yet read). Proximity rule applies to Doers items 8 and 11, not yet.
+**Next step:** 080's sign-off promises Doers item 7, Rickover and the nuclear navy (anchor Polmar and Allen 1982, or Rockwell 1992; no text fetched yet). Proximity rule applies to Doers items 8 and 11, not yet.
 
 ## Decisions of record
 
@@ -36,9 +36,9 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
+- (AFK) 080 has Lee as its only witness: Seow's To Catch a Tartar, the 1987 detainees' statements and Sen on Asian values in full text would give it a second (archive.org copies are lending-only).
 - (AFK) 076: the Winner and Joerges overpass dispute, the Mumford review, the 2011 road-capacity study and the 2007 Moses exhibition are all memory-hedged in the script; Joerges 1999 and Ballon and Jackson 2007 in full text would firm Chapter Five and Seven. The session laws behind 075 remain unread.
 - (AFK) 074: Ioannidis's reply to Goodman and Greenland, the Jager and Leek discussion papers and Prasad and Cifu's book in full text would firm Chapter Four.
-- (AFK) 071 relays ISIS-2 through Sleight 2000 and Peto 2011 and holds Lee 1980 as an abstract; the ISIS-2 and Lee papers in full text would confirm them.
 - (AFK) 067-069 rest on relays: Fisher 1955 (069), Cornfield 1959 and Fisher's Nature letter (068), and Nuland, Johnson or the 1855 inquiry report for the Snow and Semmelweis reception (067, hedged in the script); full texts would confirm.
 - (HITL) Has Kevin listened past 024? Every register judgment since August waits on that: the density of 058-066, the register pivots of 037 and 043-050, and whether restored callbacks read as teaching or repetition. One listen to 062 and 065 back to back would settle the density question.
 - (HITL) Whether to pin the Routine's model; it writes on the environment default, a tier below Kevin's day sessions.
@@ -48,7 +48,7 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 - (AFK) Nutrition 048-055 rest largely on secondary sourcing (log entries 22 Sep to 1 Oct); one slip found, 053's "listed no industry funding". A one-off check of their figures against primaries now reachable is optional.
 - (AFK) Collison shelf 042-046 never read their books in primary form (log 14-18 Sep); 036 Weber and 035 Merton likewise (log 8-9 Sep).
 - (AFK) Science series open reads: Merton 1968; Pier SI appendix; Li and Agha in full; Swiss lottery outcomes; the HHMI paper; Atlantic essay; Cochrane's 1979 essay and Mather 1976 (log 12-16 Oct).
-- (AFK) ISIS-2, Guyatt 1992, Hill 1965, Hill 1990 and Hernán 2008 are unreachable from the cloud; a text copy placed in the repo would let 070-073 anchor on them.
+- (AFK) ISIS-2, Lee 1980, Guyatt 1992, Hill 1965, Hill 1990 and Hernán 2008 are unreachable from the cloud (071 relays ISIS-2 through Sleight 2000 and Peto 2011); a text copy in the repo would let 070-073 anchor on them.
 
 ## Out of scope
 
