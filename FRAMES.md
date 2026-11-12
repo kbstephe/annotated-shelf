@@ -36,6 +36,7 @@ Scott or Campbell matches the wrong people).
 - **Legibility** | keys: (?<!sheer )[Ll]egibility|[Hh]igh [Mm]odernis | Scott: a state simplifies what it governs in order to see it, then rebuilds the world to fit the simplification.
 - **Mētis** | keys: [Mm][eē]tis\b | Practical local knowledge that formal schemes cannot capture and often destroy.
 - **The public and its negation** | keys: Gurri|Revolt of the Public|Fifth Wave | Once anyone can watch an institution work, authority loses its monopoly, and the public negates without offering an alternative.
+- **The bulkhead** | keys: Rickover|Thresher|silver-brazed | Responsibility with one name attached is excellent inside its boundary and makes the boundary itself: the Thresher's reactor compartment was welded and audited, her seawater piping was not, and what crossed afterwards was the paperwork (SUBSAFE), not the man.
 
 ## Measurement and failure
 

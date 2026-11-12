@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (11 Nov 2026, Routine run)
+## Snapshot (12 Nov 2026, Routine run)
 
-Eighty-one episodes (000 test + 001-080). 080, From Third World to First (Lee), Part Two (5,551 words), was verified by Build commit and feed GUID; it is Doers item 6 and closes the Lee pair. Lee's chapters 8, 9, 12 and 14 were held in full; no reviews were read and the script says so.
+Eighty-two episodes (000 test + 001-081). 081, Rickover and the Nuclear Navy (Duncan) (6,125 words), was verified by Build commit and feed GUID; it is Doers item 7. Duncan 1990 and Hewlett and Duncan 1974 were held in full from energy.gov; Polmar and Allen and Rockwell are lending-only and appear from memory, said so in the script.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 080's sign-off promises Doers item 7, Rickover and the nuclear navy (anchor Polmar and Allen 1982, or Rockwell 1992; no text fetched yet). Proximity rule applies to Doers items 8 and 11, not yet.
+**Next step:** 081's sign-off promises Doers item 8, Borlaug and the Green Revolution (anchor Vietmeyer 2011 or Hesser 2006; no text fetched yet). The proximity rule applies to it: published record only, no BLOOM aside, no reference to the listener's own studies.
 
 ## Decisions of record
 
@@ -36,6 +36,7 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
+- (AFK) 081: Polmar and Allen 1982, Rockwell 1992 and Tyler's Running Critical in full text would test the case against (conservatism, the gratuities) that the script gives from memory or from Duncan alone; the SUBSAFE record since 1963 and the founding of the utilities' institute are memory-hedged.
 - (AFK) 080 has Lee as its only witness: Seow's To Catch a Tartar, the 1987 detainees' statements and Sen on Asian values in full text would give it a second (archive.org copies are lending-only).
 - (AFK) 076: the Winner and Joerges overpass dispute, the Mumford review, the 2011 road-capacity study and the 2007 Moses exhibition are all memory-hedged in the script; Joerges 1999 and Ballon and Jackson 2007 in full text would firm Chapter Five and Seven. The session laws behind 075 remain unread.
 - (AFK) 074: Ioannidis's reply to Goodman and Greenland, the Jager and Leek discussion papers and Prasad and Cifu's book in full text would firm Chapter Four.
@@ -46,8 +47,7 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 - (HITL) Whether the classic-essays and Orwell items ever resume; they sit below the series of record.
 - (HITL) 052 and 055 were written under the proximity fallback with sources in Kevin's own research geography; whether that line was drawn right.
 - (AFK) Nutrition 048-055 rest largely on secondary sourcing (one slip found, 053's "listed no industry funding"); Collison shelf 042-046, 036 Weber and 035 Merton never read their books in primary form (log 8 Sep to 1 Oct).
-- (AFK) Science series open reads: Merton 1968; Pier SI appendix; Li and Agha in full; Swiss lottery outcomes; the HHMI paper; Atlantic essay; Cochrane's 1979 essay and Mather 1976 (log 12-16 Oct).
-- (AFK) ISIS-2, Lee 1980, Guyatt 1992, Hill 1965, Hill 1990 and Hernán 2008 are unreachable from the cloud (071 relays ISIS-2 through Sleight 2000 and Peto 2011); a text copy in the repo would let 070-073 anchor on them.
+- (AFK) Unread anchors: ISIS-2, Lee 1980, Guyatt 1992, Hill 1965 and 1990, Hernán 2008 (070-073, unreachable from the cloud); science series reads listed in the log of 12-16 Oct (Merton 1968, Pier SI, Li and Agha, Cochrane 1979, Mather 1976).
 
 ## Out of scope
 

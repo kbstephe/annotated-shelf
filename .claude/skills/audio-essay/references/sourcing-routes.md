@@ -27,6 +27,7 @@ search summary only says what to fetch.
   short wait), and `https://arxiv.org/pdf/<id>` then pdftotext.
 - **Direct PDFs**: NBER (`nber.org/system/files/working_papers/wNNNNN/wNNNNN.pdf`),
   gwern.net/doc, author and university pages, curl then `pdftotext -layout`.
+- **energy.gov history PDFs** (12 Nov 2026): the Department of Energy hosts its official histories as text PDFs under `energy.gov/sites/prod/files/2013/08/f2/` (HewlettandDuncanNuclearNavyComplete.pdf, DuncanRickoverandtheNuclearNavyComplete.pdf); curl then `pdftotext -layout`.
 - **Internet Archive text**: find the item with
   `https://archive.org/advancedsearch.php?q=<query>&fl[]=identifier&output=json`,
   list files at `https://archive.org/metadata/<id>/files`, fetch the
