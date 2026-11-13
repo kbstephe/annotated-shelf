@@ -37,6 +37,7 @@ Scott or Campbell matches the wrong people).
 - **Mētis** | keys: [Mm][eē]tis\b | Practical local knowledge that formal schemes cannot capture and often destroy.
 - **The public and its negation** | keys: Gurri|Revolt of the Public|Fifth Wave | Once anyone can watch an institution work, authority loses its monopoly, and the public negates without offering an alternative.
 - **The bulkhead** | keys: Rickover|Thresher|silver-brazed | Responsibility with one name attached is excellent inside its boundary and makes the boundary itself: the Thresher's reactor compartment was welded and audited, her seawater piping was not, and what crossed afterwards was the paperwork (SUBSAFE), not the man.
+- **The seed and the package** | keys: Borlaug|dwarf wheat|shuttle breeding | Seed, nitrogen, water and price were changed together to save time, so the gain cannot be attributed; the package then travelled under the name of its most portable part, and the seed reached Africa without the rest.
 
 ## Measurement and failure
 

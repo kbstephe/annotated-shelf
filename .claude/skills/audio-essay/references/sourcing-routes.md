@@ -28,6 +28,7 @@ search summary only says what to fetch.
 - **Direct PDFs**: NBER (`nber.org/system/files/working_papers/wNNNNN/wNNNNN.pdf`),
   gwern.net/doc, author and university pages, curl then `pdftotext -layout`.
 - **energy.gov history PDFs** (12 Nov 2026): the Department of Energy hosts its official histories as text PDFs under `energy.gov/sites/prod/files/2013/08/f2/` (HewlettandDuncanNuclearNavyComplete.pdf, DuncanRickoverandtheNuclearNavyComplete.pdf); curl then `pdftotext -layout`.
+- **Green Revolution texts** (13 Nov 2026): Perkins, Geopolitics and the Green Revolution, is open on archive.org (JohnPerkinsGeopoliticsAndTheGreenRevolution1997, `_djvu.txt`, file name with spaces); Borlaug's 1968 Canberra lecture is a text PDF at herba.msu.ru/shipunov/school/univ_110/papers/borlaug1968_wheat_breeding.pdf; Nobel lectures and presentation speeches are plain HTML at nobelprize.org/prizes/peace/<year>/.
 - **Internet Archive text**: find the item with
   `https://archive.org/advancedsearch.php?q=<query>&fl[]=identifier&output=json`,
   list files at `https://archive.org/metadata/<id>/files`, fetch the

@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (12 Nov 2026, Routine run)
+## Snapshot (13 Nov 2026, Routine run)
 
-Eighty-two episodes (000 test + 001-081). 081, Rickover and the Nuclear Navy (Duncan) (6,125 words), was verified by Build commit and feed GUID; it is Doers item 7. Duncan 1990 and Hewlett and Duncan 1974 were held in full from energy.gov; Polmar and Allen and Rockwell are lending-only and appear from memory, said so in the script.
+Eighty-three episodes (000 test + 001-082). 082, Geopolitics and the Green Revolution (Perkins) (5,404 words), was verified by Build commit and feed GUID; it is Doers item 8, Borlaug, written under the proximity rule. Perkins 1997, Borlaug's 1968 Canberra lecture and the Nobel lecture were held in full; the Vietmeyer and Hesser biographies are lending-only, said so in the script.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 081's sign-off promises Doers item 8, Borlaug and the Green Revolution (anchor Vietmeyer 2011 or Hesser 2006; no text fetched yet). The proximity rule applies to it: published record only, no BLOOM aside, no reference to the listener's own studies.
+**Next step:** 082's sign-off promises Doers item 9, Groves and the Manhattan Project (anchor Rhodes 1986, the Groves chapters, and Groves, Now It Can Be Told, 1962; no text fetched yet).
 
 ## Decisions of record
 
@@ -36,18 +36,17 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
+- (AFK) 082: Vietmeyer, Hesser, Cullather, Shiva and Stone 2019 in full text would test the case against, given from memory or from Stone's short essay; the groundwater and African-programme claims are memory-hedged.
 - (AFK) 081: Polmar and Allen 1982, Rockwell 1992 and Tyler's Running Critical in full text would test the case against (conservatism, the gratuities) that the script gives from memory or from Duncan alone; the SUBSAFE record since 1963 and the founding of the utilities' institute are memory-hedged.
 - (AFK) 080 has Lee as its only witness: Seow's To Catch a Tartar, the 1987 detainees' statements and Sen on Asian values in full text would give it a second (archive.org copies are lending-only).
 - (AFK) 076: the Winner and Joerges overpass dispute, the Mumford review, the 2011 road-capacity study and the 2007 Moses exhibition are all memory-hedged in the script; Joerges 1999 and Ballon and Jackson 2007 in full text would firm Chapter Five and Seven. The session laws behind 075 remain unread.
 - (AFK) 074: Ioannidis's reply to Goodman and Greenland, the Jager and Leek discussion papers and Prasad and Cifu's book in full text would firm Chapter Four.
-- (AFK) 067-069 rest on relays: Fisher 1955 (069), Cornfield 1959 and Fisher's Nature letter (068), and Nuland, Johnson or the 1855 inquiry report for the Snow and Semmelweis reception (067, hedged in the script); full texts would confirm.
 - (HITL) Has Kevin listened past 024? Every register judgment since August waits on that: the density of 058-066, the register pivots of 037 and 043-050, and whether restored callbacks read as teaching or repetition. One listen to 062 and 065 back to back would settle the density question.
 - (HITL) Whether to pin the Routine's model; it writes on the environment default, a tier below Kevin's day sessions.
-- (HITL) Global health as an institution, making doctors, and the interlude pool (Shaw's preface before 068, Arrowsmith before 070) are scoped in reviews/2026-10-16-topics-and-improvements.md but not scheduled.
-- (HITL) Whether the classic-essays and Orwell items ever resume; they sit below the series of record.
-- (HITL) 052 and 055 were written under the proximity fallback with sources in Kevin's own research geography; whether that line was drawn right.
+- (HITL) Global health as an institution, making doctors and the interlude pool are scoped in reviews/2026-10-16-topics-and-improvements.md but not scheduled; whether the classic-essays and Orwell items ever resume.
+- (HITL) 052, 055 and 082 were written under the proximity fallback with sources in Kevin's own research geography; whether that line was drawn right.
 - (AFK) Nutrition 048-055 rest largely on secondary sourcing (one slip found, 053's "listed no industry funding"); Collison shelf 042-046, 036 Weber and 035 Merton never read their books in primary form (log 8 Sep to 1 Oct).
-- (AFK) Unread anchors: ISIS-2, Lee 1980, Guyatt 1992, Hill 1965 and 1990, Hernán 2008 (070-073, unreachable from the cloud); science series reads listed in the log of 12-16 Oct (Merton 1968, Pier SI, Li and Agha, Cochrane 1979, Mather 1976).
+- (AFK) Unread anchors: ISIS-2, Lee 1980, Guyatt 1992, Hill 1965 and 1990, Hernán 2008 (070-073); Fisher 1955, Cornfield 1959 and the Snow and Semmelweis reception (067-069, on relays); science series reads in the log of 12-16 Oct.
 
 ## Out of scope
 
