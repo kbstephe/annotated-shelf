@@ -38,6 +38,7 @@ Scott or Campbell matches the wrong people).
 - **The public and its negation** | keys: Gurri|Revolt of the Public|Fifth Wave | Once anyone can watch an institution work, authority loses its monopoly, and the public negates without offering an alternative.
 - **The bulkhead** | keys: Rickover|Thresher|silver-brazed | Responsibility with one name attached is excellent inside its boundary and makes the boundary itself: the Thresher's reactor compartment was welded and audited, her seawater piping was not, and what crossed afterwards was the paperwork (SUBSAFE), not the man.
 - **The seed and the package** | keys: Borlaug|dwarf wheat|shuttle breeding | Seed, nitrogen, water and price were changed together to save time, so the gain cannot be attributed; the package then travelled under the name of its most portable part, and the seed reached Africa without the rest.
+- **The compartment and the integrator** | keys: [Cc]ompartmentali[sz]|Groves\b|thermal diffusion | Need-to-know walls give speed and secrecy but leave one person above them as the only auditor of the whole; the Navy's thermal diffusion columns sat a year outside the wall until the one man let into most rooms saw them, and the 1954 law kept Groves's rule and dropped his power to waive it.
 
 ## Measurement and failure
 

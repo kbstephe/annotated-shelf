@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (13 Nov 2026, Routine run)
+## Snapshot (16 Nov 2026, Routine run)
 
-Eighty-three episodes (000 test + 001-082). 082, Geopolitics and the Green Revolution (Perkins) (5,404 words), was verified by Build commit and feed GUID; it is Doers item 8, Borlaug, written under the proximity rule. Perkins 1997, Borlaug's 1968 Canberra lecture and the Nobel lecture were held in full; the Vietmeyer and Hesser biographies are lending-only, said so in the script.
+Eighty-four episodes (000 test + 001-083). 083, Now It Can Be Told (Groves) (5,620 words), was verified by Build commit and feed GUID; it is Doers item 9, anchored on Groves 1962, the Army's official history (Jones 1985) and the 1954 hearing transcript, all held in full; Rhodes and Norris are lending-only, said so in the script.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 082's sign-off promises Doers item 9, Groves and the Manhattan Project (anchor Rhodes 1986, the Groves chapters, and Groves, Now It Can Be Told, 1962; no text fetched yet).
+**Next step:** 083's sign-off promises Doers item 10, Georges Doriot and the invention of venture capital (anchor Ante, Creative Capital, 2008; no text fetched yet).
 
 ## Decisions of record
 
@@ -36,6 +36,7 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
+- (AFK) 083: Rhodes and Norris in full text would test Groves as sole integrator; total project cost is spoken only as the usual figure. (HITL) Whether trial-design applications in 081 and 083 sit too close to the listener's work.
 - (AFK) 082: Vietmeyer, Hesser, Cullather, Shiva and Stone 2019 in full text would test the case against, given from memory or from Stone's short essay; the groundwater and African-programme claims are memory-hedged.
 - (AFK) 081: Polmar and Allen 1982, Rockwell 1992 and Tyler's Running Critical in full text would test the case against (conservatism, the gratuities) that the script gives from memory or from Duncan alone; the SUBSAFE record since 1963 and the founding of the utilities' institute are memory-hedged.
 - (AFK) 080 has Lee as its only witness: Seow's To Catch a Tartar, the 1987 detainees' statements and Sen on Asian values in full text would give it a second (archive.org copies are lending-only).

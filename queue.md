@@ -1263,7 +1263,7 @@ the small insulated team (Skunk Works); responsibility with a name attached
   India and Pakistan 1965–70. Case against: the Green Revolution's critics
   (water, inputs, inequality; Shiva; the Africa question). Closest to
   Kevin's field, same proximity rule as nutrition.
-- [x] 9. Groves and the Manhattan Project. DONE as episode 083, 16 Nov 26 (unattended), anchored on Groves 1962, Jones 1985 (Army official history) and the 1954 hearing transcript; Rhodes and Norris lending-only. Item 10 (Doriot) is next. Original anchor: Rhodes, The Making of the
+- [x] 9. Groves and the Manhattan Project. DONE as episode 083, 16 Nov 26 (unattended). Item 10 (Doriot) is next. Anchor: Rhodes, The Making of the
   Atomic Bomb (1986), the Groves chapters, and Groves's own Now It Can Be
   Told (1962). The engineer who built Oak Ridge and Hanford on schedule
   while managing Oppenheimer. Case against: secrecy as management, and
