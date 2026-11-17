@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (16 Nov 2026, Routine run)
+## Snapshot (17 Nov 2026, Routine run)
 
-Eighty-four episodes (000 test + 001-083). 083, Now It Can Be Told (Groves) (5,620 words), was verified by Build commit and feed GUID; it is Doers item 9, anchored on Groves 1962, the Army's official history (Jones 1985) and the 1954 hearing transcript, all held in full; Rhodes and Norris are lending-only, said so in the script.
+Eighty-five episodes (000 test + 001-084). 084, Doriot and ARD (Hsu and Kenney) (5,297 words), was verified by Build commit and feed GUID; it is Doers item 10, anchored on Hsu and Kenney 2005 (held in full) with Harvard's Doriot exhibit and Lerner and Nanda 2020; Ante's biography is lending-only, said so in the script.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 083's sign-off promises Doers item 10, Georges Doriot and the invention of venture capital (anchor Ante, Creative Capital, 2008; no text fetched yet).
+**Next step:** 084's sign-off promises Doers item 11, Paul Farmer via Kidder's Mountains Beyond Mountains, the series closer; proximity rule applies (published record only).
 
 ## Decisions of record
 
@@ -36,7 +36,7 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
-- (AFK) 083: Rhodes and Norris in full text would test Groves as sole integrator; total project cost is spoken only as the usual figure. (HITL) Whether trial-design applications in 081 and 083 sit too close to the listener's work.
+- (AFK) 084: Ante, Liles 1977 and Nicholas 2019 are unread (lending-only or not found); Fortune 1952 and 1967 reach the script only via Hsu and Kenney and Harvard's exhibit. 083: Rhodes and Norris in full text would test Groves as sole integrator. (HITL) Whether work applications in 081, 083 (trials) and 084 (fellowship) sit too close to the listener's work.
 - (AFK) 082: Vietmeyer, Hesser, Cullather, Shiva and Stone 2019 in full text would test the case against, given from memory or from Stone's short essay; the groundwater and African-programme claims are memory-hedged.
 - (AFK) 081: Polmar and Allen 1982, Rockwell 1992 and Tyler's Running Critical in full text would test the case against (conservatism, the gratuities) that the script gives from memory or from Duncan alone; the SUBSAFE record since 1963 and the founding of the utilities' institute are memory-hedged.
 - (AFK) 080 has Lee as its only witness: Seow's To Catch a Tartar, the 1987 detainees' statements and Sen on Asian values in full text would give it a second (archive.org copies are lending-only).

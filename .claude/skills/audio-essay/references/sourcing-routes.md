@@ -79,3 +79,4 @@ Ghost Map (2006), archive.org lending-only, so 067 holds Snow and Semmelweis as
 text and uses the two books for reception only, hedged in the sentence. For
 the closed papers, write from open restatements and the reception pass, say in
 the sentence that a figure comes from a secondary account, and log the gap.
+- **Venture capital texts** (17 Nov 2026): Hsu and Kenney 2005 (ARD) is an author PDF at kenney.faculty.ucdavis.edu/wp-content/uploads/sites/332/2018/03/Organizing-Venture-Capital_-The-Rise-and-Demise-of-American-Research-and-Development-Corporation.pdf; Harvard's Doriot exhibit leaf pages (library.hbs.edu/hc/doriot/innovation-vc/dec, /ard, /financing-new-ideas, /education/...) load by curl; Lerner and Nanda is NBER w27492. Ante, Rifkin and Harrar, Gupta and Gompers-Lerner books are lending-only.
