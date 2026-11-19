@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (18 Nov 2026, Routine run)
+## Snapshot (19 Nov 2026, Routine run)
 
-Eighty-six episodes (000 test + 001-085). 085, Mountains Beyond Mountains (Kidder) (6,182 words), was verified by Build commit and feed GUID; it closes the Doers, written under the proximity rule from the full text of Kidder plus the Mitnick 2003 abstract.
+Eighty-seven episodes (000 test + 001-086). 086, What Counts as a Test (Chamberlin, Platt and Meehl) (6,216 words), opens the analysis plan series and was verified by Build commit and feed GUID.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 085's sign-off opens the analysis plan series (086-095): item 1, Chamberlin, Platt and Meehl on what counts as a test (sources in queue.md).
+**Next step:** 086's sign-off promises the analysis plan item 2, Gosset v Fisher and the Lanarkshire milk experiment (proximity rule: published record only; sources in queue.md).
 
 ## Decisions of record
 
@@ -36,10 +36,10 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
+- (AFK) 086: Serlin and Lapsley 1985, Davis 2006, Gelman's 2026 reread and O'Donohue and Buchanan in full would test the case against (abstracts or memory). (HITL) Whether SAP halves should lean nearer the listener's own trials.
 - (AFK) 085: Mitnick 2003 full text and Farmer's Cange stipend paper would give allocation and group sizes; PIH's post-2003 record is unread. (HITL) Whether 085's cost-effectiveness test sits too close to the listener's reviewing work.
 - (AFK) 084: Ante, Liles 1977 and Nicholas 2019 are unread (lending-only or not found); Fortune 1952 and 1967 reach the script only via Hsu and Kenney and Harvard's exhibit. 083: Rhodes and Norris in full text would test Groves as sole integrator. (HITL) Whether work applications in 081, 083 (trials) and 084 (fellowship) sit too close to the listener's work.
-- (AFK) 082: Vietmeyer, Hesser, Cullather, Shiva and Stone 2019 in full text would test the case against, given from memory or from Stone's short essay; the groundwater and African-programme claims are memory-hedged.
-- (AFK) 081: Polmar and Allen 1982, Rockwell 1992 and Tyler's Running Critical in full text would test the case against (conservatism, the gratuities) that the script gives from memory or from Duncan alone; the SUBSAFE record since 1963 and the founding of the utilities' institute are memory-hedged.
+- (AFK) 081-082: Polmar and Allen 1982, Rockwell 1992, Tyler (Rickover); Vietmeyer, Hesser, Cullather, Shiva, Stone 2019 (Borlaug) in full would test cases against given from memory; SUBSAFE since 1963 and the groundwater claims are memory-hedged.
 - (AFK) 080 has Lee as its only witness: Seow's To Catch a Tartar, the 1987 detainees' statements and Sen on Asian values in full text would give it a second (archive.org copies are lending-only).
 - (AFK) 076: the Winner and Joerges overpass dispute, the Mumford review, the 2011 road-capacity study and the 2007 Moses exhibition are all memory-hedged in the script; Joerges 1999 and Ballon and Jackson 2007 in full text would firm Chapter Five and Seven. The session laws behind 075 remain unread. 074: Ioannidis's reply to Goodman and Greenland, Jager and Leek and Prasad and Cifu in full text would firm Chapter Four.
 - (HITL) Has Kevin listened past 024? Every register judgment since August waits on that: the density of 058-066, the register pivots of 037 and 043-050, and whether restored callbacks read as teaching or repetition. One listen to 062 and 065 back to back would settle the density question.
