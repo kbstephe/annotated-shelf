@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (19 Nov 2026, Routine run)
+## Snapshot (20 Nov 2026, Routine run)
 
-Eighty-seven episodes (000 test + 001-086). 086, What Counts as a Test (Chamberlin, Platt and Meehl) (6,216 words), opens the analysis plan series and was verified by Build commit and feed GUID.
+Eighty-eight episodes (000 test + 001-087). 087, The Lanarkshire Milk Experiment (Student and Fisher) (5,291 words), is the analysis plan series item 2 and was verified by Build commit and feed GUID.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 086's sign-off promises the analysis plan item 2, Gosset v Fisher and the Lanarkshire milk experiment (proximity rule: published record only; sources in queue.md).
+**Next step:** 087's sign-off promises the analysis plan item 3, Senn against Deaton and Cartwright on what randomisation buys (sources in queue.md); 087 left the after-the-coin imbalance question for it.
 
 ## Decisions of record
 
@@ -36,7 +36,7 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
-- (AFK) 086: Serlin and Lapsley 1985, Davis 2006, Gelman's 2026 reread and O'Donohue and Buchanan in full would test the case against (abstracts or memory). (HITL) Whether SAP halves should lean nearer the listener's own trials.
+- (AFK) 087: Student 1938, Yates 1939, Fisher and Bartlett 1931, Leighton and McKinlay 1930; 086: Serlin and Lapsley, Davis, Gelman 2026, O'Donohue and Buchanan, all unread in full. (HITL) 086-087: whether SAP halves lean nearer the listener's trials, and whether the plan-paragraph closer (085-087) wants a new shape.
 - (AFK) 085: Mitnick 2003 full text and Farmer's Cange stipend paper would give allocation and group sizes; PIH's post-2003 record is unread. (HITL) Whether 085's cost-effectiveness test sits too close to the listener's reviewing work.
 - (AFK) 084: Ante, Liles 1977 and Nicholas 2019 are unread (lending-only or not found); Fortune 1952 and 1967 reach the script only via Hsu and Kenney and Harvard's exhibit. 083: Rhodes and Norris in full text would test Groves as sole integrator. (HITL) Whether work applications in 081, 083 (trials) and 084 (fellowship) sit too close to the listener's work.
 - (AFK) 081-082: Polmar and Allen 1982, Rockwell 1992, Tyler (Rickover); Vietmeyer, Hesser, Cullather, Shiva, Stone 2019 (Borlaug) in full would test cases against given from memory; SUBSAFE since 1963 and the groundwater claims are memory-hedged.
