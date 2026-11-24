@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (23 Nov 2026, Routine run)
+## Snapshot (24 Nov 2026, Routine run)
 
-Eighty-nine episodes (000 test + 001-088). 088, What Randomisation Buys (Senn v Deaton and Cartwright) (5,616 words), is the analysis plan series item 3 and was verified by Build commit and feed GUID.
+Ninety episodes (000 test + 001-089). 089, Adjusting for Baseline (Lord, Freedman and Lin) (5,380 words), is the analysis plan series item 4 and was verified by Build commit and feed GUID.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 088's sign-off promises the analysis plan item 4, the adjustment constellation (Lord's paradox, Freedman, Lin; sources in queue.md); 088 left it the choice and use of a prespecified covariate list.
+**Next step:** 089's sign-off promises the analysis plan item 5, the power duel (Halpern and Gelman-Carlin v Bacchetti; sources in queue.md); 089's Kahan figures on power gained by adjustment are available to it.
 
 ## Decisions of record
 
@@ -36,11 +36,11 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
+- (AFK) 089: Holland and Rubin on Lord, Senn 2006, Lord 1967 and Wainer-Brown 2007 read only through Pearl and Tennant; no source found on adjustment with few clusters. (HITL) Whether 089's closing check on a binary-outcome trial sits too close to the listener's analyses.
 - (AFK) 088: Senn 1994, Imbens 2018, Martinez and Teira 2024 unread, Worrall 2007 only via Senn; 087: Student 1938, Yates 1939, Fisher and Bartlett 1931, Leighton and McKinlay 1930; 086: Serlin and Lapsley, Davis, Gelman 2026, O'Donohue and Buchanan, all unread in full. (HITL) 086-088: whether SAP halves lean nearer the listener's trials, and whether 088's reviewer-reply closer reads as analysis or advice.
 - (AFK) 085: Mitnick 2003 full text and Farmer's Cange stipend paper would give allocation and group sizes; PIH's post-2003 record is unread. (HITL) Whether 085's cost-effectiveness test sits too close to the listener's reviewing work.
 - (AFK) 084: Ante, Liles 1977 and Nicholas 2019 are unread (lending-only or not found); Fortune 1952 and 1967 reach the script only via Hsu and Kenney and Harvard's exhibit. 083: Rhodes and Norris in full text would test Groves as sole integrator. (HITL) Whether work applications in 081, 083 (trials) and 084 (fellowship) sit too close to the listener's work.
-- (AFK) 081-082: Polmar and Allen 1982, Rockwell 1992, Tyler (Rickover); Vietmeyer, Hesser, Cullather, Shiva, Stone 2019 (Borlaug) in full would test cases against given from memory; SUBSAFE since 1963 and the groundwater claims are memory-hedged.
-- (AFK) 080 has Lee as its only witness: Seow's To Catch a Tartar, the 1987 detainees' statements and Sen on Asian values in full text would give it a second (archive.org copies are lending-only).
+- (AFK) 081-082: Polmar and Allen 1982, Rockwell 1992, Tyler (Rickover); Vietmeyer, Hesser, Cullather, Shiva, Stone 2019 (Borlaug) in full would test cases against given from memory; SUBSAFE since 1963 and the groundwater claims are memory-hedged. 080 has Lee as its only witness (Seow, the 1987 statements, Sen are lending-only).
 - (AFK) 076: the Winner and Joerges overpass dispute, the Mumford review, the 2011 road-capacity study and the 2007 Moses exhibition are all memory-hedged in the script; Joerges 1999 and Ballon and Jackson 2007 in full text would firm Chapter Five and Seven. The session laws behind 075 remain unread. 074: Ioannidis's reply to Goodman and Greenland, Jager and Leek and Prasad and Cifu in full text would firm Chapter Four.
 - (HITL) Has Kevin listened past 024? Every register judgment since August waits on that: the density of 058-066, the register pivots of 037 and 043-050, and whether restored callbacks read as teaching or repetition. One listen to 062 and 065 back to back would settle the density question.
 - (HITL) Whether to pin the Routine's model; it writes on the environment default, a tier below Kevin's day sessions.
