@@ -1,10 +1,10 @@
 # STATE — The Annotated Shelf
 
-## Snapshot (26 Nov 2026, Routine run)
+## Snapshot (27 Nov 2026, Routine run)
 
-Ninety-two episodes (000 test + 001-091). 091, The Subgroup Duel (Yusuf, Kravitz and Kent) (5,807 words), is the analysis plan series item 6 and was verified by Build commit and feed GUID.
+Ninety-three episodes (000 test + 001-092). 092, Ware's ECMO Trial (Ware, Bartlett and Royall) (6,160 words), is the analysis plan series item 7 and was verified by Build commit and feed GUID.
 **Ruling for 068 onward (Kevin, 16 Oct 26):** no closing bibliography; thin sourcing is said inline in one clause.
-**Next step:** 091's sign-off promises the analysis plan item 7, Ware's ECMO trial (sources in queue.md; the Paneth 1985 editorial is unverified and must be checked before use).
+**Next step:** 092's sign-off promises the analysis plan item 8, Popper and Mayo on what a null licenses (sources in queue.md).
 
 ## Decisions of record
 
@@ -36,7 +36,7 @@ Routine "Annotated Shelf: weekday 1AM episode", trig_017rhfD6LEfWxb4R7pgTuVTz, c
 
 ## Open questions
 
-- (AFK) 091: Yusuf 1991, Brookes 2004, PATH 2020 as abstracts only. 090: Halpern 2002, Bacchetti 2005, Prentice 2005 read only via CTSpedia quotes, Mayo unread; 089: Holland-Rubin, Senn 2006, Lord 1967, Wainer-Brown read only via Pearl and Tennant, nothing on adjustment with few clusters. (HITL) Whether 089's binary-trial check, 090's pilot-protocol closer and 091's journal-club check sit too close to the listener's own work.
+- (AFK) 092: Royall 1991 and O'Rourke 1989 unread, UK 1996 and Thall 2015 as abstracts; 091: Yusuf 1991, Brookes 2004, PATH 2020 as abstracts only. 090: Halpern 2002, Bacchetti 2005, Prentice 2005 read only via CTSpedia quotes, Mayo unread; 089: Holland-Rubin, Senn 2006, Lord 1967, Wainer-Brown read only via Pearl and Tennant, nothing on adjustment with few clusters. (HITL) Whether 089's binary-trial check, 090's pilot-protocol closer 091's journal-club check and 092's interim-rule aside sit too close to the listener's own work.
 - (AFK) 088: Senn 1994, Imbens 2018, Martinez and Teira 2024 unread, Worrall 2007 only via Senn; 087: Student 1938, Yates 1939, Fisher and Bartlett 1931, Leighton and McKinlay 1930; 086: Serlin and Lapsley, Davis, Gelman 2026, O'Donohue and Buchanan, all unread in full. (HITL) 086-088: whether SAP halves lean nearer the listener's trials, and whether 088's reviewer-reply closer reads as analysis or advice.
 - (AFK) 085: Mitnick 2003 full text and Farmer's Cange stipend paper would give allocation and group sizes; PIH's post-2003 record is unread. (HITL) Whether 085's cost-effectiveness test sits too close to the listener's reviewing work.
 - (AFK) 084: Ante, Liles 1977 and Nicholas 2019 are unread (lending-only or not found); Fortune 1952 and 1967 reach the script only via Hsu and Kenney and Harvard's exhibit. 083: Rhodes and Norris in full text would test Groves as sole integrator. (HITL) Whether work applications in 081, 083 (trials) and 084 (fellowship) sit too close to the listener's work.
